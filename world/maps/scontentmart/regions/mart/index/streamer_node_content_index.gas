@@ -1,4 +1,5 @@
 [streamer_node_content_index]
 {
   x 0x5102cd08 = 0x00100001;
+  x 0x5102cd08 = 0x00100002;
 }

@@ -1,0 +1,14 @@
+[t:adwana_basics,n:0x00100002]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[placement]
+	{
+	  p position = 0,0,-3.88034,0x5102cd08;
+	}
+}
