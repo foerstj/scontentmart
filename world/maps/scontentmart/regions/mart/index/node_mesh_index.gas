@@ -1,7 +1,12 @@
 [node_mesh_index]
 {
+	0x00100735 = t_xxx_keep_cnr_cncv-a;
+	0x00100736 = t_xxx_keep_cnr_cncv-tall-a;
+	0x00100738 = t_xxx_keep_cnr_cnvx-b;
+	0x00100739 = t_xxx_keep_cnr_cnvx-tall-a;
 	0x00100741 = t_xxx_keep_flr_02x02-a;
 	0x00100743 = t_xxx_keep_flr_04x02-a;
+	0x00100745 = t_xxx_keep_flr_04x04-a;
 	0x00100748 = t_xxx_keep_flr_08x08-a;
 	0x0010076c = t_xxx_keep_flr_pillar-b;
 	0x00100772 = t_xxx_keep_flr_stair-04x02-a;
@@ -9,4 +14,11 @@
 	0x00100776 = t_xxx_keep_flr_stair-cnvx-b;
 	0x00100798 = t_xxx_keep_wall_clm-win-b;
 	0x001007b6 = t_xxx_keep_wall_outside-top-clmn-a;
+	0x001007c4 = t_xxx_keep_wall_thick-a;
+	0x001007c6 = t_xxx_keep_wall_thick-tx-tall-l-a;
+	0x001007c7 = t_xxx_keep_wall_thick-tx-tall-r-a;
+	0x001007c8 = t_xxx_keep_wall_thin-a;
+	0x001007c9 = t_xxx_keep_wall_thin-tall-a;
+	0x001007ca = t_xxx_keep_wall_thin-tx-tall-l-a;
+	0x001007cb = t_xxx_keep_wall_thin-tx-tall-r-a;
 }
