@@ -9,16 +9,16 @@
 	  x color = 0xFF8080FF;
 	  b draw_shadow = false;
 	  f inner_radius = 0.000000;
-	  f intensity = 0.500000;
+	  f intensity = 1.000000;
 	  b occlude_geometry = false;
 	  b on_timer = false;
 	  f outer_radius = 0.000000;
 		[direction]
 		{
 		  x node = 0x5102CD08;
-		  f x = -0.260224;
-		  f y = 0.927184;
-		  f z = 0.269470;
+		  f x = -0.612373;
+		  f y = 0.500000;
+		  f z = -0.612372;
 		}
 	}
 	[t:directional,n:light_0xd483b58b]
@@ -30,16 +30,16 @@
 	  x color = 0xFFFFFFFF;
 	  b draw_shadow = true;
 	  f inner_radius = 0.000000;
-	  f intensity = 1.000000;
+	  f intensity = 2.000000;
 	  b occlude_geometry = true;
 	  b on_timer = true;
 	  f outer_radius = 0.000000;
 		[direction]
 		{
 		  x node = 0x5102CD08;
-		  f x = 0.300553;
-		  f y = 0.933580;
-		  f z = -0.195181;
+		  f x = 0.612373;
+		  f y = 0.500000;
+		  f z = 0.612372;
 		}
 	}
 }
