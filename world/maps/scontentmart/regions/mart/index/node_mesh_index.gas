@@ -1,0 +1,10 @@
+[node_mesh_index]
+{
+	0x00100741 = t_xxx_keep_flr_02x02-a;
+	0x00100743 = t_xxx_keep_flr_04x02-a;
+	0x00100748 = t_xxx_keep_flr_08x08-a;
+	0x0010076b = t_xxx_keep_flr_pillar-a;
+	0x00100772 = t_xxx_keep_flr_stair-04x02-a;
+	0x00100774 = t_xxx_keep_flr_stair-cncv-b;
+	0x00100776 = t_xxx_keep_flr_stair-cnvx-b;
+}
