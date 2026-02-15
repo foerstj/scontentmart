@@ -1,0 +1,2 @@
+# scontentmart
+Static Content Mart
