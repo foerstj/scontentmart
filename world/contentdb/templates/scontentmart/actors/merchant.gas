@@ -1,6 +1,6 @@
-[t:template,n:base_adwana]
+[t:template,n:base_scm_merchant_adwana]
 {
-	specializes = base_npc_fg;
+	specializes = base_npc_fg_talk;
 
 	category_name = "1W_shopkeep";
 	doc = "adwana";
@@ -45,15 +45,15 @@
 	{
 		item_markup = 2;
 	}
-}
-
-[t:template,n:adwana_basics]
-{
-	specializes = base_adwana;
 	[mind]
 	{
-		jat_talk = world\ai\jobs\common\job_talk.skrit;
+		jat_talk = world\ai\jobs\minibits\generic-talk-skrits\job_talk_npc.skrit;
 	}
+}
+
+[t:template,n:scm_merchant_basics]
+{
+	specializes = base_scm_merchant_adwana;
 
 	[store]
 	{
