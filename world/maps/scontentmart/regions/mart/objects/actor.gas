@@ -34,7 +34,7 @@
 	  p position = 1.97283,0,-0.981769,0xbf067807;
 	}
 }
-[t:scm_merchant_helm,n:0x00100007]
+[t:scm_merchant_helm_fighter,n:0x00100007]
 {
 	[conversation]
 	{
@@ -53,8 +53,8 @@
 	}
 	[placement]
 	{
-	  q orientation = 0,1,0,-1.66939e-007;
-	  p position = -1.96258,0,0.956036,0x8dbb5d7b;
+	  q orientation = 0,0.707107,0,0.707107;
+	  p position = 1.8419,1,-0.479362,0x9b9524e3;
 	}
 }
 [t:scm_merchant_fighter_ra,n:0x00100006]
@@ -120,5 +120,27 @@
 	[placement]
 	{
 	  p position = 0.49085,0.500001,0.562361,0x760c2352;
+	}
+}
+[t:scm_merchant_helm_mage,n:0x00100008]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+			es_feet = bo_bo_le_light;
+			es_head = he_ca_ro_wizard_01;
+		}
+	}
+	[placement]
+	{
+	  p position = 0.00974286,0,2.93283,0xe3c8a80a;
 	}
 }
