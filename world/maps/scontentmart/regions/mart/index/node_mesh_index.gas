@@ -8,6 +8,7 @@
 	0x00100743 = t_xxx_keep_flr_04x02-a;
 	0x00100745 = t_xxx_keep_flr_04x04-a;
 	0x00100748 = t_xxx_keep_flr_08x08-a;
+	0x0010076b = t_xxx_keep_flr_pillar-a;
 	0x0010076c = t_xxx_keep_flr_pillar-b;
 	0x00100772 = t_xxx_keep_flr_stair-04x02-a;
 	0x00100774 = t_xxx_keep_flr_stair-cncv-b;
