@@ -43,6 +43,13 @@
 			* = shop;
 		}
 	}
+	[inventory]
+	{
+		[equipment]
+		{
+			es_chest = bd_pl_f_g_c_death_knight;
+		}
+	}
 	[placement]
 	{
 	  p position = 0.49085,0.500001,0.562361,0x760c2352;
