@@ -12,3 +12,25 @@
 	  p position = 0,0,-3.88034,0x5102cd08;
 	}
 }
+[t:scm_merchant_fighter,n:0x00100003]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+			es_chest = bd_ch_f_g_c_avg;
+			es_feet = bo_bo_le_light;
+		}
+	}
+	[placement]
+	{
+	  p position = 1.97527,0.5,0.97851,0x760c2352;
+	}
+}

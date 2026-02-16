@@ -55,6 +55,19 @@
 {
 	specializes = base_scm_merchant_adwana;
 
+	[store]
+	{
+		[item_restock]
+		{
+			book_glb_magic_01 = 8;
+		}
+	}
+}
+
+[t:template,n:scm_merchant_fighter]
+{
+	specializes = base_scm_merchant_adwana;
+
 	[inventory]
 	{
 		[store_pcontent]
@@ -70,13 +83,6 @@
 					il_main = #bd_ch_f_g_c_avg:o_fin;
 				}
 			}
-		}
-	}
-	[store]
-	{
-		[item_restock]
-		{
-			book_glb_magic_01 = 8;
 		}
 	}
 }
