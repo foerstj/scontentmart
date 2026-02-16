@@ -1,0 +1,2 @@
+dev/generic-talk-skrits
+dev/npc-fg-talk
