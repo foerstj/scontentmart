@@ -99,3 +99,26 @@
 	  p position = 0.49085,0.500001,0.562361,0x760c2352;
 	}
 }
+[t:scm_merchant_helm,n:0x00100007]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+			es_feet = bo_bo_le_light;
+			es_head = he_ca_le_avg;
+		}
+	}
+	[placement]
+	{
+	  q orientation = 0,1,0,-1.66939e-007;
+	  p position = -1.96258,0,0.956036,0x8dbb5d7b;
+	}
+}

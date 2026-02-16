@@ -233,3 +233,70 @@
 		}
 	}
 }
+
+[t:template,n:scm_merchant_helm]
+{
+	specializes = base_scm_merchant_adwana;
+
+	[inventory]
+	{
+		[store_pcontent]
+		{
+			full_ratio = 0;
+			[armor]
+			{
+				[all*]
+				{
+					il_main = he_ca_le_avg;
+					il_main = he_ca_pl_avg;
+					il_main = he_ca_pl_blue;
+					il_main = he_ca_pl_blue_02;
+					il_main = he_ca_pl_cap;
+					il_main = he_ca_pl_cap_brown;
+					il_main = he_ca_pl_dome;
+					il_main = he_ca_pl_fin;
+					il_main = he_ca_pl_mag;
+					il_main = he_ca_pl_ornage;
+					il_main = he_ca_ro_felt_01;
+					il_main = he_ca_ro_felt_02;
+					il_main = he_ca_ro_felt_03;
+					il_main = he_ca_ro_felt_04;
+					il_main = he_ca_ro_flat_01;
+					il_main = he_ca_ro_flat_02;
+					il_main = he_ca_ro_flat_03;
+					il_main = he_ca_ro_flat_04;
+					il_main = he_ca_ro_gemblue;
+					il_main = he_ca_ro_green;
+					il_main = he_ca_ro_slope_01;
+					il_main = he_ca_ro_slope_02;
+					il_main = he_ca_ro_slope_03;
+					il_main = he_ca_ro_slope_04;
+					il_main = he_ca_ro_thin_01;
+					il_main = he_ca_ro_thin_02;
+					il_main = he_ca_ro_thin_03;
+					il_main = he_ca_ro_thin_04;
+					il_main = he_ca_ro_turban_01;
+					il_main = he_ca_ro_turban_02;
+					il_main = he_ca_ro_turban_03;
+					il_main = he_ca_ro_turban_04;
+					il_main = he_ca_ro_wizard_01;
+					il_main = he_ca_ro_wizard_02;
+					il_main = he_ca_ro_wizard_03;
+					il_main = he_ca_ro_wizard_04;
+					il_main = he_ca_ro_wizard_05;
+					il_main = he_ca_ro_wizard_06;
+					il_main = he_ca_ro_wizard_07;
+					il_main = he_ca_ro_wooly_01;
+					il_main = he_ca_ro_wooly_02;
+					il_main = he_ca_ro_wooly_03;
+					il_main = he_ca_ro_wooly_04;
+					il_main = he_ca_ro_woven_01;
+					il_main = he_ca_ro_woven_02;
+					il_main = he_ca_ro_woven_03;
+					il_main = he_ca_ro_woven_04;
+					il_main = he_ca_sl_avg;
+				}
+			}
+		}
+	}
+}
