@@ -166,17 +166,17 @@
 				[all*]
 				{
 					// chain
-					il_main = #bd_ra_sc_f_g_o_mag:base/-rare(1);
+					il_main = #bd_ra_sc_f_g_o_mag:base/+brilliant;
 					// leather
-					il_main = #bd_ra_bl_f_g_c_str:base/-rare(1);
-					il_main = #bd_ra_bl_f_g_c_str:o_fin/-rare(1);
-					il_main = #bd_ra_le_f_g_c_fin:base/-rare(1);
+					il_main = #bd_ra_bl_f_g_c_str:base/+brilliant;
+					il_main = #bd_ra_bl_f_g_c_str:o_fin/+brilliant;
+					il_main = #bd_ra_le_f_g_c_fin:base/+brilliant;
 					// plate
-					il_main = #bd_ra_ba_f_g_o_fin:base/-rare(1);
-					il_main = #bd_ra_ba_f_g_o_fin:o_mag/-rare(1);
-					il_main = #bd_ra_bp_f_g_c_fin:base/-rare(1);
-					il_main = #bd_ra_bp_f_g_c_fin:c_str/-rare(1);
-					il_main = #bd_ra_br_f_g_c_str:base/-rare(1);
+					il_main = #bd_ra_ba_f_g_o_fin:base/+brilliant;
+					il_main = #bd_ra_ba_f_g_o_fin:o_mag/+brilliant;
+					il_main = #bd_ra_bp_f_g_c_fin:base/+brilliant;
+					il_main = #bd_ra_bp_f_g_c_fin:c_str/+brilliant;
+					il_main = #bd_ra_br_f_g_c_str:base/+brilliant;
 				}
 			}
 		}
