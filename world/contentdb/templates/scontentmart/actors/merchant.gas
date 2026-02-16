@@ -62,10 +62,13 @@
 			full_ratio = 0;
 			[armor]
 			{
-				[all*] { min = 1; max = 1; il_main = #bd_ch_f_g_c_avg:base; }
-				[all*] { min = 1; max = 1; il_main = #bd_ch_f_g_c_avg:c_fin; }
-				[all*] { min = 1; max = 1; il_main = #bd_ch_f_g_c_avg:c_str; }
-				[all*] { min = 1; max = 1; il_main = #bd_ch_f_g_c_avg:o_fin; }
+				[all*]
+				{
+					il_main = #bd_ch_f_g_c_avg:base;
+					il_main = #bd_ch_f_g_c_avg:c_fin;
+					il_main = #bd_ch_f_g_c_avg:c_str;
+					il_main = #bd_ch_f_g_c_avg:o_fin;
+				}
 			}
 		}
 	}
