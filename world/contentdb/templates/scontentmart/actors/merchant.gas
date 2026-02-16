@@ -295,6 +295,38 @@
 					il_main = he_ca_ro_woven_03;
 					il_main = he_ca_ro_woven_04;
 					il_main = he_ca_sl_avg;
+					//il_main = he_fu_bronze;
+					il_main = he_fu_bronze_02;
+					il_main = he_fu_pl_desert;
+					il_main = he_fu_pl_grate;
+					il_main = he_fu_pl_horn_avg;
+					il_main = he_fu_pl_horn_fin;
+					il_main = he_fu_pl_horn_fin_02;
+					il_main = he_fu_pl_horn_fin_03;
+					il_main = he_fu_pl_horn_mag;
+					il_main = he_fu_pl_horn_mag_02;
+					il_main = he_fu_pl_knight;
+					il_main = he_fu_pl_knight_02;
+					il_main = he_fu_pl_knight_fin;
+					il_main = he_fu_pl_knight_fin_02;
+					il_main = he_fu_pl_knight_fin_03;
+					il_main = he_fu_pl_knight_str;
+					il_main = he_fu_pl_knight_str_02;
+					il_main = he_fu_pl_smallwings;
+					il_main = he_fu_pl_smallwings_02;
+					//il_main = he_fu_pl_smallwings_kavaren;
+					il_main = he_fu_pl_spike;
+					il_main = he_fu_pl_str;
+					//il_main = he_op_bigwings;
+					il_main = he_op_bigwings_02;
+					il_main = he_op_pl_avg;
+					il_main = he_op_pl_cone;
+					il_main = he_op_pl_eyes;
+					il_main = he_op_pl_roman;
+					il_main = he_op_pl_roman_02;
+					il_main = he_op_pl_santa;
+					il_main = he_op_pl_santa_02;
+					il_main = he_vi_pl_knight;
 				}
 			}
 		}
