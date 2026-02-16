@@ -55,6 +55,22 @@
 {
 	specializes = base_scm_merchant_adwana;
 
+	[inventory]
+	{
+		[store_pcontent]
+		{
+			full_ratio = 0;
+			[misc]
+			{
+				[all*]
+				{
+					il_main = DSX_backpack_empty;
+					max = 4;
+					min = 4;
+				}
+			}
+		}
+	}
 	[store]
 	{
 		[item_restock]
