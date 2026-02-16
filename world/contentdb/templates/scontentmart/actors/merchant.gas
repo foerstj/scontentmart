@@ -151,3 +151,54 @@
 		}
 	}
 }
+
+[t:template,n:scm_merchant_ranger]
+{
+	specializes = base_scm_merchant_adwana;
+
+	[inventory]
+	{
+		[store_pcontent]
+		{
+			full_ratio = 0;
+			[armor]
+			{
+				[all*]
+				{
+					// chain
+					il_main = #bd_ch_r_g_c_avg:base;
+					il_main = #bd_ch_r_g_c_avg:c_fin;
+					il_main = #bd_ch_r_g_c_avg:c_mag;
+					il_main = #bd_ch_r_g_c_avg:c_str;
+					il_main = #bd_ch_r_g_c_avg:o_avg;
+					il_main = #bd_ch_r_g_c_avg:o_fin;
+					il_main = #bd_ch_r_g_c_avg:o_mag;
+					il_main = #bd_ch_r_g_c_avg:o_str;
+					il_main = #bd_ch_r_g_c_fun:base;
+
+					// leather
+					il_main = #bd_le_r_g_c_avg:base;
+					il_main = #bd_le_r_g_c_avg:o_fin;
+					il_main = #bd_le_r_g_c_low;
+					il_main = #bd_sl_r_g_c_avg:base;
+					il_main = #bd_sl_r_g_c_avg:c_fin;
+					il_main = #bd_sl_r_g_c_avg:c_mag;
+					il_main = #bd_sl_r_g_c_avg:c_str;
+					il_main = #bd_sl_r_g_c_avg:o_avg;
+					il_main = #bd_sl_r_g_c_avg:o_fin;
+					il_main = #bd_sl_r_g_c_avg:o_mag;
+					il_main = #bd_sl_r_g_c_avg:o_str;
+
+					// plate
+					il_main = #bd_ba_r_g_o_fin:base;
+					il_main = #bd_br_r_g_c_avg:base;
+					il_main = #bd_br_r_g_c_avg:c_fin;
+					il_main = #bd_br_r_g_c_avg:o_mag;
+					il_main = #bd_fp_r_g_c_avg:base;
+					il_main = #bd_pl_r_g_c_fin:base;
+					il_main = #bd_pl_r_g_c_fin:o_str;
+				}
+			}
+		}
+	}
+}
