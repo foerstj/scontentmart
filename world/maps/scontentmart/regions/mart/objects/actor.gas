@@ -12,6 +12,50 @@
 	  p position = 0,0,-3.88034,0x5102cd08;
 	}
 }
+[t:scm_merchant_ranger,n:0x00100005]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+			es_chest = bd_ch_r_g_c_avg;
+			es_feet = bo_bo_le_light;
+		}
+	}
+	[placement]
+	{
+	  p position = 1.97283,0,-0.981769,0xbf067807;
+	}
+}
+[t:scm_merchant_fighter_ra,n:0x00100006]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+			es_chest = bd_ra_sc_f_g_o_mag;
+			es_feet = bo_bo_le_light;
+		}
+	}
+	[placement]
+	{
+	  p position = -0.470683,0.499999,0.499864,0xc86a989a;
+	}
+}
 [t:scm_merchant_fighter,n:0x00100003]
 {
 	[conversation]
@@ -53,27 +97,5 @@
 	[placement]
 	{
 	  p position = 0.49085,0.500001,0.562361,0x760c2352;
-	}
-}
-[t:scm_merchant_ranger,n:0x00100005]
-{
-	[conversation]
-	{
-		[conversations]
-		{
-			* = shop;
-		}
-	}
-	[inventory]
-	{
-		[equipment]
-		{
-			es_chest = bd_ch_r_g_c_avg;
-			es_feet = bo_bo_le_light;
-		}
-	}
-	[placement]
-	{
-	  p position = 1.97283,0,-0.981769,0xbf067807;
 	}
 }
