@@ -50,3 +50,50 @@
 		jat_talk = world\ai\jobs\minibits\generic-talk-skrits\job_talk_npc.skrit;
 	}
 }
+
+[t:template,n:base_scm_merchant_bodrus]
+{
+	specializes = base_npc_bk;
+
+	category_name = "1W_shopkeep";
+	doc = "bodrus";
+	[actor]
+	{
+		portrait_icon = b_gui_ig_i_ic_c_shopkeep;
+	}
+	[aspect]
+	{
+		draw_selection_indicator = TRUE;
+		use_range = 1.0;
+		is_ghost_usable = TRUE;
+		[textures]
+		{
+			0 = b_c_gbn_bk-04;
+		}
+	}
+	[common]
+	{
+		screen_name = "Bodrus";
+	}
+	[conversation]
+	{
+	}
+	[inventory]
+	{
+		[store_pcontent]
+		{
+			full_ratio = 0;
+		}
+	}
+	[respawn_shrine]
+	{
+	}
+	[store]
+	{
+		item_markup = 2;
+	}
+	[mind]
+	{
+		jat_talk = world\ai\jobs\minibits\generic-talk-skrits\job_talk_npc.skrit;
+	}
+}

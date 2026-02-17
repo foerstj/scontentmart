@@ -144,3 +144,18 @@
 	  p position = 0.00974286,0,2.93283,0xe3c8a80a;
 	}
 }
+[t:scm_merchant_excluded,n:0x00100011]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[placement]
+	{
+	  q orientation = 0,-1,0,-1.76431e-007;
+	  p position = -1.62859,-3.5,-0.989203,0x0f1db0f2;
+	}
+}
