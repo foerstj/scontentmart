@@ -120,7 +120,9 @@
 					il_main = #bd_sc_f_g_c_avg:o_str;
 					il_main = #bd_sc_f_g_c_fun:base;
 					il_main = #bd_sc_f_g_o_low:base;
-
+				}
+				[all*]
+				{
 					// leather
 					il_main = #bd_bl_f_g_c_avg:base;
 					il_main = #bd_bl_f_g_c_avg:c_str;
@@ -136,7 +138,9 @@
 					il_main = #bd_sl_f_g_c_avg:c_str;
 					il_main = #bd_sl_f_g_c_avg:o_fin;
 					il_main = #bd_sl_f_g_c_fun;
-
+				}
+				[all*]
+				{
 					// plate
 					il_main = #bd_ba_f_g_c_avg:base;
 					il_main = #bd_ba_f_g_c_avg:o_fin;
@@ -180,10 +184,16 @@
 				{
 					// chain
 					il_main = #bd_ra_sc_f_g_o_mag:base/+brilliant;
+				}
+				[all*]
+				{
 					// leather
 					il_main = #bd_ra_bl_f_g_c_str:base/+brilliant;
 					il_main = #bd_ra_bl_f_g_c_str:o_fin/+brilliant;
 					il_main = #bd_ra_le_f_g_c_fin:base/+brilliant;
+				}
+				[all*]
+				{
 					// plate
 					il_main = #bd_ra_ba_f_g_o_fin:base/+brilliant;
 					il_main = #bd_ra_ba_f_g_o_fin:o_mag/+brilliant;
@@ -219,7 +229,9 @@
 					il_main = #bd_ch_r_g_c_avg:o_mag;
 					il_main = #bd_ch_r_g_c_avg:o_str;
 					il_main = #bd_ch_r_g_c_fun:base;
-
+				}
+				[all*]
+				{
 					// leather
 					il_main = #bd_le_r_g_c_avg:base;
 					il_main = #bd_le_r_g_c_avg:o_fin;
@@ -232,7 +244,9 @@
 					il_main = #bd_sl_r_g_c_avg:o_fin;
 					il_main = #bd_sl_r_g_c_avg:o_mag;
 					il_main = #bd_sl_r_g_c_avg:o_str;
-
+				}
+				[all*]
+				{
 					// plate
 					il_main = #bd_ba_r_g_o_fin:base;
 					il_main = #bd_br_r_g_c_avg:base;
