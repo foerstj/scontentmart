@@ -12,7 +12,7 @@
 	  p position = 0,0,-3.88034,0x5102cd08;
 	}
 }
-[t:scm_merchant_ranger,n:0x00100005]
+[t:scm_merchant_armor_ranger,n:0x00100005]
 {
 	[conversation]
 	{
@@ -57,7 +57,7 @@
 	  p position = 1.8419,1,-0.479362,0x9b9524e3;
 	}
 }
-[t:scm_merchant_fighter_ra,n:0x00100006]
+[t:scm_merchant_armor_fighter_rare,n:0x00100006]
 {
 	[conversation]
 	{
@@ -79,7 +79,7 @@
 	  p position = -0.470683,0.499999,0.499864,0xc86a989a;
 	}
 }
-[t:scm_merchant_fighter,n:0x00100003]
+[t:scm_merchant_armor_fighter,n:0x00100003]
 {
 	[conversation]
 	{
@@ -101,7 +101,7 @@
 	  p position = 1.97527,0.5,0.97851,0x760c2352;
 	}
 }
-[t:scm_dsx_merchant_fighter,n:0x00100004]
+[t:scm_dsx_merchant_armor_fighter,n:0x00100004]
 {
 	[conversation]
 	{

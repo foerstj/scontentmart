@@ -93,7 +93,7 @@
 	}
 }
 
-[t:template,n:scm_merchant_fighter]
+[t:template,n:scm_merchant_armor_fighter]
 {
 	specializes = base_scm_merchant_adwana;
 
@@ -165,7 +165,7 @@
 	}
 }
 
-[t:template,n:scm_merchant_fighter_ra]
+[t:template,n:scm_merchant_armor_fighter_rare]
 {
 	specializes = base_scm_merchant_adwana;
 
@@ -196,7 +196,7 @@
 	}
 }
 
-[t:template,n:scm_merchant_ranger]
+[t:template,n:scm_merchant_armor_ranger]
 {
 	specializes = base_scm_merchant_adwana;
 

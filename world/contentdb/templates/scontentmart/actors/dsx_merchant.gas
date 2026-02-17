@@ -47,7 +47,7 @@
 	}
 }
 
-[t:template,n:scm_dsx_merchant_fighter]
+[t:template,n:scm_dsx_merchant_armor_fighter]
 {
 	specializes = base_scm_dsx_merchant_ohna;
 
