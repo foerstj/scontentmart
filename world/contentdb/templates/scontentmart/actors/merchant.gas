@@ -2,6 +2,8 @@
 {
 	specializes = base_scm_merchant_adwana;
 
+	common:screen_name = "Basics";
+
 	[inventory]
 	{
 		[store_pcontent]
@@ -43,6 +45,8 @@
 [t:template,n:scm_merchant_armor_fighter]
 {
 	specializes = base_scm_merchant_adwana;
+
+	common:screen_name = "Fighter Armor";
 
 	[inventory]
 	{
@@ -120,6 +124,8 @@
 {
 	specializes = base_scm_merchant_adwana;
 
+	common:screen_name = "Rare Fighter Armor";
+
 	[inventory]
 	{
 		[store_pcontent]
@@ -157,6 +163,8 @@
 {
 	specializes = base_scm_merchant_adwana;
 
+	common:screen_name = "Unique Fighter Armor";
+
 	[inventory]
 	{
 		[store_pcontent]
@@ -169,6 +177,7 @@
 					// leather
 					il_main = #bd_un_bl_f_g_c_blood:base;
 					il_main = #bd_un_sl_f_barbarian:base;
+					il_main = #bd_un_le_f_pad_avg:base;
 				}
 			}
 		}
@@ -178,6 +187,8 @@
 [t:template,n:scm_merchant_armor_ranger]
 {
 	specializes = base_scm_merchant_adwana;
+
+	common:screen_name = "Ranger Armor";
 
 	[inventory]
 	{
@@ -236,6 +247,8 @@
 {
 	specializes = base_scm_merchant_adwana;
 
+	common:screen_name = "Rare Ranger Armor";
+
 	[inventory]
 	{
 		[store_pcontent]
@@ -261,6 +274,8 @@
 {
 	specializes = base_scm_merchant_adwana;
 
+	common:screen_name = "Unique Ranger Armor";
+
 	[inventory]
 	{
 		[store_pcontent]
@@ -281,6 +296,8 @@
 [t:template,n:scm_merchant_armor_mage]
 {
 	specializes = base_scm_merchant_adwana;
+
+	common:screen_name = "Mage Armor";
 
 	[inventory]
 	{
@@ -365,6 +382,8 @@
 {
 	specializes = base_scm_merchant_adwana;
 
+	common:screen_name = "Rare Mage Armor";
+
 	[inventory]
 	{
 		[store_pcontent]
@@ -433,6 +452,8 @@
 {
 	specializes = base_scm_merchant_adwana;
 
+	common:screen_name = "Unique Mage Armor";
+
 	[inventory]
 	{
 		[store_pcontent]
@@ -453,6 +474,8 @@
 [t:template,n:scm_merchant_helm_fighter]
 {
 	specializes = base_scm_merchant_adwana;
+
+	common:screen_name = "Fighter Helmets";
 
 	[inventory]
 	{
@@ -516,6 +539,8 @@
 {
 	specializes = base_scm_merchant_adwana;
 
+	common:screen_name = "Mage Helmets";
+
 	[inventory]
 	{
 		[store_pcontent]
@@ -572,6 +597,8 @@
 {
 	specializes = base_scm_merchant_bodrus;
 
+	common:screen_name = "Forbidden Stuff";
+
 	[inventory]
 	{
 		[store_pcontent]
@@ -582,7 +609,6 @@
 				[all*]
 				{
 					il_main = #he_fu_pl_smallwings_kavaren;
-					il_main = #bd_un_le_f_pad_avg:base;
 				}
 			}
 		}
