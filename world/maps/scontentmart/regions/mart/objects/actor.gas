@@ -79,6 +79,28 @@
 	  p position = -0.470683,0.499999,0.499864,0xc86a989a;
 	}
 }
+[t:scm_merchant_armor_fighter_unique,n:0x00100016]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+			es_chest = bd_un_bl_f_g_c_blood;
+			es_feet = bo_bo_le_light;
+		}
+	}
+	[placement]
+	{
+	  p position = 0.967724,0.500001,0.187264,0xc86a989a;
+	}
+}
 [t:scm_merchant_armor_fighter,n:0x00100003]
 {
 	[conversation]
@@ -164,6 +186,28 @@
 	[placement]
 	{
 	  p position = -0.577838,0.5,0.638467,0x4de7d84f;
+	}
+}
+[t:scm_merchant_armor_ranger_unique,n:0x00100017]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+			es_chest = bd_un_bl_r_leaf;
+			es_feet = bo_bo_le_light;
+		}
+	}
+	[placement]
+	{
+	  p position = 0.747003,0.5,0.381529,0x4de7d84f;
 	}
 }
 [t:scm_merchant_excluded,n:0x00100011]
