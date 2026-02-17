@@ -208,6 +208,68 @@
 	}
 }
 
+[t:template,n:scm_merchant_armor_mage]
+{
+	specializes = base_scm_merchant_adwana;
+
+	[inventory]
+	{
+		[store_pcontent]
+		{
+			full_ratio = 0;
+			[armor]
+			{
+				[all*]
+				{
+					// cloth
+					il_main = #bd_ro_m_d_c_003;
+					il_main = #bd_ro_m_d_c_004;
+					il_main = #bd_ro_m_d_c_009;
+					il_main = #bd_ro_m_d_c_041;
+					il_main = #bd_ro_m_d_c_043;
+					il_main = #bd_ro_m_d_c_077;
+					il_main = #bd_ro_m_g_c_001;
+					il_main = #bd_ro_m_g_c_002;
+					il_main = #bd_ro_m_g_c_005;
+					il_main = #bd_ro_m_g_c_005a;
+					il_main = #bd_ro_m_g_c_008;
+					il_main = #bd_ro_m_g_c_012;
+					il_main = #bd_ro_m_g_c_014;
+					il_main = #bd_ro_m_g_c_015;
+					il_main = #bd_ro_m_g_c_018;
+					il_main = #bd_ro_m_g_c_020;
+					il_main = #bd_ro_m_g_c_021;
+					il_main = #bd_ro_m_g_c_022;
+					il_main = #bd_ro_m_g_c_023;
+					il_main = #bd_ro_m_g_c_024;
+					il_main = #bd_ro_m_g_c_026;
+					il_main = #bd_ro_m_g_c_029;
+					il_main = #bd_ro_m_g_c_031;
+					il_main = #bd_ro_m_g_c_034;
+					il_main = #bd_ro_m_g_c_037;
+					il_main = #bd_ro_m_g_c_039;
+					il_main = #bd_ro_m_g_c_042;
+					il_main = #bd_ro_m_g_c_044;
+					il_main = #bd_ro_m_g_c_045;
+					il_main = #bd_ro_m_g_c_046;
+					il_main = #bd_ro_m_g_c_053;
+					il_main = #bd_ro_m_g_c_059;
+					il_main = #bd_ro_m_g_c_063;
+					il_main = #bd_ro_m_g_c_065;
+					il_main = #bd_ro_m_g_c_067;
+					il_main = #bd_ro_m_g_c_071;
+					il_main = #bd_ro_m_g_c_084;
+					il_main = #bd_ro_m_g_c_089;
+					il_main = #bd_ro_m_g_c_094;
+					il_main = #bd_ro_m_g_c_100;
+					il_main = #bd_ro_m_g_c_105;
+					il_main = #bd_ro_m_g_c_110;
+				}
+			}
+		}
+	}
+}
+
 [t:template,n:scm_merchant_helm_fighter]
 {
 	specializes = base_scm_merchant_adwana;

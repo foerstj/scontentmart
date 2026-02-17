@@ -159,3 +159,25 @@
 	  p position = -1.62859,-3.5,-0.989203,0x0f1db0f2;
 	}
 }
+[t:scm_merchant_armor_mage,n:0x00100012]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+			es_chest = bd_ro_m_g_c_063;
+			es_feet = bo_bo_le_light;
+		}
+	}
+	[placement]
+	{
+	  p position = 1.97069,9.53674e-007,-0.959658,0x37202039;
+	}
+}
