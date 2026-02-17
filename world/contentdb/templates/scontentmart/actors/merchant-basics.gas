@@ -1,0 +1,43 @@
+[t:template,n:scm_merchant_basics]
+{
+	specializes = base_scm_merchant_adwana;
+
+	common:screen_name = "Basics";
+
+	[inventory]
+	{
+		[store_pcontent]
+		{
+			full_ratio = 0;
+			[misc]
+			{
+				[all*]
+				{
+					il_main = DSX_backpack_empty;
+					max = 4;
+					min = 4;
+				}
+			}
+		}
+	}
+	[store]
+	{
+		[item_restock]
+		{
+			book_glb_magic_01 = 8;
+
+			potion_health_small = 8;
+			potion_health_medium = 8;
+			potion_health_large = 8;
+			potion_health_super = 6;
+			potion_mana_small = 8;
+			potion_mana_medium = 8;
+			potion_mana_large = 8;
+			potion_mana_super = 6;
+			potion_rejuvenation_small = 1;
+			potion_rejuvenation_medium = 1;
+			potion_rejuvenation_large = 1;
+			potion_rejuvenation_super = 1;
+		}
+	}
+}
