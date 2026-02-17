@@ -144,6 +144,28 @@
 	  p position = 0.00974286,0,2.93283,0xe3c8a80a;
 	}
 }
+[t:scm_merchant_armor_ranger_rare,n:0x00100015]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+			es_chest = bd_ra_le_r_g_o_fin;
+			es_feet = bo_bo_le_light;
+		}
+	}
+	[placement]
+	{
+	  p position = -0.577838,0.5,0.638467,0x4de7d84f;
+	}
+}
 [t:scm_merchant_excluded,n:0x00100011]
 {
 	[conversation]

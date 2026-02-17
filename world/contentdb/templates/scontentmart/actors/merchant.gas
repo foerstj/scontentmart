@@ -180,6 +180,8 @@
 				[all*]
 				{
 					// leather
+					il_main = #bd_bl_r_g_c_avg:base;
+					il_main = #bd_bl_r_g_c_avg:o_fin;
 					il_main = #bd_le_r_g_c_avg:base;
 					il_main = #bd_le_r_g_c_avg:o_fin;
 					il_main = #bd_le_r_g_c_low;
@@ -202,6 +204,31 @@
 					il_main = #bd_fp_r_g_c_avg:base;
 					il_main = #bd_pl_r_g_c_fin:base;
 					il_main = #bd_pl_r_g_c_fin:o_str;
+				}
+			}
+		}
+	}
+}
+
+[t:template,n:scm_merchant_armor_ranger_rare]
+{
+	specializes = base_scm_merchant_adwana;
+
+	[inventory]
+	{
+		[store_pcontent]
+		{
+			full_ratio = 0;
+			[armor]
+			{
+				[all*]
+				{
+					// leather
+					il_main = #bd_ra_bl_r_g_o_fin/+brilliant;
+					il_main = #bd_ra_le_r_g_o_fin/+brilliant;
+					il_main = #bd_ra_sl_r_g_c_avg:base/+brilliant;
+					il_main = #bd_ra_sl_r_g_c_avg:c_fin/+brilliant;
+					il_main = #bd_ra_sl_r_g_c_avg:c_str/+brilliant;
 				}
 			}
 		}
@@ -265,26 +292,18 @@
 					il_main = #bd_ro_m_g_c_105;
 					il_main = #bd_ro_m_g_c_110;
 				}
-			}
-		}
-	}
-}
-
-[t:template,n:scm_merchant_armor_mage_unique]
-{
-	specializes = base_scm_merchant_adwana;
-
-	[inventory]
-	{
-		[store_pcontent]
-		{
-			full_ratio = 0;
-			[armor]
-			{
 				[all*]
 				{
-					// cloth
-					il_main = #bd_ro_un_merik;
+					// leather
+					il_main = #bd_bl_m_g_c_avg:base;
+					il_main = #bd_bl_m_g_c_avg:c_fin;
+					il_main = #bd_bl_m_g_c_avg:o_fin;
+					il_main = #bd_le_m_g_c_avg:base;
+					il_main = #bd_le_m_g_c_avg:c_str;
+					il_main = #bd_le_m_g_c_avg:o_avg;
+					il_main = #bd_le_m_g_c_avg:o_fin;
+					il_main = #bd_ra_bl_m_g_c_fin:base;
+					il_main = #bd_ra_bl_m_g_c_fin:o_fin;
 				}
 			}
 		}
@@ -343,6 +362,37 @@
 					il_main = #bd_ra_ro_m_g_c_100/+brilliant;
 					il_main = #bd_ra_ro_m_g_c_105/+brilliant;
 					il_main = #bd_ra_ro_m_g_c_110/+brilliant;
+				}
+				[all*]
+				{
+					// leather
+					il_main = #bd_ra_le_m_g_o_avg/+brilliant;
+					il_main = #bd_ra_sl_m_g_c_avg:base/+brilliant;
+					il_main = #bd_ra_sl_m_g_c_avg:c_fin/+brilliant;
+					il_main = #bd_ra_sl_m_g_c_avg:c_str/+brilliant;
+					il_main = #bd_ra_sl_m_g_c_avg:o_fin/+brilliant;
+					il_main = #bd_ra_sl_m_g_c_avg:o_str/+brilliant;
+				}
+			}
+		}
+	}
+}
+
+[t:template,n:scm_merchant_armor_mage_unique]
+{
+	specializes = base_scm_merchant_adwana;
+
+	[inventory]
+	{
+		[store_pcontent]
+		{
+			full_ratio = 0;
+			[armor]
+			{
+				[all*]
+				{
+					// cloth
+					il_main = #bd_ro_un_merik;
 				}
 			}
 		}
