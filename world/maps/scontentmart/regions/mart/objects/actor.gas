@@ -54,7 +54,7 @@
 	[placement]
 	{
 	  q orientation = 0,0.707107,0,0.707107;
-	  p position = 1.8419,1,-0.479362,0x9b9524e3;
+	  p position = 1.8419,0,-0.479362,0x9b9524e3;
 	}
 }
 [t:scm_merchant_armor_fighter_rare,n:0x00100006]
