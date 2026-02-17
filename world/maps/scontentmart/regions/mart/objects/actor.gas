@@ -181,3 +181,25 @@
 	  p position = 1.97069,9.53674e-007,-0.959658,0x37202039;
 	}
 }
+[t:scm_merchant_armor_mage_rare,n:0x00100013]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+			es_chest = bd_ra_ro_m_g_c_110;
+			es_feet = bo_bo_le_light;
+		}
+	}
+	[placement]
+	{
+	  p position = -0.380705,0.5,0.678914,0x8ff956dd;
+	}
+}
