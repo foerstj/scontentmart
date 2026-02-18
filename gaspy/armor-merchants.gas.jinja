@@ -1,5 +1,5 @@
 {% set shops = {item['SCM Shop'] for item in data} %}
-{% for shop in shops %}
+{% for shop in shops | sort %}
 [t:template,n:base_scm_{{ shop }}_contents]
 {
     specializes = base_scm_{{ shop }}_contents_base;
