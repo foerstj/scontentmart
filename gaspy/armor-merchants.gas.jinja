@@ -1,0 +1,23 @@
+{% set shops = {item['SCM Shop'] for item in data} %}
+{% for shop in shops %}
+[t:template,n:base_scm_{{ shop }}_contents]
+{
+    specializes = base_scm_{{ shop }}_contents_base;
+	[inventory]
+	{
+		[store_pcontent]
+		{
+			full_ratio = 0;
+			[armor]
+			{
+				[all*]
+				{
+					{% for item in data if item['SCM Shop'] == shop %}
+					il_main = #{{ item['Template'] }};
+					{% endfor %}
+				}
+			}
+		}
+	}
+}
+{% endfor %}
