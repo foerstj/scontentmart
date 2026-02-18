@@ -1,367 +1,50 @@
-[t:template,n:scm_merchant_armor_body_fighter_normal]
+[t:template,n:base_scm_merchant_armor_body_fighter_normal]
 {
 	specializes = base_scm_merchant_adwana;
-
-	common:screen_name = "Fighter Armor";
-
-	[inventory]
-	{
-		[store_pcontent]
-		{
-			full_ratio = 0;
-			[armor]
-			{
-				[all*]
-				{
-					// chain
-					il_main = #bd_ch_f_g_c_avg:base;
-					il_main = #bd_ch_f_g_c_avg:c_fin;
-					il_main = #bd_ch_f_g_c_avg:c_str;
-					il_main = #bd_ch_f_g_c_avg:o_fin;
-					il_main = #bd_ch_f_g_c_fun:base;
-					il_main = #bd_ch_f_g_c_low:base;
-					il_main = #bd_sc_f_g_c_avg:base;
-					il_main = #bd_sc_f_g_c_avg:c_str;
-					il_main = #bd_sc_f_g_c_avg:o_fin;
-					il_main = #bd_sc_f_g_c_avg:o_mag;
-					il_main = #bd_sc_f_g_c_avg:o_str;
-					il_main = #bd_sc_f_g_c_fun:base;
-					il_main = #bd_sc_f_g_o_low:base;
-				}
-				[all*]
-				{
-					// leather
-					il_main = #bd_bl_f_g_c_avg:base;
-					il_main = #bd_bl_f_g_c_avg:c_str;
-					il_main = #bd_bl_f_g_c_avg:o_fin;
-					il_main = #bd_bl_f_g_c_fun;
-					il_main = #bd_bl_f_g_c_low;
-					il_main = #bd_le_f_g_c_avg:base;
-					il_main = #bd_le_f_g_c_avg:c_fin;
-					il_main = #bd_le_f_g_c_avg:o_fin;
-					il_main = #bd_le_f_g_c_fun;
-					il_main = #bd_le_f_g_c_low;
-					il_main = #bd_sl_f_g_c_avg:base;
-					il_main = #bd_sl_f_g_c_avg:c_str;
-					il_main = #bd_sl_f_g_c_avg:o_fin;
-					il_main = #bd_sl_f_g_c_fun;
-				}
-				[all*]
-				{
-					// plate
-					il_main = #bd_ba_f_g_c_avg:base;
-					il_main = #bd_ba_f_g_c_avg:o_fin;
-					il_main = #bd_ba_f_g_c_avg:o_mag;
-					il_main = #bd_ba_f_g_c_avg:o_str;
-					il_main = #bd_ba_f_g_c_fun:base;
-					il_main = #bd_ba_f_g_c_low;
-					il_main = #bd_bp_f_g_c_avg:base;
-					il_main = #bd_bp_f_g_c_avg:c_fin;
-					il_main = #bd_bp_f_g_c_avg:c_str;
-					il_main = #bd_bp_f_g_c_avg:o_mag;
-					il_main = #bd_bp_f_g_c_avg:o_str;
-					il_main = #bd_bp_f_g_c_fun;
-					il_main = #bd_br_f_g_c_avg:base;
-					il_main = #bd_br_f_g_c_avg:c_str;
-					il_main = #bd_br_f_g_c_avg:o_fin;
-					il_main = #bd_br_f_g_c_low;
-					il_main = #bd_fp_f_g_c_fun;
-					il_main = #bd_pl_f_g_c_avg:base;
-					il_main = #bd_pl_f_g_c_avg:c_fin;
-					il_main = #bd_pl_f_g_c_fun;
-					il_main = #bd_pl_f_g_c_low;
-				}
-			}
-		}
-	}
+	common:screen_name = "Fighter Body-Armor";
 }
+[t:template,n:base_scm_v_f_bd_contents_base] { specializes = base_scm_merchant_armor_body_fighter_normal; }
+[t:template,n:scm_merchant_armor_body_fighter_normal] { specializes = base_scm_v_f_bd_contents; }
 
-[t:template,n:scm_merchant_armor_body_fighter_special]
+[t:template,n:base_scm_merchant_armor_body_fighter_special]
 {
 	specializes = base_scm_merchant_adwana;
-
-	common:screen_name = "Special Fighter Armor";
-
-	[inventory]
-	{
-		[store_pcontent]
-		{
-			full_ratio = 0;
-			[armor]
-			{
-				// rare
-				[all*]
-				{
-					il_main = #bd_ra_sc_f_g_o_mag:base/+brilliant;
-					il_main = #bd_ra_bl_f_g_c_str:base/+brilliant;
-					il_main = #bd_ra_bl_f_g_c_str:o_fin/+brilliant;
-					il_main = #bd_ra_le_f_g_c_fin:base/+brilliant;
-					il_main = #bd_ra_ba_f_g_o_fin:base/+brilliant;
-					il_main = #bd_ra_ba_f_g_o_fin:o_mag/+brilliant;
-					il_main = #bd_ra_bp_f_g_c_fin:base/+brilliant;
-					il_main = #bd_ra_bp_f_g_c_fin:c_str/+brilliant;
-					il_main = #bd_ra_br_f_g_c_str:base/+brilliant;
-				}
-				// unique
-				[all*]
-				{
-					il_main = #bd_un_bl_f_g_c_blood:base;
-					il_main = #bd_un_sl_f_barbarian:base;
-					il_main = #bd_un_le_f_pad_avg:base;
-				}
-			}
-		}
-	}
+	common:screen_name = "Special Fighter Body-Armor";
 }
+[t:template,n:base_scm_v_f_bd_ru_contents_base] { specializes = base_scm_merchant_armor_body_fighter_special; }
+[t:template,n:scm_merchant_armor_body_fighter_special] { specializes = base_scm_v_f_bd_ru_contents; }
 
-[t:template,n:scm_merchant_armor_body_ranger_normal]
+[t:template,n:base_scm_merchant_armor_body_ranger_normal]
 {
 	specializes = base_scm_merchant_adwana;
-
-	common:screen_name = "Ranger Armor";
-
-	[inventory]
-	{
-		[store_pcontent]
-		{
-			full_ratio = 0;
-			[armor]
-			{
-				[all*]
-				{
-					// chain
-					il_main = #bd_ch_r_g_c_avg:base;
-					il_main = #bd_ch_r_g_c_avg:c_fin;
-					il_main = #bd_ch_r_g_c_avg:c_mag;
-					il_main = #bd_ch_r_g_c_avg:c_str;
-					il_main = #bd_ch_r_g_c_avg:o_avg;
-					il_main = #bd_ch_r_g_c_avg:o_fin;
-					il_main = #bd_ch_r_g_c_avg:o_mag;
-					il_main = #bd_ch_r_g_c_avg:o_str;
-					il_main = #bd_ch_r_g_c_fun:base;
-				}
-				[all*]
-				{
-					// leather
-					il_main = #bd_bl_r_g_c_avg:base;
-					il_main = #bd_bl_r_g_c_avg:o_fin;
-					il_main = #bd_le_r_g_c_avg:base;
-					il_main = #bd_le_r_g_c_avg:o_fin;
-					il_main = #bd_le_r_g_c_low;
-					il_main = #bd_sl_r_g_c_avg:base;
-					il_main = #bd_sl_r_g_c_avg:c_fin;
-					il_main = #bd_sl_r_g_c_avg:c_mag;
-					il_main = #bd_sl_r_g_c_avg:c_str;
-					il_main = #bd_sl_r_g_c_avg:o_avg;
-					il_main = #bd_sl_r_g_c_avg:o_fin;
-					il_main = #bd_sl_r_g_c_avg:o_mag;
-					il_main = #bd_sl_r_g_c_avg:o_str;
-				}
-				[all*]
-				{
-					// plate
-					il_main = #bd_ba_r_g_o_fin:base;
-					il_main = #bd_br_r_g_c_avg:base;
-					il_main = #bd_br_r_g_c_avg:c_fin;
-					il_main = #bd_br_r_g_c_avg:o_mag;
-					il_main = #bd_fp_r_g_c_avg:base;
-					il_main = #bd_pl_r_g_c_fin:base;
-					il_main = #bd_pl_r_g_c_fin:o_str;
-				}
-			}
-		}
-	}
+	common:screen_name = "Ranger Body-Armor";
 }
+[t:template,n:base_scm_v_r_bd_contents_base] { specializes = base_scm_merchant_armor_body_ranger_normal; }
+[t:template,n:scm_merchant_armor_body_ranger_normal] { specializes = base_scm_v_r_bd_contents; }
 
-[t:template,n:scm_merchant_armor_armor_ranger_special]
+[t:template,n:base_scm_merchant_armor_armor_ranger_special]
 {
 	specializes = base_scm_merchant_adwana;
-
 	common:screen_name = "Special Ranger Armors";
-
-	[inventory]
-	{
-		[store_pcontent]
-		{
-			full_ratio = 0;
-			[armor]
-			{
-				// rare
-				[all*]
-				{
-					il_main = #bd_ra_bl_r_g_o_fin/+brilliant;
-					il_main = #bd_ra_le_r_g_o_fin/+brilliant;
-					il_main = #bd_ra_sl_r_g_c_avg:base/+brilliant;
-					il_main = #bd_ra_sl_r_g_c_avg:c_fin/+brilliant;
-					il_main = #bd_ra_sl_r_g_c_avg:c_str/+brilliant;
-				}
-				// unique
-				[all*]
-				{
-					il_main = #bd_un_bl_r_leaf:base;
-				}
-			}
-		}
-	}
 }
+[t:template,n:base_scm_v_r_amr_ru_contents_base] { specializes = base_scm_merchant_armor_armor_ranger_special; }
+[t:template,n:scm_merchant_armor_armor_ranger_special] { specializes = base_scm_v_r_amr_ru_contents; }
 
-[t:template,n:scm_merchant_armor_body_mage_normal]
+[t:template,n:base_scm_merchant_armor_body_mage_normal]
 {
 	specializes = base_scm_merchant_adwana;
-
-	common:screen_name = "Mage Armor";
-
-	[inventory]
-	{
-		[store_pcontent]
-		{
-			full_ratio = 0;
-			[armor]
-			{
-				[all*]
-				{
-					// cloth
-					il_main = #bd_ro_m_d_c_003;
-					il_main = #bd_ro_m_d_c_004;
-					il_main = #bd_ro_m_d_c_009;
-					il_main = #bd_ro_m_d_c_041;
-					il_main = #bd_ro_m_d_c_043;
-					il_main = #bd_ro_m_d_c_077;
-					il_main = #bd_ro_m_g_c_001;
-					il_main = #bd_ro_m_g_c_002;
-					il_main = #bd_ro_m_g_c_005;
-					il_main = #bd_ro_m_g_c_005a;
-					il_main = #bd_ro_m_g_c_008;
-					il_main = #bd_ro_m_g_c_012;
-					il_main = #bd_ro_m_g_c_014;
-					il_main = #bd_ro_m_g_c_015;
-					il_main = #bd_ro_m_g_c_018;
-					il_main = #bd_ro_m_g_c_020;
-					il_main = #bd_ro_m_g_c_021;
-					il_main = #bd_ro_m_g_c_022;
-					il_main = #bd_ro_m_g_c_023;
-					il_main = #bd_ro_m_g_c_024;
-					il_main = #bd_ro_m_g_c_026;
-					il_main = #bd_ro_m_g_c_029;
-					il_main = #bd_ro_m_g_c_031;
-					il_main = #bd_ro_m_g_c_034;
-					il_main = #bd_ro_m_g_c_037;
-					il_main = #bd_ro_m_g_c_039;
-					il_main = #bd_ro_m_g_c_042;
-					il_main = #bd_ro_m_g_c_044;
-					il_main = #bd_ro_m_g_c_045;
-					il_main = #bd_ro_m_g_c_046;
-					il_main = #bd_ro_m_g_c_053;
-					il_main = #bd_ro_m_g_c_059;
-					il_main = #bd_ro_m_g_c_063;
-					il_main = #bd_ro_m_g_c_065;
-					il_main = #bd_ro_m_g_c_067;
-					il_main = #bd_ro_m_g_c_071;
-					il_main = #bd_ro_m_g_c_084;
-					il_main = #bd_ro_m_g_c_089;
-					il_main = #bd_ro_m_g_c_094;
-					il_main = #bd_ro_m_g_c_100;
-					il_main = #bd_ro_m_g_c_105;
-					il_main = #bd_ro_m_g_c_110;
-				}
-				[all*]
-				{
-					// leather
-					il_main = #bd_bl_m_g_c_avg:base;
-					il_main = #bd_bl_m_g_c_avg:c_fin;
-					il_main = #bd_bl_m_g_c_avg:o_fin;
-					il_main = #bd_le_m_g_c_avg:base;
-					il_main = #bd_le_m_g_c_avg:c_str;
-					il_main = #bd_le_m_g_c_avg:o_avg;
-					il_main = #bd_le_m_g_c_avg:o_fin;
-					il_main = #bd_ra_bl_m_g_c_fin:base;
-					il_main = #bd_ra_bl_m_g_c_fin:o_fin;
-					il_main = #bd_sl_m_g_c_avg:base;
-					il_main = #bd_sl_m_g_c_avg:c_fin;
-					il_main = #bd_sl_m_g_c_avg:c_mag;
-					il_main = #bd_sl_m_g_c_avg:c_str;
-					il_main = #bd_sl_m_g_c_avg:o_avg;
-					il_main = #bd_sl_m_g_c_avg:o_fin;
-					il_main = #bd_sl_m_g_c_avg:o_str;
-					il_main = #bd_sl_m_g_c_fun;
-				}
-			}
-		}
-	}
+	common:screen_name = "Mage Body-Armor";
 }
+[t:template,n:base_scm_v_m_bd_contents_base] { specializes = base_scm_merchant_armor_body_mage_normal; }
+[t:template,n:scm_merchant_armor_body_mage_normal] { specializes = base_scm_v_m_bd_contents; }
 
-[t:template,n:scm_merchant_armor_body_mage_special]
+[t:template,n:base_scm_merchant_armor_body_mage_special]
 {
 	specializes = base_scm_merchant_adwana;
-
-	common:screen_name = "Special Mage Armor";
-
-	[inventory]
-	{
-		[store_pcontent]
-		{
-			full_ratio = 0;
-			[armor]
-			{
-				// rare
-				[all*]
-				{
-					// cloth
-					il_main = #bd_ra_ro_m_d_c_003/+brilliant;
-					il_main = #bd_ra_ro_m_d_c_004/+brilliant;
-					il_main = #bd_ra_ro_m_d_c_009/+brilliant;
-					il_main = #bd_ra_ro_m_d_c_041/+brilliant;
-					il_main = #bd_ra_ro_m_d_c_043/+brilliant;
-					il_main = #bd_ra_ro_m_d_c_077/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_001/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_002/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_005/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_005a/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_008/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_012/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_014/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_015/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_018/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_020/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_021/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_023/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_024/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_026/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_029/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_031/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_034/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_037/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_039/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_042/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_045/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_046/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_053/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_059/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_065/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_071/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_084/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_089/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_094/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_100/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_105/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_110/+brilliant;
-					// leather
-					il_main = #bd_ra_le_m_g_o_avg/+brilliant;
-					il_main = #bd_ra_sl_m_g_c_avg:base/+brilliant;
-					il_main = #bd_ra_sl_m_g_c_avg:c_fin/+brilliant;
-					il_main = #bd_ra_sl_m_g_c_avg:c_str/+brilliant;
-					il_main = #bd_ra_sl_m_g_c_avg:o_fin/+brilliant;
-					il_main = #bd_ra_sl_m_g_c_avg:o_str/+brilliant;
-				}
-				// unique
-				[all*]
-				{
-					il_main = #bd_ro_un_merik;
-				}
-			}
-		}
-	}
+	common:screen_name = "Special Mage Body-Armor";
 }
+[t:template,n:base_scm_v_m_bd_ru_contents_base] { specializes = base_scm_merchant_armor_body_mage_special; }
+[t:template,n:scm_merchant_armor_body_mage_special] { specializes = base_scm_v_m_bd_ru_contents; }
 
 [t:template,n:scm_merchant_armor_helm_fighter_normal]
 {
