@@ -13,7 +13,10 @@
 				[all*]
 				{
 					{% for item in data if item['SCM Shop'] == shop %}
-					il_main = #{{ item['Template'] }};
+					{% set variants = [':'+v for v in item['Variants'].split(', ')] if item['Variants'] else [''] %}
+					{% for variant in variants %}
+					il_main = #{{ item['Template'] }}{{ variant }};
+					{% endfor %}
 					{% endfor %}
 				}
 			}
