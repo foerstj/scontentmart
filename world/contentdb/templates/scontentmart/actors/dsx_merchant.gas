@@ -1,3 +1,11 @@
+[t:template,n:base_scm_dsx_merchant_sets]
+{
+	specializes = base_scm_dsx_merchant_ohna;
+	common:screen_name = "LoA Sets";
+}
+[t:template,n:base_scm_loa_any_sets_contents_base] { specializes = base_scm_dsx_merchant_sets; }
+[t:template,n:scm_dsx_merchant_sets] { specializes = base_scm_loa_any_sets_contents; }
+
 [t:template,n:base_scm_dsx_merchant_armor_body_fighter_all]
 {
 	specializes = base_scm_dsx_merchant_ohna;
@@ -5,3 +13,19 @@
 }
 [t:template,n:base_scm_loa_f_bd_contents_base] { specializes = base_scm_dsx_merchant_armor_body_fighter_all; }
 [t:template,n:scm_dsx_merchant_armor_body_fighter_all] { specializes = base_scm_loa_f_bd_contents; }
+
+[t:template,n:base_scm_dsx_merchant_armor_hgb_fighter_all]
+{
+	specializes = base_scm_dsx_merchant_ohna;
+	common:screen_name = "LoA Fighter Helmets / Gloves / Boots";
+}
+[t:template,n:base_scm_loa_f_hgb_contents_base] { specializes = base_scm_dsx_merchant_armor_hgb_fighter_all; }
+[t:template,n:scm_dsx_merchant_armor_hgb_fighter_all] { specializes = base_scm_loa_f_hgb_contents; }
+
+[t:template,n:base_scm_dsx_merchant_armor_shield_fighter_all]
+{
+	specializes = base_scm_dsx_merchant_ohna;
+	common:screen_name = "LoA Fighter Shields";
+}
+[t:template,n:base_scm_loa_f_sh_contents_base] { specializes = base_scm_dsx_merchant_armor_shield_fighter_all; }
+[t:template,n:scm_dsx_merchant_armor_shield_fighter_all] { specializes = base_scm_loa_f_sh_contents; }
