@@ -124,10 +124,6 @@
 			{
 				[all*]
 				{
-					il_main = #sh_un_m_o_r_m_turtle_02_dsx;
-					il_main = #sh_un_m_o_r_m_turtle_01_dsx;
-					il_main = #sh_un_m_o_r_m_turtle_dsx;
-					il_main = #sh_un_m_o_k_m_dermal_dsx;
 					il_main = #sh_w_f_g_c_t_s_avg_deathknight_player;
 					il_main = #2w_sh_w_f_g_c_t_s_avg_deathknight_player;
 					il_main = #3w_sh_w_f_g_c_t_s_avg_deathknight_player;
@@ -1405,6 +1401,10 @@
 					il_main = #he_fu_pl_smallwings_kavaren:base;
 					il_main = #tongs;
 					il_main = #bd_pl_f_g_c_death_knight;
+					il_main = #sh_un_m_o_r_m_turtle_02_dsx;
+					il_main = #sh_un_m_o_r_m_turtle_01_dsx;
+					il_main = #sh_un_m_o_r_m_turtle_dsx;
+					il_main = #sh_un_m_o_k_m_dermal_dsx;
 					il_main = #sh_w_f_g_c_t_s_avg_deathknight_monster;
 				}
 			}

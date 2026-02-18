@@ -538,10 +538,10 @@ he_op_pl_r_zaurask_crown_dsx;Zaurask Crown;LoA;;;;Helmet;;pl;r;dex;b_gui_ig_i_a_
 he_vi_pl_r_flywing_visor2_dsx;Exoskeleton Visor;LoA;;;;Helmet;;pl;r;dex;b_gui_ig_i_a_hlmt_408;base;Ranger;loa_r_hgb
 he_vi_pl_r_rubber_visor2_dsx;Midnight Visor;LoA;;;;Helmet;;pl;r;dex;b_gui_ig_i_a_hlmt_412;base;Ranger;loa_r_hgb
 he_op_pl_r_flywing_crown2_dsx;Arboreal Visor;LoA;;;;Helmet;;pl;r;dex;b_gui_ig_i_a_hlmt_409;base;Ranger;loa_r_hgb
-sh_un_m_o_r_m_turtle_02_dsx;Turtle Shield;LoA;;excluded;;Shield;unique;;;str;b_gui_ig_i_a_shd_021;;Fighter;loa_f_sh
-sh_un_m_o_r_m_turtle_01_dsx;Turtle Shield;LoA;;excluded;;Shield;unique;;;str;b_gui_ig_i_a_shd_021;;Fighter;loa_f_sh
-sh_un_m_o_r_m_turtle_dsx;Turtle Shield;LoA;;excluded;;Shield;unique;;;str;b_gui_ig_i_a_shd_021;;Fighter;loa_f_sh
-sh_un_m_o_k_m_dermal_dsx;Dermal Shield;LoA;;excluded;;Shield;unique;;;str;b_gui_ig_i_a_shd_037;;Fighter;loa_f_sh
+sh_un_m_o_r_m_turtle_02_dsx;Turtle Shield;LoA;;excluded;;Shield;unique;;;str;b_gui_ig_i_a_shd_021;;Fighter;x_excluded
+sh_un_m_o_r_m_turtle_01_dsx;Turtle Shield;LoA;;excluded;;Shield;unique;;;str;b_gui_ig_i_a_shd_021;;Fighter;x_excluded
+sh_un_m_o_r_m_turtle_dsx;Turtle Shield;LoA;;excluded;;Shield;unique;;;str;b_gui_ig_i_a_shd_021;;Fighter;x_excluded
+sh_un_m_o_k_m_dermal_dsx;Dermal Shield;LoA;;excluded;;Shield;unique;;;str;b_gui_ig_i_a_shd_037;;Fighter;x_excluded
 sh_w_f_g_c_t_s_avg_deathknight_monster;Death Knight Shield;LoA;;excluded;;Shield;;;;str;b_gui_ig_i_a_shd_623;;Fighter;x_excluded
 sh_w_f_g_c_t_s_avg_deathknight_player;Death Knight Shield;LoA;;excluded;;Shield;;;;str;b_gui_ig_i_a_shd_623;;Fighter;loa_f_sh
 2w_sh_w_f_g_c_t_s_avg_deathknight_player;Super Death Knight Shield;LoA;Veteran;excluded;;Shield;;;;str;b_gui_ig_i_a_shd_623;;Fighter;loa_f_sh
