@@ -63,7 +63,6 @@
 		[equipment]
 		{
 			es_chest = bd_ch_f_g_c_avg;
-			es_feet = bo_bo_le_light;
 		}
 	}
 	[placement]
@@ -108,7 +107,6 @@
 		[equipment]
 		{
 			es_chest = bd_ra_sc_f_g_o_mag;
-			es_feet = bo_bo_le_light;
 		}
 	}
 	[placement]
@@ -130,7 +128,6 @@
 	{
 		[equipment]
 		{
-			es_feet = bo_bo_le_light;
 			es_head = he_fu_pl_spike;
 		}
 	}
@@ -199,7 +196,6 @@
 	{
 		[equipment]
 		{
-			es_feet = bo_bo_le_light;
 			es_head = he_un_ca_tallcrown;
 		}
 	}
@@ -222,7 +218,6 @@
 	{
 		[equipment]
 		{
-			es_feet = bo_bo_le_light;
 			es_forearms = gl_ga_ba_f_g_c_avg;
 		}
 	}
@@ -245,7 +240,6 @@
 	{
 		[equipment]
 		{
-			es_feet = bo_bo_le_light;
 			es_forearms = gl_un_gl_ro_m_molten;
 		}
 	}
@@ -268,7 +262,6 @@
 	{
 		[equipment]
 		{
-			es_feet = bo_bo_le_light;
 			es_shield_hand = sh_w_g_c_s_m_fun;
 		}
 	}
@@ -291,7 +284,6 @@
 	{
 		[equipment]
 		{
-			es_feet = bo_bo_le_light;
 			es_shield_hand = sh_u_g_c_k_l_avg;
 		}
 	}
@@ -358,7 +350,6 @@
 	{
 		[equipment]
 		{
-			es_feet = bo_bo_le_light;
 			es_head = he_ca_ro_wizard_01;
 		}
 	}
@@ -381,7 +372,6 @@
 		[equipment]
 		{
 			es_chest = bd_ro_m_g_c_063;
-			es_feet = bo_bo_le_light;
 		}
 	}
 	[placement]
@@ -403,7 +393,6 @@
 		[equipment]
 		{
 			es_chest = bd_ro_un_merik;
-			es_feet = bo_bo_le_light;
 		}
 	}
 	[placement]
@@ -491,7 +480,6 @@
 		[equipment]
 		{
 			es_chest = bd_ch_r_g_c_avg;
-			es_feet = bo_bo_le_light;
 		}
 	}
 	[placement]

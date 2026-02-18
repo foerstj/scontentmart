@@ -12,12 +12,14 @@
 	{
 		draw_selection_indicator = TRUE;
 		is_ghost_usable = TRUE;
-		model = m_c_gah_fg_pos_a7;
+		//model = m_c_gah_fg_pos_a7;
 		use_range = 1;
 		[textures]
 		{
-			0 = b_c_gah_fg_skin_12;
-			1 = b_c_pos_a7_018;
+			//0 = b_c_gah_fg_skin_12;
+			//1 = b_c_pos_a7_018;
+			0 = b_c_gah_fg_skin_03;
+			1 = b_c_pos_a1_008;
 		}
 	}
 	[common]
