@@ -1,6 +1,6 @@
 [t:template,n:base_scm_loa_any_sets_contents]
 {
-    specializes = base_scm_loa_any_sets_contents_base;
+	specializes = base_scm_loa_any_sets_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
@@ -54,7 +54,7 @@
 }
 [t:template,n:base_scm_loa_f_bd_contents]
 {
-    specializes = base_scm_loa_f_bd_contents_base;
+	specializes = base_scm_loa_f_bd_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
@@ -64,7 +64,6 @@
 			{
 				[all*]
 				{
-					il_main = #bd_pl_f_g_c_death_knight;
 					il_main = #bd_ch_f_g_c_avg_hassat_dsx:base;
 					il_main = #bd_le_f_g_c_avg_zaurask_dsx:base;
 					il_main = #bd_ba_f_g_c_avg_hassat_dsx:base;
@@ -89,7 +88,7 @@
 }
 [t:template,n:base_scm_loa_f_hgb_contents]
 {
-    specializes = base_scm_loa_f_hgb_contents_base;
+	specializes = base_scm_loa_f_hgb_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
@@ -115,7 +114,7 @@
 }
 [t:template,n:base_scm_loa_f_sh_contents]
 {
-    specializes = base_scm_loa_f_sh_contents_base;
+	specializes = base_scm_loa_f_sh_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
@@ -143,7 +142,7 @@
 }
 [t:template,n:base_scm_loa_m_bd_contents]
 {
-    specializes = base_scm_loa_m_bd_contents_base;
+	specializes = base_scm_loa_m_bd_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
@@ -185,7 +184,7 @@
 }
 [t:template,n:base_scm_loa_m_hgb_contents]
 {
-    specializes = base_scm_loa_m_hgb_contents_base;
+	specializes = base_scm_loa_m_hgb_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
@@ -233,7 +232,7 @@
 }
 [t:template,n:base_scm_loa_m_sh_contents]
 {
-    specializes = base_scm_loa_m_sh_contents_base;
+	specializes = base_scm_loa_m_sh_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
@@ -267,7 +266,7 @@
 }
 [t:template,n:base_scm_loa_r_bd_contents]
 {
-    specializes = base_scm_loa_r_bd_contents_base;
+	specializes = base_scm_loa_r_bd_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
@@ -304,7 +303,7 @@
 }
 [t:template,n:base_scm_loa_r_hgb_contents]
 {
-    specializes = base_scm_loa_r_hgb_contents_base;
+	specializes = base_scm_loa_r_hgb_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
@@ -347,7 +346,7 @@
 }
 [t:template,n:base_scm_loa_r_sh_contents]
 {
-    specializes = base_scm_loa_r_sh_contents_base;
+	specializes = base_scm_loa_r_sh_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
@@ -377,7 +376,7 @@
 }
 [t:template,n:base_scm_v_f_bd_contents]
 {
-    specializes = base_scm_v_f_bd_contents_base;
+	specializes = base_scm_v_f_bd_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
@@ -447,7 +446,7 @@
 }
 [t:template,n:base_scm_v_f_bd_ru_contents]
 {
-    specializes = base_scm_v_f_bd_ru_contents_base;
+	specializes = base_scm_v_f_bd_ru_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
@@ -490,7 +489,7 @@
 }
 [t:template,n:base_scm_v_f_bo_contents]
 {
-    specializes = base_scm_v_f_bo_contents_base;
+	specializes = base_scm_v_f_bo_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
@@ -571,7 +570,7 @@
 }
 [t:template,n:base_scm_v_f_bo_ru_contents]
 {
-    specializes = base_scm_v_f_bo_ru_contents_base;
+	specializes = base_scm_v_f_bo_ru_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
@@ -621,7 +620,7 @@
 }
 [t:template,n:base_scm_v_f_gl_contents]
 {
-    specializes = base_scm_v_f_gl_contents_base;
+	specializes = base_scm_v_f_gl_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
@@ -726,7 +725,7 @@
 }
 [t:template,n:base_scm_v_f_gl_ru_contents]
 {
-    specializes = base_scm_v_f_gl_ru_contents_base;
+	specializes = base_scm_v_f_gl_ru_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
@@ -782,7 +781,7 @@
 }
 [t:template,n:base_scm_v_f_he_contents]
 {
-    specializes = base_scm_v_f_he_contents_base;
+	specializes = base_scm_v_f_he_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
@@ -839,7 +838,7 @@
 }
 [t:template,n:base_scm_v_f_he_ru_contents]
 {
-    specializes = base_scm_v_f_he_ru_contents_base;
+	specializes = base_scm_v_f_he_ru_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
@@ -894,7 +893,7 @@
 }
 [t:template,n:base_scm_v_f_sh_contents]
 {
-    specializes = base_scm_v_f_sh_contents_base;
+	specializes = base_scm_v_f_sh_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
@@ -957,7 +956,7 @@
 }
 [t:template,n:base_scm_v_f_sh_ru_contents]
 {
-    specializes = base_scm_v_f_sh_ru_contents_base;
+	specializes = base_scm_v_f_sh_ru_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
@@ -1039,7 +1038,7 @@
 }
 [t:template,n:base_scm_v_m_bd_contents]
 {
-    specializes = base_scm_v_m_bd_contents_base;
+	specializes = base_scm_v_m_bd_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
@@ -1132,7 +1131,7 @@
 }
 [t:template,n:base_scm_v_m_bd_ru_contents]
 {
-    specializes = base_scm_v_m_bd_ru_contents_base;
+	specializes = base_scm_v_m_bd_ru_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
@@ -1204,7 +1203,7 @@
 }
 [t:template,n:base_scm_v_m_hgb_contents]
 {
-    specializes = base_scm_v_m_hgb_contents_base;
+	specializes = base_scm_v_m_hgb_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
@@ -1258,7 +1257,7 @@
 }
 [t:template,n:base_scm_v_m_hgb_ru_contents]
 {
-    specializes = base_scm_v_m_hgb_ru_contents_base;
+	specializes = base_scm_v_m_hgb_ru_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
@@ -1287,7 +1286,7 @@
 }
 [t:template,n:base_scm_v_r_amr_ru_contents]
 {
-    specializes = base_scm_v_r_amr_ru_contents_base;
+	specializes = base_scm_v_r_amr_ru_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
@@ -1323,7 +1322,7 @@
 }
 [t:template,n:base_scm_v_r_bd_contents]
 {
-    specializes = base_scm_v_r_bd_contents_base;
+	specializes = base_scm_v_r_bd_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
@@ -1373,7 +1372,7 @@
 }
 [t:template,n:base_scm_x_any_contents]
 {
-    specializes = base_scm_x_any_contents_base;
+	specializes = base_scm_x_any_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
