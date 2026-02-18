@@ -2,6 +2,7 @@
 {
 	specializes = base_scm_merchant_bodrus;
 	common:screen_name = "Other Armor Stuff";
+	mind:jat_talk = world\ai\jobs\minibits\generic-talk-skrits\job_talk_npc.skrit?talk_anim=;
 }
 [t:template,n:base_scm_x_any_contents_base] { specializes = base_scm_merchant_armor_rest; }
 [t:template,n:scm_merchant_armor_rest] { specializes = base_scm_x_any_contents; }
