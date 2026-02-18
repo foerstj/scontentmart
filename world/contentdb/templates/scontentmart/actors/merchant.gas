@@ -167,25 +167,3 @@
 		}
 	}
 }
-
-[t:template,n:scm_merchant_excluded]
-{
-	specializes = base_scm_merchant_bodrus;
-
-	common:screen_name = "Forbidden Stuff";
-
-	[inventory]
-	{
-		[store_pcontent]
-		{
-			full_ratio = 0;
-			[armor]
-			{
-				[all*]
-				{
-					il_main = #he_fu_pl_smallwings_kavaren;
-				}
-			}
-		}
-	}
-}
