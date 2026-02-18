@@ -1,37 +1,7 @@
-[t:template,n:scm_dsx_merchant_armor_body_fighter_all]
+[t:template,n:base_scm_dsx_merchant_armor_body_fighter_all]
 {
 	specializes = base_scm_dsx_merchant_ohna;
-
 	common:screen_name = "LoA Fighter Armor";
-
-	[inventory]
-	{
-		[store_pcontent]
-		{
-			full_ratio = 0;
-			[armor]
-			{
-				[all*]
-				{
-					il_main = #bd_ch_f_g_c_avg_hassat_dsx:base;
-					il_main = #bd_le_f_g_c_avg_zaurask_dsx:base;
-					il_main = #bd_ba_f_g_c_avg_hassat_dsx:base;
-					il_main = #bd_le_f_g_c_avg_hassat_dsx:base;
-					il_main = #bd_ba_f_g_c_avg_zpad_dsx:base;
-					il_main = #bd_pl_f_g_c_avg_alloy_dsx:base;
-					il_main = #bd_le_f_g_c_avg_zcured_dsx:base;
-					il_main = #bd_pl_f_g_c_avg_utraean_dsx:base;
-					il_main = #bd_le_f_g_c_avg_dragon_dsx:base;
-					il_main = #bd_le_f_g_c_avg_nemean_dsx:base;
-					il_main = #bd_sc_f_g_c_avg_dragon_dsx:base;
-					il_main = #bd_bp_f_g_c_avg_alloy_dsx:base;
-					il_main = #bd_sl_f_g_c_avg_nemean_dsx:base;
-					il_main = #bd_pl_f_g_c_avg_alloy2_dsx:base;
-					il_main = #bd_pl_f_g_c_avg_dragon_dsx:base;
-					il_main = #bd_bp_f_g_c_avg_utraean_dsx:base;
-					il_main = #bd_bp_f_g_c_avg_alloy2_dsx:base;
-				}
-			}
-		}
-	}
 }
+[t:template,n:base_scm_loa_f_bd_contents_base] { specializes = base_scm_dsx_merchant_armor_body_fighter_all; }
+[t:template,n:scm_dsx_merchant_armor_body_fighter_all] { specializes = base_scm_loa_f_bd_contents; }
