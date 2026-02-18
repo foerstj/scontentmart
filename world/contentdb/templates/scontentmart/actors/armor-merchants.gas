@@ -128,7 +128,6 @@
 					il_main = #sh_un_m_o_r_m_turtle_01_dsx;
 					il_main = #sh_un_m_o_r_m_turtle_dsx;
 					il_main = #sh_un_m_o_k_m_dermal_dsx;
-					il_main = #sh_w_f_g_c_t_s_avg_deathknight_monster;
 					il_main = #sh_w_f_g_c_t_s_avg_deathknight_player;
 					il_main = #2w_sh_w_f_g_c_t_s_avg_deathknight_player;
 					il_main = #3w_sh_w_f_g_c_t_s_avg_deathknight_player;
@@ -849,7 +848,6 @@
 				[all*]
 				{
 					il_main = #he_fu_pl_knight_fin_03:base;
-					il_main = #he_fu_pl_smallwings_kavaren:base;
 					il_main = #he_ra_ca_pl_avg:base/+brilliant;
 					il_main = #he_ra_ca_pl_cap:base/+brilliant;
 					il_main = #he_ra_ca_pl_dome:base/+brilliant;
@@ -1385,9 +1383,29 @@
 					il_main = #bo_bo_le_light;
 					il_main = #he_ca_le_avg:base;
 					il_main = #he_ra_ca_le_avg:base/+brilliant;
-					il_main = #tongs;
 					il_main = #he_ra_ca_le_avg_pimp/+brilliant;
 					il_main = #he_threestorms;
+				}
+			}
+		}
+	}
+}
+[t:template,n:base_scm_x_excluded_contents]
+{
+	specializes = base_scm_x_excluded_contents_base;
+	[inventory]
+	{
+		[store_pcontent]
+		{
+			full_ratio = 0;
+			[armor]
+			{
+				[all*]
+				{
+					il_main = #he_fu_pl_smallwings_kavaren:base;
+					il_main = #tongs;
+					il_main = #bd_pl_f_g_c_death_knight;
+					il_main = #sh_w_f_g_c_t_s_avg_deathknight_monster;
 				}
 			}
 		}
