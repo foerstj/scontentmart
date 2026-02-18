@@ -213,6 +213,94 @@
 	  p position = 0.00974286,0,2.93283,0xe3c8a80a;
 	}
 }
+[t:scm_dsx_merchant_armor_body_mage_all,n:0x0010001a]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+			es_chest = bd_le_m_g_c_avg_ltmech_dsx;
+		}
+	}
+	[placement]
+	{
+	  p position = -2.12483,0,-0.0368624,0xe3c8a80a;
+	}
+}
+[t:scm_dsx_merchant_armor_hgb_mage_all,n:0x0010001b]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+			es_feet = bo_bo_sc_m_g_c_avg_beaded_dsx;
+			es_forearms = gl_ga_sc_m_g_c_avg_beaded_dsx;
+			es_head = he_vi_pl_m_beaded_headdress_dsx;
+		}
+	}
+	[placement]
+	{
+	  p position = -2.67667,0,-2.84099,0xe3c8a80a;
+	}
+}
+[t:scm_dsx_merchant_armor_body_ranger_all,n:0x0010001e]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+			es_chest = bd_br_r_g_c_avg_laleaf_dsx;
+		}
+	}
+	[placement]
+	{
+	  p position = -2.49011,0,-0.665199,0x63464db8;
+	}
+}
+[t:scm_dsx_merchant_armor_hgb_ranger_all,n:0x0010001f]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+			es_feet = bo_sh_sc_r_g_c_avg_bug2_dsx;
+			es_forearms = gl_gl_sc_r_g_c_avg_rubber_dsx;
+			es_head = he_vi_pl_r_rubber_visor_dsx;
+		}
+	}
+	[placement]
+	{
+	  p position = -2.83448,9.53674e-007,-2.48724,0x63464db8;
+	}
+}
 [t:scm_merchant_armor_armor_ranger_special,n:0x00100015]
 {
 	[conversation]
@@ -234,6 +322,28 @@
 	[placement]
 	{
 	  p position = -0.577838,0.5,0.638467,0x4de7d84f;
+	}
+}
+[t:scm_dsx_merchant_armor_shield_ranger_all,n:0x00100020]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+			es_shield_hand = sh_w_r_g_c_t_m_avg_bug_dsx;
+		}
+	}
+	[placement]
+	{
+	  q orientation = 0,-0.382683,0,0.92388;
+	  p position = 0.0387421,0,1.00949,0x4b575453;
 	}
 }
 [t:scm_merchant_excluded,n:0x00100011]
@@ -293,5 +403,26 @@
 	[placement]
 	{
 	  p position = -0.380705,0.5,0.678914,0x8ff956dd;
+	}
+}
+[t:scm_dsx_merchant_armor_shield_mage_all,n:0x0010001c]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+			es_shield_hand = sh_w_m_g_c_t_m_avg_wicker_dsx;
+		}
+	}
+	[placement]
+	{
+	  p position = 1.65401,0,-0.00205898,0x2a8fde2d;
 	}
 }
