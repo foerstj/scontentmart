@@ -1,0 +1,26 @@
+[t:skill_rune_drdeath,n:0x00100018]
+{
+	[common]
+	{
+	  b is_multi_player = false;
+	}
+	[placement]
+	{
+	  p position = 1.98496,0,-0.00733423,0x5102cd08;
+	}
+}
+[t:gold,n:0x00100019]
+{
+	[aspect]
+	{
+	  i gold_value = 9999999;
+	}
+	[common]
+	{
+	  b is_multi_player = false;
+	}
+	[placement]
+	{
+	  p position = -0.993273,0,-0.0135448,0x5102cd08;
+	}
+}
