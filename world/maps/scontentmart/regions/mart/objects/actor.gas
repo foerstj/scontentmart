@@ -12,7 +12,7 @@
 	  p position = 0,0,-3.88034,0x5102cd08;
 	}
 }
-[t:scm_merchant_armor_ranger,n:0x00100005]
+[t:scm_merchant_armor_body_ranger_normal,n:0x00100005]
 {
 	[conversation]
 	{
@@ -34,7 +34,7 @@
 	  p position = 1.97283,0,-0.981769,0xbf067807;
 	}
 }
-[t:scm_merchant_helm_fighter,n:0x00100007]
+[t:scm_merchant_armor_helm_fighter_normal,n:0x00100007]
 {
 	[conversation]
 	{
@@ -57,7 +57,7 @@
 	  p position = 1.8419,0,-0.479362,0x9b9524e3;
 	}
 }
-[t:scm_merchant_armor_fighter_rare,n:0x00100006]
+[t:scm_merchant_armor_body_fighter_special,n:0x00100006]
 {
 	[conversation]
 	{
@@ -79,29 +79,7 @@
 	  p position = -0.470683,0.499999,0.499864,0xc86a989a;
 	}
 }
-[t:scm_merchant_armor_fighter_unique,n:0x00100016]
-{
-	[conversation]
-	{
-		[conversations]
-		{
-			* = shop;
-		}
-	}
-	[inventory]
-	{
-		[equipment]
-		{
-			es_chest = bd_un_bl_f_g_c_blood;
-			es_feet = bo_bo_le_light;
-		}
-	}
-	[placement]
-	{
-	  p position = 0.967724,0.500001,0.187264,0xc86a989a;
-	}
-}
-[t:scm_merchant_armor_fighter,n:0x00100003]
+[t:scm_merchant_armor_body_fighter_normal,n:0x00100003]
 {
 	[conversation]
 	{
@@ -123,7 +101,7 @@
 	  p position = 1.97527,0.5,0.97851,0x760c2352;
 	}
 }
-[t:scm_dsx_merchant_armor_fighter,n:0x00100004]
+[t:scm_dsx_merchant_armor_body_fighter_all,n:0x00100004]
 {
 	[conversation]
 	{
@@ -144,7 +122,7 @@
 	  p position = 0.49085,0.500001,0.562361,0x760c2352;
 	}
 }
-[t:scm_merchant_helm_mage,n:0x00100008]
+[t:scm_merchant_armor_hgb_mage_normal,n:0x00100008]
 {
 	[conversation]
 	{
@@ -166,7 +144,7 @@
 	  p position = 0.00974286,0,2.93283,0xe3c8a80a;
 	}
 }
-[t:scm_merchant_armor_ranger_rare,n:0x00100015]
+[t:scm_merchant_armor_armor_ranger_special,n:0x00100015]
 {
 	[conversation]
 	{
@@ -188,28 +166,6 @@
 	  p position = -0.577838,0.5,0.638467,0x4de7d84f;
 	}
 }
-[t:scm_merchant_armor_ranger_unique,n:0x00100017]
-{
-	[conversation]
-	{
-		[conversations]
-		{
-			* = shop;
-		}
-	}
-	[inventory]
-	{
-		[equipment]
-		{
-			es_chest = bd_un_bl_r_leaf;
-			es_feet = bo_bo_le_light;
-		}
-	}
-	[placement]
-	{
-	  p position = 0.747003,0.5,0.381529,0x4de7d84f;
-	}
-}
 [t:scm_merchant_excluded,n:0x00100011]
 {
 	[conversation]
@@ -225,7 +181,7 @@
 	  p position = -1.62859,-3.5,-0.989203,0x0f1db0f2;
 	}
 }
-[t:scm_merchant_armor_mage,n:0x00100012]
+[t:scm_merchant_armor_body_mage_normal,n:0x00100012]
 {
 	[conversation]
 	{
@@ -247,7 +203,7 @@
 	  p position = 1.97069,9.53674e-007,-0.959658,0x37202039;
 	}
 }
-[t:scm_merchant_armor_mage_rare,n:0x00100013]
+[t:scm_merchant_armor_body_mage_special,n:0x00100013]
 {
 	[conversation]
 	{
@@ -267,27 +223,5 @@
 	[placement]
 	{
 	  p position = -0.380705,0.5,0.678914,0x8ff956dd;
-	}
-}
-[t:scm_merchant_armor_mage_unique,n:0x00100014]
-{
-	[conversation]
-	{
-		[conversations]
-		{
-			* = shop;
-		}
-	}
-	[inventory]
-	{
-		[equipment]
-		{
-			es_chest = bd_ro_un_merik;
-			es_feet = bo_bo_le_light;
-		}
-	}
-	[placement]
-	{
-	  p position = 1.01065,0.5,0.398808,0x8ff956dd;
 	}
 }
