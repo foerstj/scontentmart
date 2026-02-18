@@ -262,6 +262,52 @@
 	  p position = -2.80604,0,-3.44553,0x9b9524e3;
 	}
 }
+[t:scm_merchant_armor_shield_fighter_normal,n:0x00100031]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+			es_feet = bo_bo_le_light;
+			es_shield_hand = sh_w_g_c_s_m_fun;
+		}
+	}
+	[placement]
+	{
+	  q orientation = 0,0.707107,0,0.707107;
+	  p position = 0.10714,0,-1.95669,0x9b9524e3;
+	}
+}
+[t:scm_merchant_armor_shield_fighter_special,n:0x00100032]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+			es_feet = bo_bo_le_light;
+			es_shield_hand = sh_u_g_c_k_l_avg;
+		}
+	}
+	[placement]
+	{
+	  q orientation = 0,0.707107,0,0.707107;
+	  p position = -0.0501471,0,-3.01265,0x9b9524e3;
+	}
+}
 [t:scm_merchant_armor_boots_fighter_normal,n:0x0010002f]
 {
 	[conversation]
