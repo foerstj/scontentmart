@@ -2,6 +2,8 @@
 {
 	specializes = base_scm_dsx_merchant_ohna;
 
+	common:screen_name = "LoA Fighter Armor";
+
 	[inventory]
 	{
 		[store_pcontent]
