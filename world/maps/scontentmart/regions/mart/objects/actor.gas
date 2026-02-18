@@ -114,9 +114,9 @@
 	{
 		[equipment]
 		{
-			es_feet = bo_bo_sc_f_g_c_avg_alloy_dsx;
-			es_forearms = gl_ga_sc_f_g_c_avg_alloy_dsx;
-			es_head = he_op_pl_f_ofkhar_dsx;
+			es_feet = bo_bo_sc_f_g_c_avg_alloy2_dsx;
+			es_forearms = gl_ga_sc_f_g_c_avg_alloy2_dsx;
+			es_head = he_op_pl_f_allow_crown_dsx;
 		}
 	}
 	[placement]
@@ -138,7 +138,7 @@
 	{
 		[equipment]
 		{
-			es_shield_hand = sh_w_f_g_c_t_s_avg_deathknight_player;
+			es_shield_hand = sh_un_m_o_k_m_dermal_dsx;
 		}
 	}
 	[placement]
