@@ -1,9 +1,9 @@
-[t:template,n:base_scm_merchant_adwana]
+[t:template,n:base_scm_merchant_vanilla]
 {
 	specializes = base_npc_fg_talk;
 
 	category_name = "1W_shopkeep";
-	doc = "adwana";
+	doc = "SCM merchant vanilla";
 	[actor]
 	{
 		portrait_icon = b_gui_ig_i_ic_c_adwana;
@@ -24,7 +24,7 @@
 	}
 	[common]
 	{
-		screen_name = "Adwana";
+		screen_name = "SCM Vanilla Merchant";
 	}
 	[conversation]
 	{
@@ -33,7 +33,6 @@
 	{
 		[equipment]
 		{
-			es_feet = bo_bo_le_light;
 		}
 		[store_pcontent]
 		{
@@ -52,6 +51,59 @@
 		jat_talk = world\ai\jobs\minibits\generic-talk-skrits\job_talk_npc.skrit;
 	}
 }
+[t:template,n:base_scm_merchant_vanilla_01]
+{
+	specializes = base_scm_merchant_vanilla;
+	actor:portrait_icon = b_gui_ig_i_ic_c_prieve;
+	[aspect]
+	{
+		[textures]
+		{
+			0 = b_c_gah_fg_skin_01;
+			1 = b_c_pos_a1_008;
+		}
+	}
+}
+[t:template,n:base_scm_merchant_vanilla_02]
+{
+	specializes = base_scm_merchant_vanilla;
+	actor:portrait_icon = b_gui_ig_i_ic_c_ly;
+	[aspect]
+	{
+		[textures]
+		{
+			0 = b_c_gah_fg_skin_13;
+			1 = b_c_pos_a1_008;
+		}
+	}
+}
+[t:template,n:base_scm_merchant_vanilla_03]
+{
+	specializes = base_scm_merchant_vanilla;
+	actor:portrait_icon = b_gui_ig_i_ic_c_jewlynna;
+	[aspect]
+	{
+		[textures]
+		{
+			0 = b_c_gah_fg_skin_14;
+			1 = b_c_pos_a1_008;
+		}
+	}
+}
+[t:template,n:base_scm_merchant_vanilla_04]
+{
+	specializes = base_scm_merchant_vanilla;
+	actor:portrait_icon = b_gui_ig_i_ic_c_phaedriel;
+	[aspect]
+	{
+		[textures]
+		{
+			0 = b_c_gah_fg_skin_25;
+			1 = b_c_pos_a1_008;
+		}
+	}
+}
+
 
 [t:template,n:base_scm_merchant_bodrus]
 {

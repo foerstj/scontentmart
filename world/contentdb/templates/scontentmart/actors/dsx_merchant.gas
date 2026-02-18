@@ -1,6 +1,6 @@
 [t:template,n:base_scm_dsx_merchant_sets]
 {
-	specializes = base_scm_dsx_merchant_ohna;
+	specializes = base_scm_merchant_loa;
 	common:screen_name = "LoA Sets";
 }
 [t:template,n:base_scm_loa_any_sets_contents_base] { specializes = base_scm_dsx_merchant_sets; }
@@ -9,7 +9,7 @@
 
 [t:template,n:base_scm_dsx_merchant_armor_body_fighter_all]
 {
-	specializes = base_scm_dsx_merchant_ohna;
+	specializes = base_scm_merchant_loa;
 	common:screen_name = "LoA Fighter Armor";
 }
 [t:template,n:base_scm_loa_f_bd_contents_base] { specializes = base_scm_dsx_merchant_armor_body_fighter_all; }
@@ -17,7 +17,7 @@
 
 [t:template,n:base_scm_dsx_merchant_armor_hgb_fighter_all]
 {
-	specializes = base_scm_dsx_merchant_ohna;
+	specializes = base_scm_merchant_loa;
 	common:screen_name = "LoA Fighter Helmets / Gloves / Boots";
 }
 [t:template,n:base_scm_loa_f_hgb_contents_base] { specializes = base_scm_dsx_merchant_armor_hgb_fighter_all; }
@@ -25,7 +25,7 @@
 
 [t:template,n:base_scm_dsx_merchant_armor_shield_fighter_all]
 {
-	specializes = base_scm_dsx_merchant_ohna;
+	specializes = base_scm_merchant_loa;
 	common:screen_name = "LoA Fighter Shields";
 }
 [t:template,n:base_scm_loa_f_sh_contents_base] { specializes = base_scm_dsx_merchant_armor_shield_fighter_all; }
@@ -34,7 +34,7 @@
 
 [t:template,n:base_scm_dsx_merchant_armor_body_ranger_all]
 {
-	specializes = base_scm_dsx_merchant_ohna;
+	specializes = base_scm_merchant_loa;
 	common:screen_name = "LoA Ranger Armor";
 }
 [t:template,n:base_scm_loa_r_bd_contents_base] { specializes = base_scm_dsx_merchant_armor_body_ranger_all; }
@@ -42,7 +42,7 @@
 
 [t:template,n:base_scm_dsx_merchant_armor_hgb_ranger_all]
 {
-	specializes = base_scm_dsx_merchant_ohna;
+	specializes = base_scm_merchant_loa;
 	common:screen_name = "LoA Ranger Helmets / Gloves / Boots";
 }
 [t:template,n:base_scm_loa_r_hgb_contents_base] { specializes = base_scm_dsx_merchant_armor_hgb_ranger_all; }
@@ -50,7 +50,7 @@
 
 [t:template,n:base_scm_dsx_merchant_armor_shield_ranger_all]
 {
-	specializes = base_scm_dsx_merchant_ohna;
+	specializes = base_scm_merchant_loa;
 	common:screen_name = "LoA Ranger Shields";
 }
 [t:template,n:base_scm_loa_r_sh_contents_base] { specializes = base_scm_dsx_merchant_armor_shield_ranger_all; }
@@ -59,7 +59,7 @@
 
 [t:template,n:base_scm_dsx_merchant_armor_body_mage_all]
 {
-	specializes = base_scm_dsx_merchant_ohna;
+	specializes = base_scm_merchant_loa;
 	common:screen_name = "LoA Mage Armor";
 }
 [t:template,n:base_scm_loa_m_bd_contents_base] { specializes = base_scm_dsx_merchant_armor_body_mage_all; }
@@ -67,7 +67,7 @@
 
 [t:template,n:base_scm_dsx_merchant_armor_hgb_mage_all]
 {
-	specializes = base_scm_dsx_merchant_ohna;
+	specializes = base_scm_merchant_loa;
 	common:screen_name = "LoA Mage Helmets / Gloves / Boots";
 }
 [t:template,n:base_scm_loa_m_hgb_contents_base] { specializes = base_scm_dsx_merchant_armor_hgb_mage_all; }
@@ -75,7 +75,7 @@
 
 [t:template,n:base_scm_dsx_merchant_armor_shield_mage_all]
 {
-	specializes = base_scm_dsx_merchant_ohna;
+	specializes = base_scm_merchant_loa;
 	common:screen_name = "LoA Mage Shields";
 }
 [t:template,n:base_scm_loa_m_sh_contents_base] { specializes = base_scm_dsx_merchant_armor_shield_mage_all; }

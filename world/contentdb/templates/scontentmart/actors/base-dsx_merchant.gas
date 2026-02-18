@@ -1,9 +1,9 @@
-[t:template,n:base_scm_dsx_merchant_ohna]
+[t:template,n:base_scm_merchant_loa]
 {
 	specializes = dsx_base_npc_fg;
 
 	category_name = "1W_shopkeep";
-	doc = "Ohna";
+	doc = "SCM merchant loa";
 	[actor]
 	{
 		portrait_icon = b_gui_ig_i_ic_c_ohna;
@@ -17,13 +17,13 @@
 		{
 			0 = b_c_gan_utraean_skin_04;
 			//1 = b_c_pos_a7_032;
-			1 = b_c_pos_a1_utraean-04;
+			1 = b_c_pos_a1_008;
 		}
 		//model = m_c_gah_fg_pos_a7;
 	}
 	[common]
 	{
-		screen_name = "Ohna";
+		screen_name = "SCM LoA Merchant";
 	}
 	[conversation]
 	{
