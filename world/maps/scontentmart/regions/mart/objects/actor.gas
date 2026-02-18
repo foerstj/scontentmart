@@ -56,6 +56,29 @@
 	  p position = -0.183595,0,1.93197,0x116cdc5c;
 	}
 }
+[t:scm_merchant_armor_body_fighter_normal,n:0x00100003]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+			es_chest = bd_ch_f_g_c_avg;
+			es_feet = bo_bo_le_light;
+		}
+	}
+	[placement]
+	{
+	  q orientation = 0,0.707107,0,0.707107;
+	  p position = 1.5974,0,-1.75173,0x9b9524e3;
+	}
+}
 [t:scm_dsx_merchant_armor_body_fighter_all,n:0x00100004]
 {
 	[conversation]
@@ -78,6 +101,29 @@
 	  p position = 1.16421,0,2.36678,0x9b9524e3;
 	}
 }
+[t:scm_merchant_armor_body_fighter_special,n:0x00100006]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+			es_chest = bd_ra_sc_f_g_o_mag;
+			es_feet = bo_bo_le_light;
+		}
+	}
+	[placement]
+	{
+	  q orientation = 0,0.707107,0,0.707107;
+	  p position = 1.469,0,-3.25209,0x9b9524e3;
+	}
+}
 [t:scm_merchant_armor_helm_fighter_normal,n:0x00100007]
 {
 	[conversation]
@@ -92,13 +138,13 @@
 		[equipment]
 		{
 			es_feet = bo_bo_le_light;
-			es_head = he_op_pl_roman;
+			es_head = he_fu_pl_spike;
 		}
 	}
 	[placement]
 	{
-	  q orientation = 0,0.707107,0,0.707107;
-	  p position = 1.8419,0,-0.479362,0x9b9524e3;
+	  q orientation = 0,0.92388,0,0.382684;
+	  p position = -1.74811,0,-0.358952,0x9b9524e3;
 	}
 }
 [t:scm_dsx_merchant_armor_hgb_fighter_all,n:0x00100016]
@@ -147,7 +193,7 @@
 	  p position = -1.03595,0,3.91929,0x9b9524e3;
 	}
 }
-[t:scm_merchant_armor_body_fighter_special,n:0x00100006]
+[t:scm_merchant_armor_helm_fighter_special,n:0x0010002c]
 {
 	[conversation]
 	{
@@ -160,16 +206,17 @@
 	{
 		[equipment]
 		{
-			es_chest = bd_ra_sc_f_g_o_mag;
 			es_feet = bo_bo_le_light;
+			es_head = he_un_ca_tallcrown;
 		}
 	}
 	[placement]
 	{
-	  p position = -0.470683,0.499999,0.499864,0xc86a989a;
+	  q orientation = 0,0.92388,0,0.382683;
+	  p position = -2.45926,0,-1.06366,0x9b9524e3;
 	}
 }
-[t:scm_merchant_armor_body_fighter_normal,n:0x00100003]
+[t:scm_merchant_armor_gloves_fighter_normal,n:0x0010002d]
 {
 	[conversation]
 	{
@@ -182,13 +229,81 @@
 	{
 		[equipment]
 		{
-			es_chest = bd_ch_f_g_c_avg;
 			es_feet = bo_bo_le_light;
+			es_forearms = gl_ga_ba_f_g_c_avg;
 		}
 	}
 	[placement]
 	{
-	  p position = 1.97527,0.5,0.97851,0x760c2352;
+	  q orientation = 0,0.707107,0,0.707107;
+	  p position = -2.79683,0,-2.32386,0x9b9524e3;
+	}
+}
+[t:scm_merchant_armor_gloves_fighter_special,n:0x0010002e]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+			es_feet = bo_bo_le_light;
+			es_forearms = gl_un_gl_ro_m_molten;
+		}
+	}
+	[placement]
+	{
+	  q orientation = 0,0.707107,0,0.707107;
+	  p position = -2.80604,0,-3.44553,0x9b9524e3;
+	}
+}
+[t:scm_merchant_armor_boots_fighter_normal,n:0x0010002f]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+			es_feet = bo_bo_br_f_g_c_avg;
+		}
+	}
+	[placement]
+	{
+	  q orientation = 0,-0.382683,0,0.92388;
+	  p position = -1.36733,0,-0.204128,0xd3cf1258;
+	}
+}
+[t:scm_merchant_armor_boots_fighter_special,n:0x00100030]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+			es_feet = bo_un_bo_ro_m_molten;
+		}
+	}
+	[placement]
+	{
+	  q orientation = 0,-0.382683,0,0.92388;
+	  p position = -0.60563,0,0.568921,0xd3cf1258;
 	}
 }
 [t:scm_merchant_armor_hgb_mage_normal,n:0x00100008]

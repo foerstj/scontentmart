@@ -14,6 +14,55 @@
 [t:template,n:base_scm_v_f_bd_ru_contents_base] { specializes = base_scm_merchant_armor_body_fighter_special; }
 [t:template,n:scm_merchant_armor_body_fighter_special] { specializes = base_scm_v_f_bd_ru_contents; }
 
+[t:template,n:base_scm_merchant_armor_helm_fighter_normal]
+{
+	specializes = base_scm_merchant_adwana;
+	common:screen_name = "Fighter Helmets";
+}
+[t:template,n:base_scm_v_f_he_contents_base] { specializes = base_scm_merchant_armor_helm_fighter_normal; }
+[t:template,n:scm_merchant_armor_helm_fighter_normal] { specializes = base_scm_v_f_he_contents; }
+
+[t:template,n:base_scm_merchant_armor_helm_fighter_special]
+{
+	specializes = base_scm_merchant_adwana;
+	common:screen_name = "Special Fighter Helmets";
+}
+[t:template,n:base_scm_v_f_he_ru_contents_base] { specializes = base_scm_merchant_armor_helm_fighter_special; }
+[t:template,n:scm_merchant_armor_helm_fighter_special] { specializes = base_scm_v_f_he_ru_contents; }
+
+[t:template,n:base_scm_merchant_armor_gloves_fighter_normal]
+{
+	specializes = base_scm_merchant_adwana;
+	common:screen_name = "Fighter Gloves";
+}
+[t:template,n:base_scm_v_f_gl_contents_base] { specializes = base_scm_merchant_armor_gloves_fighter_normal; }
+[t:template,n:scm_merchant_armor_gloves_fighter_normal] { specializes = base_scm_v_f_gl_contents; }
+
+[t:template,n:base_scm_merchant_armor_gloves_fighter_special]
+{
+	specializes = base_scm_merchant_adwana;
+	common:screen_name = "Special Fighter Gloves";
+}
+[t:template,n:base_scm_v_f_gl_ru_contents_base] { specializes = base_scm_merchant_armor_gloves_fighter_special; }
+[t:template,n:scm_merchant_armor_gloves_fighter_special] { specializes = base_scm_v_f_gl_ru_contents; }
+
+[t:template,n:base_scm_merchant_armor_boots_fighter_normal]
+{
+	specializes = base_scm_merchant_adwana;
+	common:screen_name = "Fighter Boots";
+}
+[t:template,n:base_scm_v_f_bo_contents_base] { specializes = base_scm_merchant_armor_boots_fighter_normal; }
+[t:template,n:scm_merchant_armor_boots_fighter_normal] { specializes = base_scm_v_f_bo_contents; }
+
+[t:template,n:base_scm_merchant_armor_boots_fighter_special]
+{
+	specializes = base_scm_merchant_adwana;
+	common:screen_name = "Special Fighter Boots";
+}
+[t:template,n:base_scm_v_f_bo_ru_contents_base] { specializes = base_scm_merchant_armor_boots_fighter_special; }
+[t:template,n:scm_merchant_armor_boots_fighter_special] { specializes = base_scm_v_f_bo_ru_contents; }
+
+
 [t:template,n:base_scm_merchant_armor_body_ranger_normal]
 {
 	specializes = base_scm_merchant_adwana;
@@ -30,6 +79,7 @@
 [t:template,n:base_scm_v_r_amr_ru_contents_base] { specializes = base_scm_merchant_armor_armor_ranger_special; }
 [t:template,n:scm_merchant_armor_armor_ranger_special] { specializes = base_scm_v_r_amr_ru_contents; }
 
+
 [t:template,n:base_scm_merchant_armor_body_mage_normal]
 {
 	specializes = base_scm_merchant_adwana;
@@ -45,14 +95,6 @@
 }
 [t:template,n:base_scm_v_m_bd_ru_contents_base] { specializes = base_scm_merchant_armor_body_mage_special; }
 [t:template,n:scm_merchant_armor_body_mage_special] { specializes = base_scm_v_m_bd_ru_contents; }
-
-[t:template,n:base_scm_merchant_armor_helm_fighter_normal]
-{
-	specializes = base_scm_merchant_adwana;
-	common:screen_name = "Fighter Helmets";
-}
-[t:template,n:base_scm_v_f_he_contents_base] { specializes = base_scm_merchant_armor_helm_fighter_normal; }
-[t:template,n:scm_merchant_armor_helm_fighter_normal] { specializes = base_scm_v_f_he_contents; }
 
 [t:template,n:base_scm_merchant_armor_hgb_mage_normal]
 {
