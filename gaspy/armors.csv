@@ -1,619 +1,619 @@
-Template;Screen Name;Stance;SCM Shop;LoA;World Level;Excluded;Item Set;Armor Type;Rarity;Material;TN Stance;Req. Stat;Icon;Variants
-bd_ch_f_g_c_avg;Thick Chain;Fighter;v_f_bd;;;;;Body;;ch;f;str;b_gui_ig_i_a_pos_a4_004;base, c_fin, c_str, o_fin
-bd_ch_f_g_c_fun;Rusty Chain;Fighter;v_f_bd;;;;;Body;;ch;f;str;b_gui_ig_i_a_pos_a4_010;base
-bd_ch_f_g_c_low;Stiff Chain;Fighter;v_f_bd;;;;;Body;;ch;f;str;b_gui_ig_i_a_pos_a3_008;base
-bd_ch_m_g_c_avg;Thin Chain;Mage;v_m_bd;;;;;Body;;ch;m;str;b_gui_ig_i_a_pos_a1_022;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
-bd_ch_r_g_c_avg;Chain Mail;Ranger;v_r_bd;;;;;Body;;ch;r;str;b_gui_ig_i_a_pos_a2_029;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
-bd_ch_r_g_c_fun;Tarnished Chain Mail;Ranger;v_r_bd;;;;;Body;;ch;r;str;b_gui_ig_i_a_pos_a2_017;base
-bd_ra_ch_m_g_c_fin;Solar Chain;Mage;v_m_bd_ru;;;;;Body;rare;ch;m;str;b_gui_ig_i_a_pos_a2_064;base, o_avg, o_fin
-bd_ra_ch_r_g_o_fin;Dragon Weave;Ranger;v_r_amr_ru;;;;;Body;rare;ch;r;str;b_gui_ig_i_a_pos_a2_062;base, c_str, o_mag
-bd_ra_sc_f_g_o_mag;Blood Scale;Fighter;v_f_bd_ru;;;;;Body;rare;sc;f;str;b_gui_ig_i_a_pos_a4_013;base
-bd_ra_sc_m_g_c_fin;Shadow Scale;Mage;v_m_bd_ru;;;;;Body;rare;sc;m;str;b_gui_ig_i_a_pos_a2_061;base, c_mag, o_fin
-bd_ra_sc_r_g_c_fin;Noble Scale;Ranger;v_r_amr_ru;;;;;Body;rare;sc;r;str;b_gui_ig_i_a_pos_a4_011;base, c_str
-bd_sc_f_g_c_avg;Thick Scale;Fighter;v_f_bd;;;;;Body;;sc;f;str;b_gui_ig_i_a_pos_a3_025;base, c_str, o_fin, o_mag, o_str
-bd_sc_f_g_c_fun;Pitted Scale;Fighter;v_f_bd;;;;;Body;;sc;f;str;b_gui_ig_i_a_pos_a3_036;base
-bd_sc_f_g_o_low;Bulky Scale;Fighter;v_f_bd;;;;;Body;;sc;f;str;b_gui_ig_i_a_pos_a4_007;base
-bd_sc_m_g_c_avg;Thin Scale;Mage;v_m_bd;;;;;Body;;sc;m;;b_gui_ig_i_a_pos_a2_027;base, c_fin, c_mag, o_fin
-bd_sc_r_g_c_avg;Flexible Scale;Ranger;v_r_bd;;;;;Body;;sc;r;str;b_gui_ig_i_a_pos_a3_026;base, c_fin, c_str, o_fin
-bd_un_ch_r_green;Green Chain Mail;Ranger;v_r_amr_ru;;;;;Body;unique;ch;r;str;b_gui_ig_i_a_pos_a1_052;base
-bd_un_sc_f_dragon;Serpentine Scale;Fighter;v_f_bd_ru;;;;;Body;unique;sc;f;str;b_gui_ig_i_a_pos_a5_018;base
-bd_un_sc_r_d_o_mag;Dark Scale;Ranger;v_r_amr_ru;;;;;Body;unique;sc;r;str;b_gui_ig_i_a_pos_a3_018;base
-bd_ra_ro_m_d_c_003;Ash Burlap;Mage;v_m_bd_ru;;;;;Body;rare;ro;m;int;b_gui_ig_i_a_pos_a7_059;base
-bd_ra_ro_m_d_c_004;Ash Burlap;Mage;v_m_bd_ru;;;;;Body;rare;ro;m;int;b_gui_ig_i_a_pos_a7_061;base
-bd_ra_ro_m_d_c_009;Night Garment;Mage;v_m_bd_ru;;;;;Body;rare;ro;m;int;b_gui_ig_i_a_pos_a7_067;base
-bd_ra_ro_m_d_c_041;Blood Coat;Mage;v_m_bd_ru;;;;;Body;rare;ro;m;int;b_gui_ig_i_a_pos_a7_054;base
-bd_ra_ro_m_d_c_043;Blood Coat;Mage;v_m_bd_ru;;;;;Body;rare;ro;m;int;b_gui_ig_i_a_pos_a7_055;base
-bd_ra_ro_m_d_c_077;Dream Robe;Mage;v_m_bd_ru;;;;;Body;rare;ro;m;int;b_gui_ig_i_a_pos_a7_073;base
-bd_ra_ro_m_g_c_001;Clay Tatters;Mage;v_m_bd_ru;;;;;Body;rare;ro;m;int;b_gui_ig_i_a_pos_a7_077;base
-bd_ra_ro_m_g_c_002;Dirt Rags;Mage;v_m_bd_ru;;;;;Body;rare;ro;m;int;b_gui_ig_i_a_pos_a7_060;base
-bd_ra_ro_m_g_c_005;Solar Cloth;Mage;v_m_bd_ru;;;;;Body;rare;ro;m;int;b_gui_ig_i_a_pos_a7_058;base
-bd_ra_ro_m_g_c_005a;Gossamer Linen;Mage;v_m_bd_ru;;;;;Body;rare;ro;m;int;b_gui_ig_i_a_pos_a7_078;base
-bd_ra_ro_m_g_c_008;Night Garment;Mage;v_m_bd_ru;;;;;Body;rare;ro;m;int;b_gui_ig_i_a_pos_a7_079;base
-bd_ra_ro_m_g_c_012;Night Garment;Mage;v_m_bd_ru;;;;;Body;rare;ro;m;int;b_gui_ig_i_a_pos_a7_070;base
-bd_ra_ro_m_g_c_014;Night Garment;Mage;v_m_bd_ru;;;;;Body;rare;ro;m;int;b_gui_ig_i_a_pos_a7_080;base
-bd_ra_ro_m_g_c_015;Night Garment;Mage;v_m_bd_ru;;;;;Body;rare;ro;m;int;b_gui_ig_i_a_pos_a7_051;base
-bd_ra_ro_m_g_c_018;Astral Cloak;Mage;v_m_bd_ru;;;;;Body;rare;ro;m;int;b_gui_ig_i_a_pos_a7_081;base
-bd_ra_ro_m_g_c_020;Astral Cloak;Mage;v_m_bd_ru;;;;;Body;rare;ro;m;int;b_gui_ig_i_a_pos_a7_065;base
-bd_ra_ro_m_g_c_021;Astral Cloak;Mage;v_m_bd_ru;;;;;Body;rare;ro;m;int;b_gui_ig_i_a_pos_a7_082;base
-bd_ra_ro_m_g_c_023;Astral Cloak;Mage;v_m_bd_ru;;;;;Body;rare;ro;m;int;b_gui_ig_i_a_pos_a7_064;base
-bd_ra_ro_m_g_c_024;Astral Cloak;Mage;v_m_bd_ru;;;;;Body;rare;ro;m;int;b_gui_ig_i_a_pos_a7_083;base
-bd_ra_ro_m_g_c_026;Astral Cloak;Mage;v_m_bd_ru;;;;;Body;rare;ro;m;int;b_gui_ig_i_a_pos_a7_062;base
-bd_ra_ro_m_g_c_029;Astral Cloak;Mage;v_m_bd_ru;;;;;Body;rare;ro;m;int;b_gui_ig_i_a_pos_a7_084;base
-bd_ra_ro_m_g_c_031;Blood Coat;Mage;v_m_bd_ru;;;;;Body;rare;ro;m;int;b_gui_ig_i_a_pos_a7_068;base
-bd_ra_ro_m_g_c_034;Blood Coat;Mage;v_m_bd_ru;;;;;Body;rare;ro;m;int;b_gui_ig_i_a_pos_a7_085;base
-bd_ra_ro_m_g_c_037;Blood Coat;Mage;v_m_bd_ru;;;;;Body;rare;ro;m;int;b_gui_ig_i_a_pos_a7_072;base
-bd_ra_ro_m_g_c_039;Blood Coat;Mage;v_m_bd_ru;;;;;Body;rare;ro;m;int;b_gui_ig_i_a_pos_a7_086;base
-bd_ra_ro_m_g_c_042;Blood Coat;Mage;v_m_bd_ru;;;;;Body;rare;ro;m;int;b_gui_ig_i_a_pos_a7_087;base
-bd_ra_ro_m_g_c_045;Dream Robe;Mage;v_m_bd_ru;;;;;Body;rare;ro;m;int;b_gui_ig_i_a_pos_a7_088;base
-bd_ra_ro_m_g_c_046;Dream Robe;Mage;v_m_bd_ru;;;;;Body;rare;ro;m;int;b_gui_ig_i_a_pos_a7_052;base
-bd_ra_ro_m_g_c_053;Dream Robe;Mage;v_m_bd_ru;;;;;Body;rare;ro;m;int;b_gui_ig_i_a_pos_a7_069;base
-bd_ra_ro_m_g_c_059;Dream Robe;Mage;v_m_bd_ru;;;;;Body;rare;ro;m;int;b_gui_ig_i_a_pos_a7_071;base
-bd_ra_ro_m_g_c_065;Dream Robe;Mage;v_m_bd_ru;;;;;Body;rare;ro;m;int;b_gui_ig_i_a_pos_a7_075;base
-bd_ra_ro_m_g_c_071;Dream Robe;Mage;v_m_bd_ru;;;;;Body;rare;ro;m;int;b_gui_ig_i_a_pos_a7_076;base
-bd_ra_ro_m_g_c_084;Radiant Gown;Mage;v_m_bd_ru;;;;;Body;rare;ro;m;int;b_gui_ig_i_a_pos_a7_063;base
-bd_ra_ro_m_g_c_089;Radiant Gown;Mage;v_m_bd_ru;;;;;Body;rare;ro;m;int;b_gui_ig_i_a_pos_a7_056;base
-bd_ra_ro_m_g_c_094;Radiant Gown;Mage;v_m_bd_ru;;;;;Body;rare;ro;m;int;b_gui_ig_i_a_pos_a7_057;base
-bd_ra_ro_m_g_c_100;Shadow Finery;Mage;v_m_bd_ru;;;;;Body;rare;ro;m;int;b_gui_ig_i_a_pos_a7_074;base
-bd_ra_ro_m_g_c_105;Shadow Finery;Mage;v_m_bd_ru;;;;;Body;rare;ro;m;int;b_gui_ig_i_a_pos_a7_066;base
-bd_ra_ro_m_g_c_110;Noble Vesture;Mage;v_m_bd_ru;;;;;Body;rare;ro;m;int;b_gui_ig_i_a_pos_a7_053;base
-bd_ro_m_d_c_003;Burlap;Mage;v_m_bd;;;;;Body;;ro;m;;b_gui_ig_i_a_pos_a7_010;base
-bd_ro_m_d_c_004;Burlap;Mage;v_m_bd;;;;;Body;;ro;m;;b_gui_ig_i_a_pos_a7_012;base
-bd_ro_m_d_c_009;Garment;Mage;v_m_bd;;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_020;base
-bd_ro_m_d_c_041;Coat;Mage;v_m_bd;;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_004;base
-bd_ro_m_d_c_043;Coat;Mage;v_m_bd;;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_005;base
-bd_ro_m_d_c_077;Robe;Mage;v_m_bd;;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_026;base
-bd_ro_m_g_c_001;Tatters;Mage;v_m_bd;;;;;Body;;ro;m;;b_gui_ig_i_a_pos_a7_030;base
-bd_ro_m_g_c_002;Rags;Mage;v_m_bd;;;;;Body;;ro;m;;b_gui_ig_i_a_pos_a7_011;base
-bd_ro_m_g_c_005;Cloth;Mage;v_m_bd;;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_009;base
-bd_ro_m_g_c_005a;Linen;Mage;v_m_bd;;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_031;base
-bd_ro_m_g_c_008;Garment;Mage;v_m_bd;;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_032;base
-bd_ro_m_g_c_012;Garment;Mage;v_m_bd;;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_023;base
-bd_ro_m_g_c_014;Garment;Mage;v_m_bd;;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_033;base
-bd_ro_m_g_c_015;Garment;Mage;v_m_bd;;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_001;base
-bd_ro_m_g_c_018;Cloak;Mage;v_m_bd;;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_034;base
-bd_ro_m_g_c_020;Cloak;Mage;v_m_bd;;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_016;base
-bd_ro_m_g_c_021;Cloak;Mage;v_m_bd;;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_035;base
-bd_ro_m_g_c_022;Cloak;Mage;v_m_bd;;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_042;base
-bd_ro_m_g_c_023;Cloak;Mage;v_m_bd;;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_015;base
-bd_ro_m_g_c_024;Cloak;Mage;v_m_bd;;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_036;base
-bd_ro_m_g_c_026;Cloak;Mage;v_m_bd;;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_013;base
-bd_ro_m_g_c_029;Cloak;Mage;v_m_bd;;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_037;base
-bd_ro_m_g_c_031;Coat;Mage;v_m_bd;;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_021;base
-bd_ro_m_g_c_034;Coat;Mage;v_m_bd;;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_038;base
-bd_ro_m_g_c_037;Coat;Mage;v_m_bd;;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_025;base
-bd_ro_m_g_c_039;Coat;Mage;v_m_bd;;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_039;base
-bd_ro_m_g_c_042;Coat;Mage;v_m_bd;;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_040;base
-bd_ro_m_g_c_044;Coat;Mage;v_m_bd;;;;;Body;;ro;m;;b_gui_ig_i_a_pos_a7_044;base
-bd_ro_m_g_c_045;Robe;Mage;v_m_bd;;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_041;base
-bd_ro_m_g_c_046;Robe;Mage;v_m_bd;;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_002;base
-bd_ro_m_g_c_053;Robe;Mage;v_m_bd;;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_022;base
-bd_ro_m_g_c_059;Robe;Mage;v_m_bd;;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_024;base
-bd_ro_m_g_c_063;Robe;Mage;v_m_bd;;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_045;base
-bd_ro_m_g_c_065;Robe;Mage;v_m_bd;;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_028;base
-bd_ro_m_g_c_067;Robe;Mage;v_m_bd;;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_043;base
-bd_ro_m_g_c_071;Robe;Mage;v_m_bd;;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_029;base
-bd_ro_m_g_c_084;Gown;Mage;v_m_bd;;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_014;base
-bd_ro_m_g_c_089;Gown;Mage;v_m_bd;;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_006;base
-bd_ro_m_g_c_094;Gown;Mage;v_m_bd;;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_008;base
-bd_ro_m_g_c_100;Finery;Mage;v_m_bd;;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_027;base
-bd_ro_m_g_c_105;Finery;Mage;v_m_bd;;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_017;base
-bd_ro_m_g_c_110;Vesture;Mage;v_m_bd;;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_003;base
-bd_ro_un_merik;Starlight Vesture;Mage;v_m_bd_ru;;;excluded;;Body;;ro;;int;b_gui_ig_i_a_pos_a7_050;
-bd_bl_f_g_c_avg;Rigid Leather;Fighter;v_f_bd;;;;;Body;;bl;f;str;b_gui_ig_i_a_pos_a3_001;base, c_str, o_fin
-bd_bl_f_g_c_fun;Worn Rigid Leather;Fighter;v_f_bd;;;;;Body;;bl;f;str;b_gui_ig_i_a_pos_a2_055;
-bd_bl_f_g_c_low;Cracked Rigid Leather;Fighter;v_f_bd;;;;;Body;;bl;f;str;b_gui_ig_i_a_pos_a2_054;
-bd_bl_m_g_c_avg;Waxed Leather;Mage;v_m_bd;;;;;Body;;bl;m;;b_gui_ig_i_a_pos_a2_024;base, c_fin, o_fin
-bd_bl_r_g_c_avg;Boiled Leather;Ranger;v_r_bd;;;;;Body;;bl;r;str;b_gui_ig_i_a_pos_a3_002;base, o_fin
-bd_le_f_g_c_avg;Thick Leather;Fighter;v_f_bd;;;;;Body;;le;f;;b_gui_ig_i_a_pos_a1_001;base, c_fin, o_fin
-bd_le_f_g_c_fun;Crude Leather;Fighter;v_f_bd;;;;;Body;;le;f;;b_gui_ig_i_a_pos_a1_077;
-bd_le_f_g_c_low;Worn Leather;Fighter;v_f_bd;;;;;Body;;le;f;;b_gui_ig_i_a_pos_a1_076;
-bd_le_m_g_c_avg;Mage Leather;Mage;v_m_bd;;;;;Body;;le;m;;b_gui_ig_i_a_pos_a1_045;base, c_str, o_avg, o_fin
-bd_le_r_g_c_avg;Leather Armor;Ranger;v_r_bd;;;;;Body;;le;r;;b_gui_ig_i_a_pos_a1_002;base, o_fin
-bd_le_r_g_c_low;Tattered Leather;Ranger;v_r_bd;;;;;Body;;le;r;;b_gui_ig_i_a_pos_a1_018;
-bd_ra_bl_f_g_c_str;Rock Pelt;Fighter;v_f_bd_ru;;;;;Body;rare;bl;f;str;b_gui_ig_i_a_pos_a2_071;base, o_fin
-bd_ra_bl_m_g_c_fin;Night Leather;Mage;v_m_bd_ru;;;;;Body;rare;bl;m;;b_gui_ig_i_a_pos_a2_060;base, o_fin
-bd_ra_bl_r_g_o_fin;Stellar Leather;Ranger;v_r_amr_ru;;;;;Body;rare;bl;r;str;b_gui_ig_i_a_pos_a2_059;base
-bd_ra_le_f_g_c_fin;Fused Leather;Fighter;v_f_bd_ru;;;;;Body;rare;le;f;str;b_gui_ig_i_a_pos_a1_059;base
-bd_ra_le_m_g_o_avg;Dream Leather;Mage;v_m_bd_ru;;;;;Body;rare;le;m;;b_gui_ig_i_a_pos_a1_058;base
-bd_ra_le_r_g_o_fin;Noble Leather;Ranger;v_r_amr_ru;;;;;Body;rare;le;r;str;b_gui_ig_i_a_pos_a1_060;base
-bd_ra_sl_m_g_c_avg;Classic Leather;Mage;v_m_bd_ru;;;;;Body;rare;sl;m;;b_gui_ig_i_a_pos_a1_061;base, c_fin, c_str, o_fin, o_str
-bd_ra_sl_r_g_c_avg;Marshal Leather;Ranger;v_r_amr_ru;;;;;Body;rare;sl;r;;b_gui_ig_i_a_pos_a2_057;base, c_fin, c_str
-bd_sl_f_g_c_avg;Cleated Leather;Fighter;v_f_bd;;;;;Body;;sl;f;str;b_gui_ig_i_a_pos_a2_001;base, c_str, o_fin
-bd_sl_f_g_c_fun;Torn Leather;Fighter;v_f_bd;;;;;Body;;sl;f;;b_gui_ig_i_a_pos_a2_056;
-bd_sl_m_g_c_avg;Riveted Leather;Mage;v_m_bd;;;;;Body;;sl;m;;b_gui_ig_i_a_pos_a1_046;base, c_fin, c_mag, c_str, o_avg, o_fin, o_str
-bd_sl_m_g_c_fun;Weathered Leather;Mage;v_m_bd;;;;;Body;;sl;m;;b_gui_ig_i_a_pos_a2_003;
-bd_sl_r_g_c_avg;Studded Leather;Ranger;v_r_bd;;;;;Body;;sl;r;;b_gui_ig_i_a_pos_a2_002;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
-bd_un_bl_f_g_c_blood;Lord Hovart's Blood Armor;Fighter;v_f_bd_ru;;;;;Body;unique;bl;f;str;b_gui_ig_i_a_pos_a3_045;base
-bd_un_bl_r_leaf;Woodland Leather;Ranger;v_r_amr_ru;;;;;Body;unique;bl;r;str;b_gui_ig_i_a_pos_a2_051;base
-bd_un_le_f_pad_avg;Altan's Leather;Fighter;v_f_bd_ru;;;excluded;;Body;unique;le;f;;b_gui_ig_i_a_pos_a1_078;base
-bd_un_sl_f_barbarian;Olaf's Studded Leather;Fighter;v_f_bd_ru;;;;;Body;unique;sl;f;str;b_gui_ig_i_a_pos_a1_054;base
-bd_ba_f_g_c_avg;Banded Armor;Fighter;v_f_bd;;;;;Body;;ba;f;str;b_gui_ig_i_a_pos_a5_001;base, o_fin, o_mag, o_str
-bd_ba_f_g_c_fun;Stiff Banded Armor;Fighter;v_f_bd;;;;;Body;;ba;f;str;b_gui_ig_i_a_pos_a5_004;base
-bd_ba_f_g_c_low;Crude Banded Armor;Fighter;v_f_bd;;;;;Body;;ba;f;str;b_gui_ig_i_a_pos_a5_019;
-bd_ba_m_g_c_str;Mage Banded Armor;Mage;v_m_bd;;;;;Body;;ba;m;str;b_gui_ig_i_a_pos_a2_020;base
-bd_ba_r_g_o_fin;Ranger Banded Armor;Ranger;v_r_bd;;;;;Body;;ba;r;str;b_gui_ig_i_a_pos_a2_016;base
-bd_bp_f_g_c_avg;Battle Plate;Fighter;v_f_bd;;;;;Body;;bp;f;str;b_gui_ig_i_a_pos_a6_007;base, c_fin, c_str, o_mag, o_str
-bd_bp_f_g_c_fun;Basic Battle Plate;Fighter;v_f_bd;;;;;Body;;bp;f;str;b_gui_ig_i_a_pos_a6_004;
-bd_br_f_g_c_avg;Heavy Brigandine;Fighter;v_f_bd;;;;;Body;;br;f;str;b_gui_ig_i_a_pos_a3_004;base, c_str, o_fin
-bd_br_f_g_c_low;Haggard Brigandine;Fighter;v_f_bd;;;;;Body;;br;f;str;b_gui_ig_i_a_pos_a3_035;
-bd_br_m_g_c_avg;Thin Brigandine;Mage;v_m_bd;;;;;Body;;br;m;;b_gui_ig_i_a_pos_a2_010;base, c_mag, o_fin
-bd_br_m_g_c_low;Flimsy Brigandine;Mage;v_m_bd;;;;;Body;;br;m;;b_gui_ig_i_a_pos_a2_011;
-bd_br_r_g_c_avg;Brigandine Armor;Ranger;v_r_bd;;;;;Body;;br;r;str;b_gui_ig_i_a_pos_a3_023;base, c_fin, o_mag
-bd_fp_f_g_c_avg;Full Plate;Fighter;v_f_bd;;;;;Body;;fp;f;str;b_gui_ig_i_a_pos_a5_017;base, c_str, o_fin, o_mag, o_str
-bd_fp_f_g_c_fun;Bulky Full Plate;Fighter;v_f_bd;;;;;Body;;fp;f;str;b_gui_ig_i_a_pos_a5_008;
-bd_fp_m_g_o_mag;Thin Plate;Mage;v_m_bd;;;;;Body;;fp;m;str;b_gui_ig_i_a_pos_a5_011;base
-bd_fp_r_g_c_avg;Quarter Plate;Ranger;v_r_bd;;;;;Body;;fp;r;str;b_gui_ig_i_a_pos_a5_013;base
-bd_pl_f_g_c_avg;Heavy Plate;Fighter;v_f_bd;;;;;Body;;pl;f;str;b_gui_ig_i_a_pos_a5_002;base, c_fin
-bd_pl_f_g_c_fun;Common Heavy Plate;Fighter;v_f_bd;;;;;Body;;pl;f;str;b_gui_ig_i_a_pos_a5_021;
-bd_pl_f_g_c_low;Dented Heavy Plate;Fighter;v_f_bd;;;;;Body;;pl;f;str;b_gui_ig_i_a_pos_a5_020;
-bd_pl_m_g_c_str;Mage Plate;Mage;v_m_bd;;;;;Body;;pl;m;str;b_gui_ig_i_a_pos_a1_024;base
-bd_pl_r_g_c_fin;Ranger Plate;Ranger;v_r_bd;;;;;Body;;pl;r;str;b_gui_ig_i_a_pos_a3_013;base, o_str
-bd_ra_ba_f_g_o_fin;Fused Steel;Fighter;v_f_bd_ru;;;;;Body;rare;ba;f;str;b_gui_ig_i_a_pos_a5_025;base, o_mag
-bd_ra_bp_f_g_c_fin;Stellar Plate;Fighter;v_f_bd_ru;;;;;Body;rare;bp;f;str;b_gui_ig_i_a_pos_a5_023;base, c_str
-bd_ra_br_f_g_c_str;Clay Brigandine;Fighter;v_f_bd_ru;;;;;Body;rare;br;f;str;b_gui_ig_i_a_pos_a3_041;base
-bd_ra_br_m_g_o_fin;Compact Brigandine;Mage;v_m_bd_ru;;;;;Body;rare;br;m;str;b_gui_ig_i_a_pos_a3_043;base, c_mag
-bd_ra_br_r_g_c_avg;Prime Brigandine;Ranger;v_r_amr_ru;;;;;Body;rare;br;r;str;b_gui_ig_i_a_pos_a3_042;base, c_fin
-bd_ra_fp_f_g_o_fin;Cardinal Plate;Fighter;v_f_bd_ru;;;;;Body;rare;fp;f;str;b_gui_ig_i_a_pos_a5_022;base, o_str
-bd_ra_fp_r_g_c_avg;Imperial Plate;Ranger;v_r_amr_ru;;;;;Body;rare;fp;r;str;b_gui_ig_i_a_pos_a5_024;base
-bd_un_ba_f_g_skeleton_captain;Ancient Banded;Fighter;v_f_bd_ru;;;excluded;;Body;unique;ba;f;str;b_gui_ig_i_a_pos_a5_026;base
-bd_un_br_f_bone;Bone Plate;Fighter;v_f_bd_ru;;;;;Body;unique;br;f;str;b_gui_ig_i_a_pos_a6_010;base
-bd_un_br_f_copper;Copper Plate;Fighter;v_f_bd_ru;;;;;Body;unique;br;f;str;b_gui_ig_i_a_pos_a3_031;base
-bd_un_br_f_d_c_str;Cirene Scale;Fighter;v_f_bd_ru;;;;;Body;unique;br;f;str;b_gui_ig_i_a_pos_a2_021;base
-bd_un_br_f_spider;Black Widow Brigandine;Fighter;v_f_bd_ru;;;;;Body;unique;br;f;str;b_gui_ig_i_a_pos_a1_053;base
-bd_un_br_r_d_o_str;Plate Coat;Ranger;v_r_amr_ru;;;;;Body;unique;br;r;str;b_gui_ig_i_a_pos_a4_009;base
-bd_un_fp_f_g_c_mag;Magical Plate;Fighter;v_f_bd_ru;;;;;Body;unique;fp;f;str;b_gui_ig_i_a_pos_a5_006;base, o_mag
-bd_un_pl_f_crystal;Crystal Plate;Fighter;v_f_bd_ru;;;;;Body;unique;pl;f;str;b_gui_ig_i_a_pos_a6_009;base
-bd_un_pl_f_g_c_avg;Solid Plate;Fighter;v_f_bd_ru;;;;;Body;unique;pl;f;str;b_gui_ig_i_a_pos_a3_016;base, c_fin
-bd_un_pl_f_g_c_fun;Standard Plate;Fighter;v_f_bd_ru;;;;;Body;unique;pl;f;str;b_gui_ig_i_a_pos_a3_014;base
-bo_bo_br_f_g_c_avg;Brigandine Boots;Fighter;v_f_bo;;;;;Boots;;br;f;str;b_gui_ig_i_a_boot_004;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
-bo_bo_ch_f_g_c_avg;Chain Boots;Fighter;v_f_bo;;;;;Boots;;ch;f;str;b_gui_ig_i_a_boot_006;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
-bo_bo_le_f_g_c_avg;Leather Boots;Fighter;v_f_bo;;;;;Boots;;le;f;;b_gui_ig_i_a_boot_001;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
-bo_bo_le_f_g_c_healthy;Healthy Boots;Fighter;v_f_bo_ru;;;excluded;;Boots;;le;f;;b_gui_ig_i_a_boot_040;
-bo_bo_le_f_g_c_satin;Satin Boots;Mage;v_m_hgb_ru;;;excluded;;Boots;;le;f;int;b_gui_ig_i_a_boot_040;
-bo_bo_le_light;Light Boots;;x_any;;;excluded;;Boots;;le;;;b_gui_ig_i_a_boot_068;
-bo_bo_sc_f_g_c_avg;Scale Boots;Fighter;v_f_bo;;;;;Boots;;sc;f;str;b_gui_ig_i_a_boot_005;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
-bo_bo_sl_f_g_c_avg;Studded Leather Boots;Fighter;v_f_bo;;;;;Boots;;sl;f;str;b_gui_ig_i_a_boot_010;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
-bo_gr_ba_f_g_c_avg;Banded Greaves;Fighter;v_f_bo;;;;;Boots;;ba;f;str;b_gui_ig_i_a_boot_008;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
-bo_gr_bl_f_g_c_avg;Boiled Leather Greaves;Fighter;v_f_bo;;;;;Boots;;bl;f;str;b_gui_ig_i_a_boot_018;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
-bo_gr_fp_f_g_c_avg;Full Plate Greaves;Fighter;v_f_bo;;;;;Boots;;fp;f;str;b_gui_ig_i_a_boot_009;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
-bo_ra_bo_br_f_g_c_fin;Sporting Boots;Fighter;v_f_bo_ru;;;;;Boots;rare;br;f;str;b_gui_ig_i_a_boot_081;base, c_mag, o_fin
-bo_ra_bo_ch_f_g_c_fin;Kicker Boots;Fighter;v_f_bo_ru;;;;;Boots;rare;ch;f;str;b_gui_ig_i_a_boot_087;base, c_mag, o_fin, o_str
-bo_ra_bo_le_f_g_c_fin;Ready Boots;Fighter;v_f_bo_ru;;;;;Boots;rare;le;f;;b_gui_ig_i_a_boot_076;base, o_fin
-bo_ra_bo_sc_f_g_c_fin;Blade Boots;Fighter;v_f_bo_ru;;;;;Boots;rare;sc;f;str;b_gui_ig_i_a_boot_084;base, o_fin, o_mag
-bo_ra_bo_sl_f_g_c_fin;Rock Pelt Boots;Fighter;v_f_bo_ru;;;;;Boots;rare;sl;f;str;b_gui_ig_i_a_boot_078;base, o_fin, o_str
-bo_ra_gr_ba_f_g_c_fin;Pain Greaves;Fighter;v_f_bo_ru;;;;;Boots;rare;ba;f;str;b_gui_ig_i_a_boot_095;base, o_fin, o_mag
-bo_ra_gr_bl_f_g_c_fin;Hunter Greaves;Fighter;v_f_bo_ru;;;;;Boots;rare;bl;f;str;b_gui_ig_i_a_boot_091;base, c_mag, o_fin, o_str
-bo_ra_gr_fp_f_g_c_fin;Steel Greaves;Fighter;v_f_bo_ru;;;;;Boots;rare;fp;f;str;b_gui_ig_i_a_boot_098;base, c_str, o_fin, o_str
-bo_un_bo_br_f_bone;Bone Boots;Fighter;v_f_bo_ru;;;;;Boots;unique;br;f;str;b_gui_ig_i_a_boot_073;base
-bo_un_bo_br_f_spider;Black Widow Greaves;Fighter;v_f_bo_ru;;;;;Boots;unique;br;f;str;b_gui_ig_i_a_boot_074;base
-bo_un_bo_ch_r_green;Woodland Boots;Ranger;v_r_amr_ru;;;;;Boots;unique;ch;r;str;b_gui_ig_i_a_boot_071;base
-bo_un_bo_pl_f_crytstal;Crystal Boots;Fighter;v_f_bo_ru;;;;;Boots;unique;pl;f;str;b_gui_ig_i_a_boot_072;base
-bo_un_bo_ro_m_molten;Molten Boots;Fighter;v_f_bo_ru;;;;;Boots;unique;ro;m;str;b_gui_ig_i_a_boot_069;base
-bo_un_bo_sc_f_dragon;Serpentine Boots;Fighter;v_f_bo_ru;;;;;Boots;unique;sc;f;str;b_gui_ig_i_a_boot_075;base
-bo_un_bo_sl_f_barbarian;Olaf's Boots;Fighter;v_f_bo_ru;;;;;Boots;unique;sl;f;;b_gui_ig_i_a_boot_070;base
-gl_ga_ba_f_g_c_avg;Banded Gauntlets;Fighter;v_f_gl;;;;;Gloves;;ba;f;str;b_gui_ig_i_a_gntl_011;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
-gl_ga_bl_f_g_c_avg;Boiled Leather Gauntlets;Fighter;v_f_gl;;;;;Gloves;;bl;f;str;b_gui_ig_i_a_gntl_024;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
-gl_ga_br_f_g_c_avg;Brigandine Gauntlets;Fighter;v_f_gl;;;;;Gloves;;br;f;str;b_gui_ig_i_a_gntl_009;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
-gl_ga_fp_f_g_c_avg;Full Plate Gauntlets;Fighter;v_f_gl;;;;;Gloves;;fp;f;str;b_gui_ig_i_a_gntl_005;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
-gl_ga_sc_f_g_c_avg;Scale Gauntlets;Fighter;v_f_gl;;;;;Gloves;;sc;f;str;b_gui_ig_i_a_gntl_010;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
-gl_gl_bl_f_g_c_avg;Boiled Leather Gloves;Fighter;v_f_gl;;;;;Gloves;;bl;f;str;b_gui_ig_i_a_gntl_016;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
-gl_gl_br_f_g_c_avg;Brigandine Gloves;Fighter;v_f_gl;;;;;Gloves;;br;f;str;b_gui_ig_i_a_gntl_008;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
-gl_gl_ch_f_g_c_avg;Chain Gloves;Fighter;v_f_gl;;;;;Gloves;;ch;f;str;b_gui_ig_i_a_gntl_003;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
-gl_gl_le_f_g_c_avg;Leather Gloves;Fighter;v_f_gl;;;;;Gloves;;le;f;;b_gui_ig_i_a_gntl_012;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
-gl_gl_sc_f_g_c_avg;Scale Gloves;Fighter;v_f_gl;;;;;Gloves;;sc;f;str;b_gui_ig_i_a_gntl_004;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
-gl_gl_sl_f_g_c_avg;Studded Leather Gloves;Fighter;v_f_gl;;;;;Gloves;;sl;f;str;b_gui_ig_i_a_gntl_002;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
-gl_ra_ga_ba_f_g_c_fin;Solar Gauntlets;Fighter;v_f_gl_ru;;;;;Gloves;rare;ba;f;str;b_gui_ig_i_a_gntl_123;base, c_mag, c_str, o_fin, o_str
-gl_ra_ga_bl_f_g_c_fin;Zenith Gauntlets;Fighter;v_f_gl_ru;;;;;Gloves;rare;bl;f;str;b_gui_ig_i_a_gntl_116;base, o_fin
-gl_ra_ga_br_f_g_c_fin;Spectral Gauntlets;Fighter;v_f_gl_ru;;;;;Gloves;rare;br;f;str;b_gui_ig_i_a_gntl_118;base, o_fin, o_mag
-gl_ra_ga_fp_f_g_o_avg;Chief Gauntlets;Fighter;v_f_gl_ru;;;;;Gloves;rare;fp;f;str;b_gui_ig_i_a_gntl_129;base, c_fin, c_str, o_fin, o_str
-gl_ra_ga_sc_f_g_c_fin;Terrestrial Gauntlets;Fighter;v_f_gl_ru;;;;;Gloves;rare;sc;f;str;b_gui_ig_i_a_gntl_121;base, o_fin
-gl_ra_gl_bl_f_g_c_fin;Marshal Gloves;Fighter;v_f_gl_ru;;;;;Gloves;rare;bl;f;str;b_gui_ig_i_a_gntl_102;base, o_fin
-gl_ra_gl_br_f_g_c_fin;Lunar Gloves;Fighter;v_f_gl_ru;;;;;Gloves;rare;br;f;str;b_gui_ig_i_a_gntl_104;base, o_fin, o_mag, o_str
-gl_ra_gl_ch_f_g_c_fin;Sultan Gloves;Fighter;v_f_gl_ru;;;;;Gloves;rare;ch;f;str;b_gui_ig_i_a_gntl_111;base, c_mag, c_str, o_fin, o_str
-gl_ra_gl_le_f_g_c_fin;Punisher Gloves;Fighter;v_f_gl_ru;;;;;Gloves;rare;le;f;str;b_gui_ig_i_a_gntl_098;base, o_fin
-gl_ra_gl_sc_f_g_c_fin;Rock Scale Gloves;Fighter;v_f_gl_ru;;;;;Gloves;rare;sc;f;str;b_gui_ig_i_a_gntl_108;base, o_fin, o_str
-gl_ra_gl_sl_f_g_c_fin;Secure Gloves;Fighter;v_f_gl_ru;;;;;Gloves;rare;sl;f;str;b_gui_ig_i_a_gntl_100;base, o_fin
-gl_un_gl_br_f_spider;Black Widow Gauntlets;Fighter;v_f_gl_ru;;;;;Gloves;unique;br;f;str;b_gui_ig_i_a_gntl_096;base
-gl_un_gl_ch_r_green;Woodland Gloves;Ranger;v_r_amr_ru;;;;;Gloves;unique;ch;r;str;b_gui_ig_i_a_gntl_094;base
-gl_un_gl_pl_f_crystal;Crystal Gauntlets;Fighter;v_f_gl_ru;;;;;Gloves;unique;pl;f;str;b_gui_ig_i_a_gntl_095;base
-gl_un_gl_ro_m_molten;Molten Gloves;Fighter;v_f_gl_ru;;;;;Gloves;unique;ro;m;str;b_gui_ig_i_a_gntl_093;base
-gl_un_gl_sc_f_dragon;Serpentine Gauntlets;Fighter;v_f_gl_ru;;;;;Gloves;unique;sc;f;str;b_gui_ig_i_a_gntl_097;base
-he_ca_le_avg;Leather Cap;;x_any;;;;;Helmet;;le;;;b_gui_ig_i_a_hlmt_006;base
-he_ca_pl_avg;Steel Cap;Fighter;v_f_he;;;;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_004;base
-he_ca_pl_blue;Iron Helm;Fighter;v_f_he;;;;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_014;base
-he_ca_pl_blue_02;Onyx Helm;Fighter;v_f_he;;;;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_089;base
-he_ca_pl_cap;Plate Cap;Fighter;v_f_he;;;;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_028;base
-he_ca_pl_cap_brown;Earthen Helm;Fighter;v_f_he;;;;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_045;base
-he_ca_pl_dome;Dome Cap;Fighter;v_f_he;;;;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_019;base
-he_ca_pl_fin;Ridge Helm;Fighter;v_f_he;;;;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_013;base
-he_ca_pl_mag;Brow Cap;Fighter;v_f_he;;;;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_009;base
-he_ca_pl_ornage;Solar Cap;Fighter;v_f_he;;;;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_012;base
-he_ca_ro_felt_01;Felt Cap;Mage;v_m_hgb;;;;;Helmet;;ro;;;b_gui_ig_i_a_hlmt_038;base
-he_ca_ro_felt_02;Felt Cap;Mage;v_m_hgb;;;;;Helmet;;ro;;;b_gui_ig_i_a_hlmt_075;base
-he_ca_ro_felt_03;Felt Cap;Mage;v_m_hgb;;;;;Helmet;;ro;;;b_gui_ig_i_a_hlmt_076;base
-he_ca_ro_felt_04;Felt Cap;Mage;v_m_hgb;;;;;Helmet;;ro;;int;b_gui_ig_i_a_hlmt_077;base
-he_ca_ro_flat_01;Flat Cap;Mage;v_m_hgb;;;;;Helmet;;ro;;int;b_gui_ig_i_a_hlmt_016;base
-he_ca_ro_flat_02;Flat Cap;Mage;v_m_hgb;;;;;Helmet;;ro;;int;b_gui_ig_i_a_hlmt_066;base
-he_ca_ro_flat_03;Flat Cap;Mage;v_m_hgb;;;;;Helmet;;ro;;int;b_gui_ig_i_a_hlmt_067;base
-he_ca_ro_flat_04;Flat Cap;Mage;v_m_hgb;;;;;Helmet;;ro;;int;b_gui_ig_i_a_hlmt_068;base
-he_ca_ro_gemblue;Gem Cap;Mage;v_m_hgb;;;;;Helmet;;ro;;;b_gui_ig_i_a_hlmt_037;base
-he_ca_ro_green;Fabric Cap;Mage;v_m_hgb;;;;;Helmet;;ro;;;b_gui_ig_i_a_hlmt_038;base
-he_ca_ro_slope_01;Peak Cap;Mage;v_m_hgb;;;;;Helmet;;ro;;;b_gui_ig_i_a_hlmt_035;base
-he_ca_ro_slope_02;Peak Cap;Mage;v_m_hgb;;;;;Helmet;;ro;;;b_gui_ig_i_a_hlmt_078;base
-he_ca_ro_slope_03;Peak Cap;Mage;v_m_hgb;;;;;Helmet;;ro;;;b_gui_ig_i_a_hlmt_079;base
-he_ca_ro_slope_04;Peak Cap;Mage;v_m_hgb;;;;;Helmet;;ro;;int;b_gui_ig_i_a_hlmt_080;base
-he_ca_ro_thin_01;Thin Cap;Mage;v_m_hgb;;;;;Helmet;;ro;;int;b_gui_ig_i_a_hlmt_008;base
-he_ca_ro_thin_02;Thin Cap;Mage;v_m_hgb;;;;;Helmet;;ro;;;b_gui_ig_i_a_hlmt_060;base
-he_ca_ro_thin_03;Thin Cap;Mage;v_m_hgb;;;;;Helmet;;ro;;;b_gui_ig_i_a_hlmt_061;base
-he_ca_ro_thin_04;Thin Cap;Mage;v_m_hgb;;;;;Helmet;;ro;;;b_gui_ig_i_a_hlmt_062;base
-he_ca_ro_turban_01;Coiled Cap;Mage;v_m_hgb;;;;;Helmet;;ro;;int;b_gui_ig_i_a_hlmt_037;base
-he_ca_ro_turban_02;Coiled Cap;Mage;v_m_hgb;;;;;Helmet;;ro;;int;b_gui_ig_i_a_hlmt_063;base
-he_ca_ro_turban_03;Coiled Cap;Mage;v_m_hgb;;;;;Helmet;;ro;;int;b_gui_ig_i_a_hlmt_064;base
-he_ca_ro_turban_04;Coiled Cap;Mage;v_m_hgb;;;;;Helmet;;ro;;int;b_gui_ig_i_a_hlmt_065;base
-he_ca_ro_wizard_01;Wizard Cap;Mage;v_m_hgb;;;;;Helmet;;ro;;int;b_gui_ig_i_a_hlmt_010;base
-he_ca_ro_wizard_02;Wizard Cap;Mage;v_m_hgb;;;;;Helmet;;ro;;int;b_gui_ig_i_a_hlmt_055;base
-he_ca_ro_wizard_03;Wizard Cap;Mage;v_m_hgb;;;;;Helmet;;ro;;int;b_gui_ig_i_a_hlmt_056;base
-he_ca_ro_wizard_04;Wizard Cap;Mage;v_m_hgb;;;;;Helmet;;ro;;int;b_gui_ig_i_a_hlmt_057;base
-he_ca_ro_wizard_05;Wizard Cap;Mage;v_m_hgb;;;;;Helmet;;ro;;int;b_gui_ig_i_a_hlmt_058;base
-he_ca_ro_wizard_06;Wizard Cap;Mage;v_m_hgb;;;;;Helmet;;ro;;int;b_gui_ig_i_a_hlmt_059;base
-he_ca_ro_wizard_07;Wizard Cap;Mage;v_m_hgb;;;;;Helmet;;ro;;int;b_gui_ig_i_a_hlmt_095;base
-he_ca_ro_wooly_01;Wooly Cap;Mage;v_m_hgb;;;;;Helmet;;ro;;;b_gui_ig_i_a_hlmt_036;base
-he_ca_ro_wooly_02;Wooly Cap;Mage;v_m_hgb;;;;;Helmet;;ro;;;b_gui_ig_i_a_hlmt_072;base
-he_ca_ro_wooly_03;Wooly Cap;Mage;v_m_hgb;;;;;Helmet;;ro;;int;b_gui_ig_i_a_hlmt_073;base
-he_ca_ro_wooly_04;Wooly Cap;Mage;v_m_hgb;;;;;Helmet;;ro;;int;b_gui_ig_i_a_hlmt_074;base
-he_ca_ro_woven_01;Thicket Helm;Mage;v_m_hgb;;;;;Helmet;;ro;;int;b_gui_ig_i_a_hlmt_015;base
-he_ca_ro_woven_02;Woven Cap;Mage;v_m_hgb;;;;;Helmet;;ro;;int;b_gui_ig_i_a_hlmt_069;base
-he_ca_ro_woven_03;Woven Cap;Mage;v_m_hgb;;;;;Helmet;;ro;;int;b_gui_ig_i_a_hlmt_070;base
-he_ca_ro_woven_04;Woven Cap;Mage;v_m_hgb;;;;;Helmet;;ro;;int;b_gui_ig_i_a_hlmt_071;base
-he_ca_sl_avg;Studded Cap;Fighter;v_f_he;;;;;Helmet;;sl;;str;b_gui_ig_i_a_hlmt_011;base
-he_fu_bronze;Bronze Helm;Fighter;v_f_he;;;;;Helmet;;;;str;b_gui_ig_i_a_hlmt_024;base
-he_fu_bronze_02;Centaur Helm;Fighter;v_f_he;;;;;Helmet;;;;str;b_gui_ig_i_a_hlmt_091;base
-he_fu_pl_desert;Desert Helm;Fighter;v_f_he;;;;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_025;base
-he_fu_pl_grate;Slotted Helm;Fighter;v_f_he;;;;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_039;base
-he_fu_pl_horn_avg;Horned Helm;Fighter;v_f_he;;;;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_005;base
-he_fu_pl_horn_fin;Bull Helm;Fighter;v_f_he;;;;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_040;base
-he_fu_pl_horn_fin_02;Brute Helm;Fighter;v_f_he;;;;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_084;base
-he_fu_pl_horn_fin_03;Black Helm;Fighter;v_f_he;;;;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_085;base
-he_fu_pl_horn_mag;Regal Helm;Fighter;v_f_he;;;;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_027;base
-he_fu_pl_horn_mag_02;Raven Helm;Fighter;v_f_he;;;;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_088;base
-he_fu_pl_knight;Great Helm;Fighter;v_f_he;;;;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_003;base
-he_fu_pl_knight_02;Blaster Helm;Fighter;v_f_he;;;;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_093;base
-he_fu_pl_knight_fin;Knight Helm;Fighter;v_f_he;;;;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_021;base
-he_fu_pl_knight_fin_02;Karlat's Magic Helm;Fighter;v_f_he;;;;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_081;base
-he_fu_pl_knight_fin_03;Sightless Helm;Fighter;v_f_he_ru;;;excluded;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_082;base
-he_fu_pl_knight_str;War Helm;Fighter;v_f_he;;;;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_018;base
-he_fu_pl_knight_str_02;Bluster Helm;Fighter;v_f_he;;;;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_087;base
-he_fu_pl_smallwings;Hawk Helm;Fighter;v_f_he;;;;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_033;base
-he_fu_pl_smallwings_02;Guardian Helm;Fighter;v_f_he;;;;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_094;base
-he_fu_pl_smallwings_kavaren;Utraean Helm;Fighter;v_f_he_ru;;;excluded;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_094;base
-he_fu_pl_spike;Spiked Helm;Fighter;v_f_he;;;;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_044;base
-he_fu_pl_str;Heavy Helm;Fighter;v_f_he;;;;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_001;base
-he_op_bigwings;Soaring Helm;Fighter;v_f_he;;;;;Helmet;;;;str;b_gui_ig_i_a_hlmt_043;base
-he_op_bigwings_02;Winged Helm;Fighter;v_f_he;;;;;Helmet;;;;str;b_gui_ig_i_a_hlmt_086;base
-he_op_pl_avg;Sentry Helm;Fighter;v_f_he;;;;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_002;base
-he_op_pl_cone;Tusk Helm;Fighter;v_f_he;;;;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_030;base
-he_op_pl_eyes;Face Helm;Fighter;v_f_he;;;;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_020;base
-he_op_pl_roman;Parade Helm;Fighter;v_f_he;;;;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_029;base
-he_op_pl_roman_02;Sovereign Helm;Fighter;v_f_he;;;;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_092;base
-he_op_pl_santa;Crimson Helm;Fighter;v_f_he;;;;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_034;base
-he_op_pl_santa_02;Dashing Helm;Fighter;v_f_he;;;;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_083;base
-he_ra_ca_le_avg;Pauper Cap;;x_any;;;;;Helmet;rare;le;;;b_gui_ig_i_a_hlmt_103;base
-he_ra_ca_pl_avg;Snug Cap;Fighter;v_f_he_ru;;;;;Helmet;rare;pl;;str;b_gui_ig_i_a_hlmt_107;base
-he_ra_ca_pl_cap;Wanderer Cap;Fighter;v_f_he_ru;;;;;Helmet;rare;pl;;str;b_gui_ig_i_a_hlmt_106;base
-he_ra_ca_pl_dome;Sheen Cap;Fighter;v_f_he_ru;;;;;Helmet;rare;pl;;str;b_gui_ig_i_a_hlmt_105;base
-he_ra_ca_ro_felt_01;Rustic Cap;Mage;v_m_hgb_ru;;;;;Helmet;rare;ro;;int;b_gui_ig_i_a_hlmt_099;base
-he_ra_ca_ro_flat_02;Pressed Cap;Mage;v_m_hgb_ru;;;;;Helmet;rare;ro;;int;b_gui_ig_i_a_hlmt_123;base
-he_ra_ca_ro_slope_04;Cerebral Cap;Mage;v_m_hgb_ru;;;;;Helmet;rare;ro;;int;b_gui_ig_i_a_hlmt_096;base
-he_ra_ca_ro_thin_04;Scratchy Cap;Mage;v_m_hgb_ru;;;;;Helmet;rare;ro;;;b_gui_ig_i_a_hlmt_102;base
-he_ra_ca_ro_wizard_03;Knowledge Cap;Mage;v_m_hgb_ru;;;;;Helmet;rare;ro;;int;b_gui_ig_i_a_hlmt_097;base
-he_ra_ca_ro_wizard_04;Knowledge Cap;Mage;v_m_hgb_ru;;;;;Helmet;rare;ro;;;b_gui_ig_i_a_hlmt_095;base
-he_ra_ca_ro_wizard_06;Knowledge Cap;Mage;v_m_hgb_ru;;;;;Helmet;rare;ro;;int;b_gui_ig_i_a_hlmt_098;base
-he_ra_ca_ro_wooly_02;Warmth Cap;Mage;v_m_hgb_ru;;;;;Helmet;rare;ro;;int;b_gui_ig_i_a_hlmt_100;base
-he_ra_ca_ro_wooly_04;Warmth Cap;Mage;v_m_hgb_ru;;;;;Helmet;rare;ro;;int;b_gui_ig_i_a_hlmt_101;base
-he_ra_ca_ro_woven_03;Loom Cap;Mage;v_m_hgb_ru;;;;;Helmet;rare;ro;;int;b_gui_ig_i_a_hlmt_122;base
-he_ra_ca_sl_avg;Traveling Cap;Fighter;v_f_he_ru;;;;;Helmet;rare;sl;;str;b_gui_ig_i_a_hlmt_104;base
-he_ra_fu_pl_desert;Seething Helm;Fighter;v_f_he_ru;;;;;Helmet;rare;pl;;str;b_gui_ig_i_a_hlmt_113;base
-he_ra_fu_pl_horn_fin;Gore Helm;Fighter;v_f_he_ru;;;;;Helmet;rare;pl;;str;b_gui_ig_i_a_hlmt_118;base
-he_ra_fu_pl_horn_mag;Conqueror Helm;Fighter;v_f_he_ru;;;;;Helmet;rare;pl;;str;b_gui_ig_i_a_hlmt_121;base
-he_ra_fu_pl_knight;Echo Helm;Fighter;v_f_he_ru;;;;;Helmet;rare;pl;;str;b_gui_ig_i_a_hlmt_114;base
-he_ra_fu_pl_knight_fin;Bloody Helm;Fighter;v_f_he_ru;;;;;Helmet;rare;pl;;str;b_gui_ig_i_a_hlmt_119;base
-he_ra_fu_pl_knight_fin_02;Bloody Helm;Fighter;v_f_he_ru;;;;;Helmet;rare;pl;;str;b_gui_ig_i_a_hlmt_120;base
-he_ra_fu_pl_knight_str;Menacing Helm;Fighter;v_f_he_ru;;;;;Helmet;rare;pl;;str;b_gui_ig_i_a_hlmt_117;base
-he_ra_fu_pl_spike;Prickly Helm;Fighter;v_f_he_ru;;;;;Helmet;rare;pl;;str;b_gui_ig_i_a_hlmt_115;base
-he_ra_fu_pl_str;Bolted Helm;Fighter;v_f_he_ru;;;;;Helmet;rare;pl;;str;b_gui_ig_i_a_hlmt_116;base
-he_ra_op_bigwings;Spirited Helm;Fighter;v_f_he_ru;;;;;Helmet;rare;;;str;b_gui_ig_i_a_hlmt_111;base
-he_ra_op_pl_avg;Jaw Helm;Fighter;v_f_he_ru;;;;;Helmet;rare;pl;;str;b_gui_ig_i_a_hlmt_108;base
-he_ra_op_pl_cone;Stature Helm;Fighter;v_f_he_ru;;;;;Helmet;rare;pl;;str;b_gui_ig_i_a_hlmt_109;base
-he_ra_op_pl_roman;Whiplash Helm;Fighter;v_f_he_ru;;;;;Helmet;rare;pl;;str;b_gui_ig_i_a_hlmt_110;base
-he_ra_un_fu_pl_skull;Disturbed Helm;Fighter;v_f_he_ru;;;;;Helmet;unique;pl;;str;b_gui_ig_i_a_hlmt_124;base
-he_ra_vi_pl_knight;Burdened Helm;Fighter;v_f_he_ru;;;;;Helmet;rare;pl;;str;b_gui_ig_i_a_hlmt_112;base
-he_un_ca_barbarian;Olaf's Helmet;Fighter;v_f_he_ru;;;;;Helmet;unique;;;str;b_gui_ig_i_a_hlmt_047;base
-he_un_ca_cowskull;Bovine Helm;Fighter;v_f_he_ru;;;;;Helmet;unique;;;str;b_gui_ig_i_a_hlmt_017;base
-he_un_ca_brim;Brimmed Hat;Fighter;v_f_he_ru;;;;;Helmet;unique;;;str;b_gui_ig_i_a_hlmt_032;base
-he_un_ca_moon;Luna Cap;Fighter;v_f_he_ru;;;;;Helmet;unique;;;str;b_gui_ig_i_a_hlmt_026;base
-he_un_ca_pl_guard_archer;Archer Helm;Fighter;v_f_he_ru;;;excluded;;Helmet;unique;pl;;str;b_gui_ig_i_a_hlmt_052;base
-he_un_ca_ro_warlock;Warlock Hat;Mage;v_m_hgb_ru;;;;;Helmet;unique;ro;;;b_gui_ig_i_a_hlmt_125;base
-he_un_ca_tallcrown;Imperial Helm;Fighter;v_f_he_ru;;;;;Helmet;unique;;;str;b_gui_ig_i_a_hlmt_031;base
-he_un_fu_crystal;Crystal Helm;Fighter;v_f_he_ru;;;;;Helmet;unique;;;str;b_gui_ig_i_a_hlmt_048;base
-he_un_fu_eyebrows;Eye Helm;Fighter;v_f_he_ru;;;;;Helmet;unique;;;str;b_gui_ig_i_a_hlmt_023;base
-he_un_fu_pl_fish;Fish Helm;Fighter;v_f_he_ru;;;;;Helmet;unique;pl;;str;b_gui_ig_i_a_hlmt_042;base
-he_un_fu_pl_fish_02;Dragonfly Helm;Fighter;v_f_he_ru;;;;;Helmet;unique;pl;;str;b_gui_ig_i_a_hlmt_090;base
-he_un_fu_pl_skull;Carnage Helm;Fighter;v_f_he_ru;;;;;Helmet;unique;pl;;str;b_gui_ig_i_a_hlmt_022;base
-he_un_mask_bone;Bone Helm;Fighter;v_f_he_ru;;;;;Helmet;unique;;;str;b_gui_ig_i_a_hlmt_049;base
-he_un_op_pl_guard_captain;Captain Helm;Fighter;v_f_he_ru;;;excluded;;Helmet;unique;pl;;str;b_gui_ig_i_a_hlmt_054;base
-he_un_op_pl_guard_fighter;Guard Helm;Fighter;v_f_he_ru;;;excluded;;Helmet;unique;pl;;str;b_gui_ig_i_a_hlmt_053;base
-he_un_spider;Black Widow Helmet;Fighter;v_f_he_ru;;;;;Helmet;unique;;;str;b_gui_ig_i_a_hlmt_050;base
-he_un_vi_dragon;Serpentine Helmet;Fighter;v_f_he_ru;;;;;Helmet;unique;;;str;b_gui_ig_i_a_hlmt_051;base
-he_un_vi_moto;Challenger Helm;Fighter;v_f_he_ru;;;;;Helmet;unique;;;str;b_gui_ig_i_a_hlmt_041;base
-he_vi_pl_knight;Knight Helm;Fighter;v_f_he;;;;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_007;base
-sh_m_g_c_r_s_avg;Metal Buckler;Fighter;v_f_sh;;;;;Shield;;;;str;b_gui_ig_i_a_shd_078;c_mag, c_str, o_avg, o_fin, o_mag, o_str
-sh_m_g_c_r_s_low;Rusted Metal Buckler;Fighter;v_f_sh;;;;;Shield;;;;;b_gui_ig_i_a_shd_072;
-sh_ra_m_c_h_s_practice;Practice Shield;Fighter;v_f_sh_ru;;;;;Shield;rare;;;str;b_gui_ig_i_a_shd_024;base
-sh_ra_m_c_k_m_practice;Practice Kite Shield;Fighter;v_f_sh_ru;;;;;Shield;rare;;;str;b_gui_ig_i_a_shd_058;base
-sh_ra_m_c_r_l_stamp;Stamp Shield;Fighter;v_f_sh_ru;;;;;Shield;rare;;;str;b_gui_ig_i_a_shd_076;base
-sh_ra_m_c_r_m_decrepit;Decrepit Shield;Fighter;v_f_sh_ru;;;;;Shield;rare;;;;b_gui_ig_i_a_shd_072;base
-sh_ra_m_c_r_m_rivet;Rivet Buckler;Fighter;v_f_sh_ru;;;;;Shield;rare;;;str;b_gui_ig_i_a_shd_015;base
-sh_ra_m_c_r_m_serrated;Serrated Shield;Fighter;v_f_sh_ru;;;;;Shield;rare;;;str;b_gui_ig_i_a_shd_020;base
-sh_ra_m_c_r_m_strapped;Strapped Shield;Fighter;v_f_sh_ru;;;;;Shield;rare;;;str;b_gui_ig_i_a_shd_030;base
-sh_ra_m_c_r_m_wreath;Wreath Shield;Fighter;v_f_sh_ru;;;;;Shield;rare;;;str;b_gui_ig_i_a_shd_069;base
-sh_ra_m_g_o_r_s_fin;Tortoise Shield;Fighter;v_f_sh_ru;;;;;Shield;rare;;;str;b_gui_ig_i_a_shd_151;o_str
-sh_ra_m_o_h_s_spine;Spine Shield;Fighter;v_f_sh_ru;;;;;Shield;rare;;;str;b_gui_ig_i_a_shd_051;base
-sh_ra_m_o_r_m_cinder;Crimson Shield;Fighter;v_f_sh_ru;;;;;Shield;rare;;;str;b_gui_ig_i_a_shd_003;base
-sh_ra_m_o_r_m_disc;Disc Shield;Fighter;v_f_sh_ru;;;;;Shield;rare;;;str;b_gui_ig_i_a_shd_043;base
-sh_ra_m_o_r_m_frost;Frost Shield;Fighter;v_f_sh_ru;;;;;Shield;rare;;;str;b_gui_ig_i_a_shd_004;base
-sh_ra_m_o_r_m_quad;Quad Shield;Fighter;v_f_sh_ru;;;;;Shield;rare;;;str;b_gui_ig_i_a_shd_044;base
-sh_ra_m_o_r_m_shell;Shell Shield;Fighter;v_f_sh_ru;;;;;Shield;rare;;;str;b_gui_ig_i_a_shd_028;base
-sh_ra_m_o_r_s_etched;Etched Shield;Fighter;v_f_sh_ru;;;;;Shield;rare;;;str;b_gui_ig_i_a_shd_065;base
-sh_ra_w_c_c_m_strike;Strike Shield;Fighter;v_f_sh_ru;;;;;Shield;rare;;;str;b_gui_ig_i_a_shd_031;base
-sh_ra_w_c_k_m_braced;Braced Shield;Fighter;v_f_sh_ru;;;;;Shield;rare;;;str;b_gui_ig_i_a_shd_054;base
-sh_ra_w_c_k_s_pelt;Pelt Shield;Fighter;v_f_sh_ru;;;;;Shield;rare;;;;b_gui_ig_i_a_shd_017;base
-sh_ra_w_g_c_h_m_fin;Ordained Shield;Fighter;v_f_sh_ru;;;;;Shield;rare;;;str;b_gui_ig_i_a_shd_133;base, c_str, o_fin
-sh_ra_w_g_c_k_l_fin;Forged Shield;Fighter;v_f_sh_ru;;;;;Shield;rare;;;str;b_gui_ig_i_a_shd_141;base, c_str, o_fin, o_str
-sh_ra_w_g_c_k_m_fin;Clobber Shield;Fighter;v_f_sh_ru;;;;;Shield;rare;;;str;b_gui_ig_i_a_shd_136;base, c_mag, c_str, o_mag, o_str
-sh_ra_w_g_c_r_m_fin;Forthright Shield;Fighter;v_f_sh_ru;;;;;Shield;rare;;;str;b_gui_ig_i_a_shd_129;base, o_fin, o_mag, o_str
-sh_ra_w_g_c_r_s_fin;Impact Shield;Fighter;v_f_sh_ru;;;;;Shield;rare;;;str;b_gui_ig_i_a_shd_127;base, o_fin
-sh_ra_w_g_o_k_m_fin;Clipper Shield;Fighter;v_f_sh_ru;;;;;Shield;rare;;;str;b_gui_ig_i_a_shd_137;base
-sh_ra_w_g_o_t_l_avg;Savior Shield;Fighter;v_f_sh_ru;;;;;Shield;rare;;;str;b_gui_ig_i_a_shd_146;base, c_fin, c_mag, c_str, o_fin, o_str
-sh_ra_w_o_k_m_haze;Haze Shield;Fighter;v_f_sh_ru;;;;;Shield;rare;;;str;b_gui_ig_i_a_shd_087;base
-sh_u_g_c_k_l_avg;Mystic Kite Shield;Fighter;v_f_sh_ru;;;excluded;;Shield;;;;str;b_gui_ig_i_a_shd_084;base
-sh_u_g_c_r_m_avg;Slat Shield;Fighter;v_f_sh;;;;;Shield;;;;str;b_gui_ig_i_a_shd_080;
-sh_u_g_c_r_s_avg;Stock Shield;Fighter;v_f_sh;;;;;Shield;;;;str;b_gui_ig_i_a_shd_079;
-sh_un_kite_ice;Ice Shield;Fighter;v_f_sh_ru;;;;;Shield;unique;;;str;b_gui_ig_i_a_shd_075;base
-sh_un_m_c_h_m_mold;Mold Shield;Fighter;v_f_sh_ru;;;;;Shield;unique;;;str;b_gui_ig_i_a_shd_022;base
-sh_un_m_o_c_m_parade;Parade Shield;Fighter;v_f_sh_ru;;;;;Shield;unique;;;str;b_gui_ig_i_a_shd_008;base
-sh_un_m_o_c_m_vesicle;Vesicle Shield;Fighter;v_f_sh_ru;;;;;Shield;unique;;;str;b_gui_ig_i_a_shd_032;base
-sh_un_m_o_h_s_horn;Horn Shield;Fighter;v_f_sh_ru;;;;;Shield;unique;;;str;b_gui_ig_i_a_shd_023;base
-sh_un_m_o_h_s_ram;Ram Shield;Fighter;v_f_sh_ru;;;;;Shield;unique;;;str;b_gui_ig_i_a_shd_025;base
-sh_un_m_o_k_m_dermal;Dermal Shield;Fighter;v_f_sh_ru;;;excluded;;Shield;unique;;;str;b_gui_ig_i_a_shd_037;base
-sh_un_m_o_k_m_guardian;Guardian Shield;Fighter;v_f_sh_ru;;;;;Shield;unique;;;str;b_gui_ig_i_a_shd_011;base
-sh_un_m_o_k_m_maw;Maw Shield;Fighter;v_f_sh_ru;;;;;Shield;unique;;;str;b_gui_ig_i_a_shd_038;base
-sh_un_m_o_k_m_sumbioum;Subioum Shield;Fighter;v_f_sh_ru;;;;;Shield;unique;;;str;b_gui_ig_i_a_shd_039;base
-sh_un_m_o_r_m_aurora;Aurora Shield;Fighter;v_f_sh_ru;;;;;Shield;unique;;;str;b_gui_ig_i_a_shd_070;base
-sh_un_m_o_r_m_canker;Canker Shield;Fighter;v_f_sh_ru;;;;;Shield;unique;;;str;b_gui_ig_i_a_shd_071;base
-sh_un_m_o_r_m_chitin;Chitin Shield;Fighter;v_f_sh_ru;;;;;Shield;unique;;;str;b_gui_ig_i_a_shd_041;base
-sh_un_m_o_r_m_fury;Fury Shield;Fighter;v_f_sh_ru;;;;;Shield;unique;;;str;b_gui_ig_i_a_shd_073;base
-sh_un_m_o_r_m_spirit;Spirit Shield;Fighter;v_f_sh_ru;;;;;Shield;unique;;;str;b_gui_ig_i_a_shd_029;base
-sh_un_m_o_r_m_turtle;Turtle Shield;Fighter;v_f_sh_ru;;;;;Shield;unique;;;str;b_gui_ig_i_a_shd_021;base
-sh_un_w_o_h_m_beast;Beast Shield;Fighter;v_f_sh_ru;;;;;Shield;unique;;;str;b_gui_ig_i_a_shd_005;base
-sh_un_w_o_k_m_crown;Crown Shield;Fighter;v_f_sh_ru;;;;;Shield;unique;;;str;b_gui_ig_i_a_shd_088;base
-sh_w_g_c_h_m_avg;Heater Shield;Fighter;v_f_sh;;;;;Shield;;;;str;b_gui_ig_i_a_shd_103;base, c_mag, c_str, o_avg, o_mag, o_str
-sh_w_g_c_k_l_avg;Large Kite Shield;Fighter;v_f_sh;;;;;Shield;;;;str;b_gui_ig_i_a_shd_116;base, c_fin, c_str, o_avg, o_str
-sh_w_g_c_k_m_avg;Kite Shield;Fighter;v_f_sh;;;;;Shield;;;;str;b_gui_ig_i_a_shd_109;base, c_fin, c_mag, c_str, o_avg, o_mag, o_str
-sh_w_g_c_r_m_avg;Wooden Shield;Fighter;v_f_sh;;;;;Shield;;;;str;b_gui_ig_i_a_shd_081;base, c_mag, c_str, o_avg, o_fin, o_mag, o_str
-sh_w_g_c_r_m_fun;Page Shield;Fighter;v_f_sh;;;;;Shield;;;;;b_gui_ig_i_a_shd_027;
-sh_w_g_c_r_s_avg;Wooden Buckler;Fighter;v_f_sh;;;;;Shield;;;;str;b_gui_ig_i_a_shd_089;c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
-sh_w_g_c_r_s_elm;Elm Buckler;Fighter;v_f_sh;;;;;Shield;;;;str;b_gui_ig_i_a_shd_064;base
-sh_w_g_c_r_s_fun;Small Shield;Fighter;v_f_sh;;;;;Shield;;;;;b_gui_ig_i_a_shd_077;
-sh_w_g_c_r_s_krohar;Krohar's Buckler;Fighter;v_f_sh_ru;;;excluded;;Shield;;;;str;b_gui_ig_i_a_shd_093;base
-sh_w_g_c_s_m_fun;Old Wooden Shield;Fighter;v_f_sh;;;;;Shield;;;;str;b_gui_ig_i_a_shd_010;
-sh_z_g_c_r_m_avg;Painted Shield;Fighter;v_f_sh;;;;;Shield;;;;str;b_gui_ig_i_a_shd_082;
-tongs;Tongs;;x_excluded;;;excluded;;;;;;;b_gui_ig_i_w_msc_006;
-bd_pl_f_g_c_death_knight;Death Knight Armour;Fighter;x_excluded;LoA;;excluded;;Body;;pl;f;;;
-bd_ch_f_g_c_avg_hassat_dsx;Hassat Fur Hauberk;Fighter;loa_f_bd;LoA;;;;Body;;ch;f;str;b_gui_ig_i_a_pos_a2_203;base
-bd_le_f_g_c_avg_zaurask_dsx;Zaurask Leather;Fighter;loa_f_bd;LoA;;;;Body;;le;f;str;b_gui_ig_i_a_pos_a1_206;base
-bd_ba_f_g_c_avg_hassat_dsx;Padded Hassat Armor;Fighter;loa_f_bd;LoA;;;;Body;;ba;f;str;b_gui_ig_i_a_pos_a3_207;base
-bd_le_f_g_c_avg_hassat_dsx;Hassat Hide Hauberk;Fighter;loa_f_bd;LoA;;;;Body;;le;f;str;b_gui_ig_i_a_pos_a2_202;base
-bd_ba_f_g_c_avg_zpad_dsx;Zaurask Padded Leather;Fighter;loa_f_bd;LoA;;;;Body;;ba;f;str;b_gui_ig_i_a_pos_a5_204;base
-bd_pl_f_g_c_avg_alloy_dsx;Articulated Alloy Armor;Fighter;loa_f_bd;LoA;;;;Body;;pl;f;str;b_gui_ig_i_a_pos_a3_200;base
-bd_le_f_g_c_avg_zcured_dsx;Zaurask Scalemail;Fighter;loa_f_bd;LoA;;;;Body;;le;f;str;b_gui_ig_i_a_pos_a3_205;base
-bd_pl_f_g_c_avg_utraean_dsx;Utraean Plate;Fighter;loa_f_bd;LoA;;;;Body;;pl;f;str;b_gui_ig_i_a_pos_a9_241;base
-bd_le_f_g_c_avg_dragon_dsx;Dragon Leather;Fighter;loa_f_bd;LoA;;;;Body;;le;f;str;b_gui_ig_i_a_pos_a1_206;base
-bd_le_f_g_c_avg_nemean_dsx;Nemean Hide;Fighter;loa_f_bd;LoA;;;;Body;;le;f;str;b_gui_ig_i_a_pos_a2_202;base
-bd_sc_f_g_c_avg_dragon_dsx;Dragon Scalemail;Fighter;loa_f_bd;LoA;;;;Body;;sc;f;str;b_gui_ig_i_a_pos_a3_205;base
-bd_bp_f_g_c_avg_alloy_dsx;Alloy Heavy Plate;Fighter;loa_f_bd;LoA;;;;Body;;bp;f;str;b_gui_ig_i_a_pos_a9_201;base
-bd_sl_f_g_c_avg_nemean_dsx;Nemean Armor;Fighter;loa_f_bd;LoA;;;;Body;;sl;f;str;b_gui_ig_i_a_pos_a3_207;base
-bd_pl_f_g_c_avg_alloy2_dsx;Transfused Plate;Fighter;loa_f_bd;LoA;;;;Body;;pl;f;str;b_gui_ig_i_a_pos_a3_200;base
-bd_pl_f_g_c_avg_dragon_dsx;Dragon Platemail;Fighter;loa_f_bd;LoA;;;;Body;;pl;f;str;b_gui_ig_i_a_pos_a5_204;base
-bd_bp_f_g_c_avg_utraean_dsx;Utraearch Battle Plate;Fighter;loa_f_bd;LoA;;;;Body;;bp;f;str;b_gui_ig_i_a_pos_a9_241;base
-bd_bp_f_g_c_avg_alloy2_dsx;Transcendent Plate;Fighter;loa_f_bd;LoA;;;;Body;;bp;f;str;b_gui_ig_i_a_pos_a9_201;base
-bd_le_m_g_c_avg_woven_dsx;Woven Suit;Mage;loa_m_bd;LoA;;;;Body;;le;m;int;b_gui_ig_i_a_pos_a4_239;base
-bd_le_m_g_c_avg_spider_dsx;Spidersilk Hauberk;Mage;loa_m_bd;LoA;;;;Body;;le;m;int;b_gui_ig_i_a_pos_a2_222;base
-bd_le_m_g_c_avg_crmech_dsx;Crude Electric Plate;Mage;loa_m_bd;LoA;;;;Body;;le;m;int;b_gui_ig_i_a_pos_a1_231;base
-bd_le_m_g_c_avg_ltmech_dsx;Light Mechanized Suit;Mage;loa_m_bd;LoA;;;;Body;;le;m;int;b_gui_ig_i_a_pos_a3_234;base
-bd_le_m_g_c_avg_beaded_dsx;Beaded Hauberk;Mage;loa_m_bd;LoA;;;;Body;;le;m;int;b_gui_ig_i_a_pos_a2_226;base
-bd_le_m_g_c_avg_woven_reinforced_dsx;Iron Thread Suit;Mage;loa_m_bd;LoA;;;;Body;;le;m;int;b_gui_ig_i_a_pos_a3_238;base
-bd_le_m_g_c_avg_ceramic_dsx;Ceramic Suit;Mage;loa_m_bd;LoA;;;;Body;;le;m;int;b_gui_ig_i_a_pos_a4_224;base
-bd_le_m_g_c_avg_mech_dsx;Mechanized Suit;Mage;loa_m_bd;LoA;;;;Body;;le;m;int;b_gui_ig_i_a_pos_a5_235;base
-bd_le_m_g_c_avg_magesilk_dsx;Magesilk Shirt;Mage;loa_m_bd;LoA;;;;Body;;le;m;int;b_gui_ig_i_a_pos_a2_222;base
-bd_le_m_g_c_avg_recon_dsx;Light Recondite Suit;Mage;loa_m_bd;LoA;;;;Body;;le;m;int;b_gui_ig_i_a_pos_a1_231;base
-bd_le_m_g_c_avg_beaded2_dsx;Patterned Hauberk;Mage;loa_m_bd;LoA;;;;Body;;le;m;int;b_gui_ig_i_a_pos_a2_226;base
-bd_le_m_g_c_avg_spider_framed_dsx;Framed Spidersilk Hauberk;Mage;loa_m_bd;LoA;;;;Body;;le;m;int;b_gui_ig_i_a_pos_a5_223;base
-bd_le_m_g_c_avg_hvmech_dsx;Heavy Mechanized Suit;Mage;loa_m_bd;LoA;;;;Body;;le;m;int;b_gui_ig_i_a_pos_a6_233;base
-bd_pl_m_g_c_avg_hvelectric_dsx;Heavy Electric Plate;Mage;loa_m_bd;LoA;;;;Body;;pl;m;int;b_gui_ig_i_a_pos_a9_232;base
-bd_br_m_g_c_avg_recon_dsx;Recondite Suit;Mage;loa_m_bd;LoA;;;;Body;;br;m;int;b_gui_ig_i_a_pos_a5_235;base
-bd_le_m_g_c_avg_ceramic2_dsx;Inscribed Suit;Mage;loa_m_bd;LoA;;;;Body;;le;m;int;b_gui_ig_i_a_pos_a4_224;base
-bd_pl_m_g_c_avg_recon_dsx;Heavy Recondite Suit;Mage;loa_m_bd;LoA;;;;Body;;pl;m;int;b_gui_ig_i_a_pos_a6_233;base
-bd_bp_m_g_c_avg_recon_dsx;Recondite Battle Plate;Mage;loa_m_bd;LoA;;;;Body;;bp;m;int;b_gui_ig_i_a_pos_a9_232;base
-bd_br_r_g_c_avg_culeaf_dsx;Cured Leaf Hauberk;Ranger;loa_r_bd;LoA;;;;Body;;br;r;dex;b_gui_ig_i_a_pos_a2_218;base
-bd_br_r_g_c_avg_rubber_dsx;Fiber Suit;Ranger;loa_r_bd;LoA;;;;Body;;br;r;dex;b_gui_ig_i_a_pos_a1_209;base
-bd_br_r_g_c_avg_hassat_dsx;Hassat Skin Robe;Ranger;loa_r_bd;LoA;;;;Body;;br;r;dex;b_gui_ig_i_a_pos_a2_229;base
-bd_br_r_g_c_avg_bark_dsx;Bark Casing;Ranger;loa_r_bd;LoA;;;;Body;;br;r;dex;b_gui_ig_i_a_pos_a8_215;base
-bd_br_r_g_c_avg_flywing_dsx;Flywing Hauberk;Ranger;loa_r_bd;LoA;;;;Body;;br;r;dex;b_gui_ig_i_a_pos_a4_213;base
-bd_br_r_g_c_avg_laleaf_dsx;Lacquered Leaf Hauberk;Ranger;loa_r_bd;LoA;;;;Body;;br;r;dex;b_gui_ig_i_a_pos_a2_216;base
-bd_br_r_g_c_avg_zaurask_dsx;Zaurask Hide Robe;Ranger;loa_r_bd;LoA;;;;Body;;br;r;dex;b_gui_ig_i_a_pos_a2_230;base
-bd_br_r_g_c_avg_thessic_dsx;Thessic Suit;Ranger;loa_r_bd;LoA;;;;Body;;br;r;dex;b_gui_ig_i_a_pos_a8_242;base
-bd_br_r_g_c_avg_bug_dsx;Carapace Plate;Ranger;loa_r_bd;LoA;;;;Body;;br;r;dex;b_gui_ig_i_a_pos_a9_211;base
-bd_br_r_g_c_avg_knleaf_dsx;Knotted Leaf Hauberk;Ranger;loa_r_bd;LoA;;;;Body;;br;r;dex;b_gui_ig_i_a_pos_a2_220;base
-bd_br_r_g_c_avg_releaf_dsx;Reinforced Leaf Armor;Ranger;loa_r_bd;LoA;;;;Body;;br;r;dex;b_gui_ig_i_a_pos_a2_217;base
-bd_br_r_g_c_avg_artbug_dsx;Articulated Carapace Armor;Ranger;loa_r_bd;LoA;;;;Body;;br;r;dex;b_gui_ig_i_a_pos_a3_212;base
-bd_br_r_g_c_avg_hvrubber_dsx;Heavy Fiber Suit;Ranger;loa_r_bd;LoA;;;;Body;;br;r;dex;b_gui_ig_i_a_pos_a2_210;base
-bd_br_r_g_c_avg_chitter_dsx;Chitterskrag Armor;Ranger;loa_r_bd;LoA;;;;Body;;br;r;dex;b_gui_ig_i_a_pos_a9_240;base
-bd_pl_r_g_c_avg_flywing_dsx;Elaborate Flywing Plate;Ranger;loa_r_bd;LoA;;;;Body;;pl;r;dex;b_gui_ig_i_a_pos_a5_214;base
-bd_le_r_g_c_avg_arbor_dsx;Arboreal Suit;Ranger;loa_r_bd;LoA;;;;Body;;le;r;dex;b_gui_ig_i_a_pos_a2_218;base
-bd_sc_r_g_c_avg_exo_dsx;Exoskeleton Suit;Ranger;loa_r_bd;LoA;;;;Body;;sc;r;dex;b_gui_ig_i_a_pos_a3_212;base
-bd_ch_r_g_c_avg_arbor_dsx;Arboreal Armor;Ranger;loa_r_bd;LoA;;;;Body;;ch;r;dex;b_gui_ig_i_a_pos_a2_217;base
-bd_ba_r_g_c_avg_midnight_dsx;Midnight Suit;Ranger;loa_r_bd;LoA;;;;Body;;ba;r;dex;b_gui_ig_i_a_pos_a2_210;base
-bd_bp_r_g_c_avg_arbor_dsx;Arboreal Battle Plate;Ranger;loa_r_bd;LoA;;;;Body;;bp;r;dex;b_gui_ig_i_a_pos_a5_214;base
-bd_ro_m_g_c_avg_woven_dsx;Woven Robe;Mage;loa_m_bd;LoA;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_236;base
-bd_ro_m_g_c_avg_spider_dsx;Spidersilk Robe;Mage;loa_m_bd;LoA;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_221;base
-bd_ro_m_g_c_avg_rubber_dsx;Fiber Robe;Mage;loa_m_bd;LoA;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_208;base
-bd_ro_m_g_c_avg_leaf_dsx;Leaf Robe;Mage;loa_m_bd;LoA;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_219;base
-bd_ro_m_g_c_avg_cebead_dsx;Ceramic Beaded Robe;Mage;loa_m_bd;LoA;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_225;base
-bd_ro_m_g_c_avg_elbead_dsx;Elaborate Beaded Robe;Mage;loa_m_bd;LoA;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_227;base
-bd_ro_m_g_c_avg_hewoven_dsx;Steel Thread Robe;Mage;loa_m_bd;LoA;;;;Body;;ro;m;int;b_gui_ig_i_a_pos_a7_237;base
-bo_bo_sc_f_g_c_avg_alloy_dsx;Alloy Boots;Fighter;loa_f_hgb;LoA;;;;Boots;;sc;f;str;b_gui_ig_i_a_boot_500;base
-bo_bo_sc_f_g_c_avg_alloy2_dsx;Transcendant Boots;Fighter;loa_f_hgb;LoA;;;;Boots;;sc;f;str;b_gui_ig_i_a_boot_500;base
-bo_sh_sc_m_g_c_avg_woven_dsx;Woven Shoes;Mage;loa_m_hgb;LoA;;;;Boots;;sc;m;int;b_gui_ig_i_a_boot_509;base
-bo_bo_sc_m_g_c_avg_beaded_dsx;Beaded Boots;Mage;loa_m_hgb;LoA;;;;Boots;;sc;m;int;b_gui_ig_i_a_boot_506;base
-bo_bo_sc_m_g_c_avg_geared_dsx;Geared Boots;Mage;loa_m_hgb;LoA;;;;Boots;;sc;m;int;b_gui_ig_i_a_boot_505;base
-bo_bo_sc_m_g_c_avg_ceramic_dsx;Ceramic Boots;Mage;loa_m_hgb;LoA;;;;Boots;;sc;m;int;b_gui_ig_i_a_boot_507;base
-bo_bo_sc_m_g_c_avg_beaded2_dsx;Jeweled Boots;Mage;loa_m_hgb;LoA;;;;Boots;;sc;m;int;b_gui_ig_i_a_boot_506;base
-bo_sh_sc_m_g_c_avg_woven2_dsx;Occult Shoes;Mage;loa_m_hgb;LoA;;;;Boots;;sc;m;int;b_gui_ig_i_a_boot_509;base
-bo_bo_sc_m_g_c_avg_ceramic2_dsx;Etched Boots;Mage;loa_m_hgb;LoA;;;;Boots;;sc;m;int;b_gui_ig_i_a_boot_507;base
-bo_bo_sc_m_g_c_avg_geared2_dsx;Recondite Boots;Mage;loa_m_hgb;LoA;;;;Boots;;sc;m;int;b_gui_ig_i_a_boot_505;base
-bo_sh_sc_r_g_c_avg_rubber_dsx;Fiber Shoes;Ranger;loa_r_hgb;LoA;;;;Boots;;sc;r;dex;b_gui_ig_i_a_boot_502;base
-bo_bo_sc_r_g_c_avg_flywing_dsx;Flywing Boots;Ranger;loa_r_hgb;LoA;;;;Boots;;sc;r;dex;b_gui_ig_i_a_boot_504;base
-bo_sh_sc_r_g_c_avg_bug_dsx;Chitin Shoes;Ranger;loa_r_hgb;LoA;;;;Boots;;sc;r;dex;b_gui_ig_i_a_boot_508;base
-bo_bo_sc_r_g_c_avg_rubber_dsx;Fiber Boots;Ranger;loa_r_hgb;LoA;;;;Boots;;sc;r;dex;b_gui_ig_i_a_boot_501;base
-bo_sh_sc_r_g_c_avg_flywing_dsx;Flywing Shoes;Ranger;loa_r_hgb;LoA;;;;Boots;;sc;r;dex;b_gui_ig_i_a_boot_503;base
-bo_sh_sc_r_g_c_avg_bug2_dsx;Exoskeleton Shoes;Ranger;loa_r_hgb;LoA;;;;Boots;;sc;r;dex;b_gui_ig_i_a_boot_502;base
-bo_sh_sc_r_g_c_avg_rubber2_dsx;Midnight Boots;Ranger;loa_r_hgb;LoA;;;;Boots;;sc;r;dex;b_gui_ig_i_a_boot_508;base
-bo_sh_sc_r_g_c_avg_flywing2_dsx;Arboreal Boots;Ranger;loa_r_hgb;LoA;;;;Boots;;sc;r;dex;b_gui_ig_i_a_boot_503;base
-gl_ga_sc_f_g_c_avg_alloy_dsx;Alloy Gauntlets;Fighter;loa_f_hgb;LoA;;;;Gloves;;sc;f;str;b_gui_ig_i_a_gntl_300;base
-gl_ga_sc_f_g_c_avg_alloy2_dsx;Transcendant Gauntlets;Fighter;loa_f_hgb;LoA;;;;Gloves;;sc;f;str;b_gui_ig_i_a_gntl_300;base
-gl_gl_sc_m_g_c_avg_woven_dsx;Woven Gloves;Mage;loa_m_hgb;LoA;;;;Gloves;;sc;m;int;b_gui_ig_i_a_gntl_309;base
-gl_ga_sc_m_g_c_avg_beaded_dsx;Beaded Gauntlets;Mage;loa_m_hgb;LoA;;;;Gloves;;sc;m;int;b_gui_ig_i_a_gntl_306;base
-gl_ga_sc_m_g_c_avg_geared_dsx;Geared Gauntlets;Mage;loa_m_hgb;LoA;;;;Gloves;;sc;m;int;b_gui_ig_i_a_gntl_305;base
-gl_ga_sc_m_g_c_avg_beaded2_dsx;Jeweled Gauntlets;Mage;loa_m_hgb;LoA;;;;Gloves;;sc;m;int;b_gui_ig_i_a_gntl_306;base
-gl_ga_sc_m_g_c_avg_electric_dsx;Electric Gauntlets;Mage;loa_m_hgb;LoA;;;;Gloves;;sc;m;int;b_gui_ig_i_a_gntl_307;base
-gl_gl_sc_m_g_c_avg_woven2_dsx;Occult Gloves;Mage;loa_m_hgb;LoA;;;;Gloves;;sc;m;int;b_gui_ig_i_a_gntl_309;base
-gl_ga_sc_m_g_c_avg_electric2_dsx;Recondite Gauntlets;Mage;loa_m_hgb;LoA;;;;Gloves;;sc;m;int;b_gui_ig_i_a_gntl_307;base
-gl_gl_sc_r_g_c_avg_leaf_dsx;Cured Leaf Gloves;Ranger;loa_r_hgb;LoA;;;;Gloves;;sc;r;dex;b_gui_ig_i_a_gntl_302;base
-gl_ra_ga_m_ba_f_g_c_fin_starfield_dsx;Starfield Gauntlets;Ranger;loa_r_hgb;LoA;;;;Gloves;rare;;;dex;b_gui_ig_i_a_gntl_310;base
-gl_gl_sc_r_g_c_avg_flywing_dsx;Flywing Gloves;Ranger;loa_r_hgb;LoA;;;;Gloves;;sc;r;dex;b_gui_ig_i_a_gntl_303;base
-gl_gl_sc_r_g_c_avg_shell_dsx;Shell Gloves;Ranger;loa_r_hgb;LoA;;;;Gloves;;sc;r;dex;b_gui_ig_i_a_gntl_308;base
-gl_gl_sc_r_g_c_avg_rubber_dsx;Fiber Gloves;Ranger;loa_r_hgb;LoA;;;;Gloves;;sc;r;dex;b_gui_ig_i_a_gntl_301;base
-gl_ga_sc_r_g_c_avg_flywing_dsx;Flywing Gauntlets;Ranger;loa_r_hgb;LoA;;;;Gloves;;sc;r;dex;b_gui_ig_i_a_gntl_304;base
-gl_gl_sc_r_g_c_avg_shell2_dsx;Exoskeleton Gloves;Ranger;loa_r_hgb;LoA;;;;Gloves;;sc;r;dex;b_gui_ig_i_a_gntl_308;base
-gl_gl_sc_r_g_c_avg_rubber2_dsx;Midnight Gloves;Ranger;loa_r_hgb;LoA;;;;Gloves;;sc;r;dex;b_gui_ig_i_a_gntl_301;base
-gl_gl_sc_r_g_c_avg_leaf2_dsx;Arboreal Gloves;Ranger;loa_r_hgb;LoA;;;;Gloves;;sc;r;dex;b_gui_ig_i_a_gntl_302;base
-he_op_pl_f_ofkhar_dsx;Helm of Khar;Fighter;loa_f_hgb;LoA;;excluded;;Helmet;;pl;f;;b_gui_ig_i_a_hlmt_430;
-2w_he_op_pl_f_ofkhar_dsx;Super Helm of Khar;Fighter;loa_f_hgb;LoA;Veteran;excluded;;Helmet;;pl;f;;b_gui_ig_i_a_hlmt_430;
-3w_he_op_pl_f_ofkhar_dsx;Supreme Helm of Khar;Fighter;loa_f_hgb;LoA;Elite;excluded;;Helmet;;pl;f;;b_gui_ig_i_a_hlmt_430;
-he_ra_ca_le_avg_pimp;Mac Daddy Cap of Procurement;;x_any;LoA;;excluded;;Helmet;rare;le;;;b_gui_ig_i_a_hlmt_441;
-he_ca_pl_f_alloy_dsx;Alloy Dome;Fighter;loa_f_hgb;LoA;;;;Helmet;;pl;f;str;b_gui_ig_i_a_hlmt_400;base
-he_op_pl_f_allow_crown_dsx;Alloy Crown;Fighter;loa_f_hgb;LoA;;;;Helmet;;pl;f;str;b_gui_ig_i_a_hlmt_405;base
-he_op_pl_m_bone_crown_dsx;Bone Crown;Mage;loa_m_hgb;LoA;;;;Helmet;;pl;m;int;b_gui_ig_i_a_hlmt_414;base
-he_vi_pl_m_woven_headband_dsx;Woven Headband;Mage;loa_m_hgb;LoA;;;;Helmet;;pl;m;int;b_gui_ig_i_a_hlmt_420;base
-he_vi_pl_m_beaded_headband_dsx;Beaded Headband;Mage;loa_m_hgb;LoA;;;;Helmet;;pl;m;int;b_gui_ig_i_a_hlmt_421;base
-he_fl_pl_m_woven_wrap_dsx;Woven Wrap;Mage;loa_m_hgb;LoA;;;;Helmet;;pl;m;int;b_gui_ig_i_a_hlmt_428;base
-he_fl_pl_m_beaded_wrap_dsx;Beaded Wrap;Mage;loa_m_hgb;LoA;;;;Helmet;;pl;m;int;b_gui_ig_i_a_hlmt_429;base
-he_vi_pl_m_woven_headdress_dsx;Iron Thread Cap;Mage;loa_m_hgb;LoA;;;;Helmet;;pl;m;int;b_gui_ig_i_a_hlmt_424;base
-he_op_pl_m_bone_headdress_dsx;Bone Headdress;Mage;loa_m_hgb;LoA;;;;Helmet;;pl;m;int;b_gui_ig_i_a_hlmt_423;base
-he_vi_pl_m_ceramic_headband_dsx;Ceramic Headband;Mage;loa_m_hgb;LoA;;;;Helmet;;pl;m;int;b_gui_ig_i_a_hlmt_422;base
-he_vi_pl_m_beaded_headdress_dsx;Beaded Headdress;Mage;loa_m_hgb;LoA;;;;Helmet;;pl;m;int;b_gui_ig_i_a_hlmt_425;base
-he_vi_pl_m_spider_visor_dsx;Spidersilk Visor;Mage;loa_m_hgb;LoA;;;;Helmet;;pl;m;int;b_gui_ig_i_a_hlmt_427;base
-he_ca_pl_m_spider_dsx;Spidersilk Dome;Mage;loa_m_hgb;LoA;;;;Helmet;;pl;m;int;b_gui_ig_i_a_hlmt_417;base
-he_vi_pl_m_ceramic_headdress_dsx;Ceramic Headdress;Mage;loa_m_hgb;LoA;;;;Helmet;;pl;m;int;b_gui_ig_i_a_hlmt_426;base
-he_op_pl_m_geared_crown_dsx;Geared Crown;Mage;loa_m_hgb;LoA;;;;Helmet;;pl;m;int;b_gui_ig_i_a_hlmt_415;base
-he_vi_pl_m_beaded_headband2_dsx;Jeweled Headband;Mage;loa_m_hgb;LoA;;;;Helmet;;pl;m;int;b_gui_ig_i_a_hlmt_421;base
-he_vi_pl_m_spider_visor2_dsx;Magesilk Headdress;Mage;loa_m_hgb;LoA;;;;Helmet;;pl;m;int;b_gui_ig_i_a_hlmt_427;base
-he_vi_pl_m_ceramic_headdress2_dsx;Etched Headdress;Mage;loa_m_hgb;LoA;;;;Helmet;;pl;m;int;b_gui_ig_i_a_hlmt_426;base
-he_vi_pl_r_leaf_visor_dsx;Cured Leaf Visor;Ranger;loa_r_hgb;LoA;;;;Helmet;;pl;r;dex;b_gui_ig_i_a_hlmt_410;base
-he_vi_pl_r_zaurask_headdress_dsx;Zaurask Headdress;Ranger;loa_r_hgb;LoA;;;;Helmet;;pl;r;dex;b_gui_ig_i_a_hlmt_406;base
-he_vi_pl_r_flywing_visor_dsx;Flywing Visor;Ranger;loa_r_hgb;LoA;;;;Helmet;;pl;r;dex;b_gui_ig_i_a_hlmt_408;base
-he_vi_pl_r_rubber_visor_dsx;Fiber Visor;Ranger;loa_r_hgb;LoA;;;;Helmet;;pl;r;dex;b_gui_ig_i_a_hlmt_412;base
-he_op_pl_r_flywing_crown_dsx;Flywing Crown;Ranger;loa_r_hgb;LoA;;;;Helmet;;pl;r;dex;b_gui_ig_i_a_hlmt_409;base
-he_op_pl_r_zaurask_crown_dsx;Zaurask Crown;Ranger;loa_r_hgb;LoA;;;;Helmet;;pl;r;dex;b_gui_ig_i_a_hlmt_407;base
-he_vi_pl_r_flywing_visor2_dsx;Exoskeleton Visor;Ranger;loa_r_hgb;LoA;;;;Helmet;;pl;r;dex;b_gui_ig_i_a_hlmt_408;base
-he_vi_pl_r_rubber_visor2_dsx;Midnight Visor;Ranger;loa_r_hgb;LoA;;;;Helmet;;pl;r;dex;b_gui_ig_i_a_hlmt_412;base
-he_op_pl_r_flywing_crown2_dsx;Arboreal Visor;Ranger;loa_r_hgb;LoA;;;;Helmet;;pl;r;dex;b_gui_ig_i_a_hlmt_409;base
-sh_un_m_o_r_m_turtle_02_dsx;Turtle Shield;Fighter;x_excluded;LoA;;excluded;;Shield;unique;;;str;b_gui_ig_i_a_shd_021;
-sh_un_m_o_r_m_turtle_01_dsx;Turtle Shield;Fighter;x_excluded;LoA;;excluded;;Shield;unique;;;str;b_gui_ig_i_a_shd_021;
-sh_un_m_o_r_m_turtle_dsx;Turtle Shield;Fighter;x_excluded;LoA;;excluded;;Shield;unique;;;str;b_gui_ig_i_a_shd_021;
-sh_un_m_o_k_m_dermal_dsx;Dermal Shield;Fighter;x_excluded;LoA;;excluded;;Shield;unique;;;str;b_gui_ig_i_a_shd_037;
-sh_w_f_g_c_t_s_avg_deathknight_monster;Death Knight Shield;Fighter;x_excluded;LoA;;excluded;;Shield;;;;str;b_gui_ig_i_a_shd_623;
-sh_w_f_g_c_t_s_avg_deathknight_player;Death Knight Shield;Fighter;loa_f_sh;LoA;;excluded;;Shield;;;;str;b_gui_ig_i_a_shd_623;
-2w_sh_w_f_g_c_t_s_avg_deathknight_player;Super Death Knight Shield;Fighter;loa_f_sh;LoA;Veteran;excluded;;Shield;;;;str;b_gui_ig_i_a_shd_623;
-3w_sh_w_f_g_c_t_s_avg_deathknight_player;Supreme Death Knight Shield;Fighter;loa_f_sh;LoA;Elite;excluded;;Shield;;;;str;b_gui_ig_i_a_shd_623;
-sh_w_f_g_c_t_s_avg_hide_hassat_dsx;Hassat Hide Shield;Fighter;loa_f_sh;LoA;;;;Shield;;;;str;b_gui_ig_i_a_shd_600;base
-sh_w_f_g_c_t_m_avg_hide_skelldra_dsx;Zaurask Leather Shield;Fighter;loa_f_sh;LoA;;;;Shield;;;;str;b_gui_ig_i_a_shd_602;base
-sh_w_f_g_c_t_l_avg_hide_kraken_dsx;Kraken shield;Fighter;loa_f_sh;LoA;;;;Shield;;;;str;b_gui_ig_i_a_shd_601;base
-sh_w_m_g_c_t_m_avg_bamboo_dsx;Bamboo Shield;Mage;loa_m_sh;LoA;;;;Shield;;;;int;b_gui_ig_i_a_shd_603;base
-sh_w_m_g_c_t_m_avg_wicker_dsx;Wicker Shield;Mage;loa_m_sh;LoA;;;;Shield;;;;int;b_gui_ig_i_a_shd_616;base
-sh_w_m_g_c_t_m_avg_gearwork_dsx;Gearwork Shield;Mage;loa_m_sh;LoA;;;;Shield;;;;int;b_gui_ig_i_a_shd_613;base
-sh_w_m_g_c_t_m_avg_ward_blood_dsx;Blood Ward;Mage;loa_m_sh;LoA;;;;Shield;;;;int;b_gui_ig_i_a_shd_ward_04;base
-sh_w_m_g_c_t_m_avg_mushroom_dsx;Shellacked Mushroom Cap Shield;Mage;loa_m_sh;LoA;;;;Shield;;;;int;b_gui_ig_i_a_shd_614;base
-sh_w_m_g_c_t_m_avg_ward_rainbow_dsx;Rainbow Ward;Mage;loa_m_sh;LoA;;;;Shield;;;;int;b_gui_ig_i_a_shd_ward_01;base
-sh_w_m_g_c_t_m_avg_ward_sky_dsx;Sky Ward;Mage;loa_m_sh;LoA;;;;Shield;;;;int;b_gui_ig_i_a_shd_ward_02;base
-sh_ra_w_g_c_t_m_fin_mirror_dsx;Mirror Shield;Mage;loa_m_sh;LoA;;;;Shield;rare;;;int;b_gui_ig_i_a_shd_mirror_dsx;base
-sh_w_m_g_c_t_m_avg_tortoise_dsx;Tortoise Shell Shield;Mage;loa_m_sh;LoA;;;;Shield;;;;int;b_gui_ig_i_a_shd_609;base
-sh_w_m_g_c_t_m_avg_ceramic_dsx;Ceramic Shield;Mage;loa_m_sh;LoA;;;;Shield;;;;int;b_gui_ig_i_a_shd_618;base
-sh_w_m_g_c_t_m_avg_clockface_dsx;Clockface Shield;Mage;loa_m_sh;LoA;;;;Shield;;;;int;b_gui_ig_i_a_shd_612;base
-sh_w_m_g_c_t_m_avg_spider_dsx;Spidersilk Shield;Mage;loa_m_sh;LoA;;;;Shield;;;;int;b_gui_ig_i_a_shd_615;base
-sh_w_m_g_c_t_m_avg_ward_sun_dsx;Sun Ward;Mage;loa_m_sh;LoA;;;;Shield;;;;int;b_gui_ig_i_a_shd_ward_03;base
-sh_w_m_g_c_t_m_avg_ward_blood2_dsx;Sanguine Ward;Mage;loa_m_sh;LoA;;;;Shield;;;;int;b_gui_ig_i_a_shd_ward_04;base
-sh_w_m_g_c_t_m_avg_ward_sky2_dsx;Chromatic Ward;Mage;loa_m_sh;LoA;;;;Shield;;;;int;b_gui_ig_i_a_shd_ward_02;base
-sh_w_m_g_c_t_m_avg_ward_stars_dsx;Ward of the Stars;Mage;loa_m_sh;LoA;;;;Shield;;;;int;b_gui_ig_i_a_shd_ward_05;base
-sh_w_m_g_c_t_m_avg_ward_sun2_dsx;Scintillating Ward;Mage;loa_m_sh;LoA;;;;Shield;;;;int;b_gui_ig_i_a_shd_ward_03;base
-sh_w_r_g_c_t_m_avg_tangled_bucker_dsx;Tangled Root Buckler;Ranger;loa_r_sh;LoA;;;;Shield;;;;dex;b_gui_ig_i_a_shd_607;base
-sh_w_r_g_c_t_m_avg_barrier_flywing_dsx;Flywing Barrier;Ranger;loa_r_sh;LoA;;;;Shield;;;;dex;b_gui_ig_i_a_shd_605;base
-sh_w_r_g_c_t_m_avg_bug_dsx;Carapace Shield;Ranger;loa_r_sh;LoA;;;;Shield;;;;dex;b_gui_ig_i_a_shd_617;base
-sh_w_r_g_c_t_m_avg_wall_bark_dsx;Bark Wall;Ranger;loa_r_sh;LoA;;;;Shield;;;;dex;b_gui_ig_i_a_shd_619;base
-sh_w_r_g_c_t_m_avg_barrier_leaf_dsx;Cured Leaf Barrier;Ranger;loa_r_sh;LoA;;;;Shield;;;;dex;b_gui_ig_i_a_shd_604;base
-sh_w_r_g_c_t_m_avg_wall_flywing_dsx;Flywing Wall;Ranger;loa_r_sh;LoA;;;;Shield;;;;dex;b_gui_ig_i_a_shd_606;base
-sh_w_r_g_c_t_m_avg_bug2_dsx;Exoskeleton Shield;Ranger;loa_r_sh;LoA;;;;Shield;;;;dex;b_gui_ig_i_a_shd_617;base
-sh_w_g_c_t_m_avg_tangled_bucker2_dsx;Arboreal Barrier;Ranger;loa_r_sh;LoA;;;;Shield;;;;dex;b_gui_ig_i_a_shd_607;base
-sh_w_r_g_c_t_m_avg_fan_woven_dsx;Woven Fan;Ranger;loa_r_sh;LoA;;;;Shield;;;;dex;b_gui_ig_i_a_shd_610;base
-sh_w_r_g_c_t_m_avg_fan_beaded_dsx;Beaded Fan;Ranger;loa_r_sh;LoA;;;;Shield;;;;dex;b_gui_ig_i_a_shd_611;base
-sh_w_r_g_c_t_m_avg_fan_spider_dsx;Spidersilk Fan;Ranger;loa_r_sh;LoA;;;;Shield;;;;dex;b_gui_ig_i_a_shd_622;base
-sh_w_r_g_c_t_m_avg_fan_feathered_dsx;Feathered Fan;Ranger;loa_r_sh;LoA;;;;Shield;;;;dex;b_gui_ig_i_a_shd_608;base
-sh_w_r_g_c_t_m_avg_fan_beaded2_dsx;Jeweled Fan;Ranger;loa_r_sh;LoA;;;;Shield;;;;dex;b_gui_ig_i_a_shd_611;base
-bd_br_f_g_c_avg_dsx_set_arhok;Arhok's Leather;Fighter;loa_any_sets;LoA;;;arhok;Body;;br;f;;b_gui_ig_i_a_pos_a3_201;
-sh_w_m_g_c_t_m_avg_dsx_set_arhok;Arhok's Shield;Fighter;loa_any_sets;LoA;;;arhok;Shield;;;;;b_gui_ig_i_a_shd_1000;
-bd_le_m_g_c_avg_dsx_set_illicor;Illicor's Beaded Hauberk;Mage;loa_any_sets;LoA;;;illicor;Body;;le;m;int;b_gui_ig_i_a_pos_a2_226;
-bd_le_m_g_c_avg_dsx_set_kajj;Kajj's Breastplate;Mage;loa_any_sets;LoA;;;kajj;Body;;le;m;str;b_gui_ig_i_a_pos_a3_207;
-gl_gl_sc_r_g_c_avg_dsx_set_kajj;Kajj's Gauntlets;Ranger;loa_any_sets;LoA;;;kajj;Gloves;;sc;r;str;b_gui_ig_i_a_gntl_300;
-he_fl_pl_m_dsx_set_kajj;Kajj's Helm;Mage;loa_any_sets;LoA;;;kajj;Helmet;;pl;m;str;b_gui_ig_i_a_hlmt_126;
-sh_w_m_g_c_t_m_avg_ward_blood_dsx_set_inventor;Solov's Ward;Mage;loa_any_sets;LoA;;;patents;Shield;;;;int;b_gui_ig_i_a_shd_ward_04;
-ring_dsx_set_clockwork;Clockwork Boots;Ranger;loa_any_sets;LoA;;;clockwork;;;;;dex;b_gui_ig_i_a_boot_504;
-bd_le_m_g_c_avg_ceramic_dsx_set_chadek;Chadek's Suit;Mage;loa_any_sets;LoA;;;chadek;Body;;le;m;;b_gui_ig_i_a_pos_a4_224;
-bo_bo_sc_m_g_c_avg_ceramic_dsx_set_chadek;Chadek's Boots;Mage;loa_any_sets;LoA;;;chadek;Boots;;sc;m;;b_gui_ig_i_a_boot_507;
-sh_w_m_g_c_t_m_avg_ceramic_dsx_set_chadek;Chadek's Shield;Fighter;loa_any_sets;LoA;;;chadek;Shield;;;;;b_gui_ig_i_a_shd_618;
-he_vi_pl_m_ceramic_headdress_dsx_set_chadek;Chadek's Headdress;Mage;loa_any_sets;LoA;;;chadek;Helmet;;pl;m;;b_gui_ig_i_a_hlmt_422;
-bd_le_f_g_c_avg_hvmech_dsx_set_kaltenbach;Kaltenbach's Full Mech Suit;Fighter;loa_any_sets;LoA;;;kaltenbach;Body;;le;f;str;b_gui_ig_i_a_pos_a5_235;
-sh_w_f_g_c_t_m_avg_clockface_dsx_set_kaltenbach;Kaltenbach's Shield;Fighter;loa_any_sets;LoA;;;kaltenbach;Shield;;;;str;b_gui_ig_i_a_shd_613;
-gl_ga_sc_f_g_c_avg_geared_dsx_set_kaltenbach;Kaltenbach's Gauntlets;Fighter;loa_any_sets;LoA;;;kaltenbach;Gloves;;sc;f;str;b_gui_ig_i_a_gntl_305;
-he_ca_pl_f_alloy_dsx_set_rune;Rune Dome;Fighter;loa_any_sets;LoA;;;rune;Helmet;;pl;f;str;b_gui_ig_i_a_hlmt_400;
-sh_w_f_g_c_t_m_avg_gearwork_dsx_set_rune;Rune Shield;Fighter;loa_any_sets;LoA;;;rune;Shield;;;;str;b_gui_ig_i_a_shd_613;
-bd_pl_f_g_c_avg_alloy_dsx_set_rune;Rune Armor;Fighter;loa_any_sets;LoA;;;rune;Body;;pl;f;str;b_gui_ig_i_a_pos_a3_200;
-bd_le_m_g_c_avg_spider_framed_dsx_set_adela;Adela's Spidersilk Hauberk;Mage;loa_any_sets;LoA;;;adela;Body;;le;m;int;b_gui_ig_i_a_pos_a2_222;
-bd_pl_r_g_c_avg_flywing_dsx_set_jeffron;Jeffron's Plate;Ranger;loa_any_sets;LoA;;;jeffron;Body;;pl;r;str;b_gui_ig_i_a_pos_a5_214;
-he_op_pl_r_flywing_crown_dsx_set_jeffron;Jeffron's Crown;Ranger;loa_any_sets;LoA;;;jeffron;Helmet;;pl;r;str;b_gui_ig_i_a_hlmt_409;
-sh_w_r_g_c_t_m_avg_wall_flywing_dsx_set_jeffrom;Jeffron's Wall;Fighter;loa_any_sets;LoA;;;jeffron;Shield;;;;str;b_gui_ig_i_a_shd_606;
-gl_ga_sc_r_g_c_avg_flywing_dsx_set_jeffron;Jeffron's Gauntlets;Ranger;loa_any_sets;LoA;;;jeffron;Gloves;;sc;r;str;b_gui_ig_i_a_gntl_304;
-bo_bo_sc_r_g_c_avg_flywing_dsx_set_jeffron;Jeffron's Boots;Ranger;loa_any_sets;LoA;;;jeffron;Boots;;sc;r;str;b_gui_ig_i_a_boot_504;
-bd_br_r_g_c_avg_hvrubber_dsx_set_utraean_archer;Utraean Archer's Suit;Ranger;loa_any_sets;LoA;;;utraean_archer;Body;;br;r;multi;b_gui_ig_i_a_pos_a2_210;
-he_vi_pl_r_rubber_visor_dsx_set_utraean_archer;Utraean Archer's Cap;Ranger;loa_any_sets;LoA;;;utraean_archer;Helmet;;pl;r;multi;b_gui_ig_i_a_hlmt_412;
-bo_bo_sc_r_g_c_avg_rubber_dsx_set_utraean_archer;Utraean Archer's Boots;Ranger;loa_any_sets;LoA;;;utraean_archer;Boots;;sc;r;multi;b_gui_ig_i_a_boot_501;
-he_op_pl_f_bone_crown_dsx_set_zaurask;Helm of the Zaurask Champion;Fighter;loa_any_sets;LoA;;;zaurask;Helmet;;pl;f;str;b_gui_ig_i_a_hlmt_407;
-bd_le_m_g_c_avg_crmech_dsx_set_xulphae;Xulphae's Plate;Mage;loa_any_sets;LoA;;;xulphae;Body;;le;m;int;b_gui_ig_i_a_pos_a1_231;
-bd_br_m_g_c_avg_chitter_dsx_set_kmethekt;Kmethekt's Armor;Mage;loa_any_sets;LoA;;;kmethekts;Body;;br;m;int;b_gui_ig_i_a_pos_a9_240;
-bo_bo_sc_f_g_c_avg_alloy_dsx_set_utraean_guard;Utraean Guard's Boots;Fighter;loa_any_sets;LoA;;;utraean_guard;Boots;;sc;f;str;b_gui_ig_i_a_boot_500;
-sh_w_f_g_c_t_l_avg_dsx_set_utraean_guard;Utraean Guard's Shield;Fighter;loa_any_sets;LoA;;;utraean_guard;Shield;;;;str;b_gui_ig_i_a_shd_601;
-bd_pl_f_g_c_avg_utraean_dsx_set_utraean_guard;Utraean Guard's Plate;Fighter;loa_any_sets;LoA;;;utraean_guard;Body;;pl;f;str;b_gui_ig_i_a_pos_a9_241;
-sh_w_r_g_c_t_m_avg_fan_beaded_dsx_set_hassat;Ancient Hassat Fan;Fighter;loa_any_sets;LoA;;;hassat;Shield;;;;multi;b_gui_ig_i_a_shd_611;
-bo_sh_sc_r_g_c_avg_bug_dsx_set_jerkal;Jerkal's Boots;Ranger;loa_any_sets;LoA;;;jerkal;Boots;;sc;r;multi;b_gui_ig_i_a_boot_508;
-he_vi_pl_r_leaf_visor_dsx_set_jerkal;Jerkal's Visor;Ranger;loa_any_sets;LoA;;;jerkal;Helmet;;pl;r;multi;b_gui_ig_i_a_hlmt_410;
-gl_gl_sc_r_g_c_avg_shell_dsx_set_jerkal;Jerkal's Gloves;Ranger;loa_any_sets;LoA;;;jerkal;Gloves;;sc;r;multi;b_gui_ig_i_a_gntl_308;
-he_threestorms;Helm of the Storms, the Three Storms;;x_any;;;excluded;;Helmet;;;;;b_gui_ig_i_a_hlmt_046;
+Template;Screen Name;Stance;SCM Shop;LoA;Equipment Type;World Level;Excluded;Item Set;Item Type;Rarity;Material;TN Stance;Req. Stat;Icon;Variants
+bd_ch_f_g_c_avg;Thick Chain;Fighter;v_f_bd_n;;armor;;;;bd;;ch;f;str;b_gui_ig_i_a_pos_a4_004;base, c_fin, c_str, o_fin
+bd_ch_f_g_c_fun;Rusty Chain;Fighter;v_f_bd_n;;armor;;;;bd;;ch;f;str;b_gui_ig_i_a_pos_a4_010;base
+bd_ch_f_g_c_low;Stiff Chain;Fighter;v_f_bd_n;;armor;;;;bd;;ch;f;str;b_gui_ig_i_a_pos_a3_008;base
+bd_ch_m_g_c_avg;Thin Chain;Mage;v_m_bd_n;;armor;;;;bd;;ch;m;str;b_gui_ig_i_a_pos_a1_022;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
+bd_ch_r_g_c_avg;Chain Mail;Ranger;v_r_bd_n;;armor;;;;bd;;ch;r;str;b_gui_ig_i_a_pos_a2_029;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
+bd_ch_r_g_c_fun;Tarnished Chain Mail;Ranger;v_r_bd_n;;armor;;;;bd;;ch;r;str;b_gui_ig_i_a_pos_a2_017;base
+bd_ra_ch_m_g_c_fin;Solar Chain;Mage;v_m_bd_s;;armor;;;;bd;rare;ch;m;str;b_gui_ig_i_a_pos_a2_064;base, o_avg, o_fin
+bd_ra_ch_r_g_o_fin;Dragon Weave;Ranger;v_r_amr_s;;armor;;;;bd;rare;ch;r;str;b_gui_ig_i_a_pos_a2_062;base, c_str, o_mag
+bd_ra_sc_f_g_o_mag;Blood Scale;Fighter;v_f_bd_s;;armor;;;;bd;rare;sc;f;str;b_gui_ig_i_a_pos_a4_013;base
+bd_ra_sc_m_g_c_fin;Shadow Scale;Mage;v_m_bd_s;;armor;;;;bd;rare;sc;m;str;b_gui_ig_i_a_pos_a2_061;base, c_mag, o_fin
+bd_ra_sc_r_g_c_fin;Noble Scale;Ranger;v_r_amr_s;;armor;;;;bd;rare;sc;r;str;b_gui_ig_i_a_pos_a4_011;base, c_str
+bd_sc_f_g_c_avg;Thick Scale;Fighter;v_f_bd_n;;armor;;;;bd;;sc;f;str;b_gui_ig_i_a_pos_a3_025;base, c_str, o_fin, o_mag, o_str
+bd_sc_f_g_c_fun;Pitted Scale;Fighter;v_f_bd_n;;armor;;;;bd;;sc;f;str;b_gui_ig_i_a_pos_a3_036;base
+bd_sc_f_g_o_low;Bulky Scale;Fighter;v_f_bd_n;;armor;;;;bd;;sc;f;str;b_gui_ig_i_a_pos_a4_007;base
+bd_sc_m_g_c_avg;Thin Scale;Mage;v_m_bd_n;;armor;;;;bd;;sc;m;;b_gui_ig_i_a_pos_a2_027;base, c_fin, c_mag, o_fin
+bd_sc_r_g_c_avg;Flexible Scale;Ranger;v_r_bd_n;;armor;;;;bd;;sc;r;str;b_gui_ig_i_a_pos_a3_026;base, c_fin, c_str, o_fin
+bd_un_ch_r_green;Green Chain Mail;Ranger;v_r_amr_s;;armor;;;;bd;unique;ch;r;str;b_gui_ig_i_a_pos_a1_052;base
+bd_un_sc_f_dragon;Serpentine Scale;Fighter;v_f_bd_s;;armor;;;;bd;unique;sc;f;str;b_gui_ig_i_a_pos_a5_018;base
+bd_un_sc_r_d_o_mag;Dark Scale;Ranger;v_r_amr_s;;armor;;;;bd;unique;sc;r;str;b_gui_ig_i_a_pos_a3_018;base
+bd_ra_ro_m_d_c_003;Ash Burlap;Mage;v_m_bd_s;;armor;;;;bd;rare;ro;m;int;b_gui_ig_i_a_pos_a7_059;base
+bd_ra_ro_m_d_c_004;Ash Burlap;Mage;v_m_bd_s;;armor;;;;bd;rare;ro;m;int;b_gui_ig_i_a_pos_a7_061;base
+bd_ra_ro_m_d_c_009;Night Garment;Mage;v_m_bd_s;;armor;;;;bd;rare;ro;m;int;b_gui_ig_i_a_pos_a7_067;base
+bd_ra_ro_m_d_c_041;Blood Coat;Mage;v_m_bd_s;;armor;;;;bd;rare;ro;m;int;b_gui_ig_i_a_pos_a7_054;base
+bd_ra_ro_m_d_c_043;Blood Coat;Mage;v_m_bd_s;;armor;;;;bd;rare;ro;m;int;b_gui_ig_i_a_pos_a7_055;base
+bd_ra_ro_m_d_c_077;Dream Robe;Mage;v_m_bd_s;;armor;;;;bd;rare;ro;m;int;b_gui_ig_i_a_pos_a7_073;base
+bd_ra_ro_m_g_c_001;Clay Tatters;Mage;v_m_bd_s;;armor;;;;bd;rare;ro;m;int;b_gui_ig_i_a_pos_a7_077;base
+bd_ra_ro_m_g_c_002;Dirt Rags;Mage;v_m_bd_s;;armor;;;;bd;rare;ro;m;int;b_gui_ig_i_a_pos_a7_060;base
+bd_ra_ro_m_g_c_005;Solar Cloth;Mage;v_m_bd_s;;armor;;;;bd;rare;ro;m;int;b_gui_ig_i_a_pos_a7_058;base
+bd_ra_ro_m_g_c_005a;Gossamer Linen;Mage;v_m_bd_s;;armor;;;;bd;rare;ro;m;int;b_gui_ig_i_a_pos_a7_078;base
+bd_ra_ro_m_g_c_008;Night Garment;Mage;v_m_bd_s;;armor;;;;bd;rare;ro;m;int;b_gui_ig_i_a_pos_a7_079;base
+bd_ra_ro_m_g_c_012;Night Garment;Mage;v_m_bd_s;;armor;;;;bd;rare;ro;m;int;b_gui_ig_i_a_pos_a7_070;base
+bd_ra_ro_m_g_c_014;Night Garment;Mage;v_m_bd_s;;armor;;;;bd;rare;ro;m;int;b_gui_ig_i_a_pos_a7_080;base
+bd_ra_ro_m_g_c_015;Night Garment;Mage;v_m_bd_s;;armor;;;;bd;rare;ro;m;int;b_gui_ig_i_a_pos_a7_051;base
+bd_ra_ro_m_g_c_018;Astral Cloak;Mage;v_m_bd_s;;armor;;;;bd;rare;ro;m;int;b_gui_ig_i_a_pos_a7_081;base
+bd_ra_ro_m_g_c_020;Astral Cloak;Mage;v_m_bd_s;;armor;;;;bd;rare;ro;m;int;b_gui_ig_i_a_pos_a7_065;base
+bd_ra_ro_m_g_c_021;Astral Cloak;Mage;v_m_bd_s;;armor;;;;bd;rare;ro;m;int;b_gui_ig_i_a_pos_a7_082;base
+bd_ra_ro_m_g_c_023;Astral Cloak;Mage;v_m_bd_s;;armor;;;;bd;rare;ro;m;int;b_gui_ig_i_a_pos_a7_064;base
+bd_ra_ro_m_g_c_024;Astral Cloak;Mage;v_m_bd_s;;armor;;;;bd;rare;ro;m;int;b_gui_ig_i_a_pos_a7_083;base
+bd_ra_ro_m_g_c_026;Astral Cloak;Mage;v_m_bd_s;;armor;;;;bd;rare;ro;m;int;b_gui_ig_i_a_pos_a7_062;base
+bd_ra_ro_m_g_c_029;Astral Cloak;Mage;v_m_bd_s;;armor;;;;bd;rare;ro;m;int;b_gui_ig_i_a_pos_a7_084;base
+bd_ra_ro_m_g_c_031;Blood Coat;Mage;v_m_bd_s;;armor;;;;bd;rare;ro;m;int;b_gui_ig_i_a_pos_a7_068;base
+bd_ra_ro_m_g_c_034;Blood Coat;Mage;v_m_bd_s;;armor;;;;bd;rare;ro;m;int;b_gui_ig_i_a_pos_a7_085;base
+bd_ra_ro_m_g_c_037;Blood Coat;Mage;v_m_bd_s;;armor;;;;bd;rare;ro;m;int;b_gui_ig_i_a_pos_a7_072;base
+bd_ra_ro_m_g_c_039;Blood Coat;Mage;v_m_bd_s;;armor;;;;bd;rare;ro;m;int;b_gui_ig_i_a_pos_a7_086;base
+bd_ra_ro_m_g_c_042;Blood Coat;Mage;v_m_bd_s;;armor;;;;bd;rare;ro;m;int;b_gui_ig_i_a_pos_a7_087;base
+bd_ra_ro_m_g_c_045;Dream Robe;Mage;v_m_bd_s;;armor;;;;bd;rare;ro;m;int;b_gui_ig_i_a_pos_a7_088;base
+bd_ra_ro_m_g_c_046;Dream Robe;Mage;v_m_bd_s;;armor;;;;bd;rare;ro;m;int;b_gui_ig_i_a_pos_a7_052;base
+bd_ra_ro_m_g_c_053;Dream Robe;Mage;v_m_bd_s;;armor;;;;bd;rare;ro;m;int;b_gui_ig_i_a_pos_a7_069;base
+bd_ra_ro_m_g_c_059;Dream Robe;Mage;v_m_bd_s;;armor;;;;bd;rare;ro;m;int;b_gui_ig_i_a_pos_a7_071;base
+bd_ra_ro_m_g_c_065;Dream Robe;Mage;v_m_bd_s;;armor;;;;bd;rare;ro;m;int;b_gui_ig_i_a_pos_a7_075;base
+bd_ra_ro_m_g_c_071;Dream Robe;Mage;v_m_bd_s;;armor;;;;bd;rare;ro;m;int;b_gui_ig_i_a_pos_a7_076;base
+bd_ra_ro_m_g_c_084;Radiant Gown;Mage;v_m_bd_s;;armor;;;;bd;rare;ro;m;int;b_gui_ig_i_a_pos_a7_063;base
+bd_ra_ro_m_g_c_089;Radiant Gown;Mage;v_m_bd_s;;armor;;;;bd;rare;ro;m;int;b_gui_ig_i_a_pos_a7_056;base
+bd_ra_ro_m_g_c_094;Radiant Gown;Mage;v_m_bd_s;;armor;;;;bd;rare;ro;m;int;b_gui_ig_i_a_pos_a7_057;base
+bd_ra_ro_m_g_c_100;Shadow Finery;Mage;v_m_bd_s;;armor;;;;bd;rare;ro;m;int;b_gui_ig_i_a_pos_a7_074;base
+bd_ra_ro_m_g_c_105;Shadow Finery;Mage;v_m_bd_s;;armor;;;;bd;rare;ro;m;int;b_gui_ig_i_a_pos_a7_066;base
+bd_ra_ro_m_g_c_110;Noble Vesture;Mage;v_m_bd_s;;armor;;;;bd;rare;ro;m;int;b_gui_ig_i_a_pos_a7_053;base
+bd_ro_m_d_c_003;Burlap;Mage;v_m_bd_n;;armor;;;;bd;;ro;m;;b_gui_ig_i_a_pos_a7_010;base
+bd_ro_m_d_c_004;Burlap;Mage;v_m_bd_n;;armor;;;;bd;;ro;m;;b_gui_ig_i_a_pos_a7_012;base
+bd_ro_m_d_c_009;Garment;Mage;v_m_bd_n;;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_020;base
+bd_ro_m_d_c_041;Coat;Mage;v_m_bd_n;;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_004;base
+bd_ro_m_d_c_043;Coat;Mage;v_m_bd_n;;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_005;base
+bd_ro_m_d_c_077;Robe;Mage;v_m_bd_n;;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_026;base
+bd_ro_m_g_c_001;Tatters;Mage;v_m_bd_n;;armor;;;;bd;;ro;m;;b_gui_ig_i_a_pos_a7_030;base
+bd_ro_m_g_c_002;Rags;Mage;v_m_bd_n;;armor;;;;bd;;ro;m;;b_gui_ig_i_a_pos_a7_011;base
+bd_ro_m_g_c_005;Cloth;Mage;v_m_bd_n;;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_009;base
+bd_ro_m_g_c_005a;Linen;Mage;v_m_bd_n;;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_031;base
+bd_ro_m_g_c_008;Garment;Mage;v_m_bd_n;;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_032;base
+bd_ro_m_g_c_012;Garment;Mage;v_m_bd_n;;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_023;base
+bd_ro_m_g_c_014;Garment;Mage;v_m_bd_n;;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_033;base
+bd_ro_m_g_c_015;Garment;Mage;v_m_bd_n;;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_001;base
+bd_ro_m_g_c_018;Cloak;Mage;v_m_bd_n;;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_034;base
+bd_ro_m_g_c_020;Cloak;Mage;v_m_bd_n;;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_016;base
+bd_ro_m_g_c_021;Cloak;Mage;v_m_bd_n;;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_035;base
+bd_ro_m_g_c_022;Cloak;Mage;v_m_bd_n;;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_042;base
+bd_ro_m_g_c_023;Cloak;Mage;v_m_bd_n;;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_015;base
+bd_ro_m_g_c_024;Cloak;Mage;v_m_bd_n;;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_036;base
+bd_ro_m_g_c_026;Cloak;Mage;v_m_bd_n;;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_013;base
+bd_ro_m_g_c_029;Cloak;Mage;v_m_bd_n;;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_037;base
+bd_ro_m_g_c_031;Coat;Mage;v_m_bd_n;;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_021;base
+bd_ro_m_g_c_034;Coat;Mage;v_m_bd_n;;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_038;base
+bd_ro_m_g_c_037;Coat;Mage;v_m_bd_n;;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_025;base
+bd_ro_m_g_c_039;Coat;Mage;v_m_bd_n;;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_039;base
+bd_ro_m_g_c_042;Coat;Mage;v_m_bd_n;;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_040;base
+bd_ro_m_g_c_044;Coat;Mage;v_m_bd_n;;armor;;;;bd;;ro;m;;b_gui_ig_i_a_pos_a7_044;base
+bd_ro_m_g_c_045;Robe;Mage;v_m_bd_n;;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_041;base
+bd_ro_m_g_c_046;Robe;Mage;v_m_bd_n;;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_002;base
+bd_ro_m_g_c_053;Robe;Mage;v_m_bd_n;;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_022;base
+bd_ro_m_g_c_059;Robe;Mage;v_m_bd_n;;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_024;base
+bd_ro_m_g_c_063;Robe;Mage;v_m_bd_n;;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_045;base
+bd_ro_m_g_c_065;Robe;Mage;v_m_bd_n;;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_028;base
+bd_ro_m_g_c_067;Robe;Mage;v_m_bd_n;;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_043;base
+bd_ro_m_g_c_071;Robe;Mage;v_m_bd_n;;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_029;base
+bd_ro_m_g_c_084;Gown;Mage;v_m_bd_n;;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_014;base
+bd_ro_m_g_c_089;Gown;Mage;v_m_bd_n;;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_006;base
+bd_ro_m_g_c_094;Gown;Mage;v_m_bd_n;;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_008;base
+bd_ro_m_g_c_100;Finery;Mage;v_m_bd_n;;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_027;base
+bd_ro_m_g_c_105;Finery;Mage;v_m_bd_n;;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_017;base
+bd_ro_m_g_c_110;Vesture;Mage;v_m_bd_n;;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_003;base
+bd_ro_un_merik;Starlight Vesture;Mage;v_m_bd_s;;armor;;excluded;;bd;;ro;;int;b_gui_ig_i_a_pos_a7_050;
+bd_bl_f_g_c_avg;Rigid Leather;Fighter;v_f_bd_n;;armor;;;;bd;;bl;f;str;b_gui_ig_i_a_pos_a3_001;base, c_str, o_fin
+bd_bl_f_g_c_fun;Worn Rigid Leather;Fighter;v_f_bd_n;;armor;;;;bd;;bl;f;str;b_gui_ig_i_a_pos_a2_055;
+bd_bl_f_g_c_low;Cracked Rigid Leather;Fighter;v_f_bd_n;;armor;;;;bd;;bl;f;str;b_gui_ig_i_a_pos_a2_054;
+bd_bl_m_g_c_avg;Waxed Leather;Mage;v_m_bd_n;;armor;;;;bd;;bl;m;;b_gui_ig_i_a_pos_a2_024;base, c_fin, o_fin
+bd_bl_r_g_c_avg;Boiled Leather;Ranger;v_r_bd_n;;armor;;;;bd;;bl;r;str;b_gui_ig_i_a_pos_a3_002;base, o_fin
+bd_le_f_g_c_avg;Thick Leather;Fighter;v_f_bd_n;;armor;;;;bd;;le;f;;b_gui_ig_i_a_pos_a1_001;base, c_fin, o_fin
+bd_le_f_g_c_fun;Crude Leather;Fighter;v_f_bd_n;;armor;;;;bd;;le;f;;b_gui_ig_i_a_pos_a1_077;
+bd_le_f_g_c_low;Worn Leather;Fighter;v_f_bd_n;;armor;;;;bd;;le;f;;b_gui_ig_i_a_pos_a1_076;
+bd_le_m_g_c_avg;Mage Leather;Mage;v_m_bd_n;;armor;;;;bd;;le;m;;b_gui_ig_i_a_pos_a1_045;base, c_str, o_avg, o_fin
+bd_le_r_g_c_avg;Leather Armor;Ranger;v_r_bd_n;;armor;;;;bd;;le;r;;b_gui_ig_i_a_pos_a1_002;base, o_fin
+bd_le_r_g_c_low;Tattered Leather;Ranger;v_r_bd_n;;armor;;;;bd;;le;r;;b_gui_ig_i_a_pos_a1_018;
+bd_ra_bl_f_g_c_str;Rock Pelt;Fighter;v_f_bd_s;;armor;;;;bd;rare;bl;f;str;b_gui_ig_i_a_pos_a2_071;base, o_fin
+bd_ra_bl_m_g_c_fin;Night Leather;Mage;v_m_bd_s;;armor;;;;bd;rare;bl;m;;b_gui_ig_i_a_pos_a2_060;base, o_fin
+bd_ra_bl_r_g_o_fin;Stellar Leather;Ranger;v_r_amr_s;;armor;;;;bd;rare;bl;r;str;b_gui_ig_i_a_pos_a2_059;base
+bd_ra_le_f_g_c_fin;Fused Leather;Fighter;v_f_bd_s;;armor;;;;bd;rare;le;f;str;b_gui_ig_i_a_pos_a1_059;base
+bd_ra_le_m_g_o_avg;Dream Leather;Mage;v_m_bd_s;;armor;;;;bd;rare;le;m;;b_gui_ig_i_a_pos_a1_058;base
+bd_ra_le_r_g_o_fin;Noble Leather;Ranger;v_r_amr_s;;armor;;;;bd;rare;le;r;str;b_gui_ig_i_a_pos_a1_060;base
+bd_ra_sl_m_g_c_avg;Classic Leather;Mage;v_m_bd_s;;armor;;;;bd;rare;sl;m;;b_gui_ig_i_a_pos_a1_061;base, c_fin, c_str, o_fin, o_str
+bd_ra_sl_r_g_c_avg;Marshal Leather;Ranger;v_r_amr_s;;armor;;;;bd;rare;sl;r;;b_gui_ig_i_a_pos_a2_057;base, c_fin, c_str
+bd_sl_f_g_c_avg;Cleated Leather;Fighter;v_f_bd_n;;armor;;;;bd;;sl;f;str;b_gui_ig_i_a_pos_a2_001;base, c_str, o_fin
+bd_sl_f_g_c_fun;Torn Leather;Fighter;v_f_bd_n;;armor;;;;bd;;sl;f;;b_gui_ig_i_a_pos_a2_056;
+bd_sl_m_g_c_avg;Riveted Leather;Mage;v_m_bd_n;;armor;;;;bd;;sl;m;;b_gui_ig_i_a_pos_a1_046;base, c_fin, c_mag, c_str, o_avg, o_fin, o_str
+bd_sl_m_g_c_fun;Weathered Leather;Mage;v_m_bd_n;;armor;;;;bd;;sl;m;;b_gui_ig_i_a_pos_a2_003;
+bd_sl_r_g_c_avg;Studded Leather;Ranger;v_r_bd_n;;armor;;;;bd;;sl;r;;b_gui_ig_i_a_pos_a2_002;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
+bd_un_bl_f_g_c_blood;Lord Hovart's Blood Armor;Fighter;v_f_bd_s;;armor;;;;bd;unique;bl;f;str;b_gui_ig_i_a_pos_a3_045;base
+bd_un_bl_r_leaf;Woodland Leather;Ranger;v_r_amr_s;;armor;;;;bd;unique;bl;r;str;b_gui_ig_i_a_pos_a2_051;base
+bd_un_le_f_pad_avg;Altan's Leather;Fighter;v_f_bd_s;;armor;;excluded;;bd;unique;le;f;;b_gui_ig_i_a_pos_a1_078;base
+bd_un_sl_f_barbarian;Olaf's Studded Leather;Fighter;v_f_bd_s;;armor;;;;bd;unique;sl;f;str;b_gui_ig_i_a_pos_a1_054;base
+bd_ba_f_g_c_avg;Banded Armor;Fighter;v_f_bd_n;;armor;;;;bd;;ba;f;str;b_gui_ig_i_a_pos_a5_001;base, o_fin, o_mag, o_str
+bd_ba_f_g_c_fun;Stiff Banded Armor;Fighter;v_f_bd_n;;armor;;;;bd;;ba;f;str;b_gui_ig_i_a_pos_a5_004;base
+bd_ba_f_g_c_low;Crude Banded Armor;Fighter;v_f_bd_n;;armor;;;;bd;;ba;f;str;b_gui_ig_i_a_pos_a5_019;
+bd_ba_m_g_c_str;Mage Banded Armor;Mage;v_m_bd_n;;armor;;;;bd;;ba;m;str;b_gui_ig_i_a_pos_a2_020;base
+bd_ba_r_g_o_fin;Ranger Banded Armor;Ranger;v_r_bd_n;;armor;;;;bd;;ba;r;str;b_gui_ig_i_a_pos_a2_016;base
+bd_bp_f_g_c_avg;Battle Plate;Fighter;v_f_bd_n;;armor;;;;bd;;bp;f;str;b_gui_ig_i_a_pos_a6_007;base, c_fin, c_str, o_mag, o_str
+bd_bp_f_g_c_fun;Basic Battle Plate;Fighter;v_f_bd_n;;armor;;;;bd;;bp;f;str;b_gui_ig_i_a_pos_a6_004;
+bd_br_f_g_c_avg;Heavy Brigandine;Fighter;v_f_bd_n;;armor;;;;bd;;br;f;str;b_gui_ig_i_a_pos_a3_004;base, c_str, o_fin
+bd_br_f_g_c_low;Haggard Brigandine;Fighter;v_f_bd_n;;armor;;;;bd;;br;f;str;b_gui_ig_i_a_pos_a3_035;
+bd_br_m_g_c_avg;Thin Brigandine;Mage;v_m_bd_n;;armor;;;;bd;;br;m;;b_gui_ig_i_a_pos_a2_010;base, c_mag, o_fin
+bd_br_m_g_c_low;Flimsy Brigandine;Mage;v_m_bd_n;;armor;;;;bd;;br;m;;b_gui_ig_i_a_pos_a2_011;
+bd_br_r_g_c_avg;Brigandine Armor;Ranger;v_r_bd_n;;armor;;;;bd;;br;r;str;b_gui_ig_i_a_pos_a3_023;base, c_fin, o_mag
+bd_fp_f_g_c_avg;Full Plate;Fighter;v_f_bd_n;;armor;;;;bd;;fp;f;str;b_gui_ig_i_a_pos_a5_017;base, c_str, o_fin, o_mag, o_str
+bd_fp_f_g_c_fun;Bulky Full Plate;Fighter;v_f_bd_n;;armor;;;;bd;;fp;f;str;b_gui_ig_i_a_pos_a5_008;
+bd_fp_m_g_o_mag;Thin Plate;Mage;v_m_bd_n;;armor;;;;bd;;fp;m;str;b_gui_ig_i_a_pos_a5_011;base
+bd_fp_r_g_c_avg;Quarter Plate;Ranger;v_r_bd_n;;armor;;;;bd;;fp;r;str;b_gui_ig_i_a_pos_a5_013;base
+bd_pl_f_g_c_avg;Heavy Plate;Fighter;v_f_bd_n;;armor;;;;bd;;pl;f;str;b_gui_ig_i_a_pos_a5_002;base, c_fin
+bd_pl_f_g_c_fun;Common Heavy Plate;Fighter;v_f_bd_n;;armor;;;;bd;;pl;f;str;b_gui_ig_i_a_pos_a5_021;
+bd_pl_f_g_c_low;Dented Heavy Plate;Fighter;v_f_bd_n;;armor;;;;bd;;pl;f;str;b_gui_ig_i_a_pos_a5_020;
+bd_pl_m_g_c_str;Mage Plate;Mage;v_m_bd_n;;armor;;;;bd;;pl;m;str;b_gui_ig_i_a_pos_a1_024;base
+bd_pl_r_g_c_fin;Ranger Plate;Ranger;v_r_bd_n;;armor;;;;bd;;pl;r;str;b_gui_ig_i_a_pos_a3_013;base, o_str
+bd_ra_ba_f_g_o_fin;Fused Steel;Fighter;v_f_bd_s;;armor;;;;bd;rare;ba;f;str;b_gui_ig_i_a_pos_a5_025;base, o_mag
+bd_ra_bp_f_g_c_fin;Stellar Plate;Fighter;v_f_bd_s;;armor;;;;bd;rare;bp;f;str;b_gui_ig_i_a_pos_a5_023;base, c_str
+bd_ra_br_f_g_c_str;Clay Brigandine;Fighter;v_f_bd_s;;armor;;;;bd;rare;br;f;str;b_gui_ig_i_a_pos_a3_041;base
+bd_ra_br_m_g_o_fin;Compact Brigandine;Mage;v_m_bd_s;;armor;;;;bd;rare;br;m;str;b_gui_ig_i_a_pos_a3_043;base, c_mag
+bd_ra_br_r_g_c_avg;Prime Brigandine;Ranger;v_r_amr_s;;armor;;;;bd;rare;br;r;str;b_gui_ig_i_a_pos_a3_042;base, c_fin
+bd_ra_fp_f_g_o_fin;Cardinal Plate;Fighter;v_f_bd_s;;armor;;;;bd;rare;fp;f;str;b_gui_ig_i_a_pos_a5_022;base, o_str
+bd_ra_fp_r_g_c_avg;Imperial Plate;Ranger;v_r_amr_s;;armor;;;;bd;rare;fp;r;str;b_gui_ig_i_a_pos_a5_024;base
+bd_un_ba_f_g_skeleton_captain;Ancient Banded;Fighter;v_f_bd_s;;armor;;excluded;;bd;unique;ba;f;str;b_gui_ig_i_a_pos_a5_026;base
+bd_un_br_f_bone;Bone Plate;Fighter;v_f_bd_s;;armor;;;;bd;unique;br;f;str;b_gui_ig_i_a_pos_a6_010;base
+bd_un_br_f_copper;Copper Plate;Fighter;v_f_bd_s;;armor;;;;bd;unique;br;f;str;b_gui_ig_i_a_pos_a3_031;base
+bd_un_br_f_d_c_str;Cirene Scale;Fighter;v_f_bd_s;;armor;;;;bd;unique;br;f;str;b_gui_ig_i_a_pos_a2_021;base
+bd_un_br_f_spider;Black Widow Brigandine;Fighter;v_f_bd_s;;armor;;;;bd;unique;br;f;str;b_gui_ig_i_a_pos_a1_053;base
+bd_un_br_r_d_o_str;Plate Coat;Ranger;v_r_amr_s;;armor;;;;bd;unique;br;r;str;b_gui_ig_i_a_pos_a4_009;base
+bd_un_fp_f_g_c_mag;Magical Plate;Fighter;v_f_bd_s;;armor;;;;bd;unique;fp;f;str;b_gui_ig_i_a_pos_a5_006;base, o_mag
+bd_un_pl_f_crystal;Crystal Plate;Fighter;v_f_bd_s;;armor;;;;bd;unique;pl;f;str;b_gui_ig_i_a_pos_a6_009;base
+bd_un_pl_f_g_c_avg;Solid Plate;Fighter;v_f_bd_s;;armor;;;;bd;unique;pl;f;str;b_gui_ig_i_a_pos_a3_016;base, c_fin
+bd_un_pl_f_g_c_fun;Standard Plate;Fighter;v_f_bd_s;;armor;;;;bd;unique;pl;f;str;b_gui_ig_i_a_pos_a3_014;base
+bo_bo_br_f_g_c_avg;Brigandine Boots;Fighter;v_f_bo_n;;armor;;;;bo;;br;f;str;b_gui_ig_i_a_boot_004;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
+bo_bo_ch_f_g_c_avg;Chain Boots;Fighter;v_f_bo_n;;armor;;;;bo;;ch;f;str;b_gui_ig_i_a_boot_006;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
+bo_bo_le_f_g_c_avg;Leather Boots;Fighter;v_f_bo_n;;armor;;;;bo;;le;f;;b_gui_ig_i_a_boot_001;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
+bo_bo_le_f_g_c_healthy;Healthy Boots;Fighter;v_f_bo_s;;armor;;excluded;;bo;;le;f;;b_gui_ig_i_a_boot_040;
+bo_bo_le_f_g_c_satin;Satin Boots;Mage;v_m_hgb_s;;armor;;excluded;;bo;;le;f;int;b_gui_ig_i_a_boot_040;
+bo_bo_le_light;Light Boots;;x_any;;armor;;excluded;;bo;;le;;;b_gui_ig_i_a_boot_068;
+bo_bo_sc_f_g_c_avg;Scale Boots;Fighter;v_f_bo_n;;armor;;;;bo;;sc;f;str;b_gui_ig_i_a_boot_005;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
+bo_bo_sl_f_g_c_avg;Studded Leather Boots;Fighter;v_f_bo_n;;armor;;;;bo;;sl;f;str;b_gui_ig_i_a_boot_010;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
+bo_gr_ba_f_g_c_avg;Banded Greaves;Fighter;v_f_bo_n;;armor;;;;bo;;ba;f;str;b_gui_ig_i_a_boot_008;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
+bo_gr_bl_f_g_c_avg;Boiled Leather Greaves;Fighter;v_f_bo_n;;armor;;;;bo;;bl;f;str;b_gui_ig_i_a_boot_018;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
+bo_gr_fp_f_g_c_avg;Full Plate Greaves;Fighter;v_f_bo_n;;armor;;;;bo;;fp;f;str;b_gui_ig_i_a_boot_009;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
+bo_ra_bo_br_f_g_c_fin;Sporting Boots;Fighter;v_f_bo_s;;armor;;;;bo;rare;br;f;str;b_gui_ig_i_a_boot_081;base, c_mag, o_fin
+bo_ra_bo_ch_f_g_c_fin;Kicker Boots;Fighter;v_f_bo_s;;armor;;;;bo;rare;ch;f;str;b_gui_ig_i_a_boot_087;base, c_mag, o_fin, o_str
+bo_ra_bo_le_f_g_c_fin;Ready Boots;Fighter;v_f_bo_s;;armor;;;;bo;rare;le;f;;b_gui_ig_i_a_boot_076;base, o_fin
+bo_ra_bo_sc_f_g_c_fin;Blade Boots;Fighter;v_f_bo_s;;armor;;;;bo;rare;sc;f;str;b_gui_ig_i_a_boot_084;base, o_fin, o_mag
+bo_ra_bo_sl_f_g_c_fin;Rock Pelt Boots;Fighter;v_f_bo_s;;armor;;;;bo;rare;sl;f;str;b_gui_ig_i_a_boot_078;base, o_fin, o_str
+bo_ra_gr_ba_f_g_c_fin;Pain Greaves;Fighter;v_f_bo_s;;armor;;;;bo;rare;ba;f;str;b_gui_ig_i_a_boot_095;base, o_fin, o_mag
+bo_ra_gr_bl_f_g_c_fin;Hunter Greaves;Fighter;v_f_bo_s;;armor;;;;bo;rare;bl;f;str;b_gui_ig_i_a_boot_091;base, c_mag, o_fin, o_str
+bo_ra_gr_fp_f_g_c_fin;Steel Greaves;Fighter;v_f_bo_s;;armor;;;;bo;rare;fp;f;str;b_gui_ig_i_a_boot_098;base, c_str, o_fin, o_str
+bo_un_bo_br_f_bone;Bone Boots;Fighter;v_f_bo_s;;armor;;;;bo;unique;br;f;str;b_gui_ig_i_a_boot_073;base
+bo_un_bo_br_f_spider;Black Widow Greaves;Fighter;v_f_bo_s;;armor;;;;bo;unique;br;f;str;b_gui_ig_i_a_boot_074;base
+bo_un_bo_ch_r_green;Woodland Boots;Ranger;v_r_amr_s;;armor;;;;bo;unique;ch;r;str;b_gui_ig_i_a_boot_071;base
+bo_un_bo_pl_f_crytstal;Crystal Boots;Fighter;v_f_bo_s;;armor;;;;bo;unique;pl;f;str;b_gui_ig_i_a_boot_072;base
+bo_un_bo_ro_m_molten;Molten Boots;Fighter;v_f_bo_s;;armor;;;;bo;unique;ro;m;str;b_gui_ig_i_a_boot_069;base
+bo_un_bo_sc_f_dragon;Serpentine Boots;Fighter;v_f_bo_s;;armor;;;;bo;unique;sc;f;str;b_gui_ig_i_a_boot_075;base
+bo_un_bo_sl_f_barbarian;Olaf's Boots;Fighter;v_f_bo_s;;armor;;;;bo;unique;sl;f;;b_gui_ig_i_a_boot_070;base
+gl_ga_ba_f_g_c_avg;Banded Gauntlets;Fighter;v_f_gl_n;;armor;;;;gl;;ba;f;str;b_gui_ig_i_a_gntl_011;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
+gl_ga_bl_f_g_c_avg;Boiled Leather Gauntlets;Fighter;v_f_gl_n;;armor;;;;gl;;bl;f;str;b_gui_ig_i_a_gntl_024;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
+gl_ga_br_f_g_c_avg;Brigandine Gauntlets;Fighter;v_f_gl_n;;armor;;;;gl;;br;f;str;b_gui_ig_i_a_gntl_009;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
+gl_ga_fp_f_g_c_avg;Full Plate Gauntlets;Fighter;v_f_gl_n;;armor;;;;gl;;fp;f;str;b_gui_ig_i_a_gntl_005;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
+gl_ga_sc_f_g_c_avg;Scale Gauntlets;Fighter;v_f_gl_n;;armor;;;;gl;;sc;f;str;b_gui_ig_i_a_gntl_010;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
+gl_gl_bl_f_g_c_avg;Boiled Leather Gloves;Fighter;v_f_gl_n;;armor;;;;gl;;bl;f;str;b_gui_ig_i_a_gntl_016;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
+gl_gl_br_f_g_c_avg;Brigandine Gloves;Fighter;v_f_gl_n;;armor;;;;gl;;br;f;str;b_gui_ig_i_a_gntl_008;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
+gl_gl_ch_f_g_c_avg;Chain Gloves;Fighter;v_f_gl_n;;armor;;;;gl;;ch;f;str;b_gui_ig_i_a_gntl_003;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
+gl_gl_le_f_g_c_avg;Leather Gloves;Fighter;v_f_gl_n;;armor;;;;gl;;le;f;;b_gui_ig_i_a_gntl_012;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
+gl_gl_sc_f_g_c_avg;Scale Gloves;Fighter;v_f_gl_n;;armor;;;;gl;;sc;f;str;b_gui_ig_i_a_gntl_004;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
+gl_gl_sl_f_g_c_avg;Studded Leather Gloves;Fighter;v_f_gl_n;;armor;;;;gl;;sl;f;str;b_gui_ig_i_a_gntl_002;base, c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
+gl_ra_ga_ba_f_g_c_fin;Solar Gauntlets;Fighter;v_f_gl_s;;armor;;;;gl;rare;ba;f;str;b_gui_ig_i_a_gntl_123;base, c_mag, c_str, o_fin, o_str
+gl_ra_ga_bl_f_g_c_fin;Zenith Gauntlets;Fighter;v_f_gl_s;;armor;;;;gl;rare;bl;f;str;b_gui_ig_i_a_gntl_116;base, o_fin
+gl_ra_ga_br_f_g_c_fin;Spectral Gauntlets;Fighter;v_f_gl_s;;armor;;;;gl;rare;br;f;str;b_gui_ig_i_a_gntl_118;base, o_fin, o_mag
+gl_ra_ga_fp_f_g_o_avg;Chief Gauntlets;Fighter;v_f_gl_s;;armor;;;;gl;rare;fp;f;str;b_gui_ig_i_a_gntl_129;base, c_fin, c_str, o_fin, o_str
+gl_ra_ga_sc_f_g_c_fin;Terrestrial Gauntlets;Fighter;v_f_gl_s;;armor;;;;gl;rare;sc;f;str;b_gui_ig_i_a_gntl_121;base, o_fin
+gl_ra_gl_bl_f_g_c_fin;Marshal Gloves;Fighter;v_f_gl_s;;armor;;;;gl;rare;bl;f;str;b_gui_ig_i_a_gntl_102;base, o_fin
+gl_ra_gl_br_f_g_c_fin;Lunar Gloves;Fighter;v_f_gl_s;;armor;;;;gl;rare;br;f;str;b_gui_ig_i_a_gntl_104;base, o_fin, o_mag, o_str
+gl_ra_gl_ch_f_g_c_fin;Sultan Gloves;Fighter;v_f_gl_s;;armor;;;;gl;rare;ch;f;str;b_gui_ig_i_a_gntl_111;base, c_mag, c_str, o_fin, o_str
+gl_ra_gl_le_f_g_c_fin;Punisher Gloves;Fighter;v_f_gl_s;;armor;;;;gl;rare;le;f;str;b_gui_ig_i_a_gntl_098;base, o_fin
+gl_ra_gl_sc_f_g_c_fin;Rock Scale Gloves;Fighter;v_f_gl_s;;armor;;;;gl;rare;sc;f;str;b_gui_ig_i_a_gntl_108;base, o_fin, o_str
+gl_ra_gl_sl_f_g_c_fin;Secure Gloves;Fighter;v_f_gl_s;;armor;;;;gl;rare;sl;f;str;b_gui_ig_i_a_gntl_100;base, o_fin
+gl_un_gl_br_f_spider;Black Widow Gauntlets;Fighter;v_f_gl_s;;armor;;;;gl;unique;br;f;str;b_gui_ig_i_a_gntl_096;base
+gl_un_gl_ch_r_green;Woodland Gloves;Ranger;v_r_amr_s;;armor;;;;gl;unique;ch;r;str;b_gui_ig_i_a_gntl_094;base
+gl_un_gl_pl_f_crystal;Crystal Gauntlets;Fighter;v_f_gl_s;;armor;;;;gl;unique;pl;f;str;b_gui_ig_i_a_gntl_095;base
+gl_un_gl_ro_m_molten;Molten Gloves;Fighter;v_f_gl_s;;armor;;;;gl;unique;ro;m;str;b_gui_ig_i_a_gntl_093;base
+gl_un_gl_sc_f_dragon;Serpentine Gauntlets;Fighter;v_f_gl_s;;armor;;;;gl;unique;sc;f;str;b_gui_ig_i_a_gntl_097;base
+he_ca_le_avg;Leather Cap;;x_any;;armor;;;;he;;le;;;b_gui_ig_i_a_hlmt_006;base
+he_ca_pl_avg;Steel Cap;Fighter;v_f_he_n;;armor;;;;he;;pl;;str;b_gui_ig_i_a_hlmt_004;base
+he_ca_pl_blue;Iron Helm;Fighter;v_f_he_n;;armor;;;;he;;pl;;str;b_gui_ig_i_a_hlmt_014;base
+he_ca_pl_blue_02;Onyx Helm;Fighter;v_f_he_n;;armor;;;;he;;pl;;str;b_gui_ig_i_a_hlmt_089;base
+he_ca_pl_cap;Plate Cap;Fighter;v_f_he_n;;armor;;;;he;;pl;;str;b_gui_ig_i_a_hlmt_028;base
+he_ca_pl_cap_brown;Earthen Helm;Fighter;v_f_he_n;;armor;;;;he;;pl;;str;b_gui_ig_i_a_hlmt_045;base
+he_ca_pl_dome;Dome Cap;Fighter;v_f_he_n;;armor;;;;he;;pl;;str;b_gui_ig_i_a_hlmt_019;base
+he_ca_pl_fin;Ridge Helm;Fighter;v_f_he_n;;armor;;;;he;;pl;;str;b_gui_ig_i_a_hlmt_013;base
+he_ca_pl_mag;Brow Cap;Fighter;v_f_he_n;;armor;;;;he;;pl;;str;b_gui_ig_i_a_hlmt_009;base
+he_ca_pl_ornage;Solar Cap;Fighter;v_f_he_n;;armor;;;;he;;pl;;str;b_gui_ig_i_a_hlmt_012;base
+he_ca_ro_felt_01;Felt Cap;Mage;v_m_hgb_n;;armor;;;;he;;ro;;;b_gui_ig_i_a_hlmt_038;base
+he_ca_ro_felt_02;Felt Cap;Mage;v_m_hgb_n;;armor;;;;he;;ro;;;b_gui_ig_i_a_hlmt_075;base
+he_ca_ro_felt_03;Felt Cap;Mage;v_m_hgb_n;;armor;;;;he;;ro;;;b_gui_ig_i_a_hlmt_076;base
+he_ca_ro_felt_04;Felt Cap;Mage;v_m_hgb_n;;armor;;;;he;;ro;;int;b_gui_ig_i_a_hlmt_077;base
+he_ca_ro_flat_01;Flat Cap;Mage;v_m_hgb_n;;armor;;;;he;;ro;;int;b_gui_ig_i_a_hlmt_016;base
+he_ca_ro_flat_02;Flat Cap;Mage;v_m_hgb_n;;armor;;;;he;;ro;;int;b_gui_ig_i_a_hlmt_066;base
+he_ca_ro_flat_03;Flat Cap;Mage;v_m_hgb_n;;armor;;;;he;;ro;;int;b_gui_ig_i_a_hlmt_067;base
+he_ca_ro_flat_04;Flat Cap;Mage;v_m_hgb_n;;armor;;;;he;;ro;;int;b_gui_ig_i_a_hlmt_068;base
+he_ca_ro_gemblue;Gem Cap;Mage;v_m_hgb_n;;armor;;;;he;;ro;;;b_gui_ig_i_a_hlmt_037;base
+he_ca_ro_green;Fabric Cap;Mage;v_m_hgb_n;;armor;;;;he;;ro;;;b_gui_ig_i_a_hlmt_038;base
+he_ca_ro_slope_01;Peak Cap;Mage;v_m_hgb_n;;armor;;;;he;;ro;;;b_gui_ig_i_a_hlmt_035;base
+he_ca_ro_slope_02;Peak Cap;Mage;v_m_hgb_n;;armor;;;;he;;ro;;;b_gui_ig_i_a_hlmt_078;base
+he_ca_ro_slope_03;Peak Cap;Mage;v_m_hgb_n;;armor;;;;he;;ro;;;b_gui_ig_i_a_hlmt_079;base
+he_ca_ro_slope_04;Peak Cap;Mage;v_m_hgb_n;;armor;;;;he;;ro;;int;b_gui_ig_i_a_hlmt_080;base
+he_ca_ro_thin_01;Thin Cap;Mage;v_m_hgb_n;;armor;;;;he;;ro;;int;b_gui_ig_i_a_hlmt_008;base
+he_ca_ro_thin_02;Thin Cap;Mage;v_m_hgb_n;;armor;;;;he;;ro;;;b_gui_ig_i_a_hlmt_060;base
+he_ca_ro_thin_03;Thin Cap;Mage;v_m_hgb_n;;armor;;;;he;;ro;;;b_gui_ig_i_a_hlmt_061;base
+he_ca_ro_thin_04;Thin Cap;Mage;v_m_hgb_n;;armor;;;;he;;ro;;;b_gui_ig_i_a_hlmt_062;base
+he_ca_ro_turban_01;Coiled Cap;Mage;v_m_hgb_n;;armor;;;;he;;ro;;int;b_gui_ig_i_a_hlmt_037;base
+he_ca_ro_turban_02;Coiled Cap;Mage;v_m_hgb_n;;armor;;;;he;;ro;;int;b_gui_ig_i_a_hlmt_063;base
+he_ca_ro_turban_03;Coiled Cap;Mage;v_m_hgb_n;;armor;;;;he;;ro;;int;b_gui_ig_i_a_hlmt_064;base
+he_ca_ro_turban_04;Coiled Cap;Mage;v_m_hgb_n;;armor;;;;he;;ro;;int;b_gui_ig_i_a_hlmt_065;base
+he_ca_ro_wizard_01;Wizard Cap;Mage;v_m_hgb_n;;armor;;;;he;;ro;;int;b_gui_ig_i_a_hlmt_010;base
+he_ca_ro_wizard_02;Wizard Cap;Mage;v_m_hgb_n;;armor;;;;he;;ro;;int;b_gui_ig_i_a_hlmt_055;base
+he_ca_ro_wizard_03;Wizard Cap;Mage;v_m_hgb_n;;armor;;;;he;;ro;;int;b_gui_ig_i_a_hlmt_056;base
+he_ca_ro_wizard_04;Wizard Cap;Mage;v_m_hgb_n;;armor;;;;he;;ro;;int;b_gui_ig_i_a_hlmt_057;base
+he_ca_ro_wizard_05;Wizard Cap;Mage;v_m_hgb_n;;armor;;;;he;;ro;;int;b_gui_ig_i_a_hlmt_058;base
+he_ca_ro_wizard_06;Wizard Cap;Mage;v_m_hgb_n;;armor;;;;he;;ro;;int;b_gui_ig_i_a_hlmt_059;base
+he_ca_ro_wizard_07;Wizard Cap;Mage;v_m_hgb_n;;armor;;;;he;;ro;;int;b_gui_ig_i_a_hlmt_095;base
+he_ca_ro_wooly_01;Wooly Cap;Mage;v_m_hgb_n;;armor;;;;he;;ro;;;b_gui_ig_i_a_hlmt_036;base
+he_ca_ro_wooly_02;Wooly Cap;Mage;v_m_hgb_n;;armor;;;;he;;ro;;;b_gui_ig_i_a_hlmt_072;base
+he_ca_ro_wooly_03;Wooly Cap;Mage;v_m_hgb_n;;armor;;;;he;;ro;;int;b_gui_ig_i_a_hlmt_073;base
+he_ca_ro_wooly_04;Wooly Cap;Mage;v_m_hgb_n;;armor;;;;he;;ro;;int;b_gui_ig_i_a_hlmt_074;base
+he_ca_ro_woven_01;Thicket Helm;Mage;v_m_hgb_n;;armor;;;;he;;ro;;int;b_gui_ig_i_a_hlmt_015;base
+he_ca_ro_woven_02;Woven Cap;Mage;v_m_hgb_n;;armor;;;;he;;ro;;int;b_gui_ig_i_a_hlmt_069;base
+he_ca_ro_woven_03;Woven Cap;Mage;v_m_hgb_n;;armor;;;;he;;ro;;int;b_gui_ig_i_a_hlmt_070;base
+he_ca_ro_woven_04;Woven Cap;Mage;v_m_hgb_n;;armor;;;;he;;ro;;int;b_gui_ig_i_a_hlmt_071;base
+he_ca_sl_avg;Studded Cap;Fighter;v_f_he_n;;armor;;;;he;;sl;;str;b_gui_ig_i_a_hlmt_011;base
+he_fu_bronze;Bronze Helm;Fighter;v_f_he_n;;armor;;;;he;;;;str;b_gui_ig_i_a_hlmt_024;base
+he_fu_bronze_02;Centaur Helm;Fighter;v_f_he_n;;armor;;;;he;;;;str;b_gui_ig_i_a_hlmt_091;base
+he_fu_pl_desert;Desert Helm;Fighter;v_f_he_n;;armor;;;;he;;pl;;str;b_gui_ig_i_a_hlmt_025;base
+he_fu_pl_grate;Slotted Helm;Fighter;v_f_he_n;;armor;;;;he;;pl;;str;b_gui_ig_i_a_hlmt_039;base
+he_fu_pl_horn_avg;Horned Helm;Fighter;v_f_he_n;;armor;;;;he;;pl;;str;b_gui_ig_i_a_hlmt_005;base
+he_fu_pl_horn_fin;Bull Helm;Fighter;v_f_he_n;;armor;;;;he;;pl;;str;b_gui_ig_i_a_hlmt_040;base
+he_fu_pl_horn_fin_02;Brute Helm;Fighter;v_f_he_n;;armor;;;;he;;pl;;str;b_gui_ig_i_a_hlmt_084;base
+he_fu_pl_horn_fin_03;Black Helm;Fighter;v_f_he_n;;armor;;;;he;;pl;;str;b_gui_ig_i_a_hlmt_085;base
+he_fu_pl_horn_mag;Regal Helm;Fighter;v_f_he_n;;armor;;;;he;;pl;;str;b_gui_ig_i_a_hlmt_027;base
+he_fu_pl_horn_mag_02;Raven Helm;Fighter;v_f_he_n;;armor;;;;he;;pl;;str;b_gui_ig_i_a_hlmt_088;base
+he_fu_pl_knight;Great Helm;Fighter;v_f_he_n;;armor;;;;he;;pl;;str;b_gui_ig_i_a_hlmt_003;base
+he_fu_pl_knight_02;Blaster Helm;Fighter;v_f_he_n;;armor;;;;he;;pl;;str;b_gui_ig_i_a_hlmt_093;base
+he_fu_pl_knight_fin;Knight Helm;Fighter;v_f_he_n;;armor;;;;he;;pl;;str;b_gui_ig_i_a_hlmt_021;base
+he_fu_pl_knight_fin_02;Karlat's Magic Helm;Fighter;v_f_he_n;;armor;;;;he;;pl;;str;b_gui_ig_i_a_hlmt_081;base
+he_fu_pl_knight_fin_03;Sightless Helm;Fighter;v_f_he_s;;armor;;excluded;;he;;pl;;str;b_gui_ig_i_a_hlmt_082;base
+he_fu_pl_knight_str;War Helm;Fighter;v_f_he_n;;armor;;;;he;;pl;;str;b_gui_ig_i_a_hlmt_018;base
+he_fu_pl_knight_str_02;Bluster Helm;Fighter;v_f_he_n;;armor;;;;he;;pl;;str;b_gui_ig_i_a_hlmt_087;base
+he_fu_pl_smallwings;Hawk Helm;Fighter;v_f_he_n;;armor;;;;he;;pl;;str;b_gui_ig_i_a_hlmt_033;base
+he_fu_pl_smallwings_02;Guardian Helm;Fighter;v_f_he_n;;armor;;;;he;;pl;;str;b_gui_ig_i_a_hlmt_094;base
+he_fu_pl_smallwings_kavaren;Utraean Helm;Fighter;v_f_he_s;;armor;;excluded;;he;;pl;;str;b_gui_ig_i_a_hlmt_094;base
+he_fu_pl_spike;Spiked Helm;Fighter;v_f_he_n;;armor;;;;he;;pl;;str;b_gui_ig_i_a_hlmt_044;base
+he_fu_pl_str;Heavy Helm;Fighter;v_f_he_n;;armor;;;;he;;pl;;str;b_gui_ig_i_a_hlmt_001;base
+he_op_bigwings;Soaring Helm;Fighter;v_f_he_n;;armor;;;;he;;;;str;b_gui_ig_i_a_hlmt_043;base
+he_op_bigwings_02;Winged Helm;Fighter;v_f_he_n;;armor;;;;he;;;;str;b_gui_ig_i_a_hlmt_086;base
+he_op_pl_avg;Sentry Helm;Fighter;v_f_he_n;;armor;;;;he;;pl;;str;b_gui_ig_i_a_hlmt_002;base
+he_op_pl_cone;Tusk Helm;Fighter;v_f_he_n;;armor;;;;he;;pl;;str;b_gui_ig_i_a_hlmt_030;base
+he_op_pl_eyes;Face Helm;Fighter;v_f_he_n;;armor;;;;he;;pl;;str;b_gui_ig_i_a_hlmt_020;base
+he_op_pl_roman;Parade Helm;Fighter;v_f_he_n;;armor;;;;he;;pl;;str;b_gui_ig_i_a_hlmt_029;base
+he_op_pl_roman_02;Sovereign Helm;Fighter;v_f_he_n;;armor;;;;he;;pl;;str;b_gui_ig_i_a_hlmt_092;base
+he_op_pl_santa;Crimson Helm;Fighter;v_f_he_n;;armor;;;;he;;pl;;str;b_gui_ig_i_a_hlmt_034;base
+he_op_pl_santa_02;Dashing Helm;Fighter;v_f_he_n;;armor;;;;he;;pl;;str;b_gui_ig_i_a_hlmt_083;base
+he_ra_ca_le_avg;Pauper Cap;;x_any;;armor;;;;he;rare;le;;;b_gui_ig_i_a_hlmt_103;base
+he_ra_ca_pl_avg;Snug Cap;Fighter;v_f_he_s;;armor;;;;he;rare;pl;;str;b_gui_ig_i_a_hlmt_107;base
+he_ra_ca_pl_cap;Wanderer Cap;Fighter;v_f_he_s;;armor;;;;he;rare;pl;;str;b_gui_ig_i_a_hlmt_106;base
+he_ra_ca_pl_dome;Sheen Cap;Fighter;v_f_he_s;;armor;;;;he;rare;pl;;str;b_gui_ig_i_a_hlmt_105;base
+he_ra_ca_ro_felt_01;Rustic Cap;Mage;v_m_hgb_s;;armor;;;;he;rare;ro;;int;b_gui_ig_i_a_hlmt_099;base
+he_ra_ca_ro_flat_02;Pressed Cap;Mage;v_m_hgb_s;;armor;;;;he;rare;ro;;int;b_gui_ig_i_a_hlmt_123;base
+he_ra_ca_ro_slope_04;Cerebral Cap;Mage;v_m_hgb_s;;armor;;;;he;rare;ro;;int;b_gui_ig_i_a_hlmt_096;base
+he_ra_ca_ro_thin_04;Scratchy Cap;Mage;v_m_hgb_s;;armor;;;;he;rare;ro;;;b_gui_ig_i_a_hlmt_102;base
+he_ra_ca_ro_wizard_03;Knowledge Cap;Mage;v_m_hgb_s;;armor;;;;he;rare;ro;;int;b_gui_ig_i_a_hlmt_097;base
+he_ra_ca_ro_wizard_04;Knowledge Cap;Mage;v_m_hgb_s;;armor;;;;he;rare;ro;;;b_gui_ig_i_a_hlmt_095;base
+he_ra_ca_ro_wizard_06;Knowledge Cap;Mage;v_m_hgb_s;;armor;;;;he;rare;ro;;int;b_gui_ig_i_a_hlmt_098;base
+he_ra_ca_ro_wooly_02;Warmth Cap;Mage;v_m_hgb_s;;armor;;;;he;rare;ro;;int;b_gui_ig_i_a_hlmt_100;base
+he_ra_ca_ro_wooly_04;Warmth Cap;Mage;v_m_hgb_s;;armor;;;;he;rare;ro;;int;b_gui_ig_i_a_hlmt_101;base
+he_ra_ca_ro_woven_03;Loom Cap;Mage;v_m_hgb_s;;armor;;;;he;rare;ro;;int;b_gui_ig_i_a_hlmt_122;base
+he_ra_ca_sl_avg;Traveling Cap;Fighter;v_f_he_s;;armor;;;;he;rare;sl;;str;b_gui_ig_i_a_hlmt_104;base
+he_ra_fu_pl_desert;Seething Helm;Fighter;v_f_he_s;;armor;;;;he;rare;pl;;str;b_gui_ig_i_a_hlmt_113;base
+he_ra_fu_pl_horn_fin;Gore Helm;Fighter;v_f_he_s;;armor;;;;he;rare;pl;;str;b_gui_ig_i_a_hlmt_118;base
+he_ra_fu_pl_horn_mag;Conqueror Helm;Fighter;v_f_he_s;;armor;;;;he;rare;pl;;str;b_gui_ig_i_a_hlmt_121;base
+he_ra_fu_pl_knight;Echo Helm;Fighter;v_f_he_s;;armor;;;;he;rare;pl;;str;b_gui_ig_i_a_hlmt_114;base
+he_ra_fu_pl_knight_fin;Bloody Helm;Fighter;v_f_he_s;;armor;;;;he;rare;pl;;str;b_gui_ig_i_a_hlmt_119;base
+he_ra_fu_pl_knight_fin_02;Bloody Helm;Fighter;v_f_he_s;;armor;;;;he;rare;pl;;str;b_gui_ig_i_a_hlmt_120;base
+he_ra_fu_pl_knight_str;Menacing Helm;Fighter;v_f_he_s;;armor;;;;he;rare;pl;;str;b_gui_ig_i_a_hlmt_117;base
+he_ra_fu_pl_spike;Prickly Helm;Fighter;v_f_he_s;;armor;;;;he;rare;pl;;str;b_gui_ig_i_a_hlmt_115;base
+he_ra_fu_pl_str;Bolted Helm;Fighter;v_f_he_s;;armor;;;;he;rare;pl;;str;b_gui_ig_i_a_hlmt_116;base
+he_ra_op_bigwings;Spirited Helm;Fighter;v_f_he_s;;armor;;;;he;rare;;;str;b_gui_ig_i_a_hlmt_111;base
+he_ra_op_pl_avg;Jaw Helm;Fighter;v_f_he_s;;armor;;;;he;rare;pl;;str;b_gui_ig_i_a_hlmt_108;base
+he_ra_op_pl_cone;Stature Helm;Fighter;v_f_he_s;;armor;;;;he;rare;pl;;str;b_gui_ig_i_a_hlmt_109;base
+he_ra_op_pl_roman;Whiplash Helm;Fighter;v_f_he_s;;armor;;;;he;rare;pl;;str;b_gui_ig_i_a_hlmt_110;base
+he_ra_un_fu_pl_skull;Disturbed Helm;Fighter;v_f_he_s;;armor;;;;he;unique;pl;;str;b_gui_ig_i_a_hlmt_124;base
+he_ra_vi_pl_knight;Burdened Helm;Fighter;v_f_he_s;;armor;;;;he;rare;pl;;str;b_gui_ig_i_a_hlmt_112;base
+he_un_ca_barbarian;Olaf's Helmet;Fighter;v_f_he_s;;armor;;;;he;unique;;;str;b_gui_ig_i_a_hlmt_047;base
+he_un_ca_cowskull;Bovine Helm;Fighter;v_f_he_s;;armor;;;;he;unique;;;str;b_gui_ig_i_a_hlmt_017;base
+he_un_ca_brim;Brimmed Hat;Fighter;v_f_he_s;;armor;;;;he;unique;;;str;b_gui_ig_i_a_hlmt_032;base
+he_un_ca_moon;Luna Cap;Fighter;v_f_he_s;;armor;;;;he;unique;;;str;b_gui_ig_i_a_hlmt_026;base
+he_un_ca_pl_guard_archer;Archer Helm;Fighter;v_f_he_s;;armor;;excluded;;he;unique;pl;;str;b_gui_ig_i_a_hlmt_052;base
+he_un_ca_ro_warlock;Warlock Hat;Mage;v_m_hgb_s;;armor;;;;he;unique;ro;;;b_gui_ig_i_a_hlmt_125;base
+he_un_ca_tallcrown;Imperial Helm;Fighter;v_f_he_s;;armor;;;;he;unique;;;str;b_gui_ig_i_a_hlmt_031;base
+he_un_fu_crystal;Crystal Helm;Fighter;v_f_he_s;;armor;;;;he;unique;;;str;b_gui_ig_i_a_hlmt_048;base
+he_un_fu_eyebrows;Eye Helm;Fighter;v_f_he_s;;armor;;;;he;unique;;;str;b_gui_ig_i_a_hlmt_023;base
+he_un_fu_pl_fish;Fish Helm;Fighter;v_f_he_s;;armor;;;;he;unique;pl;;str;b_gui_ig_i_a_hlmt_042;base
+he_un_fu_pl_fish_02;Dragonfly Helm;Fighter;v_f_he_s;;armor;;;;he;unique;pl;;str;b_gui_ig_i_a_hlmt_090;base
+he_un_fu_pl_skull;Carnage Helm;Fighter;v_f_he_s;;armor;;;;he;unique;pl;;str;b_gui_ig_i_a_hlmt_022;base
+he_un_mask_bone;Bone Helm;Fighter;v_f_he_s;;armor;;;;he;unique;;;str;b_gui_ig_i_a_hlmt_049;base
+he_un_op_pl_guard_captain;Captain Helm;Fighter;v_f_he_s;;armor;;excluded;;he;unique;pl;;str;b_gui_ig_i_a_hlmt_054;base
+he_un_op_pl_guard_fighter;Guard Helm;Fighter;v_f_he_s;;armor;;excluded;;he;unique;pl;;str;b_gui_ig_i_a_hlmt_053;base
+he_un_spider;Black Widow Helmet;Fighter;v_f_he_s;;armor;;;;he;unique;;;str;b_gui_ig_i_a_hlmt_050;base
+he_un_vi_dragon;Serpentine Helmet;Fighter;v_f_he_s;;armor;;;;he;unique;;;str;b_gui_ig_i_a_hlmt_051;base
+he_un_vi_moto;Challenger Helm;Fighter;v_f_he_s;;armor;;;;he;unique;;;str;b_gui_ig_i_a_hlmt_041;base
+he_vi_pl_knight;Knight Helm;Fighter;v_f_he_n;;armor;;;;he;;pl;;str;b_gui_ig_i_a_hlmt_007;base
+sh_m_g_c_r_s_avg;Metal Buckler;Fighter;v_f_sh_n;;armor;;;;sh;;;;str;b_gui_ig_i_a_shd_078;c_mag, c_str, o_avg, o_fin, o_mag, o_str
+sh_m_g_c_r_s_low;Rusted Metal Buckler;Fighter;v_f_sh_n;;armor;;;;sh;;;;;b_gui_ig_i_a_shd_072;
+sh_ra_m_c_h_s_practice;Practice Shield;Fighter;v_f_sh_s;;armor;;;;sh;rare;;;str;b_gui_ig_i_a_shd_024;base
+sh_ra_m_c_k_m_practice;Practice Kite Shield;Fighter;v_f_sh_s;;armor;;;;sh;rare;;;str;b_gui_ig_i_a_shd_058;base
+sh_ra_m_c_r_l_stamp;Stamp Shield;Fighter;v_f_sh_s;;armor;;;;sh;rare;;;str;b_gui_ig_i_a_shd_076;base
+sh_ra_m_c_r_m_decrepit;Decrepit Shield;Fighter;v_f_sh_s;;armor;;;;sh;rare;;;;b_gui_ig_i_a_shd_072;base
+sh_ra_m_c_r_m_rivet;Rivet Buckler;Fighter;v_f_sh_s;;armor;;;;sh;rare;;;str;b_gui_ig_i_a_shd_015;base
+sh_ra_m_c_r_m_serrated;Serrated Shield;Fighter;v_f_sh_s;;armor;;;;sh;rare;;;str;b_gui_ig_i_a_shd_020;base
+sh_ra_m_c_r_m_strapped;Strapped Shield;Fighter;v_f_sh_s;;armor;;;;sh;rare;;;str;b_gui_ig_i_a_shd_030;base
+sh_ra_m_c_r_m_wreath;Wreath Shield;Fighter;v_f_sh_s;;armor;;;;sh;rare;;;str;b_gui_ig_i_a_shd_069;base
+sh_ra_m_g_o_r_s_fin;Tortoise Shield;Fighter;v_f_sh_s;;armor;;;;sh;rare;;;str;b_gui_ig_i_a_shd_151;o_str
+sh_ra_m_o_h_s_spine;Spine Shield;Fighter;v_f_sh_s;;armor;;;;sh;rare;;;str;b_gui_ig_i_a_shd_051;base
+sh_ra_m_o_r_m_cinder;Crimson Shield;Fighter;v_f_sh_s;;armor;;;;sh;rare;;;str;b_gui_ig_i_a_shd_003;base
+sh_ra_m_o_r_m_disc;Disc Shield;Fighter;v_f_sh_s;;armor;;;;sh;rare;;;str;b_gui_ig_i_a_shd_043;base
+sh_ra_m_o_r_m_frost;Frost Shield;Fighter;v_f_sh_s;;armor;;;;sh;rare;;;str;b_gui_ig_i_a_shd_004;base
+sh_ra_m_o_r_m_quad;Quad Shield;Fighter;v_f_sh_s;;armor;;;;sh;rare;;;str;b_gui_ig_i_a_shd_044;base
+sh_ra_m_o_r_m_shell;Shell Shield;Fighter;v_f_sh_s;;armor;;;;sh;rare;;;str;b_gui_ig_i_a_shd_028;base
+sh_ra_m_o_r_s_etched;Etched Shield;Fighter;v_f_sh_s;;armor;;;;sh;rare;;;str;b_gui_ig_i_a_shd_065;base
+sh_ra_w_c_c_m_strike;Strike Shield;Fighter;v_f_sh_s;;armor;;;;sh;rare;;;str;b_gui_ig_i_a_shd_031;base
+sh_ra_w_c_k_m_braced;Braced Shield;Fighter;v_f_sh_s;;armor;;;;sh;rare;;;str;b_gui_ig_i_a_shd_054;base
+sh_ra_w_c_k_s_pelt;Pelt Shield;Fighter;v_f_sh_s;;armor;;;;sh;rare;;;;b_gui_ig_i_a_shd_017;base
+sh_ra_w_g_c_h_m_fin;Ordained Shield;Fighter;v_f_sh_s;;armor;;;;sh;rare;;;str;b_gui_ig_i_a_shd_133;base, c_str, o_fin
+sh_ra_w_g_c_k_l_fin;Forged Shield;Fighter;v_f_sh_s;;armor;;;;sh;rare;;;str;b_gui_ig_i_a_shd_141;base, c_str, o_fin, o_str
+sh_ra_w_g_c_k_m_fin;Clobber Shield;Fighter;v_f_sh_s;;armor;;;;sh;rare;;;str;b_gui_ig_i_a_shd_136;base, c_mag, c_str, o_mag, o_str
+sh_ra_w_g_c_r_m_fin;Forthright Shield;Fighter;v_f_sh_s;;armor;;;;sh;rare;;;str;b_gui_ig_i_a_shd_129;base, o_fin, o_mag, o_str
+sh_ra_w_g_c_r_s_fin;Impact Shield;Fighter;v_f_sh_s;;armor;;;;sh;rare;;;str;b_gui_ig_i_a_shd_127;base, o_fin
+sh_ra_w_g_o_k_m_fin;Clipper Shield;Fighter;v_f_sh_s;;armor;;;;sh;rare;;;str;b_gui_ig_i_a_shd_137;base
+sh_ra_w_g_o_t_l_avg;Savior Shield;Fighter;v_f_sh_s;;armor;;;;sh;rare;;;str;b_gui_ig_i_a_shd_146;base, c_fin, c_mag, c_str, o_fin, o_str
+sh_ra_w_o_k_m_haze;Haze Shield;Fighter;v_f_sh_s;;armor;;;;sh;rare;;;str;b_gui_ig_i_a_shd_087;base
+sh_u_g_c_k_l_avg;Mystic Kite Shield;Fighter;v_f_sh_s;;armor;;excluded;;sh;;;;str;b_gui_ig_i_a_shd_084;base
+sh_u_g_c_r_m_avg;Slat Shield;Fighter;v_f_sh_n;;armor;;;;sh;;;;str;b_gui_ig_i_a_shd_080;
+sh_u_g_c_r_s_avg;Stock Shield;Fighter;v_f_sh_n;;armor;;;;sh;;;;str;b_gui_ig_i_a_shd_079;
+sh_un_kite_ice;Ice Shield;Fighter;v_f_sh_s;;armor;;;;sh;unique;;;str;b_gui_ig_i_a_shd_075;base
+sh_un_m_c_h_m_mold;Mold Shield;Fighter;v_f_sh_s;;armor;;;;sh;unique;;;str;b_gui_ig_i_a_shd_022;base
+sh_un_m_o_c_m_parade;Parade Shield;Fighter;v_f_sh_s;;armor;;;;sh;unique;;;str;b_gui_ig_i_a_shd_008;base
+sh_un_m_o_c_m_vesicle;Vesicle Shield;Fighter;v_f_sh_s;;armor;;;;sh;unique;;;str;b_gui_ig_i_a_shd_032;base
+sh_un_m_o_h_s_horn;Horn Shield;Fighter;v_f_sh_s;;armor;;;;sh;unique;;;str;b_gui_ig_i_a_shd_023;base
+sh_un_m_o_h_s_ram;Ram Shield;Fighter;v_f_sh_s;;armor;;;;sh;unique;;;str;b_gui_ig_i_a_shd_025;base
+sh_un_m_o_k_m_dermal;Dermal Shield;Fighter;v_f_sh_s;;armor;;excluded;;sh;unique;;;str;b_gui_ig_i_a_shd_037;base
+sh_un_m_o_k_m_guardian;Guardian Shield;Fighter;v_f_sh_s;;armor;;;;sh;unique;;;str;b_gui_ig_i_a_shd_011;base
+sh_un_m_o_k_m_maw;Maw Shield;Fighter;v_f_sh_s;;armor;;;;sh;unique;;;str;b_gui_ig_i_a_shd_038;base
+sh_un_m_o_k_m_sumbioum;Subioum Shield;Fighter;v_f_sh_s;;armor;;;;sh;unique;;;str;b_gui_ig_i_a_shd_039;base
+sh_un_m_o_r_m_aurora;Aurora Shield;Fighter;v_f_sh_s;;armor;;;;sh;unique;;;str;b_gui_ig_i_a_shd_070;base
+sh_un_m_o_r_m_canker;Canker Shield;Fighter;v_f_sh_s;;armor;;;;sh;unique;;;str;b_gui_ig_i_a_shd_071;base
+sh_un_m_o_r_m_chitin;Chitin Shield;Fighter;v_f_sh_s;;armor;;;;sh;unique;;;str;b_gui_ig_i_a_shd_041;base
+sh_un_m_o_r_m_fury;Fury Shield;Fighter;v_f_sh_s;;armor;;;;sh;unique;;;str;b_gui_ig_i_a_shd_073;base
+sh_un_m_o_r_m_spirit;Spirit Shield;Fighter;v_f_sh_s;;armor;;;;sh;unique;;;str;b_gui_ig_i_a_shd_029;base
+sh_un_m_o_r_m_turtle;Turtle Shield;Fighter;v_f_sh_s;;armor;;;;sh;unique;;;str;b_gui_ig_i_a_shd_021;base
+sh_un_w_o_h_m_beast;Beast Shield;Fighter;v_f_sh_s;;armor;;;;sh;unique;;;str;b_gui_ig_i_a_shd_005;base
+sh_un_w_o_k_m_crown;Crown Shield;Fighter;v_f_sh_s;;armor;;;;sh;unique;;;str;b_gui_ig_i_a_shd_088;base
+sh_w_g_c_h_m_avg;Heater Shield;Fighter;v_f_sh_n;;armor;;;;sh;;;;str;b_gui_ig_i_a_shd_103;base, c_mag, c_str, o_avg, o_mag, o_str
+sh_w_g_c_k_l_avg;Large Kite Shield;Fighter;v_f_sh_n;;armor;;;;sh;;;;str;b_gui_ig_i_a_shd_116;base, c_fin, c_str, o_avg, o_str
+sh_w_g_c_k_m_avg;Kite Shield;Fighter;v_f_sh_n;;armor;;;;sh;;;;str;b_gui_ig_i_a_shd_109;base, c_fin, c_mag, c_str, o_avg, o_mag, o_str
+sh_w_g_c_r_m_avg;Wooden Shield;Fighter;v_f_sh_n;;armor;;;;sh;;;;str;b_gui_ig_i_a_shd_081;base, c_mag, c_str, o_avg, o_fin, o_mag, o_str
+sh_w_g_c_r_m_fun;Page Shield;Fighter;v_f_sh_n;;armor;;;;sh;;;;;b_gui_ig_i_a_shd_027;
+sh_w_g_c_r_s_avg;Wooden Buckler;Fighter;v_f_sh_n;;armor;;;;sh;;;;str;b_gui_ig_i_a_shd_089;c_fin, c_mag, c_str, o_avg, o_fin, o_mag, o_str
+sh_w_g_c_r_s_elm;Elm Buckler;Fighter;v_f_sh_n;;armor;;;;sh;;;;str;b_gui_ig_i_a_shd_064;base
+sh_w_g_c_r_s_fun;Small Shield;Fighter;v_f_sh_n;;armor;;;;sh;;;;;b_gui_ig_i_a_shd_077;
+sh_w_g_c_r_s_krohar;Krohar's Buckler;Fighter;v_f_sh_s;;armor;;excluded;;sh;;;;str;b_gui_ig_i_a_shd_093;base
+sh_w_g_c_s_m_fun;Old Wooden Shield;Fighter;v_f_sh_n;;armor;;;;sh;;;;str;b_gui_ig_i_a_shd_010;
+sh_z_g_c_r_m_avg;Painted Shield;Fighter;v_f_sh_n;;armor;;;;sh;;;;str;b_gui_ig_i_a_shd_082;
+tongs;Tongs;;x_excluded;;armor;;excluded;;;;;;;b_gui_ig_i_w_msc_006;
+bd_pl_f_g_c_death_knight;Death Knight Armour;Fighter;x_excluded;LoA;armor;;excluded;;bd;;pl;f;;;
+bd_ch_f_g_c_avg_hassat_dsx;Hassat Fur Hauberk;Fighter;loa_f_bd;LoA;armor;;;;bd;;ch;f;str;b_gui_ig_i_a_pos_a2_203;base
+bd_le_f_g_c_avg_zaurask_dsx;Zaurask Leather;Fighter;loa_f_bd;LoA;armor;;;;bd;;le;f;str;b_gui_ig_i_a_pos_a1_206;base
+bd_ba_f_g_c_avg_hassat_dsx;Padded Hassat Armor;Fighter;loa_f_bd;LoA;armor;;;;bd;;ba;f;str;b_gui_ig_i_a_pos_a3_207;base
+bd_le_f_g_c_avg_hassat_dsx;Hassat Hide Hauberk;Fighter;loa_f_bd;LoA;armor;;;;bd;;le;f;str;b_gui_ig_i_a_pos_a2_202;base
+bd_ba_f_g_c_avg_zpad_dsx;Zaurask Padded Leather;Fighter;loa_f_bd;LoA;armor;;;;bd;;ba;f;str;b_gui_ig_i_a_pos_a5_204;base
+bd_pl_f_g_c_avg_alloy_dsx;Articulated Alloy Armor;Fighter;loa_f_bd;LoA;armor;;;;bd;;pl;f;str;b_gui_ig_i_a_pos_a3_200;base
+bd_le_f_g_c_avg_zcured_dsx;Zaurask Scalemail;Fighter;loa_f_bd;LoA;armor;;;;bd;;le;f;str;b_gui_ig_i_a_pos_a3_205;base
+bd_pl_f_g_c_avg_utraean_dsx;Utraean Plate;Fighter;loa_f_bd;LoA;armor;;;;bd;;pl;f;str;b_gui_ig_i_a_pos_a9_241;base
+bd_le_f_g_c_avg_dragon_dsx;Dragon Leather;Fighter;loa_f_bd;LoA;armor;;;;bd;;le;f;str;b_gui_ig_i_a_pos_a1_206;base
+bd_le_f_g_c_avg_nemean_dsx;Nemean Hide;Fighter;loa_f_bd;LoA;armor;;;;bd;;le;f;str;b_gui_ig_i_a_pos_a2_202;base
+bd_sc_f_g_c_avg_dragon_dsx;Dragon Scalemail;Fighter;loa_f_bd;LoA;armor;;;;bd;;sc;f;str;b_gui_ig_i_a_pos_a3_205;base
+bd_bp_f_g_c_avg_alloy_dsx;Alloy Heavy Plate;Fighter;loa_f_bd;LoA;armor;;;;bd;;bp;f;str;b_gui_ig_i_a_pos_a9_201;base
+bd_sl_f_g_c_avg_nemean_dsx;Nemean Armor;Fighter;loa_f_bd;LoA;armor;;;;bd;;sl;f;str;b_gui_ig_i_a_pos_a3_207;base
+bd_pl_f_g_c_avg_alloy2_dsx;Transfused Plate;Fighter;loa_f_bd;LoA;armor;;;;bd;;pl;f;str;b_gui_ig_i_a_pos_a3_200;base
+bd_pl_f_g_c_avg_dragon_dsx;Dragon Platemail;Fighter;loa_f_bd;LoA;armor;;;;bd;;pl;f;str;b_gui_ig_i_a_pos_a5_204;base
+bd_bp_f_g_c_avg_utraean_dsx;Utraearch Battle Plate;Fighter;loa_f_bd;LoA;armor;;;;bd;;bp;f;str;b_gui_ig_i_a_pos_a9_241;base
+bd_bp_f_g_c_avg_alloy2_dsx;Transcendent Plate;Fighter;loa_f_bd;LoA;armor;;;;bd;;bp;f;str;b_gui_ig_i_a_pos_a9_201;base
+bd_le_m_g_c_avg_woven_dsx;Woven Suit;Mage;loa_m_bd;LoA;armor;;;;bd;;le;m;int;b_gui_ig_i_a_pos_a4_239;base
+bd_le_m_g_c_avg_spider_dsx;Spidersilk Hauberk;Mage;loa_m_bd;LoA;armor;;;;bd;;le;m;int;b_gui_ig_i_a_pos_a2_222;base
+bd_le_m_g_c_avg_crmech_dsx;Crude Electric Plate;Mage;loa_m_bd;LoA;armor;;;;bd;;le;m;int;b_gui_ig_i_a_pos_a1_231;base
+bd_le_m_g_c_avg_ltmech_dsx;Light Mechanized Suit;Mage;loa_m_bd;LoA;armor;;;;bd;;le;m;int;b_gui_ig_i_a_pos_a3_234;base
+bd_le_m_g_c_avg_beaded_dsx;Beaded Hauberk;Mage;loa_m_bd;LoA;armor;;;;bd;;le;m;int;b_gui_ig_i_a_pos_a2_226;base
+bd_le_m_g_c_avg_woven_reinforced_dsx;Iron Thread Suit;Mage;loa_m_bd;LoA;armor;;;;bd;;le;m;int;b_gui_ig_i_a_pos_a3_238;base
+bd_le_m_g_c_avg_ceramic_dsx;Ceramic Suit;Mage;loa_m_bd;LoA;armor;;;;bd;;le;m;int;b_gui_ig_i_a_pos_a4_224;base
+bd_le_m_g_c_avg_mech_dsx;Mechanized Suit;Mage;loa_m_bd;LoA;armor;;;;bd;;le;m;int;b_gui_ig_i_a_pos_a5_235;base
+bd_le_m_g_c_avg_magesilk_dsx;Magesilk Shirt;Mage;loa_m_bd;LoA;armor;;;;bd;;le;m;int;b_gui_ig_i_a_pos_a2_222;base
+bd_le_m_g_c_avg_recon_dsx;Light Recondite Suit;Mage;loa_m_bd;LoA;armor;;;;bd;;le;m;int;b_gui_ig_i_a_pos_a1_231;base
+bd_le_m_g_c_avg_beaded2_dsx;Patterned Hauberk;Mage;loa_m_bd;LoA;armor;;;;bd;;le;m;int;b_gui_ig_i_a_pos_a2_226;base
+bd_le_m_g_c_avg_spider_framed_dsx;Framed Spidersilk Hauberk;Mage;loa_m_bd;LoA;armor;;;;bd;;le;m;int;b_gui_ig_i_a_pos_a5_223;base
+bd_le_m_g_c_avg_hvmech_dsx;Heavy Mechanized Suit;Mage;loa_m_bd;LoA;armor;;;;bd;;le;m;int;b_gui_ig_i_a_pos_a6_233;base
+bd_pl_m_g_c_avg_hvelectric_dsx;Heavy Electric Plate;Mage;loa_m_bd;LoA;armor;;;;bd;;pl;m;int;b_gui_ig_i_a_pos_a9_232;base
+bd_br_m_g_c_avg_recon_dsx;Recondite Suit;Mage;loa_m_bd;LoA;armor;;;;bd;;br;m;int;b_gui_ig_i_a_pos_a5_235;base
+bd_le_m_g_c_avg_ceramic2_dsx;Inscribed Suit;Mage;loa_m_bd;LoA;armor;;;;bd;;le;m;int;b_gui_ig_i_a_pos_a4_224;base
+bd_pl_m_g_c_avg_recon_dsx;Heavy Recondite Suit;Mage;loa_m_bd;LoA;armor;;;;bd;;pl;m;int;b_gui_ig_i_a_pos_a6_233;base
+bd_bp_m_g_c_avg_recon_dsx;Recondite Battle Plate;Mage;loa_m_bd;LoA;armor;;;;bd;;bp;m;int;b_gui_ig_i_a_pos_a9_232;base
+bd_br_r_g_c_avg_culeaf_dsx;Cured Leaf Hauberk;Ranger;loa_r_bd;LoA;armor;;;;bd;;br;r;dex;b_gui_ig_i_a_pos_a2_218;base
+bd_br_r_g_c_avg_rubber_dsx;Fiber Suit;Ranger;loa_r_bd;LoA;armor;;;;bd;;br;r;dex;b_gui_ig_i_a_pos_a1_209;base
+bd_br_r_g_c_avg_hassat_dsx;Hassat Skin Robe;Ranger;loa_r_bd;LoA;armor;;;;bd;;br;r;dex;b_gui_ig_i_a_pos_a2_229;base
+bd_br_r_g_c_avg_bark_dsx;Bark Casing;Ranger;loa_r_bd;LoA;armor;;;;bd;;br;r;dex;b_gui_ig_i_a_pos_a8_215;base
+bd_br_r_g_c_avg_flywing_dsx;Flywing Hauberk;Ranger;loa_r_bd;LoA;armor;;;;bd;;br;r;dex;b_gui_ig_i_a_pos_a4_213;base
+bd_br_r_g_c_avg_laleaf_dsx;Lacquered Leaf Hauberk;Ranger;loa_r_bd;LoA;armor;;;;bd;;br;r;dex;b_gui_ig_i_a_pos_a2_216;base
+bd_br_r_g_c_avg_zaurask_dsx;Zaurask Hide Robe;Ranger;loa_r_bd;LoA;armor;;;;bd;;br;r;dex;b_gui_ig_i_a_pos_a2_230;base
+bd_br_r_g_c_avg_thessic_dsx;Thessic Suit;Ranger;loa_r_bd;LoA;armor;;;;bd;;br;r;dex;b_gui_ig_i_a_pos_a8_242;base
+bd_br_r_g_c_avg_bug_dsx;Carapace Plate;Ranger;loa_r_bd;LoA;armor;;;;bd;;br;r;dex;b_gui_ig_i_a_pos_a9_211;base
+bd_br_r_g_c_avg_knleaf_dsx;Knotted Leaf Hauberk;Ranger;loa_r_bd;LoA;armor;;;;bd;;br;r;dex;b_gui_ig_i_a_pos_a2_220;base
+bd_br_r_g_c_avg_releaf_dsx;Reinforced Leaf Armor;Ranger;loa_r_bd;LoA;armor;;;;bd;;br;r;dex;b_gui_ig_i_a_pos_a2_217;base
+bd_br_r_g_c_avg_artbug_dsx;Articulated Carapace Armor;Ranger;loa_r_bd;LoA;armor;;;;bd;;br;r;dex;b_gui_ig_i_a_pos_a3_212;base
+bd_br_r_g_c_avg_hvrubber_dsx;Heavy Fiber Suit;Ranger;loa_r_bd;LoA;armor;;;;bd;;br;r;dex;b_gui_ig_i_a_pos_a2_210;base
+bd_br_r_g_c_avg_chitter_dsx;Chitterskrag Armor;Ranger;loa_r_bd;LoA;armor;;;;bd;;br;r;dex;b_gui_ig_i_a_pos_a9_240;base
+bd_pl_r_g_c_avg_flywing_dsx;Elaborate Flywing Plate;Ranger;loa_r_bd;LoA;armor;;;;bd;;pl;r;dex;b_gui_ig_i_a_pos_a5_214;base
+bd_le_r_g_c_avg_arbor_dsx;Arboreal Suit;Ranger;loa_r_bd;LoA;armor;;;;bd;;le;r;dex;b_gui_ig_i_a_pos_a2_218;base
+bd_sc_r_g_c_avg_exo_dsx;Exoskeleton Suit;Ranger;loa_r_bd;LoA;armor;;;;bd;;sc;r;dex;b_gui_ig_i_a_pos_a3_212;base
+bd_ch_r_g_c_avg_arbor_dsx;Arboreal Armor;Ranger;loa_r_bd;LoA;armor;;;;bd;;ch;r;dex;b_gui_ig_i_a_pos_a2_217;base
+bd_ba_r_g_c_avg_midnight_dsx;Midnight Suit;Ranger;loa_r_bd;LoA;armor;;;;bd;;ba;r;dex;b_gui_ig_i_a_pos_a2_210;base
+bd_bp_r_g_c_avg_arbor_dsx;Arboreal Battle Plate;Ranger;loa_r_bd;LoA;armor;;;;bd;;bp;r;dex;b_gui_ig_i_a_pos_a5_214;base
+bd_ro_m_g_c_avg_woven_dsx;Woven Robe;Mage;loa_m_bd;LoA;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_236;base
+bd_ro_m_g_c_avg_spider_dsx;Spidersilk Robe;Mage;loa_m_bd;LoA;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_221;base
+bd_ro_m_g_c_avg_rubber_dsx;Fiber Robe;Mage;loa_m_bd;LoA;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_208;base
+bd_ro_m_g_c_avg_leaf_dsx;Leaf Robe;Mage;loa_m_bd;LoA;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_219;base
+bd_ro_m_g_c_avg_cebead_dsx;Ceramic Beaded Robe;Mage;loa_m_bd;LoA;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_225;base
+bd_ro_m_g_c_avg_elbead_dsx;Elaborate Beaded Robe;Mage;loa_m_bd;LoA;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_227;base
+bd_ro_m_g_c_avg_hewoven_dsx;Steel Thread Robe;Mage;loa_m_bd;LoA;armor;;;;bd;;ro;m;int;b_gui_ig_i_a_pos_a7_237;base
+bo_bo_sc_f_g_c_avg_alloy_dsx;Alloy Boots;Fighter;loa_f_hgb;LoA;armor;;;;bo;;sc;f;str;b_gui_ig_i_a_boot_500;base
+bo_bo_sc_f_g_c_avg_alloy2_dsx;Transcendant Boots;Fighter;loa_f_hgb;LoA;armor;;;;bo;;sc;f;str;b_gui_ig_i_a_boot_500;base
+bo_sh_sc_m_g_c_avg_woven_dsx;Woven Shoes;Mage;loa_m_hgb;LoA;armor;;;;bo;;sc;m;int;b_gui_ig_i_a_boot_509;base
+bo_bo_sc_m_g_c_avg_beaded_dsx;Beaded Boots;Mage;loa_m_hgb;LoA;armor;;;;bo;;sc;m;int;b_gui_ig_i_a_boot_506;base
+bo_bo_sc_m_g_c_avg_geared_dsx;Geared Boots;Mage;loa_m_hgb;LoA;armor;;;;bo;;sc;m;int;b_gui_ig_i_a_boot_505;base
+bo_bo_sc_m_g_c_avg_ceramic_dsx;Ceramic Boots;Mage;loa_m_hgb;LoA;armor;;;;bo;;sc;m;int;b_gui_ig_i_a_boot_507;base
+bo_bo_sc_m_g_c_avg_beaded2_dsx;Jeweled Boots;Mage;loa_m_hgb;LoA;armor;;;;bo;;sc;m;int;b_gui_ig_i_a_boot_506;base
+bo_sh_sc_m_g_c_avg_woven2_dsx;Occult Shoes;Mage;loa_m_hgb;LoA;armor;;;;bo;;sc;m;int;b_gui_ig_i_a_boot_509;base
+bo_bo_sc_m_g_c_avg_ceramic2_dsx;Etched Boots;Mage;loa_m_hgb;LoA;armor;;;;bo;;sc;m;int;b_gui_ig_i_a_boot_507;base
+bo_bo_sc_m_g_c_avg_geared2_dsx;Recondite Boots;Mage;loa_m_hgb;LoA;armor;;;;bo;;sc;m;int;b_gui_ig_i_a_boot_505;base
+bo_sh_sc_r_g_c_avg_rubber_dsx;Fiber Shoes;Ranger;loa_r_hgb;LoA;armor;;;;bo;;sc;r;dex;b_gui_ig_i_a_boot_502;base
+bo_bo_sc_r_g_c_avg_flywing_dsx;Flywing Boots;Ranger;loa_r_hgb;LoA;armor;;;;bo;;sc;r;dex;b_gui_ig_i_a_boot_504;base
+bo_sh_sc_r_g_c_avg_bug_dsx;Chitin Shoes;Ranger;loa_r_hgb;LoA;armor;;;;bo;;sc;r;dex;b_gui_ig_i_a_boot_508;base
+bo_bo_sc_r_g_c_avg_rubber_dsx;Fiber Boots;Ranger;loa_r_hgb;LoA;armor;;;;bo;;sc;r;dex;b_gui_ig_i_a_boot_501;base
+bo_sh_sc_r_g_c_avg_flywing_dsx;Flywing Shoes;Ranger;loa_r_hgb;LoA;armor;;;;bo;;sc;r;dex;b_gui_ig_i_a_boot_503;base
+bo_sh_sc_r_g_c_avg_bug2_dsx;Exoskeleton Shoes;Ranger;loa_r_hgb;LoA;armor;;;;bo;;sc;r;dex;b_gui_ig_i_a_boot_502;base
+bo_sh_sc_r_g_c_avg_rubber2_dsx;Midnight Boots;Ranger;loa_r_hgb;LoA;armor;;;;bo;;sc;r;dex;b_gui_ig_i_a_boot_508;base
+bo_sh_sc_r_g_c_avg_flywing2_dsx;Arboreal Boots;Ranger;loa_r_hgb;LoA;armor;;;;bo;;sc;r;dex;b_gui_ig_i_a_boot_503;base
+gl_ga_sc_f_g_c_avg_alloy_dsx;Alloy Gauntlets;Fighter;loa_f_hgb;LoA;armor;;;;gl;;sc;f;str;b_gui_ig_i_a_gntl_300;base
+gl_ga_sc_f_g_c_avg_alloy2_dsx;Transcendant Gauntlets;Fighter;loa_f_hgb;LoA;armor;;;;gl;;sc;f;str;b_gui_ig_i_a_gntl_300;base
+gl_gl_sc_m_g_c_avg_woven_dsx;Woven Gloves;Mage;loa_m_hgb;LoA;armor;;;;gl;;sc;m;int;b_gui_ig_i_a_gntl_309;base
+gl_ga_sc_m_g_c_avg_beaded_dsx;Beaded Gauntlets;Mage;loa_m_hgb;LoA;armor;;;;gl;;sc;m;int;b_gui_ig_i_a_gntl_306;base
+gl_ga_sc_m_g_c_avg_geared_dsx;Geared Gauntlets;Mage;loa_m_hgb;LoA;armor;;;;gl;;sc;m;int;b_gui_ig_i_a_gntl_305;base
+gl_ga_sc_m_g_c_avg_beaded2_dsx;Jeweled Gauntlets;Mage;loa_m_hgb;LoA;armor;;;;gl;;sc;m;int;b_gui_ig_i_a_gntl_306;base
+gl_ga_sc_m_g_c_avg_electric_dsx;Electric Gauntlets;Mage;loa_m_hgb;LoA;armor;;;;gl;;sc;m;int;b_gui_ig_i_a_gntl_307;base
+gl_gl_sc_m_g_c_avg_woven2_dsx;Occult Gloves;Mage;loa_m_hgb;LoA;armor;;;;gl;;sc;m;int;b_gui_ig_i_a_gntl_309;base
+gl_ga_sc_m_g_c_avg_electric2_dsx;Recondite Gauntlets;Mage;loa_m_hgb;LoA;armor;;;;gl;;sc;m;int;b_gui_ig_i_a_gntl_307;base
+gl_gl_sc_r_g_c_avg_leaf_dsx;Cured Leaf Gloves;Ranger;loa_r_hgb;LoA;armor;;;;gl;;sc;r;dex;b_gui_ig_i_a_gntl_302;base
+gl_ra_ga_m_ba_f_g_c_fin_starfield_dsx;Starfield Gauntlets;Ranger;loa_r_hgb;LoA;armor;;;;gl;rare;;;dex;b_gui_ig_i_a_gntl_310;base
+gl_gl_sc_r_g_c_avg_flywing_dsx;Flywing Gloves;Ranger;loa_r_hgb;LoA;armor;;;;gl;;sc;r;dex;b_gui_ig_i_a_gntl_303;base
+gl_gl_sc_r_g_c_avg_shell_dsx;Shell Gloves;Ranger;loa_r_hgb;LoA;armor;;;;gl;;sc;r;dex;b_gui_ig_i_a_gntl_308;base
+gl_gl_sc_r_g_c_avg_rubber_dsx;Fiber Gloves;Ranger;loa_r_hgb;LoA;armor;;;;gl;;sc;r;dex;b_gui_ig_i_a_gntl_301;base
+gl_ga_sc_r_g_c_avg_flywing_dsx;Flywing Gauntlets;Ranger;loa_r_hgb;LoA;armor;;;;gl;;sc;r;dex;b_gui_ig_i_a_gntl_304;base
+gl_gl_sc_r_g_c_avg_shell2_dsx;Exoskeleton Gloves;Ranger;loa_r_hgb;LoA;armor;;;;gl;;sc;r;dex;b_gui_ig_i_a_gntl_308;base
+gl_gl_sc_r_g_c_avg_rubber2_dsx;Midnight Gloves;Ranger;loa_r_hgb;LoA;armor;;;;gl;;sc;r;dex;b_gui_ig_i_a_gntl_301;base
+gl_gl_sc_r_g_c_avg_leaf2_dsx;Arboreal Gloves;Ranger;loa_r_hgb;LoA;armor;;;;gl;;sc;r;dex;b_gui_ig_i_a_gntl_302;base
+he_op_pl_f_ofkhar_dsx;Helm of Khar;Fighter;loa_f_hgb;LoA;armor;;excluded;;he;;pl;f;;b_gui_ig_i_a_hlmt_430;
+2w_he_op_pl_f_ofkhar_dsx;Super Helm of Khar;Fighter;loa_f_hgb;LoA;armor;Veteran;excluded;;he;;pl;f;;b_gui_ig_i_a_hlmt_430;
+3w_he_op_pl_f_ofkhar_dsx;Supreme Helm of Khar;Fighter;loa_f_hgb;LoA;armor;Elite;excluded;;he;;pl;f;;b_gui_ig_i_a_hlmt_430;
+he_ra_ca_le_avg_pimp;Mac Daddy Cap of Procurement;;x_any;LoA;armor;;excluded;;he;rare;le;;;b_gui_ig_i_a_hlmt_441;
+he_ca_pl_f_alloy_dsx;Alloy Dome;Fighter;loa_f_hgb;LoA;armor;;;;he;;pl;f;str;b_gui_ig_i_a_hlmt_400;base
+he_op_pl_f_allow_crown_dsx;Alloy Crown;Fighter;loa_f_hgb;LoA;armor;;;;he;;pl;f;str;b_gui_ig_i_a_hlmt_405;base
+he_op_pl_m_bone_crown_dsx;Bone Crown;Mage;loa_m_hgb;LoA;armor;;;;he;;pl;m;int;b_gui_ig_i_a_hlmt_414;base
+he_vi_pl_m_woven_headband_dsx;Woven Headband;Mage;loa_m_hgb;LoA;armor;;;;he;;pl;m;int;b_gui_ig_i_a_hlmt_420;base
+he_vi_pl_m_beaded_headband_dsx;Beaded Headband;Mage;loa_m_hgb;LoA;armor;;;;he;;pl;m;int;b_gui_ig_i_a_hlmt_421;base
+he_fl_pl_m_woven_wrap_dsx;Woven Wrap;Mage;loa_m_hgb;LoA;armor;;;;he;;pl;m;int;b_gui_ig_i_a_hlmt_428;base
+he_fl_pl_m_beaded_wrap_dsx;Beaded Wrap;Mage;loa_m_hgb;LoA;armor;;;;he;;pl;m;int;b_gui_ig_i_a_hlmt_429;base
+he_vi_pl_m_woven_headdress_dsx;Iron Thread Cap;Mage;loa_m_hgb;LoA;armor;;;;he;;pl;m;int;b_gui_ig_i_a_hlmt_424;base
+he_op_pl_m_bone_headdress_dsx;Bone Headdress;Mage;loa_m_hgb;LoA;armor;;;;he;;pl;m;int;b_gui_ig_i_a_hlmt_423;base
+he_vi_pl_m_ceramic_headband_dsx;Ceramic Headband;Mage;loa_m_hgb;LoA;armor;;;;he;;pl;m;int;b_gui_ig_i_a_hlmt_422;base
+he_vi_pl_m_beaded_headdress_dsx;Beaded Headdress;Mage;loa_m_hgb;LoA;armor;;;;he;;pl;m;int;b_gui_ig_i_a_hlmt_425;base
+he_vi_pl_m_spider_visor_dsx;Spidersilk Visor;Mage;loa_m_hgb;LoA;armor;;;;he;;pl;m;int;b_gui_ig_i_a_hlmt_427;base
+he_ca_pl_m_spider_dsx;Spidersilk Dome;Mage;loa_m_hgb;LoA;armor;;;;he;;pl;m;int;b_gui_ig_i_a_hlmt_417;base
+he_vi_pl_m_ceramic_headdress_dsx;Ceramic Headdress;Mage;loa_m_hgb;LoA;armor;;;;he;;pl;m;int;b_gui_ig_i_a_hlmt_426;base
+he_op_pl_m_geared_crown_dsx;Geared Crown;Mage;loa_m_hgb;LoA;armor;;;;he;;pl;m;int;b_gui_ig_i_a_hlmt_415;base
+he_vi_pl_m_beaded_headband2_dsx;Jeweled Headband;Mage;loa_m_hgb;LoA;armor;;;;he;;pl;m;int;b_gui_ig_i_a_hlmt_421;base
+he_vi_pl_m_spider_visor2_dsx;Magesilk Headdress;Mage;loa_m_hgb;LoA;armor;;;;he;;pl;m;int;b_gui_ig_i_a_hlmt_427;base
+he_vi_pl_m_ceramic_headdress2_dsx;Etched Headdress;Mage;loa_m_hgb;LoA;armor;;;;he;;pl;m;int;b_gui_ig_i_a_hlmt_426;base
+he_vi_pl_r_leaf_visor_dsx;Cured Leaf Visor;Ranger;loa_r_hgb;LoA;armor;;;;he;;pl;r;dex;b_gui_ig_i_a_hlmt_410;base
+he_vi_pl_r_zaurask_headdress_dsx;Zaurask Headdress;Ranger;loa_r_hgb;LoA;armor;;;;he;;pl;r;dex;b_gui_ig_i_a_hlmt_406;base
+he_vi_pl_r_flywing_visor_dsx;Flywing Visor;Ranger;loa_r_hgb;LoA;armor;;;;he;;pl;r;dex;b_gui_ig_i_a_hlmt_408;base
+he_vi_pl_r_rubber_visor_dsx;Fiber Visor;Ranger;loa_r_hgb;LoA;armor;;;;he;;pl;r;dex;b_gui_ig_i_a_hlmt_412;base
+he_op_pl_r_flywing_crown_dsx;Flywing Crown;Ranger;loa_r_hgb;LoA;armor;;;;he;;pl;r;dex;b_gui_ig_i_a_hlmt_409;base
+he_op_pl_r_zaurask_crown_dsx;Zaurask Crown;Ranger;loa_r_hgb;LoA;armor;;;;he;;pl;r;dex;b_gui_ig_i_a_hlmt_407;base
+he_vi_pl_r_flywing_visor2_dsx;Exoskeleton Visor;Ranger;loa_r_hgb;LoA;armor;;;;he;;pl;r;dex;b_gui_ig_i_a_hlmt_408;base
+he_vi_pl_r_rubber_visor2_dsx;Midnight Visor;Ranger;loa_r_hgb;LoA;armor;;;;he;;pl;r;dex;b_gui_ig_i_a_hlmt_412;base
+he_op_pl_r_flywing_crown2_dsx;Arboreal Visor;Ranger;loa_r_hgb;LoA;armor;;;;he;;pl;r;dex;b_gui_ig_i_a_hlmt_409;base
+sh_un_m_o_r_m_turtle_02_dsx;Turtle Shield;Fighter;x_excluded;LoA;armor;;excluded;;sh;unique;;;str;b_gui_ig_i_a_shd_021;
+sh_un_m_o_r_m_turtle_01_dsx;Turtle Shield;Fighter;x_excluded;LoA;armor;;excluded;;sh;unique;;;str;b_gui_ig_i_a_shd_021;
+sh_un_m_o_r_m_turtle_dsx;Turtle Shield;Fighter;x_excluded;LoA;armor;;excluded;;sh;unique;;;str;b_gui_ig_i_a_shd_021;
+sh_un_m_o_k_m_dermal_dsx;Dermal Shield;Fighter;x_excluded;LoA;armor;;excluded;;sh;unique;;;str;b_gui_ig_i_a_shd_037;
+sh_w_f_g_c_t_s_avg_deathknight_monster;Death Knight Shield;Fighter;x_excluded;LoA;armor;;excluded;;sh;;;;str;b_gui_ig_i_a_shd_623;
+sh_w_f_g_c_t_s_avg_deathknight_player;Death Knight Shield;Fighter;loa_f_sh;LoA;armor;;excluded;;sh;;;;str;b_gui_ig_i_a_shd_623;
+2w_sh_w_f_g_c_t_s_avg_deathknight_player;Super Death Knight Shield;Fighter;loa_f_sh;LoA;armor;Veteran;excluded;;sh;;;;str;b_gui_ig_i_a_shd_623;
+3w_sh_w_f_g_c_t_s_avg_deathknight_player;Supreme Death Knight Shield;Fighter;loa_f_sh;LoA;armor;Elite;excluded;;sh;;;;str;b_gui_ig_i_a_shd_623;
+sh_w_f_g_c_t_s_avg_hide_hassat_dsx;Hassat Hide Shield;Fighter;loa_f_sh;LoA;armor;;;;sh;;;;str;b_gui_ig_i_a_shd_600;base
+sh_w_f_g_c_t_m_avg_hide_skelldra_dsx;Zaurask Leather Shield;Fighter;loa_f_sh;LoA;armor;;;;sh;;;;str;b_gui_ig_i_a_shd_602;base
+sh_w_f_g_c_t_l_avg_hide_kraken_dsx;Kraken shield;Fighter;loa_f_sh;LoA;armor;;;;sh;;;;str;b_gui_ig_i_a_shd_601;base
+sh_w_m_g_c_t_m_avg_bamboo_dsx;Bamboo Shield;Mage;loa_m_sh;LoA;armor;;;;sh;;;;int;b_gui_ig_i_a_shd_603;base
+sh_w_m_g_c_t_m_avg_wicker_dsx;Wicker Shield;Mage;loa_m_sh;LoA;armor;;;;sh;;;;int;b_gui_ig_i_a_shd_616;base
+sh_w_m_g_c_t_m_avg_gearwork_dsx;Gearwork Shield;Mage;loa_m_sh;LoA;armor;;;;sh;;;;int;b_gui_ig_i_a_shd_613;base
+sh_w_m_g_c_t_m_avg_ward_blood_dsx;Blood Ward;Mage;loa_m_sh;LoA;armor;;;;sh;;;;int;b_gui_ig_i_a_shd_ward_04;base
+sh_w_m_g_c_t_m_avg_mushroom_dsx;Shellacked Mushroom Cap Shield;Mage;loa_m_sh;LoA;armor;;;;sh;;;;int;b_gui_ig_i_a_shd_614;base
+sh_w_m_g_c_t_m_avg_ward_rainbow_dsx;Rainbow Ward;Mage;loa_m_sh;LoA;armor;;;;sh;;;;int;b_gui_ig_i_a_shd_ward_01;base
+sh_w_m_g_c_t_m_avg_ward_sky_dsx;Sky Ward;Mage;loa_m_sh;LoA;armor;;;;sh;;;;int;b_gui_ig_i_a_shd_ward_02;base
+sh_ra_w_g_c_t_m_fin_mirror_dsx;Mirror Shield;Mage;loa_m_sh;LoA;armor;;;;sh;rare;;;int;b_gui_ig_i_a_shd_mirror_dsx;base
+sh_w_m_g_c_t_m_avg_tortoise_dsx;Tortoise Shell Shield;Mage;loa_m_sh;LoA;armor;;;;sh;;;;int;b_gui_ig_i_a_shd_609;base
+sh_w_m_g_c_t_m_avg_ceramic_dsx;Ceramic Shield;Mage;loa_m_sh;LoA;armor;;;;sh;;;;int;b_gui_ig_i_a_shd_618;base
+sh_w_m_g_c_t_m_avg_clockface_dsx;Clockface Shield;Mage;loa_m_sh;LoA;armor;;;;sh;;;;int;b_gui_ig_i_a_shd_612;base
+sh_w_m_g_c_t_m_avg_spider_dsx;Spidersilk Shield;Mage;loa_m_sh;LoA;armor;;;;sh;;;;int;b_gui_ig_i_a_shd_615;base
+sh_w_m_g_c_t_m_avg_ward_sun_dsx;Sun Ward;Mage;loa_m_sh;LoA;armor;;;;sh;;;;int;b_gui_ig_i_a_shd_ward_03;base
+sh_w_m_g_c_t_m_avg_ward_blood2_dsx;Sanguine Ward;Mage;loa_m_sh;LoA;armor;;;;sh;;;;int;b_gui_ig_i_a_shd_ward_04;base
+sh_w_m_g_c_t_m_avg_ward_sky2_dsx;Chromatic Ward;Mage;loa_m_sh;LoA;armor;;;;sh;;;;int;b_gui_ig_i_a_shd_ward_02;base
+sh_w_m_g_c_t_m_avg_ward_stars_dsx;Ward of the Stars;Mage;loa_m_sh;LoA;armor;;;;sh;;;;int;b_gui_ig_i_a_shd_ward_05;base
+sh_w_m_g_c_t_m_avg_ward_sun2_dsx;Scintillating Ward;Mage;loa_m_sh;LoA;armor;;;;sh;;;;int;b_gui_ig_i_a_shd_ward_03;base
+sh_w_r_g_c_t_m_avg_tangled_bucker_dsx;Tangled Root Buckler;Ranger;loa_r_sh;LoA;armor;;;;sh;;;;dex;b_gui_ig_i_a_shd_607;base
+sh_w_r_g_c_t_m_avg_barrier_flywing_dsx;Flywing Barrier;Ranger;loa_r_sh;LoA;armor;;;;sh;;;;dex;b_gui_ig_i_a_shd_605;base
+sh_w_r_g_c_t_m_avg_bug_dsx;Carapace Shield;Ranger;loa_r_sh;LoA;armor;;;;sh;;;;dex;b_gui_ig_i_a_shd_617;base
+sh_w_r_g_c_t_m_avg_wall_bark_dsx;Bark Wall;Ranger;loa_r_sh;LoA;armor;;;;sh;;;;dex;b_gui_ig_i_a_shd_619;base
+sh_w_r_g_c_t_m_avg_barrier_leaf_dsx;Cured Leaf Barrier;Ranger;loa_r_sh;LoA;armor;;;;sh;;;;dex;b_gui_ig_i_a_shd_604;base
+sh_w_r_g_c_t_m_avg_wall_flywing_dsx;Flywing Wall;Ranger;loa_r_sh;LoA;armor;;;;sh;;;;dex;b_gui_ig_i_a_shd_606;base
+sh_w_r_g_c_t_m_avg_bug2_dsx;Exoskeleton Shield;Ranger;loa_r_sh;LoA;armor;;;;sh;;;;dex;b_gui_ig_i_a_shd_617;base
+sh_w_g_c_t_m_avg_tangled_bucker2_dsx;Arboreal Barrier;Ranger;loa_r_sh;LoA;armor;;;;sh;;;;dex;b_gui_ig_i_a_shd_607;base
+sh_w_r_g_c_t_m_avg_fan_woven_dsx;Woven Fan;Ranger;loa_r_sh;LoA;armor;;;;sh;;;;dex;b_gui_ig_i_a_shd_610;base
+sh_w_r_g_c_t_m_avg_fan_beaded_dsx;Beaded Fan;Ranger;loa_r_sh;LoA;armor;;;;sh;;;;dex;b_gui_ig_i_a_shd_611;base
+sh_w_r_g_c_t_m_avg_fan_spider_dsx;Spidersilk Fan;Ranger;loa_r_sh;LoA;armor;;;;sh;;;;dex;b_gui_ig_i_a_shd_622;base
+sh_w_r_g_c_t_m_avg_fan_feathered_dsx;Feathered Fan;Ranger;loa_r_sh;LoA;armor;;;;sh;;;;dex;b_gui_ig_i_a_shd_608;base
+sh_w_r_g_c_t_m_avg_fan_beaded2_dsx;Jeweled Fan;Ranger;loa_r_sh;LoA;armor;;;;sh;;;;dex;b_gui_ig_i_a_shd_611;base
+bd_br_f_g_c_avg_dsx_set_arhok;Arhok's Leather;Fighter;loa_any_sets;LoA;armor;;;arhok;bd;;br;f;;b_gui_ig_i_a_pos_a3_201;
+sh_w_m_g_c_t_m_avg_dsx_set_arhok;Arhok's Shield;Fighter;loa_any_sets;LoA;armor;;;arhok;sh;;;;;b_gui_ig_i_a_shd_1000;
+bd_le_m_g_c_avg_dsx_set_illicor;Illicor's Beaded Hauberk;Mage;loa_any_sets;LoA;armor;;;illicor;bd;;le;m;int;b_gui_ig_i_a_pos_a2_226;
+bd_le_m_g_c_avg_dsx_set_kajj;Kajj's Breastplate;Mage;loa_any_sets;LoA;armor;;;kajj;bd;;le;m;str;b_gui_ig_i_a_pos_a3_207;
+gl_gl_sc_r_g_c_avg_dsx_set_kajj;Kajj's Gauntlets;Ranger;loa_any_sets;LoA;armor;;;kajj;gl;;sc;r;str;b_gui_ig_i_a_gntl_300;
+he_fl_pl_m_dsx_set_kajj;Kajj's Helm;Mage;loa_any_sets;LoA;armor;;;kajj;he;;pl;m;str;b_gui_ig_i_a_hlmt_126;
+sh_w_m_g_c_t_m_avg_ward_blood_dsx_set_inventor;Solov's Ward;Mage;loa_any_sets;LoA;armor;;;patents;sh;;;;int;b_gui_ig_i_a_shd_ward_04;
+ring_dsx_set_clockwork;Clockwork Boots;Ranger;loa_any_sets;LoA;armor;;;clockwork;;;;;dex;b_gui_ig_i_a_boot_504;
+bd_le_m_g_c_avg_ceramic_dsx_set_chadek;Chadek's Suit;Mage;loa_any_sets;LoA;armor;;;chadek;bd;;le;m;;b_gui_ig_i_a_pos_a4_224;
+bo_bo_sc_m_g_c_avg_ceramic_dsx_set_chadek;Chadek's Boots;Mage;loa_any_sets;LoA;armor;;;chadek;bo;;sc;m;;b_gui_ig_i_a_boot_507;
+sh_w_m_g_c_t_m_avg_ceramic_dsx_set_chadek;Chadek's Shield;Fighter;loa_any_sets;LoA;armor;;;chadek;sh;;;;;b_gui_ig_i_a_shd_618;
+he_vi_pl_m_ceramic_headdress_dsx_set_chadek;Chadek's Headdress;Mage;loa_any_sets;LoA;armor;;;chadek;he;;pl;m;;b_gui_ig_i_a_hlmt_422;
+bd_le_f_g_c_avg_hvmech_dsx_set_kaltenbach;Kaltenbach's Full Mech Suit;Fighter;loa_any_sets;LoA;armor;;;kaltenbach;bd;;le;f;str;b_gui_ig_i_a_pos_a5_235;
+sh_w_f_g_c_t_m_avg_clockface_dsx_set_kaltenbach;Kaltenbach's Shield;Fighter;loa_any_sets;LoA;armor;;;kaltenbach;sh;;;;str;b_gui_ig_i_a_shd_613;
+gl_ga_sc_f_g_c_avg_geared_dsx_set_kaltenbach;Kaltenbach's Gauntlets;Fighter;loa_any_sets;LoA;armor;;;kaltenbach;gl;;sc;f;str;b_gui_ig_i_a_gntl_305;
+he_ca_pl_f_alloy_dsx_set_rune;Rune Dome;Fighter;loa_any_sets;LoA;armor;;;rune;he;;pl;f;str;b_gui_ig_i_a_hlmt_400;
+sh_w_f_g_c_t_m_avg_gearwork_dsx_set_rune;Rune Shield;Fighter;loa_any_sets;LoA;armor;;;rune;sh;;;;str;b_gui_ig_i_a_shd_613;
+bd_pl_f_g_c_avg_alloy_dsx_set_rune;Rune Armor;Fighter;loa_any_sets;LoA;armor;;;rune;bd;;pl;f;str;b_gui_ig_i_a_pos_a3_200;
+bd_le_m_g_c_avg_spider_framed_dsx_set_adela;Adela's Spidersilk Hauberk;Mage;loa_any_sets;LoA;armor;;;adela;bd;;le;m;int;b_gui_ig_i_a_pos_a2_222;
+bd_pl_r_g_c_avg_flywing_dsx_set_jeffron;Jeffron's Plate;Ranger;loa_any_sets;LoA;armor;;;jeffron;bd;;pl;r;str;b_gui_ig_i_a_pos_a5_214;
+he_op_pl_r_flywing_crown_dsx_set_jeffron;Jeffron's Crown;Ranger;loa_any_sets;LoA;armor;;;jeffron;he;;pl;r;str;b_gui_ig_i_a_hlmt_409;
+sh_w_r_g_c_t_m_avg_wall_flywing_dsx_set_jeffrom;Jeffron's Wall;Fighter;loa_any_sets;LoA;armor;;;jeffron;sh;;;;str;b_gui_ig_i_a_shd_606;
+gl_ga_sc_r_g_c_avg_flywing_dsx_set_jeffron;Jeffron's Gauntlets;Ranger;loa_any_sets;LoA;armor;;;jeffron;gl;;sc;r;str;b_gui_ig_i_a_gntl_304;
+bo_bo_sc_r_g_c_avg_flywing_dsx_set_jeffron;Jeffron's Boots;Ranger;loa_any_sets;LoA;armor;;;jeffron;bo;;sc;r;str;b_gui_ig_i_a_boot_504;
+bd_br_r_g_c_avg_hvrubber_dsx_set_utraean_archer;Utraean Archer's Suit;Ranger;loa_any_sets;LoA;armor;;;utraean_archer;bd;;br;r;multi;b_gui_ig_i_a_pos_a2_210;
+he_vi_pl_r_rubber_visor_dsx_set_utraean_archer;Utraean Archer's Cap;Ranger;loa_any_sets;LoA;armor;;;utraean_archer;he;;pl;r;multi;b_gui_ig_i_a_hlmt_412;
+bo_bo_sc_r_g_c_avg_rubber_dsx_set_utraean_archer;Utraean Archer's Boots;Ranger;loa_any_sets;LoA;armor;;;utraean_archer;bo;;sc;r;multi;b_gui_ig_i_a_boot_501;
+he_op_pl_f_bone_crown_dsx_set_zaurask;Helm of the Zaurask Champion;Fighter;loa_any_sets;LoA;armor;;;zaurask;he;;pl;f;str;b_gui_ig_i_a_hlmt_407;
+bd_le_m_g_c_avg_crmech_dsx_set_xulphae;Xulphae's Plate;Mage;loa_any_sets;LoA;armor;;;xulphae;bd;;le;m;int;b_gui_ig_i_a_pos_a1_231;
+bd_br_m_g_c_avg_chitter_dsx_set_kmethekt;Kmethekt's Armor;Mage;loa_any_sets;LoA;armor;;;kmethekts;bd;;br;m;int;b_gui_ig_i_a_pos_a9_240;
+bo_bo_sc_f_g_c_avg_alloy_dsx_set_utraean_guard;Utraean Guard's Boots;Fighter;loa_any_sets;LoA;armor;;;utraean_guard;bo;;sc;f;str;b_gui_ig_i_a_boot_500;
+sh_w_f_g_c_t_l_avg_dsx_set_utraean_guard;Utraean Guard's Shield;Fighter;loa_any_sets;LoA;armor;;;utraean_guard;sh;;;;str;b_gui_ig_i_a_shd_601;
+bd_pl_f_g_c_avg_utraean_dsx_set_utraean_guard;Utraean Guard's Plate;Fighter;loa_any_sets;LoA;armor;;;utraean_guard;bd;;pl;f;str;b_gui_ig_i_a_pos_a9_241;
+sh_w_r_g_c_t_m_avg_fan_beaded_dsx_set_hassat;Ancient Hassat Fan;Fighter;loa_any_sets;LoA;armor;;;hassat;sh;;;;multi;b_gui_ig_i_a_shd_611;
+bo_sh_sc_r_g_c_avg_bug_dsx_set_jerkal;Jerkal's Boots;Ranger;loa_any_sets;LoA;armor;;;jerkal;bo;;sc;r;multi;b_gui_ig_i_a_boot_508;
+he_vi_pl_r_leaf_visor_dsx_set_jerkal;Jerkal's Visor;Ranger;loa_any_sets;LoA;armor;;;jerkal;he;;pl;r;multi;b_gui_ig_i_a_hlmt_410;
+gl_gl_sc_r_g_c_avg_shell_dsx_set_jerkal;Jerkal's Gloves;Ranger;loa_any_sets;LoA;armor;;;jerkal;gl;;sc;r;multi;b_gui_ig_i_a_gntl_308;
+he_threestorms;Helm of the Storms, the Three Storms;;x_any;;armor;;excluded;;he;;;;;b_gui_ig_i_a_hlmt_046;

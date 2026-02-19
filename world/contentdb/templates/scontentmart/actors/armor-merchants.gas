@@ -369,9 +369,9 @@
 		}
 	}
 }
-[t:template,n:base_scm_v_f_bd_contents]
+[t:template,n:base_scm_v_f_bd_n_contents]
 {
-	specializes = base_scm_v_f_bd_contents_base;
+	specializes = base_scm_v_f_bd_n_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
@@ -439,9 +439,9 @@
 		}
 	}
 }
-[t:template,n:base_scm_v_f_bd_ru_contents]
+[t:template,n:base_scm_v_f_bd_s_contents]
 {
-	specializes = base_scm_v_f_bd_ru_contents_base;
+	specializes = base_scm_v_f_bd_s_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
@@ -482,9 +482,9 @@
 		}
 	}
 }
-[t:template,n:base_scm_v_f_bo_contents]
+[t:template,n:base_scm_v_f_bo_n_contents]
 {
-	specializes = base_scm_v_f_bo_contents_base;
+	specializes = base_scm_v_f_bo_n_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
@@ -563,9 +563,9 @@
 		}
 	}
 }
-[t:template,n:base_scm_v_f_bo_ru_contents]
+[t:template,n:base_scm_v_f_bo_s_contents]
 {
-	specializes = base_scm_v_f_bo_ru_contents_base;
+	specializes = base_scm_v_f_bo_s_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
@@ -613,9 +613,9 @@
 		}
 	}
 }
-[t:template,n:base_scm_v_f_gl_contents]
+[t:template,n:base_scm_v_f_gl_n_contents]
 {
-	specializes = base_scm_v_f_gl_contents_base;
+	specializes = base_scm_v_f_gl_n_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
@@ -718,9 +718,9 @@
 		}
 	}
 }
-[t:template,n:base_scm_v_f_gl_ru_contents]
+[t:template,n:base_scm_v_f_gl_s_contents]
 {
-	specializes = base_scm_v_f_gl_ru_contents_base;
+	specializes = base_scm_v_f_gl_s_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
@@ -774,9 +774,9 @@
 		}
 	}
 }
-[t:template,n:base_scm_v_f_he_contents]
+[t:template,n:base_scm_v_f_he_n_contents]
 {
-	specializes = base_scm_v_f_he_contents_base;
+	specializes = base_scm_v_f_he_n_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
@@ -831,9 +831,9 @@
 		}
 	}
 }
-[t:template,n:base_scm_v_f_he_ru_contents]
+[t:template,n:base_scm_v_f_he_s_contents]
 {
-	specializes = base_scm_v_f_he_ru_contents_base;
+	specializes = base_scm_v_f_he_s_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
@@ -886,9 +886,9 @@
 		}
 	}
 }
-[t:template,n:base_scm_v_f_sh_contents]
+[t:template,n:base_scm_v_f_sh_n_contents]
 {
-	specializes = base_scm_v_f_sh_contents_base;
+	specializes = base_scm_v_f_sh_n_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
@@ -949,9 +949,9 @@
 		}
 	}
 }
-[t:template,n:base_scm_v_f_sh_ru_contents]
+[t:template,n:base_scm_v_f_sh_s_contents]
 {
-	specializes = base_scm_v_f_sh_ru_contents_base;
+	specializes = base_scm_v_f_sh_s_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
@@ -1031,9 +1031,9 @@
 		}
 	}
 }
-[t:template,n:base_scm_v_m_bd_contents]
+[t:template,n:base_scm_v_m_bd_n_contents]
 {
-	specializes = base_scm_v_m_bd_contents_base;
+	specializes = base_scm_v_m_bd_n_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
@@ -1124,9 +1124,9 @@
 		}
 	}
 }
-[t:template,n:base_scm_v_m_bd_ru_contents]
+[t:template,n:base_scm_v_m_bd_s_contents]
 {
-	specializes = base_scm_v_m_bd_ru_contents_base;
+	specializes = base_scm_v_m_bd_s_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
@@ -1196,9 +1196,9 @@
 		}
 	}
 }
-[t:template,n:base_scm_v_m_hgb_contents]
+[t:template,n:base_scm_v_m_hgb_n_contents]
 {
-	specializes = base_scm_v_m_hgb_contents_base;
+	specializes = base_scm_v_m_hgb_n_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
@@ -1250,9 +1250,9 @@
 		}
 	}
 }
-[t:template,n:base_scm_v_m_hgb_ru_contents]
+[t:template,n:base_scm_v_m_hgb_s_contents]
 {
-	specializes = base_scm_v_m_hgb_ru_contents_base;
+	specializes = base_scm_v_m_hgb_s_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
@@ -1279,9 +1279,9 @@
 		}
 	}
 }
-[t:template,n:base_scm_v_r_amr_ru_contents]
+[t:template,n:base_scm_v_r_amr_s_contents]
 {
-	specializes = base_scm_v_r_amr_ru_contents_base;
+	specializes = base_scm_v_r_amr_s_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
@@ -1315,9 +1315,9 @@
 		}
 	}
 }
-[t:template,n:base_scm_v_r_bd_contents]
+[t:template,n:base_scm_v_r_bd_n_contents]
 {
-	specializes = base_scm_v_r_bd_contents_base;
+	specializes = base_scm_v_r_bd_n_contents_base;
 	[inventory]
 	{
 		[store_pcontent]
