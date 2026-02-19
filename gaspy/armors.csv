@@ -1,4 +1,4 @@
-Template;Screen Name;LoA;World Level;Excluded;Item Set;Coverage;Rarity;Material;TN Stance;Req. Stat;Icon;Variants;Stance;SCM Shop
+Template;Screen Name;LoA;World Level;Excluded;Item Set;Armor Type;Rarity;Material;TN Stance;Req. Stat;Icon;Variants;Stance;SCM Shop
 bd_ch_f_g_c_avg;Thick Chain;;;;;Body;;ch;f;str;b_gui_ig_i_a_pos_a4_004;base, c_fin, c_str, o_fin;Fighter;v_f_bd
 bd_ch_f_g_c_fun;Rusty Chain;;;;;Body;;ch;f;str;b_gui_ig_i_a_pos_a4_010;base;Fighter;v_f_bd
 bd_ch_f_g_c_low;Stiff Chain;;;;;Body;;ch;f;str;b_gui_ig_i_a_pos_a3_008;base;Fighter;v_f_bd
@@ -285,7 +285,7 @@ he_fu_pl_knight_str;War Helm;;;;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_018;base;Figh
 he_fu_pl_knight_str_02;Bluster Helm;;;;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_087;base;Fighter;v_f_he
 he_fu_pl_smallwings;Hawk Helm;;;;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_033;base;Fighter;v_f_he
 he_fu_pl_smallwings_02;Guardian Helm;;;;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_094;base;Fighter;v_f_he
-he_fu_pl_smallwings_kavaren;Utraean Helm;;;excluded;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_094;base;Fighter;x_excluded
+he_fu_pl_smallwings_kavaren;Utraean Helm;;;excluded;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_094;base;Fighter;v_f_he_ru
 he_fu_pl_spike;Spiked Helm;;;;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_044;base;Fighter;v_f_he
 he_fu_pl_str;Heavy Helm;;;;;Helmet;;pl;;str;b_gui_ig_i_a_hlmt_001;base;Fighter;v_f_he
 he_op_bigwings;Soaring Helm;;;;;Helmet;;;;str;b_gui_ig_i_a_hlmt_043;base;Fighter;v_f_he
@@ -603,17 +603,17 @@ he_op_pl_r_flywing_crown_dsx_set_jeffron;Jeffron's Crown;LoA;;;jeffron;Helmet;;p
 sh_w_r_g_c_t_m_avg_wall_flywing_dsx_set_jeffrom;Jeffron's Wall;LoA;;;jeffron;Shield;;;;str;b_gui_ig_i_a_shd_606;;Fighter;loa_any_sets
 gl_ga_sc_r_g_c_avg_flywing_dsx_set_jeffron;Jeffron's Gauntlets;LoA;;;jeffron;Gloves;;sc;r;str;b_gui_ig_i_a_gntl_304;;Ranger;loa_any_sets
 bo_bo_sc_r_g_c_avg_flywing_dsx_set_jeffron;Jeffron's Boots;LoA;;;jeffron;Boots;;sc;r;str;b_gui_ig_i_a_boot_504;;Ranger;loa_any_sets
-bd_br_r_g_c_avg_hvrubber_dsx_set_utraean_archer;Utraean Archer's Suit;LoA;;;utraean_archer;Body;;br;r;;b_gui_ig_i_a_pos_a2_210;;Ranger;loa_any_sets
-he_vi_pl_r_rubber_visor_dsx_set_utraean_archer;Utraean Archer's Cap;LoA;;;utraean_archer;Helmet;;pl;r;;b_gui_ig_i_a_hlmt_412;;Ranger;loa_any_sets
-bo_bo_sc_r_g_c_avg_rubber_dsx_set_utraean_archer;Utraean Archer's Boots;LoA;;;utraean_archer;Boots;;sc;r;;b_gui_ig_i_a_boot_501;;Ranger;loa_any_sets
+bd_br_r_g_c_avg_hvrubber_dsx_set_utraean_archer;Utraean Archer's Suit;LoA;;;utraean_archer;Body;;br;r;multi;b_gui_ig_i_a_pos_a2_210;;Ranger;loa_any_sets
+he_vi_pl_r_rubber_visor_dsx_set_utraean_archer;Utraean Archer's Cap;LoA;;;utraean_archer;Helmet;;pl;r;multi;b_gui_ig_i_a_hlmt_412;;Ranger;loa_any_sets
+bo_bo_sc_r_g_c_avg_rubber_dsx_set_utraean_archer;Utraean Archer's Boots;LoA;;;utraean_archer;Boots;;sc;r;multi;b_gui_ig_i_a_boot_501;;Ranger;loa_any_sets
 he_op_pl_f_bone_crown_dsx_set_zaurask;Helm of the Zaurask Champion;LoA;;;zaurask;Helmet;;pl;f;str;b_gui_ig_i_a_hlmt_407;;Fighter;loa_any_sets
 bd_le_m_g_c_avg_crmech_dsx_set_xulphae;Xulphae's Plate;LoA;;;xulphae;Body;;le;m;int;b_gui_ig_i_a_pos_a1_231;;Mage;loa_any_sets
 bd_br_m_g_c_avg_chitter_dsx_set_kmethekt;Kmethekt's Armor;LoA;;;kmethekts;Body;;br;m;int;b_gui_ig_i_a_pos_a9_240;;Mage;loa_any_sets
 bo_bo_sc_f_g_c_avg_alloy_dsx_set_utraean_guard;Utraean Guard's Boots;LoA;;;utraean_guard;Boots;;sc;f;str;b_gui_ig_i_a_boot_500;;Fighter;loa_any_sets
 sh_w_f_g_c_t_l_avg_dsx_set_utraean_guard;Utraean Guard's Shield;LoA;;;utraean_guard;Shield;;;;str;b_gui_ig_i_a_shd_601;;Fighter;loa_any_sets
 bd_pl_f_g_c_avg_utraean_dsx_set_utraean_guard;Utraean Guard's Plate;LoA;;;utraean_guard;Body;;pl;f;str;b_gui_ig_i_a_pos_a9_241;;Fighter;loa_any_sets
-sh_w_r_g_c_t_m_avg_fan_beaded_dsx_set_hassat;Ancient Hassat Fan;LoA;;;hassat;Shield;;;;;b_gui_ig_i_a_shd_611;;Fighter;loa_any_sets
-bo_sh_sc_r_g_c_avg_bug_dsx_set_jerkal;Jerkal's Boots;LoA;;;jerkal;Boots;;sc;r;;b_gui_ig_i_a_boot_508;;Ranger;loa_any_sets
-he_vi_pl_r_leaf_visor_dsx_set_jerkal;Jerkal's Visor;LoA;;;jerkal;Helmet;;pl;r;;b_gui_ig_i_a_hlmt_410;;Ranger;loa_any_sets
-gl_gl_sc_r_g_c_avg_shell_dsx_set_jerkal;Jerkal's Gloves;LoA;;;jerkal;Gloves;;sc;r;;b_gui_ig_i_a_gntl_308;;Ranger;loa_any_sets
+sh_w_r_g_c_t_m_avg_fan_beaded_dsx_set_hassat;Ancient Hassat Fan;LoA;;;hassat;Shield;;;;multi;b_gui_ig_i_a_shd_611;;Fighter;loa_any_sets
+bo_sh_sc_r_g_c_avg_bug_dsx_set_jerkal;Jerkal's Boots;LoA;;;jerkal;Boots;;sc;r;multi;b_gui_ig_i_a_boot_508;;Ranger;loa_any_sets
+he_vi_pl_r_leaf_visor_dsx_set_jerkal;Jerkal's Visor;LoA;;;jerkal;Helmet;;pl;r;multi;b_gui_ig_i_a_hlmt_410;;Ranger;loa_any_sets
+gl_gl_sc_r_g_c_avg_shell_dsx_set_jerkal;Jerkal's Gloves;LoA;;;jerkal;Gloves;;sc;r;multi;b_gui_ig_i_a_gntl_308;;Ranger;loa_any_sets
 he_threestorms;Helm of the Storms, the Three Storms;;;excluded;;Helmet;;;;;b_gui_ig_i_a_hlmt_046;;;x_any

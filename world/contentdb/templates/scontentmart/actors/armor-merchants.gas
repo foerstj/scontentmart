@@ -844,6 +844,7 @@
 				[all*]
 				{
 					il_main = #he_fu_pl_knight_fin_03:base;
+					il_main = #he_fu_pl_smallwings_kavaren:base;
 					il_main = #he_ra_ca_pl_avg:base/+brilliant;
 					il_main = #he_ra_ca_pl_cap:base/+brilliant;
 					il_main = #he_ra_ca_pl_dome:base/+brilliant;
@@ -1398,7 +1399,6 @@
 			{
 				[all*]
 				{
-					il_main = #he_fu_pl_smallwings_kavaren:base;
 					il_main = #tongs;
 					il_main = #bd_pl_f_g_c_death_knight;
 					il_main = #sh_un_m_o_r_m_turtle_02_dsx;
