@@ -621,7 +621,7 @@
 	  p position = 0.979925,0,-1.02881,0xd3cf1258;
 	}
 }
-[t:scm_dsx_merchant_weapon_1h_fighter_all,n:0x0010004b]
+[t:scm_dsx_merchant_weapon_2h_fighter_all,n:0x0010004b]
 {
 	[conversation]
 	{
@@ -634,7 +634,7 @@
 	{
 		[equipment]
 		{
-			es_weapon_hand = ax_g_c_dsx_bon_avg;
+			es_weapon_hand = st_g_c_dsx_mn_avg;
 		}
 	}
 	[placement]
@@ -643,7 +643,7 @@
 	  p position = 0.220164,0,-0.7889,0xc871b0ab;
 	}
 }
-[t:scm_dsx_merchant_weapon_2h_fighter_normal,n:0x0010004c]
+[t:scm_dsx_merchant_weapon_1h_fighter_normal,n:0x0010004c]
 {
 	[conversation]
 	{
@@ -665,7 +665,7 @@
 	  p position = 1.22533,0,0.63006,0xc871b0ab;
 	}
 }
-[t:scm_dsx_merchant_weapon_2h_fighter_special,n:0x0010004d]
+[t:scm_dsx_merchant_weapon_1h_fighter_special,n:0x0010004d]
 {
 	[conversation]
 	{

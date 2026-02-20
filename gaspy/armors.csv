@@ -639,14 +639,14 @@ sd_g_c_dsx_kat_1h_avg_dsx_set_utraean_guard;Utraean Guard's Sword;Fighter;loa_an
 bw_g_c_dsx_hst_avg_dsx_set_utraean_guard;Utraean Guard's Bow;Ranger;loa_any_sets;LoA;weapon;;;utraean_guard;bw;;;;multi;b_gui_ig_i_w_bow_079;
 dg_g_c_dsx_hassat_avg_dsx_set_hassat;Ancient Hassat Dagger;Fighter;loa_any_sets;LoA;weapon;;;hassat;dg;;;;multi;b_gui_ig_I_w_dgr_307;
 bw_g_c_dsx_jwl_avg_dsx_set_hassat;Ancient Hassat Bow;Ranger;loa_any_sets;LoA;weapon;;;hassat;bw;;;;multi;b_gui_ig_i_w_bow_313;
-ax_g_c_dsx_chp_avg_najj;Najj's Clamshell Axe;Fighter;loa_f_2h_s;LoA;weapon;;excluded;;ax;;;;str;b_gui_ig_i_w_axe_300;base
-ax_d_c_1h1b_avg_dsx;Death Knight Hack;Fighter;loa_f_1h;LoA;weapon;;excluded;;ax;;;;str;b_gui_ig_i_w_axe_092;
-ax_g_c_1h2b_low_dsx;Worn Full Axe;Fighter;loa_f_1h;LoA;weapon;;excluded;;ax;;;;str;b_gui_ig_i_w_axe_153;
-ax_g_c_dsx_chp_avg;Clamshell Axe;Fighter;loa_f_2h_n;LoA;weapon;;;;ax;;;;str;b_gui_ig_i_w_axe_300;base
-ax_g_c_dsx_clv_avg;Cleaver;Fighter;loa_f_2h_n;LoA;weapon;;;;ax;;;;str;b_gui_ig_i_w_axe_301;base
-ax_g_c_dsx_slt_avg;Slate Chip;Fighter;loa_f_2h_n;LoA;weapon;;;;ax;;;;str;b_gui_ig_i_w_axe_302;base
-ax_g_c_dsx_moo_avg;Moonhead Axe;Fighter;loa_f_2h_n;LoA;weapon;;;;ax;;;;str;b_gui_ig_i_w_axe_303;base
-ax_g_c_dsx_bon_avg;Bonegrip Chopper;Fighter;loa_f_1h;LoA;weapon;;;;ax;;;;str;b_gui_ig_i_w_axe_304;base
+ax_g_c_dsx_chp_avg_najj;Najj's Clamshell Axe;Fighter;loa_f_1h_s;LoA;weapon;;excluded;;ax;;;;str;b_gui_ig_i_w_axe_300;base
+ax_d_c_1h1b_avg_dsx;Death Knight Hack;Fighter;loa_f_1h_s;LoA;weapon;;excluded;;ax;;;;str;b_gui_ig_i_w_axe_092;
+ax_g_c_1h2b_low_dsx;Worn Full Axe;Fighter;loa_f_1h_s;LoA;weapon;;excluded;;ax;;;;str;b_gui_ig_i_w_axe_153;
+ax_g_c_dsx_chp_avg;Clamshell Axe;Fighter;loa_f_1h_n;LoA;weapon;;;;ax;;;;str;b_gui_ig_i_w_axe_300;base
+ax_g_c_dsx_clv_avg;Cleaver;Fighter;loa_f_1h_n;LoA;weapon;;;;ax;;;;str;b_gui_ig_i_w_axe_301;base
+ax_g_c_dsx_slt_avg;Slate Chip;Fighter;loa_f_1h_n;LoA;weapon;;;;ax;;;;str;b_gui_ig_i_w_axe_302;base
+ax_g_c_dsx_moo_avg;Moonhead Axe;Fighter;loa_f_1h_n;LoA;weapon;;;;ax;;;;str;b_gui_ig_i_w_axe_303;base
+ax_g_c_dsx_bon_avg;Bonegrip Chopper;Fighter;loa_f_1h_n;LoA;weapon;;;;ax;;;;str;b_gui_ig_i_w_axe_304;base
 bw_dsx_reynards_gift;Reynard's Gift;Ranger;x_excluded;LoA;weapon;;excluded;;bw;;;;dex;b_gui_ig_i_w_bow_050;
 bw_dsx_cicatrix_skeleton;cicatrix skeleton bow;Ranger;loa_r_bw;LoA;weapon;;excluded;;bw;;;;;b_gui_ig_i_w_bow_050;
 dsx_rock_goblin;Rock;Ranger;x_excluded;LoA;weapon;;excluded;;;;;;;;
@@ -674,43 +674,43 @@ bw_g_c_dsx_ltn_avg;Thunderwood Bow;Ranger;loa_r_bw;LoA;weapon;;;;bw;;;;multi;b_g
 bw_g_c_dsx_qll_avg;Quill bow;Ranger;loa_r_bw;LoA;weapon;;;;bw;;;;multi;b_gui_ig_i_w_bow_308;base
 bw_g_c_dsx_shd_avg;Shadow Bow;Ranger;loa_r_bw;LoA;weapon;;;;bw;;;;multi;b_gui_ig_i_w_bow_303;base
 bw_g_c_dsx_spd_avg;Spidersilk Bow;Ranger;loa_r_bw;LoA;weapon;;;;bw;;;;multi;b_gui_ig_i_w_bow_310;base
-cb_un_1h_troll_dsx_scrub;Troll Club;Fighter;loa_f_2h_s;LoA;weapon;;excluded;;cb;unique;;;str;b_gui_ig_i_w_clb_009;
-cb_un_2h_troll_dsx_forest;Tree Club;Fighter;loa_f_1h;LoA;weapon;;excluded;;cb;unique;;;str;b_gui_ig_i_w_clb_009;
-cb_un_dsx_2h_troll;Troll Club;Fighter;loa_f_1h;LoA;weapon;;excluded;;cb;unique;;;str;b_gui_ig_i_w_clb_009;
-cb_g_c_dsx_cry_avg;Crystal Club;Fighter;loa_f_2h_n;LoA;weapon;;;;cb;;;;str;b_gui_ig_i_w_clb_300;base
-cb_g_c_dsx_ltn_avg;Crackled Club;Fighter;loa_f_2h_n;LoA;weapon;;;;cb;;;;str;b_gui_ig_i_w_clb_301;base
-cb_g_c_dsx_tet_avg;Knobbed Club;Fighter;loa_f_2h_n;LoA;weapon;;;;cb;;;;str;b_gui_ig_i_w_clb_303;base
-cb_g_c_dsx_rbr_avg;Rubber Club;Fighter;loa_f_2h_n;LoA;weapon;;;;cb;;;;str;b_gui_ig_i_w_clb_302;base
-cb_g_c_dsx_crm_avg;Ceramic Club;Fighter;loa_f_2h_n;LoA;weapon;;;;cb;;;;str;b_gui_ig_i_w_clb_304;base
+cb_un_1h_troll_dsx_scrub;Troll Club;Fighter;loa_f_1h_s;LoA;weapon;;excluded;;cb;unique;;;str;b_gui_ig_i_w_clb_009;
+cb_un_2h_troll_dsx_forest;Tree Club;Fighter;loa_f_1h_s;LoA;weapon;;excluded;;cb;unique;;;str;b_gui_ig_i_w_clb_009;
+cb_un_dsx_2h_troll;Troll Club;Fighter;loa_f_1h_s;LoA;weapon;;excluded;;cb;unique;;;str;b_gui_ig_i_w_clb_009;
+cb_g_c_dsx_cry_avg;Crystal Club;Fighter;loa_f_1h_n;LoA;weapon;;;;cb;;;;str;b_gui_ig_i_w_clb_300;base
+cb_g_c_dsx_ltn_avg;Crackled Club;Fighter;loa_f_1h_n;LoA;weapon;;;;cb;;;;str;b_gui_ig_i_w_clb_301;base
+cb_g_c_dsx_tet_avg;Knobbed Club;Fighter;loa_f_1h_n;LoA;weapon;;;;cb;;;;str;b_gui_ig_i_w_clb_303;base
+cb_g_c_dsx_rbr_avg;Rubber Club;Fighter;loa_f_1h_n;LoA;weapon;;;;cb;;;;str;b_gui_ig_i_w_clb_302;base
+cb_g_c_dsx_crm_avg;Ceramic Club;Fighter;loa_f_1h_n;LoA;weapon;;;;cb;;;;str;b_gui_ig_i_w_clb_304;base
 dg_g_c_dsx_kaj_mag;Claws of Kajj;Fighter;x_excluded;LoA;weapon;;excluded;;dg;;;;;b_gui_ig_i_w_dgr_400;
 dg_g_c_dsx_sjumper_three;Claws of Kajj;Fighter;x_excluded;LoA;weapon;;excluded;;dg;;;;;b_gui_ig_i_w_dgr_400;
 dg_g_c_dsx_sjumper_five;SJ Minion 5 Weapon;Fighter;x_excluded;LoA;weapon;;excluded;;dg;;;;;b_gui_ig_i_w_dgr_400;
-dg_g_c_dsx_clw_avg;Claws;Fighter;loa_f_2h_n;LoA;weapon;;;;dg;;;;str;b_gui_ig_i_w_dgr_301;base
-dg_g_c_dsx_sai_avg;Sai;Fighter;loa_f_2h_n;LoA;weapon;;;;dg;;;;str;b_gui_ig_i_w_dgr_302;base
-dg_g_c_dsx_hassat_avg;Hassat Gouger;Fighter;loa_f_2h_n;LoA;weapon;;;;dg;;;;str;b_gui_ig_i_w_dgr_307;base
-dg_g_c_dsx_sb_avg;Barong;Fighter;loa_f_2h_n;LoA;weapon;;;;dg;;;;str;b_gui_ig_i_w_dgr_303;base
-dg_g_c_dsx_crys_avg;Crystal Shard;Fighter;loa_f_2h_n;LoA;weapon;;;;dg;;;;str;b_gui_ig_i_w_dgr_304;base
-dg_g_c_dsx_zst_avg;Zaurask Stiletto;Fighter;loa_f_2h_n;LoA;weapon;;;;dg;;;;str;b_gui_ig_i_w_dgr_306;base
-hm_g_c_dsx_goblin_blackguard;Goblin Clockwork Hammer;Fighter;loa_f_2h_s;LoA;weapon;;excluded;;hm;;;;str;b_gui_ig_i_w_hmr_300;
-hm_g_c_dsx_warmlt_avg;Large War Mallet;Fighter;loa_f_2h_s;LoA;weapon;;excluded;;hm;;;;str;b_gui_ig_i_w_hmr_303;base
-ax_d_d_dsx_goblin_mutant;Goblin Cutter;Fighter;loa_f_2h_s;LoA;weapon;;excluded;;ax;;;;str;b_gui_ig_i_w_hmr_303;
-hm_g_c_dsx_clk_avg;Clockwork Hammer;Fighter;loa_f_2h_n;LoA;weapon;;;;hm;;;;str;b_gui_ig_i_w_hmr_300;base
-hm_g_c_dsx_mlt_avg;Large Wooden Mallet;Fighter;loa_f_1h;LoA;weapon;;;;hm;;;;str;b_gui_ig_i_w_hmr_302;base
-hm_g_c_dsx_cry_avg;Crystal Hammer;Fighter;loa_f_2h_n;LoA;weapon;;;;hm;;;;str;b_gui_ig_i_w_hmr_301;base
+dg_g_c_dsx_clw_avg;Claws;Fighter;loa_f_1h_n;LoA;weapon;;;;dg;;;;str;b_gui_ig_i_w_dgr_301;base
+dg_g_c_dsx_sai_avg;Sai;Fighter;loa_f_1h_n;LoA;weapon;;;;dg;;;;str;b_gui_ig_i_w_dgr_302;base
+dg_g_c_dsx_hassat_avg;Hassat Gouger;Fighter;loa_f_1h_n;LoA;weapon;;;;dg;;;;str;b_gui_ig_i_w_dgr_307;base
+dg_g_c_dsx_sb_avg;Barong;Fighter;loa_f_1h_n;LoA;weapon;;;;dg;;;;str;b_gui_ig_i_w_dgr_303;base
+dg_g_c_dsx_crys_avg;Crystal Shard;Fighter;loa_f_1h_n;LoA;weapon;;;;dg;;;;str;b_gui_ig_i_w_dgr_304;base
+dg_g_c_dsx_zst_avg;Zaurask Stiletto;Fighter;loa_f_1h_n;LoA;weapon;;;;dg;;;;str;b_gui_ig_i_w_dgr_306;base
+hm_g_c_dsx_goblin_blackguard;Goblin Clockwork Hammer;Fighter;loa_f_1h_s;LoA;weapon;;excluded;;hm;;;;str;b_gui_ig_i_w_hmr_300;
+hm_g_c_dsx_warmlt_avg;Large War Mallet;Fighter;loa_f_2h;LoA;weapon;;excluded;;hm;;;;str;b_gui_ig_i_w_hmr_303;base
+ax_d_d_dsx_goblin_mutant;Goblin Cutter;Fighter;loa_f_2h;LoA;weapon;;excluded;;ax;;;;str;b_gui_ig_i_w_hmr_303;
+hm_g_c_dsx_clk_avg;Clockwork Hammer;Fighter;loa_f_1h_n;LoA;weapon;;;;hm;;;;str;b_gui_ig_i_w_hmr_300;base
+hm_g_c_dsx_mlt_avg;Large Wooden Mallet;Fighter;loa_f_1h_n;LoA;weapon;;;;hm;;;;str;b_gui_ig_i_w_hmr_302;base
+hm_g_c_dsx_cry_avg;Crystal Hammer;Fighter;loa_f_1h_n;LoA;weapon;;;;hm;;;;str;b_gui_ig_i_w_hmr_301;base
 mc_dsx_cicatrix_skeleton;cicatrix skeleton mace;Fighter;x_excluded;LoA;weapon;;excluded;;mc;;;;;;
-mc_g_c_dsx_smr_avg;Open Mace;Fighter;loa_f_2h_n;LoA;weapon;;;;mc;;;;str;b_gui_ig_i_w_mce_300;base
-mc_g_c_dsx_zau_avg;Zaurask Mace;Fighter;loa_f_2h_n;LoA;weapon;;;;mc;;;;str;b_gui_ig_i_w_mce_301;base
-mc_g_c_dsx_tub_avg;Clockwork Mace;Fighter;loa_f_2h_n;LoA;weapon;;;;mc;;;;str;b_gui_ig_i_w_mce_302;base
-mc_g_c_dsx_flm_avg;Twisted Mace;Fighter;loa_f_2h_n;LoA;weapon;;;;mc;;;;str;b_gui_ig_i_w_mce_303;base
-st_g_c_dsx_mn_avg;Hassat Moon;Fighter;loa_f_2h_n;LoA;weapon;;;;st;;;;str;b_gui_ig_i_w_stf_317;base
-st_g_c_dsx_smn_avg;Shadow Moon;Fighter;loa_f_2h_n;LoA;weapon;;;;st;;;;str;b_gui_ig_i_w_stf_318;base
-ax_g_c_dsx_ptr_avg;Hassat Trident;Fighter;loa_f_2h_n;LoA;weapon;;;;ax;;;;str;b_gui_ig_i_w_stf_309;base
-ax_g_c_dsx_psc_avg;Hassat Scimitar;Fighter;loa_f_2h_n;LoA;weapon;;;;ax;;;;str;b_gui_ig_i_w_stf_308;base
-ax_g_c_dsx_pfk_avg;Hassat Fork;Fighter;loa_f_2h_n;LoA;weapon;;;;ax;;;;str;b_gui_ig_i_w_stf_306;base
-ax_g_c_dsx_png_avg;Naginata;Fighter;loa_f_2h_n;LoA;weapon;;;;ax;;;;str;b_gui_ig_i_w_stf_315;base
-ax_g_c_dsx_pzc_avg;Zaurask-Catcher;Fighter;loa_f_2h_n;LoA;weapon;;;;ax;;;;str;b_gui_ig_i_w_stf_316;base
-ax_g_c_dsx_pbd_avg;Bardiche;Fighter;loa_f_2h_n;LoA;weapon;;;;ax;;;;str;b_gui_ig_i_w_stf_312;base
-ax_g_c_dsx_pcl_avg;Hassat Cleaver;Fighter;loa_f_2h_n;LoA;weapon;;;;ax;;;;str;b_gui_ig_i_w_stf_305;base
+mc_g_c_dsx_smr_avg;Open Mace;Fighter;loa_f_1h_n;LoA;weapon;;;;mc;;;;str;b_gui_ig_i_w_mce_300;base
+mc_g_c_dsx_zau_avg;Zaurask Mace;Fighter;loa_f_1h_n;LoA;weapon;;;;mc;;;;str;b_gui_ig_i_w_mce_301;base
+mc_g_c_dsx_tub_avg;Clockwork Mace;Fighter;loa_f_1h_n;LoA;weapon;;;;mc;;;;str;b_gui_ig_i_w_mce_302;base
+mc_g_c_dsx_flm_avg;Twisted Mace;Fighter;loa_f_1h_n;LoA;weapon;;;;mc;;;;str;b_gui_ig_i_w_mce_303;base
+st_g_c_dsx_mn_avg;Hassat Moon;Fighter;loa_f_2h;LoA;weapon;;;;st;;;;str;b_gui_ig_i_w_stf_317;base
+st_g_c_dsx_smn_avg;Shadow Moon;Fighter;loa_f_2h;LoA;weapon;;;;st;;;;str;b_gui_ig_i_w_stf_318;base
+ax_g_c_dsx_ptr_avg;Hassat Trident;Fighter;loa_f_2h;LoA;weapon;;;;ax;;;;str;b_gui_ig_i_w_stf_309;base
+ax_g_c_dsx_psc_avg;Hassat Scimitar;Fighter;loa_f_2h;LoA;weapon;;;;ax;;;;str;b_gui_ig_i_w_stf_308;base
+ax_g_c_dsx_pfk_avg;Hassat Fork;Fighter;loa_f_2h;LoA;weapon;;;;ax;;;;str;b_gui_ig_i_w_stf_306;base
+ax_g_c_dsx_png_avg;Naginata;Fighter;loa_f_2h;LoA;weapon;;;;ax;;;;str;b_gui_ig_i_w_stf_315;base
+ax_g_c_dsx_pzc_avg;Zaurask-Catcher;Fighter;loa_f_2h;LoA;weapon;;;;ax;;;;str;b_gui_ig_i_w_stf_316;base
+ax_g_c_dsx_pbd_avg;Bardiche;Fighter;loa_f_2h;LoA;weapon;;;;ax;;;;str;b_gui_ig_i_w_stf_312;base
+ax_g_c_dsx_pcl_avg;Hassat Cleaver;Fighter;loa_f_2h;LoA;weapon;;;;ax;;;;str;b_gui_ig_i_w_stf_305;base
 dsx_minigun_dragon;Dragon Minigun;Ranger;loa_r_cm;LoA;weapon;;excluded;;minigun;;;;multi;b_gui_ig_i_w_msc_009;
 dsx_minigun_flamethrower;Mini-Flamethrower;Ranger;loa_r_cm;LoA;weapon;;excluded;;minigun;;;;multi;b_gui_ig_i_w_msc_014;
 dsx_minigun_flamethrower2;Flameblaster;Ranger;loa_r_cm;LoA;weapon;;excluded;;minigun;;;;multi;b_gui_ig_i_w_msc_014;
@@ -723,16 +723,16 @@ dsx_minigun_gas_monster;Goblin's Gas Gun;Ranger;x_excluded;LoA;weapon;;excluded;
 minigun_magic_missles;Crossbow of many, many magic missiles;Ranger;x_excluded;LoA;weapon;;excluded;;minigun;;;;multi;b_gui_ig_i_w_msc_305;base
 cw_g_c_dsx_bon_avg;Bone Crossbow;Ranger;loa_r_cm;LoA;weapon;;;;cw;;;;multi;b_gui_ig_i_w_csb_300;base
 cw_g_c_dsx_clk_avg;Clockwork Crossbow;Ranger;loa_r_cm;LoA;weapon;;;;cw;;;;multi;b_gui_ig_i_w_csb_301;base
-st_g_c_bl_1h_fun_nossirom_dsx;Nosirrom's Staff;Fighter;loa_f_2h_s;LoA;weapon;;excluded;;st;;;;str;b_gui_ig_i_w_stf_010;
-st_un_toreck_dsx;Sickle Staff;Fighter;loa_f_2h_s;LoA;weapon;;excluded;;st;unique;;;str;b_gui_ig_i_w_stf_010;
+st_g_c_bl_1h_fun_nossirom_dsx;Nosirrom's Staff;Fighter;loa_f_2h;LoA;weapon;;excluded;;st;;;;str;b_gui_ig_i_w_stf_010;
+st_un_toreck_dsx;Sickle Staff;Fighter;loa_f_2h;LoA;weapon;;excluded;;st;unique;;;str;b_gui_ig_i_w_stf_010;
 st_un_dsx_angk_guardian;Scythe of Angk;Mage;loa_m_st;LoA;weapon;;excluded;;st;unique;;;;b_gui_ig_i_w_stf_319;
-st_un_dsx_angk;Scythe of Angk;Fighter;loa_f_2h_s;LoA;weapon;;excluded;;st;unique;;;str;b_gui_ig_i_w_stf_319;
-2w_st_un_dsx_angk;Super Scythe of Angk;Fighter;loa_f_2h_s;LoA;weapon;Veteran;excluded;;st;unique;;;str;b_gui_ig_i_w_stf_319;
-3w_st_un_dsx_angk;Supreme Scythe of Angk;Fighter;loa_f_2h_s;LoA;weapon;Elite;excluded;;st;unique;;;str;b_gui_ig_i_w_stf_319;
+st_un_dsx_angk;Scythe of Angk;Fighter;loa_f_2h;LoA;weapon;;excluded;;st;unique;;;str;b_gui_ig_i_w_stf_319;
+2w_st_un_dsx_angk;Super Scythe of Angk;Fighter;loa_f_2h;LoA;weapon;Veteran;excluded;;st;unique;;;str;b_gui_ig_i_w_stf_319;
+3w_st_un_dsx_angk;Supreme Scythe of Angk;Fighter;loa_f_2h;LoA;weapon;Elite;excluded;;st;unique;;;str;b_gui_ig_i_w_stf_319;
 st_g_c_dsx_stars;Staff of Stars;Mage;x_excluded;LoA;weapon;;excluded;;st;;;;;b_gui_ig_i_w_stf_2072;base
 2w_st_g_c_dsx_stars;Super Staff of Stars;Mage;x_excluded;LoA;weapon;Veteran;excluded;;st;;;;;b_gui_ig_i_w_stf_2072;base
 3w_st_g_c_dsx_stars;Supreme Staff of Stars;Mage;x_excluded;LoA;weapon;Elite;excluded;;st;;;;;b_gui_ig_i_w_stf_2072;base
-st_un_seck_mage_dsx;Necron Death Staff;Fighter;loa_f_2h_s;LoA;weapon;;excluded;;st;unique;;;str;b_gui_ig_i_w_stf_076;
+st_un_seck_mage_dsx;Necron Death Staff;Fighter;loa_f_2h;LoA;weapon;;excluded;;st;unique;;;str;b_gui_ig_i_w_stf_076;
 st_g_c_dsx_cry_avg;Crystal Staff;Mage;loa_m_st;LoA;weapon;;;;st;;;;int;b_gui_ig_i_w_stf_301;base
 st_g_c_dsx_jad_avg;Jade Staff;Mage;loa_m_st;LoA;weapon;;;;st;;;;int;b_gui_ig_i_w_stf_302;base
 st_g_c_dsx_ltn_avg;Utraean Gemstaff;Mage;loa_m_st;LoA;weapon;;;;st;;;;int;b_gui_ig_i_w_stf_303;base
@@ -741,27 +741,27 @@ st_g_c_dsx_bar_avg;Clockwork Rod;Mage;loa_m_st;LoA;weapon;;;;st;;;;int;b_gui_ig_
 st_g_c_dsx_pcane;Cane;Mage;loa_m_st;LoA;weapon;;excluded;;st;;;;int;b_gui_ig_i_w_stf_300;base
 sd_g_c_dsx_kat_1h_shadowjumper_NIS_ONLY;Shadowjumper's Lightning BLade;Fighter;x_excluded;;weapon;;excluded;;sd;;;;str;b_gui_ig_i_w_swd_302;base
 sd_g_c_dsx_kat_1h_shadowjumper;;Fighter;x_excluded;LoA;weapon;;excluded;;sd;;;;;;
-ss_g_c_bl_1h_fun_zaur_dsx;Tempered Blade;Fighter;loa_f_1h;LoA;weapon;;excluded;;ss;;;;str;b_gui_ig_i_w_swd_006;
-ss_g_c_bl_1h_fun_noss_dsx;Nosirrom's Blade;Fighter;loa_f_1h;LoA;weapon;;excluded;;ss;;;;str;b_gui_ig_i_w_swd_006;
-ss_g_c_bl_1h_fun_04_dsx;Dull Blade;Fighter;loa_f_1h;LoA;weapon;;excluded;;ss;;;;str;b_gui_ig_i_w_swd_006;
-ss_g_c_bl_1h_fun_05_dsx;Dull Blade;Fighter;loa_f_1h;LoA;weapon;;excluded;;ss;;;;str;b_gui_ig_i_w_swd_006;
-ss_g_c_bl_1h_fun_03_dsx;Dull Blade;Fighter;loa_f_1h;LoA;weapon;;excluded;;ss;;;;str;b_gui_ig_i_w_swd_006;
-ss_g_c_bl_1h_fun_01_dsx;Tempered Blade;Fighter;loa_f_1h;LoA;weapon;;excluded;;ss;;;;str;b_gui_ig_i_w_swd_006;
-ss_g_c_bl_1h_fun_02_dsx;Tempered Blade;Fighter;loa_f_1h;LoA;weapon;;excluded;;ss;;;;str;b_gui_ig_i_w_swd_006;
-ss_g_c_bl_1h_fun_dsx;Zaurask Dull Blade;Fighter;loa_f_1h;LoA;weapon;;excluded;;ss;;;;str;b_gui_ig_i_w_swd_006;
-sd_g_c_sd_1h_avg_dsx;Skeleton's Long Sword;Fighter;loa_f_1h;LoA;weapon;;excluded;;sd;;;;str;b_gui_ig_i_w_swd_017;
-sd_d_c_dsx_skl_1h_mag;Death Knight Sickle Sword;Fighter;loa_f_1h;LoA;weapon;;excluded;;sd;;;;;b_gui_ig_i_w_swd_313;
-sd_d_c_dsx_skl_1h_mag_player;Death Knight Sickle Sword;Fighter;loa_f_1h;LoA;weapon;;excluded;;sd;;;;str;b_gui_ig_i_w_swd_313;
-2w_sd_d_c_dsx_skl_1h_mag_player;Super Death Knight Sickle Sword;Fighter;loa_f_1h;LoA;weapon;Veteran;excluded;;sd;;;;str;b_gui_ig_i_w_swd_313;
-3w_sd_d_c_dsx_skl_1h_mag_player;Supreme Death Knight Sickle Sword;Fighter;loa_f_1h;LoA;weapon;Elite;excluded;;sd;;;;str;b_gui_ig_i_w_swd_313;
-sd_g_c_dsx_goblin_guard;Goblin Sword;Fighter;loa_f_2h_s;LoA;weapon;;excluded;;sd;;;;str;b_gui_ig_i_w_swd_300;
-sd_g_c_dsx_chr_1h_avg;Black Steel;Fighter;loa_f_2h_n;LoA;weapon;;;;sd;;;;str;b_gui_ig_i_w_swd_300;base
-sd_g_c_dsx_clk_1h_avg;Clockwork Sword;Fighter;loa_f_2h_n;LoA;weapon;;;;sd;;;;str;b_gui_ig_i_w_swd_301;base
-sd_g_c_dsx_kat_1h_avg;Katana;Fighter;loa_f_2h_n;LoA;weapon;;;;sd;;;;str;b_gui_ig_i_w_swd_302;base
-sd_g_c_dsx_zkt_1h_avg;Zaurask Katana;Fighter;loa_f_2h_n;LoA;weapon;;;;sd;;;;str;b_gui_ig_i_w_swd_303;base
-sd_g_c_dsx_ser_1h_avg;Serrated sword;Fighter;loa_f_2h_n;LoA;weapon;;;;sd;;;;str;b_gui_ig_i_w_swd_309;base
-sd_g_c_dsx_slc_2h_avg;Zaurask Slicer;Fighter;loa_f_2h_n;LoA;weapon;;;;sd;;;;str;b_gui_ig_i_w_swd_310;base
-sd_g_c_dsx_snk_1h_avg;Zaurask Snakebite;Fighter;loa_f_2h_n;LoA;weapon;;;;sd;;;;str;b_gui_ig_i_w_swd_311;base
+ss_g_c_bl_1h_fun_zaur_dsx;Tempered Blade;Fighter;loa_f_1h_s;LoA;weapon;;excluded;;ss;;;;str;b_gui_ig_i_w_swd_006;
+ss_g_c_bl_1h_fun_noss_dsx;Nosirrom's Blade;Fighter;loa_f_1h_s;LoA;weapon;;excluded;;ss;;;;str;b_gui_ig_i_w_swd_006;
+ss_g_c_bl_1h_fun_04_dsx;Dull Blade;Fighter;loa_f_1h_s;LoA;weapon;;excluded;;ss;;;;str;b_gui_ig_i_w_swd_006;
+ss_g_c_bl_1h_fun_05_dsx;Dull Blade;Fighter;loa_f_1h_s;LoA;weapon;;excluded;;ss;;;;str;b_gui_ig_i_w_swd_006;
+ss_g_c_bl_1h_fun_03_dsx;Dull Blade;Fighter;loa_f_1h_s;LoA;weapon;;excluded;;ss;;;;str;b_gui_ig_i_w_swd_006;
+ss_g_c_bl_1h_fun_01_dsx;Tempered Blade;Fighter;loa_f_1h_s;LoA;weapon;;excluded;;ss;;;;str;b_gui_ig_i_w_swd_006;
+ss_g_c_bl_1h_fun_02_dsx;Tempered Blade;Fighter;loa_f_1h_s;LoA;weapon;;excluded;;ss;;;;str;b_gui_ig_i_w_swd_006;
+ss_g_c_bl_1h_fun_dsx;Zaurask Dull Blade;Fighter;loa_f_1h_s;LoA;weapon;;excluded;;ss;;;;str;b_gui_ig_i_w_swd_006;
+sd_g_c_sd_1h_avg_dsx;Skeleton's Long Sword;Fighter;loa_f_1h_s;LoA;weapon;;excluded;;sd;;;;str;b_gui_ig_i_w_swd_017;
+sd_d_c_dsx_skl_1h_mag;Death Knight Sickle Sword;Fighter;loa_f_1h_s;LoA;weapon;;excluded;;sd;;;;;b_gui_ig_i_w_swd_313;
+sd_d_c_dsx_skl_1h_mag_player;Death Knight Sickle Sword;Fighter;loa_f_1h_s;LoA;weapon;;excluded;;sd;;;;str;b_gui_ig_i_w_swd_313;
+2w_sd_d_c_dsx_skl_1h_mag_player;Super Death Knight Sickle Sword;Fighter;loa_f_1h_s;LoA;weapon;Veteran;excluded;;sd;;;;str;b_gui_ig_i_w_swd_313;
+3w_sd_d_c_dsx_skl_1h_mag_player;Supreme Death Knight Sickle Sword;Fighter;loa_f_1h_s;LoA;weapon;Elite;excluded;;sd;;;;str;b_gui_ig_i_w_swd_313;
+sd_g_c_dsx_goblin_guard;Goblin Sword;Fighter;loa_f_1h_s;LoA;weapon;;excluded;;sd;;;;str;b_gui_ig_i_w_swd_300;
+sd_g_c_dsx_chr_1h_avg;Black Steel;Fighter;loa_f_1h_n;LoA;weapon;;;;sd;;;;str;b_gui_ig_i_w_swd_300;base
+sd_g_c_dsx_clk_1h_avg;Clockwork Sword;Fighter;loa_f_1h_n;LoA;weapon;;;;sd;;;;str;b_gui_ig_i_w_swd_301;base
+sd_g_c_dsx_kat_1h_avg;Katana;Fighter;loa_f_1h_n;LoA;weapon;;;;sd;;;;str;b_gui_ig_i_w_swd_302;base
+sd_g_c_dsx_zkt_1h_avg;Zaurask Katana;Fighter;loa_f_1h_n;LoA;weapon;;;;sd;;;;str;b_gui_ig_i_w_swd_303;base
+sd_g_c_dsx_ser_1h_avg;Serrated sword;Fighter;loa_f_1h_n;LoA;weapon;;;;sd;;;;str;b_gui_ig_i_w_swd_309;base
+sd_g_c_dsx_slc_2h_avg;Zaurask Slicer;Fighter;loa_f_1h_n;LoA;weapon;;;;sd;;;;str;b_gui_ig_i_w_swd_310;base
+sd_g_c_dsx_snk_1h_avg;Zaurask Snakebite;Fighter;loa_f_1h_n;LoA;weapon;;;;sd;;;;str;b_gui_ig_i_w_swd_311;base
 ax_carnage;Axe of Kill Kill Carnage;Fighter;v_f_ax2h_n;;weapon;;;;ax;;;;str;b_gui_ig_i_w_axe_139;base
 ax_d_c_1h1b_avg;Hack;Fighter;v_f_ax_n;;weapon;;;;ax;;;;str;b_gui_ig_i_w_axe_092;base
 ax_d_c_2h1b_avg;Tofk Axe;Fighter;v_f_ax2h_n;;weapon;;;;ax;;;;str;b_gui_ig_i_w_axe_093;base

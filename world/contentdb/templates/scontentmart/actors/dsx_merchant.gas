@@ -80,29 +80,29 @@
 [t:template,n:base_scm_loa_m_sh_contents_base] { specializes = base_scm_dsx_merchant_armor_shield_mage_all; }
 [t:template,n:scm_dsx_merchant_armor_shield_mage_all] { specializes = base_scm_loa_m_sh_contents; }
 
-[t:template,n:base_scm_dsx_merchant_weapon_1h_fighter_all]
+[t:template,n:base_scm_dsx_merchant_weapon_1h_fighter_normal]
 {
 	specializes = base_scm_merchant_loa_weapon;
-	common:screen_name = "LoA 1H Fighter Weapons";
+	common:screen_name = "LoA Normal 1H Fighter Weapons";
 }
-[t:template,n:base_scm_loa_f_1h_contents_base] { specializes = base_scm_dsx_merchant_weapon_1h_fighter_all; }
-[t:template,n:scm_dsx_merchant_weapon_1h_fighter_all] { specializes = base_scm_loa_f_1h_contents; }
+[t:template,n:base_scm_loa_f_1h_n_contents_base] { specializes = base_scm_dsx_merchant_weapon_1h_fighter_normal; }
+[t:template,n:scm_dsx_merchant_weapon_1h_fighter_normal] { specializes = base_scm_loa_f_1h_n_contents; }
 
-[t:template,n:base_scm_dsx_merchant_weapon_2h_fighter_normal]
+[t:template,n:base_scm_dsx_merchant_weapon_1h_fighter_special]
 {
 	specializes = base_scm_merchant_loa_weapon;
-	common:screen_name = "LoA Normal 2H Fighter Weapons";
+	common:screen_name = "LoA Special 1H Fighter Weapons";
 }
-[t:template,n:base_scm_loa_f_2h_n_contents_base] { specializes = base_scm_dsx_merchant_weapon_2h_fighter_normal; }
-[t:template,n:scm_dsx_merchant_weapon_2h_fighter_normal] { specializes = base_scm_loa_f_2h_n_contents; }
+[t:template,n:base_scm_loa_f_1h_s_contents_base] { specializes = base_scm_dsx_merchant_weapon_1h_fighter_special; }
+[t:template,n:scm_dsx_merchant_weapon_1h_fighter_special] { specializes = base_scm_loa_f_1h_s_contents; }
 
-[t:template,n:base_scm_dsx_merchant_weapon_2h_fighter_special]
+[t:template,n:base_scm_dsx_merchant_weapon_2h_fighter_all]
 {
 	specializes = base_scm_merchant_loa_weapon;
-	common:screen_name = "LoA Special 2H Fighter Weapons";
+	common:screen_name = "LoA 2H Fighter Weapons";
 }
-[t:template,n:base_scm_loa_f_2h_s_contents_base] { specializes = base_scm_dsx_merchant_weapon_2h_fighter_special; }
-[t:template,n:scm_dsx_merchant_weapon_2h_fighter_special] { specializes = base_scm_loa_f_2h_s_contents; }
+[t:template,n:base_scm_loa_f_2h_contents_base] { specializes = base_scm_dsx_merchant_weapon_2h_fighter_all; }
+[t:template,n:scm_dsx_merchant_weapon_2h_fighter_all] { specializes = base_scm_loa_f_2h_contents; }
 
 [t:template,n:base_scm_dsx_merchant_weapon_bow_ranger_all]
 {
