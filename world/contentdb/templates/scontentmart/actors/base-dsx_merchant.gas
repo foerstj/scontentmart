@@ -56,7 +56,7 @@
 
 [t:template,n:base_scm_merchant_loa_weapon]
 {
-	specializes = dsx_base_guard;
+	specializes = dsx_utraean_townfolk_male_03;  // in my defense, ilorn also does it
 
 	category_name = "1W_shopkeep";
 	doc = "SCM merchant loa";
