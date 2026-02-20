@@ -175,3 +175,99 @@
 }
 [t:template,n:base_scm_v_f_cdhss2h_contents_base] { specializes = base_scm_merchant_weapon_misc2h_fighter_all; }
 [t:template,n:scm_merchant_weapon_misc2h_fighter_all] { specializes = base_scm_v_f_cdhss2h_contents; }
+
+[t:template,n:base_scm_merchant_weapon_mace_fighter_normal]
+{
+	specializes = base_scm_merchant_v_weapon_03;
+	common:screen_name = "Normal Maces";
+}
+[t:template,n:base_scm_v_f_mc_n_contents_base] { specializes = base_scm_merchant_weapon_mace_fighter_normal; }
+[t:template,n:scm_merchant_weapon_mace_fighter_normal] { specializes = base_scm_v_f_mc_n_contents; }
+
+[t:template,n:base_scm_merchant_weapon_mace_fighter_special]
+{
+	specializes = base_scm_merchant_v_weapon_04;
+	common:screen_name = "Special Maces";
+}
+[t:template,n:base_scm_v_f_mc_s_contents_base] { specializes = base_scm_merchant_weapon_mace_fighter_special; }
+[t:template,n:scm_merchant_weapon_mace_fighter_special] { specializes = base_scm_v_f_mc_s_contents; }
+
+[t:template,n:base_scm_merchant_weapon_sword_fighter_normal]
+{
+	specializes = base_scm_merchant_v_weapon_01;
+	common:screen_name = "Normal One-Handed Swords";
+}
+[t:template,n:base_scm_v_f_sd_n_contents_base] { specializes = base_scm_merchant_weapon_sword_fighter_normal; }
+[t:template,n:scm_merchant_weapon_sword_fighter_normal] { specializes = base_scm_v_f_sd_n_contents; }
+
+[t:template,n:base_scm_merchant_weapon_sword_fighter_special]
+{
+	specializes = base_scm_merchant_v_weapon_02;
+	common:screen_name = "Special One-Handed Swords";
+}
+[t:template,n:base_scm_v_f_sd_s_contents_base] { specializes = base_scm_merchant_weapon_sword_fighter_special; }
+[t:template,n:scm_merchant_weapon_sword_fighter_special] { specializes = base_scm_v_f_sd_s_contents; }
+
+[t:template,n:base_scm_merchant_weapon_sword2h_fighter_normal]
+{
+	specializes = base_scm_merchant_v_weapon_03;
+	common:screen_name = "Normal Two-Handed Swords";
+}
+[t:template,n:base_scm_v_f_sd2h_n_contents_base] { specializes = base_scm_merchant_weapon_sword2h_fighter_normal; }
+[t:template,n:scm_merchant_weapon_sword2h_fighter_normal] { specializes = base_scm_v_f_sd2h_n_contents; }
+
+[t:template,n:base_scm_merchant_weapon_sword2h_fighter_special]
+{
+	specializes = base_scm_merchant_v_weapon_04;
+	common:screen_name = "Special Two-Handed Swords";
+}
+[t:template,n:base_scm_v_f_sd2h_s_contents_base] { specializes = base_scm_merchant_weapon_sword2h_fighter_special; }
+[t:template,n:scm_merchant_weapon_sword2h_fighter_special] { specializes = base_scm_v_f_sd2h_s_contents; }
+
+[t:template,n:base_scm_merchant_weapon_shortsword_fighter_all]
+{
+	specializes = base_scm_merchant_v_weapon_01;
+	common:screen_name = "Short Swords";
+}
+[t:template,n:base_scm_v_f_ss_contents_base] { specializes = base_scm_merchant_weapon_shortsword_fighter_all; }
+[t:template,n:scm_merchant_weapon_shortsword_fighter_all] { specializes = base_scm_v_f_ss_contents; }
+
+[t:template,n:base_scm_merchant_weapon_bow_ranger_normal]
+{
+	specializes = base_scm_merchant_v_weapon_02;
+	common:screen_name = "Normal Bows";
+}
+[t:template,n:base_scm_v_r_bw_n_contents_base] { specializes = base_scm_merchant_weapon_bow_ranger_normal; }
+[t:template,n:scm_merchant_weapon_bow_ranger_normal] { specializes = base_scm_v_r_bw_n_contents; }
+
+[t:template,n:base_scm_merchant_weapon_bow_ranger_special]
+{
+	specializes = base_scm_merchant_v_weapon_03;
+	common:screen_name = "Special Bows";
+}
+[t:template,n:base_scm_v_r_bw_s_contents_base] { specializes = base_scm_merchant_weapon_bow_ranger_special; }
+[t:template,n:scm_merchant_weapon_bow_ranger_special] { specializes = base_scm_v_r_bw_s_contents; }
+
+[t:template,n:base_scm_merchant_weapon_misc_ranger_all]
+{
+	specializes = base_scm_merchant_v_weapon_04;
+	common:screen_name = "Crossbows and Miniguns";
+}
+[t:template,n:base_scm_v_r_cm_contents_base] { specializes = base_scm_merchant_weapon_misc_ranger_all; }
+[t:template,n:scm_merchant_weapon_misc_ranger_all] { specializes = base_scm_v_r_cm_contents; }
+
+[t:template,n:base_scm_merchant_weapon_staff_mage_normal]
+{
+	specializes = base_scm_merchant_v_weapon_01;
+	common:screen_name = "Normal Mage Staves";
+}
+[t:template,n:base_scm_v_m_st_n_contents_base] { specializes = base_scm_merchant_weapon_staff_mage_normal; }
+[t:template,n:scm_merchant_weapon_staff_mage_normal] { specializes = base_scm_v_m_st_n_contents; }
+
+[t:template,n:base_scm_merchant_weapon_staff_mage_special]
+{
+	specializes = base_scm_merchant_v_weapon_02;
+	common:screen_name = "Special Mage Staves";
+}
+[t:template,n:base_scm_v_m_st_s_contents_base] { specializes = base_scm_merchant_weapon_staff_mage_special; }
+[t:template,n:scm_merchant_weapon_staff_mage_special] { specializes = base_scm_v_m_st_s_contents; }

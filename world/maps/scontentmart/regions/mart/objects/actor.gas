@@ -49,7 +49,7 @@
 	  p position = 1.90978,9.53674e-007,-0.603929,0x116cdc5c;
 	}
 }
-[t:scm_merchant_weapon_axe_fighter_special,n:0x0010003a]
+[t:scm_merchant_weapon_mace_fighter_special,n:0x00100040]
 {
 	[conversation]
 	{
@@ -62,13 +62,13 @@
 	{
 		[equipment]
 		{
-			es_weapon_hand = ax_ra_g_c_1h2b_fin;
+			es_weapon_hand = mc_ra_g_c_f_1h_fin;
 		}
 	}
 	[placement]
 	{
 	  q orientation = 0,0.92388,0,0.382683;
-	  p position = -1.72791,0,1.62313,0x6528bedf;
+	  p position = 0.0700397,0,0.640286,0x1ebbb95d;
 	}
 }
 [t:scm_merchant_weapon_misc_fighter_all,n:0x0010003d]
@@ -89,8 +89,140 @@
 	}
 	[placement]
 	{
-	  q orientation = 0,0.382683,0,0.92388;
-	  p position = -1.0156,0,-0.095644,0x6528bedf;
+	  q orientation = 0,0.92388,0,0.382684;
+	  p position = -1.40981,0,1.90916,0x6528bedf;
+	}
+}
+[t:scm_merchant_weapon_shortsword_fighter_all,n:0x00100041]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+			es_weapon_hand = ss_g_c_bl_1h_avg;
+		}
+	}
+	[placement]
+	{
+	  q orientation = 0,0.92388,0,0.382683;
+	  p position = 0.924064,0,-1.07813,0x6528bedf;
+	}
+}
+[t:scm_merchant_weapon_sword_fighter_normal,n:0x00100042]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+			es_weapon_hand = sd_g_c_bl_1h_avg;
+		}
+	}
+	[placement]
+	{
+	  q orientation = 0,0.92388,0,0.382683;
+	  p position = 0.407137,0,0.40725,0x6528bedf;
+	}
+}
+[t:scm_merchant_weapon_sword_fighter_special,n:0x00100043]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+			es_weapon_hand = sd_un_seck_1h_fin;
+		}
+	}
+	[placement]
+	{
+	  q orientation = 0,0.923879,0,0.382683;
+	  p position = -0.419082,0,-0.361892,0x6528bedf;
+	}
+}
+[t:scm_merchant_weapon_sword2h_fighter_normal,n:0x00100044]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+			es_weapon_hand = sd_g_c_sd_2h_avg;
+		}
+	}
+	[placement]
+	{
+	  q orientation = 0,0.92388,0,0.382683;
+	  p position = -0.113207,0,1.09169,0x6528bedf;
+	}
+}
+[t:scm_merchant_weapon_sword2h_fighter_special,n:0x00100045]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+			es_weapon_hand = sd_un_big_2h_g_fork;
+		}
+	}
+	[placement]
+	{
+	  q orientation = 0,0.92388,0,0.382683;
+	  p position = -0.97487,0,0.263741,0x6528bedf;
+	}
+}
+[t:scm_merchant_weapon_mace_fighter_normal,n:0x0010003f]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+			es_weapon_hand = mc_g_c_m_1h_fun;
+		}
+	}
+	[placement]
+	{
+	  q orientation = 0,-0.382683,0,0.92388;
+	  p position = -0.806231,0,0.641706,0xd7504184;
 	}
 }
 [t:scm_merchant_weapon_misc2h_fighter_all,n:0x0010003e]
@@ -111,30 +243,8 @@
 	}
 	[placement]
 	{
-	  q orientation = 0,0.382683,0,0.92388;
-	  p position = -1.7174,0,0.615297,0x6528bedf;
-	}
-}
-[t:scm_merchant_weapon_axe_fighter_normal,n:0x00100039]
-{
-	[conversation]
-	{
-		[conversations]
-		{
-			* = shop;
-		}
-	}
-	[inventory]
-	{
-		[equipment]
-		{
-			es_weapon_hand = ax_g_c_1h1b_avg;
-		}
-	}
-	[placement]
-	{
-	  q orientation = 0,0.92388,0,-0.382684;
-	  p position = -1.00766,-3.5,-0.129985,0xc55c476e;
+	  q orientation = 0,0.923879,0,0.382684;
+	  p position = 0.550339,-3.5,-0.70736,0x7194915a;
 	}
 }
 [t:scm_merchant_armor_body_fighter_normal,n:0x00100003]
@@ -425,6 +535,50 @@
 	  p position = -0.60563,0,0.568921,0xd3cf1258;
 	}
 }
+[t:scm_merchant_weapon_axe_fighter_normal,n:0x00100039]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+			es_weapon_hand = ax_g_c_1h1b_avg;
+		}
+	}
+	[placement]
+	{
+	  q orientation = 0,3.8743e-007,0,1;
+	  p position = 0.688038,0,-0.00969696,0xd3cf1258;
+	}
+}
+[t:scm_merchant_weapon_axe_fighter_special,n:0x0010003a]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+			es_weapon_hand = ax_ra_g_c_1h2b_fin;
+		}
+	}
+	[placement]
+	{
+	  q orientation = 0,5.96046e-007,0,1;
+	  p position = 1.93254,0,0.00514698,0xd3cf1258;
+	}
+}
 [t:scm_merchant_weapon_axe2h_fighter_normal,n:0x0010003b]
 {
 	[conversation]
@@ -443,7 +597,7 @@
 	}
 	[placement]
 	{
-	  p position = 1.82429,0,0.600563,0xd3cf1258;
+	  p position = 1.81053,0,-1.02287,0xd3cf1258;
 	}
 }
 [t:scm_merchant_weapon_axe2h_fighter_special,n:0x0010003c]
@@ -464,7 +618,7 @@
 	}
 	[placement]
 	{
-	  p position = 0.99368,0,0.594619,0xd3cf1258;
+	  p position = 0.979925,0,-1.02881,0xd3cf1258;
 	}
 }
 [t:scm_merchant_armor_hgb_mage_normal,n:0x00100008]
@@ -485,7 +639,7 @@
 	}
 	[placement]
 	{
-	  p position = 0.753519,0,-0.973547,0xe3c8a80a;
+	  p position = 0.700874,0,0.372707,0xe3c8a80a;
 	}
 }
 [t:scm_merchant_armor_body_mage_normal,n:0x00100012]
@@ -593,7 +747,50 @@
 	}
 	[placement]
 	{
-	  p position = 1.88154,0,-0.965579,0xe3c8a80a;
+	  p position = 1.93806,0,0.407781,0xe3c8a80a;
+	}
+}
+[t:scm_merchant_weapon_staff_mage_normal,n:0x00100046]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+			es_weapon_hand = st_g_c_r_avg;
+		}
+	}
+	[placement]
+	{
+	  p position = 2.04394,0,-2.21767,0xe3c8a80a;
+	}
+}
+[t:scm_merchant_weapon_staff_mage_special,n:0x00100047]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+			es_weapon_hand = st_ra_g_o_r_puller;
+		}
+	}
+	[placement]
+	{
+	  q orientation = 0,-0.382683,0,0.92388;
+	  p position = 3.45381,0,-1.64094,0xe3c8a80a;
 	}
 }
 [t:scm_merchant_armor_body_ranger_normal,n:0x00100005]
@@ -682,6 +879,72 @@
 	[placement]
 	{
 	  p position = -2.83448,9.53674e-007,-2.48724,0x63464db8;
+	}
+}
+[t:scm_merchant_weapon_misc_ranger_all,n:0x00100048]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		selected_active_location = il_active_ranged_weapon;
+		[equipment]
+		{
+			es_weapon_hand = cw_g_c_m_p_avg;
+		}
+	}
+	[placement]
+	{
+	  p position = 2.04888,0,-2.45798,0x63464db8;
+	}
+}
+[t:scm_merchant_weapon_bow_ranger_normal,n:0x00100049]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		selected_active_location = il_active_ranged_weapon;
+		[equipment]
+		{
+			es_shield_hand = bw_g_c_s_m_c_avg;
+		}
+	}
+	[placement]
+	{
+	  p position = 1.26936,0,-0.754325,0x63464db8;
+	}
+}
+[t:scm_merchant_weapon_bow_ranger_special,n:0x0010004a]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		selected_active_location = il_active_ranged_weapon;
+		[equipment]
+		{
+			es_shield_hand = bw_un_ice_c_m_s_r_avg;
+		}
+	}
+	[placement]
+	{
+	  p position = 2.90991,0,-0.751161,0x63464db8;
 	}
 }
 [t:scm_dsx_merchant_armor_shield_ranger_all,n:0x00100020]
