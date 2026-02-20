@@ -103,3 +103,27 @@
 }
 [t:template,n:base_scm_loa_f_2h_s_contents_base] { specializes = base_scm_dsx_merchant_weapon_2h_fighter_special; }
 [t:template,n:scm_dsx_merchant_weapon_2h_fighter_special] { specializes = base_scm_loa_f_2h_s_contents; }
+
+[t:template,n:base_scm_dsx_merchant_weapon_bow_ranger_all]
+{
+	specializes = base_scm_merchant_loa_weapon;
+	common:screen_name = "LoA Bows";
+}
+[t:template,n:base_scm_loa_r_bw_contents_base] { specializes = base_scm_dsx_merchant_weapon_bow_ranger_all; }
+[t:template,n:scm_dsx_merchant_weapon_bow_ranger_all] { specializes = base_scm_loa_r_bw_contents; }
+
+[t:template,n:base_scm_dsx_merchant_weapon_misc_ranger_all]
+{
+	specializes = base_scm_merchant_loa_weapon;
+	common:screen_name = "LoA Crossbows and Miniguns";
+}
+[t:template,n:base_scm_loa_r_cm_contents_base] { specializes = base_scm_dsx_merchant_weapon_misc_ranger_all; }
+[t:template,n:scm_dsx_merchant_weapon_misc_ranger_all] { specializes = base_scm_loa_r_cm_contents; }
+
+[t:template,n:base_scm_dsx_merchant_weapon_staff_mage_all]
+{
+	specializes = base_scm_merchant_loa_weapon;
+	common:screen_name = "LoA Mage Staves";
+}
+[t:template,n:base_scm_loa_m_st_contents_base] { specializes = base_scm_dsx_merchant_weapon_staff_mage_all; }
+[t:template,n:scm_dsx_merchant_weapon_staff_mage_all] { specializes = base_scm_loa_m_st_contents; }

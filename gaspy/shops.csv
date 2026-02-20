@@ -56,6 +56,12 @@ loa;armor_body_mage_all;loa_m_bd;loa_armor;LoA Mage Armor
 loa;armor_hgb_mage_all;loa_m_hgb;loa_armor;LoA Mage Helmets / Gloves / Boots
 loa;armor_shield_mage_all;loa_m_sh;loa_armor;LoA Mage Shields
 ;;;;
+;;;;
 loa;weapon_1h_fighter_all;loa_f_1h;loa_weapon;LoA 1H Fighter Weapons
 loa;weapon_2h_fighter_normal;loa_f_2h_n;loa_weapon;LoA Normal 2H Fighter Weapons
 loa;weapon_2h_fighter_special;loa_f_2h_s;loa_weapon;LoA Special 2H Fighter Weapons
+;;;;
+loa;weapon_bow_ranger_all;loa_r_bw;loa_weapon;LoA Bows
+loa;weapon_misc_ranger_all;loa_r_cm;loa_weapon;LoA Crossbows and Miniguns
+;;;;
+loa;weapon_staff_mage_all;loa_m_st;loa_weapon;LoA Mage Staves
