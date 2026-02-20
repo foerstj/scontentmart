@@ -16,10 +16,8 @@
 		[textures]
 		{
 			0 = b_c_gan_utraean_skin_04;
-			//1 = b_c_pos_a7_032;
 			1 = b_c_pos_a1_008;
 		}
-		//model = m_c_gah_fg_pos_a7;
 	}
 	[common]
 	{
@@ -30,6 +28,65 @@
 	}
 	[inventory]
 	{
+		[equipment]
+		{
+		}
+		[store_pcontent]
+		{
+			full_ratio = 0;
+		}
+	}
+	[mind]
+	{
+		jat_talk = world\ai\jobs\minibits\generic-talk-skrits\job_talk_npc.skrit;
+	}
+	[respawn_shrine]
+	{
+	}
+	[store]
+	{
+		item_markup = 2;
+	}
+}
+[t:template,n:base_scm_merchant_loa_armor]
+{
+	specializes = base_scm_merchant_loa;
+	common:screen_name = "SCM LoA Armor Merchant";
+}
+
+[t:template,n:base_scm_merchant_loa_weapon]
+{
+	specializes = dsx_base_guard;
+
+	category_name = "1W_shopkeep";
+	doc = "SCM merchant loa";
+	[actor]
+	{
+		portrait_icon = b_gui_ig_i_ic_c_ilorn;
+	}
+	[aspect]
+	{
+		use_range = 1.0;
+		draw_selection_indicator = TRUE;
+		is_ghost_usable = TRUE;
+		[textures]
+		{
+			0 = b_c_gan_utraean_skin_01;
+			1 = b_c_pos_a1_008;
+		}
+	}
+	[common]
+	{
+		screen_name = "SCM LoA Merchant";
+	}
+	[conversation]
+	{
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+		}
 		[store_pcontent]
 		{
 			full_ratio = 0;
