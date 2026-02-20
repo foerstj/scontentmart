@@ -1,6 +1,6 @@
 [t:template,n:scm_merchant_basics]
 {
-	specializes = base_scm_merchant_vanilla;
+	specializes = base_scm_merchant_v_armor;
 
 	common:screen_name = "Basics";
 	// Adwana

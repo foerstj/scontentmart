@@ -2,7 +2,7 @@
 
 [t:template,n:base_scm_merchant_armor_body_fighter_normal]
 {
-	specializes = base_scm_merchant_vanilla_01;
+	specializes = base_scm_merchant_v_armor_01;
 	common:screen_name = "Normal Fighter Body-Armor";
 }
 [t:template,n:base_scm_v_f_bd_n_contents_base] { specializes = base_scm_merchant_armor_body_fighter_normal; }
@@ -10,7 +10,7 @@
 
 [t:template,n:base_scm_merchant_armor_body_fighter_special]
 {
-	specializes = base_scm_merchant_vanilla_02;
+	specializes = base_scm_merchant_v_armor_02;
 	common:screen_name = "Special Fighter Body-Armor";
 }
 [t:template,n:base_scm_v_f_bd_s_contents_base] { specializes = base_scm_merchant_armor_body_fighter_special; }
@@ -18,7 +18,7 @@
 
 [t:template,n:base_scm_merchant_armor_helm_fighter_normal]
 {
-	specializes = base_scm_merchant_vanilla_03;
+	specializes = base_scm_merchant_v_armor_03;
 	common:screen_name = "Normal Fighter Helmets";
 }
 [t:template,n:base_scm_v_f_he_n_contents_base] { specializes = base_scm_merchant_armor_helm_fighter_normal; }
@@ -26,7 +26,7 @@
 
 [t:template,n:base_scm_merchant_armor_helm_fighter_special]
 {
-	specializes = base_scm_merchant_vanilla_04;
+	specializes = base_scm_merchant_v_armor_04;
 	common:screen_name = "Special Fighter Helmets";
 }
 [t:template,n:base_scm_v_f_he_s_contents_base] { specializes = base_scm_merchant_armor_helm_fighter_special; }
@@ -34,7 +34,7 @@
 
 [t:template,n:base_scm_merchant_armor_gloves_fighter_normal]
 {
-	specializes = base_scm_merchant_vanilla_01;
+	specializes = base_scm_merchant_v_armor_01;
 	common:screen_name = "Normal Fighter Gloves";
 }
 [t:template,n:base_scm_v_f_gl_n_contents_base] { specializes = base_scm_merchant_armor_gloves_fighter_normal; }
@@ -42,7 +42,7 @@
 
 [t:template,n:base_scm_merchant_armor_gloves_fighter_special]
 {
-	specializes = base_scm_merchant_vanilla_02;
+	specializes = base_scm_merchant_v_armor_02;
 	common:screen_name = "Special Fighter Gloves";
 }
 [t:template,n:base_scm_v_f_gl_s_contents_base] { specializes = base_scm_merchant_armor_gloves_fighter_special; }
@@ -50,7 +50,7 @@
 
 [t:template,n:base_scm_merchant_armor_boots_fighter_normal]
 {
-	specializes = base_scm_merchant_vanilla_03;
+	specializes = base_scm_merchant_v_armor_03;
 	common:screen_name = "Normal Fighter Boots";
 }
 [t:template,n:base_scm_v_f_bo_n_contents_base] { specializes = base_scm_merchant_armor_boots_fighter_normal; }
@@ -58,7 +58,7 @@
 
 [t:template,n:base_scm_merchant_armor_boots_fighter_special]
 {
-	specializes = base_scm_merchant_vanilla_04;
+	specializes = base_scm_merchant_v_armor_04;
 	common:screen_name = "Special Fighter Boots";
 }
 [t:template,n:base_scm_v_f_bo_s_contents_base] { specializes = base_scm_merchant_armor_boots_fighter_special; }
@@ -66,7 +66,7 @@
 
 [t:template,n:base_scm_merchant_armor_shield_fighter_normal]
 {
-	specializes = base_scm_merchant_vanilla_01;
+	specializes = base_scm_merchant_v_armor_01;
 	common:screen_name = "Normal Fighter Shields";
 }
 [t:template,n:base_scm_v_f_sh_n_contents_base] { specializes = base_scm_merchant_armor_shield_fighter_normal; }
@@ -74,7 +74,7 @@
 
 [t:template,n:base_scm_merchant_armor_shield_fighter_special]
 {
-	specializes = base_scm_merchant_vanilla_02;
+	specializes = base_scm_merchant_v_armor_02;
 	common:screen_name = "Special Fighter Shields";
 }
 [t:template,n:base_scm_v_f_sh_s_contents_base] { specializes = base_scm_merchant_armor_shield_fighter_special; }
@@ -82,7 +82,7 @@
 
 [t:template,n:base_scm_merchant_armor_body_ranger_normal]
 {
-	specializes = base_scm_merchant_vanilla_03;
+	specializes = base_scm_merchant_v_armor_03;
 	common:screen_name = "Normal Ranger Body-Armor";
 }
 [t:template,n:base_scm_v_r_bd_n_contents_base] { specializes = base_scm_merchant_armor_body_ranger_normal; }
@@ -90,7 +90,7 @@
 
 [t:template,n:base_scm_merchant_armor_armor_ranger_special]
 {
-	specializes = base_scm_merchant_vanilla_04;
+	specializes = base_scm_merchant_v_armor_04;
 	common:screen_name = "Special Ranger Armors";
 }
 [t:template,n:base_scm_v_r_amr_s_contents_base] { specializes = base_scm_merchant_armor_armor_ranger_special; }
@@ -98,7 +98,7 @@
 
 [t:template,n:base_scm_merchant_armor_body_mage_normal]
 {
-	specializes = base_scm_merchant_vanilla_01;
+	specializes = base_scm_merchant_v_armor_01;
 	common:screen_name = "Normal Mage Body-Armor";
 }
 [t:template,n:base_scm_v_m_bd_n_contents_base] { specializes = base_scm_merchant_armor_body_mage_normal; }
@@ -106,7 +106,7 @@
 
 [t:template,n:base_scm_merchant_armor_body_mage_special]
 {
-	specializes = base_scm_merchant_vanilla_02;
+	specializes = base_scm_merchant_v_armor_02;
 	common:screen_name = "Special Mage Body-Armor";
 }
 [t:template,n:base_scm_v_m_bd_s_contents_base] { specializes = base_scm_merchant_armor_body_mage_special; }
@@ -114,7 +114,7 @@
 
 [t:template,n:base_scm_merchant_armor_hgb_mage_normal]
 {
-	specializes = base_scm_merchant_vanilla_03;
+	specializes = base_scm_merchant_v_armor_03;
 	common:screen_name = "Normal Mage Helmets / Gloves / Boots";
 }
 [t:template,n:base_scm_v_m_hgb_n_contents_base] { specializes = base_scm_merchant_armor_hgb_mage_normal; }
@@ -122,7 +122,7 @@
 
 [t:template,n:base_scm_merchant_armor_hgb_mage_special]
 {
-	specializes = base_scm_merchant_vanilla_04;
+	specializes = base_scm_merchant_v_armor_04;
 	common:screen_name = "Special Mage Helmets / Gloves / Boots";
 }
 [t:template,n:base_scm_v_m_hgb_s_contents_base] { specializes = base_scm_merchant_armor_hgb_mage_special; }
@@ -130,7 +130,7 @@
 
 [t:template,n:base_scm_merchant_weapon_axe_fighter_normal]
 {
-	specializes = base_scm_merchant_vanilla_01;
+	specializes = base_scm_merchant_v_weapon_01;
 	common:screen_name = "Normal One-Handed Axes";
 }
 [t:template,n:base_scm_v_f_ax_n_contents_base] { specializes = base_scm_merchant_weapon_axe_fighter_normal; }
@@ -138,7 +138,7 @@
 
 [t:template,n:base_scm_merchant_weapon_axe_fighter_special]
 {
-	specializes = base_scm_merchant_vanilla_02;
+	specializes = base_scm_merchant_v_weapon_02;
 	common:screen_name = "Special One-Handed Axes";
 }
 [t:template,n:base_scm_v_f_ax_s_contents_base] { specializes = base_scm_merchant_weapon_axe_fighter_special; }
@@ -146,7 +146,7 @@
 
 [t:template,n:base_scm_merchant_weapon_axe2h_fighter_normal]
 {
-	specializes = base_scm_merchant_vanilla_03;
+	specializes = base_scm_merchant_v_weapon_03;
 	common:screen_name = "Normal Two-Handed Axes";
 }
 [t:template,n:base_scm_v_f_ax2h_n_contents_base] { specializes = base_scm_merchant_weapon_axe2h_fighter_normal; }
@@ -154,7 +154,7 @@
 
 [t:template,n:base_scm_merchant_weapon_axe2h_fighter_special]
 {
-	specializes = base_scm_merchant_vanilla_04;
+	specializes = base_scm_merchant_v_weapon_04;
 	common:screen_name = "Special Two-Handed Axes";
 }
 [t:template,n:base_scm_v_f_ax2h_s_contents_base] { specializes = base_scm_merchant_weapon_axe2h_fighter_special; }
@@ -162,7 +162,7 @@
 
 [t:template,n:base_scm_merchant_weapon_misc_fighter_all]
 {
-	specializes = base_scm_merchant_vanilla_01;
+	specializes = base_scm_merchant_v_weapon_01;
 	common:screen_name = "Misc 1H Fighter Weapons";
 }
 [t:template,n:base_scm_v_f_cdhss_contents_base] { specializes = base_scm_merchant_weapon_misc_fighter_all; }
@@ -170,7 +170,7 @@
 
 [t:template,n:base_scm_merchant_weapon_misc2h_fighter_all]
 {
-	specializes = base_scm_merchant_vanilla_02;
+	specializes = base_scm_merchant_v_weapon_02;
 	common:screen_name = "Misc 2H Fighter Weapons";
 }
 [t:template,n:base_scm_v_f_cdhss2h_contents_base] { specializes = base_scm_merchant_weapon_misc2h_fighter_all; }

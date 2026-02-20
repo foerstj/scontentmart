@@ -1,30 +1,44 @@
 v;merchant_template;content_template;base_template;name
-v;armor_body_fighter_normal;v_f_bd_n;vanilla_01;Normal Fighter Body-Armor
-v;armor_body_fighter_special;v_f_bd_s;vanilla_02;Special Fighter Body-Armor
-v;armor_helm_fighter_normal;v_f_he_n;vanilla_03;Normal Fighter Helmets
-v;armor_helm_fighter_special;v_f_he_s;vanilla_04;Special Fighter Helmets
-v;armor_gloves_fighter_normal;v_f_gl_n;vanilla_01;Normal Fighter Gloves
-v;armor_gloves_fighter_special;v_f_gl_s;vanilla_02;Special Fighter Gloves
-v;armor_boots_fighter_normal;v_f_bo_n;vanilla_03;Normal Fighter Boots
-v;armor_boots_fighter_special;v_f_bo_s;vanilla_04;Special Fighter Boots
-v;armor_shield_fighter_normal;v_f_sh_n;vanilla_01;Normal Fighter Shields
-v;armor_shield_fighter_special;v_f_sh_s;vanilla_02;Special Fighter Shields
+v;armor_body_fighter_normal;v_f_bd_n;v_armor_01;Normal Fighter Body-Armor
+v;armor_body_fighter_special;v_f_bd_s;v_armor_02;Special Fighter Body-Armor
+v;armor_helm_fighter_normal;v_f_he_n;v_armor_03;Normal Fighter Helmets
+v;armor_helm_fighter_special;v_f_he_s;v_armor_04;Special Fighter Helmets
+v;armor_gloves_fighter_normal;v_f_gl_n;v_armor_01;Normal Fighter Gloves
+v;armor_gloves_fighter_special;v_f_gl_s;v_armor_02;Special Fighter Gloves
+v;armor_boots_fighter_normal;v_f_bo_n;v_armor_03;Normal Fighter Boots
+v;armor_boots_fighter_special;v_f_bo_s;v_armor_04;Special Fighter Boots
+v;armor_shield_fighter_normal;v_f_sh_n;v_armor_01;Normal Fighter Shields
+v;armor_shield_fighter_special;v_f_sh_s;v_armor_02;Special Fighter Shields
 ;;;;
-v;armor_body_ranger_normal;v_r_bd_n;vanilla_03;Normal Ranger Body-Armor
-v;armor_armor_ranger_special;v_r_amr_s;vanilla_04;Special Ranger Armors
+v;armor_body_ranger_normal;v_r_bd_n;v_armor_03;Normal Ranger Body-Armor
+v;armor_armor_ranger_special;v_r_amr_s;v_armor_04;Special Ranger Armors
 ;;;;
-v;armor_body_mage_normal;v_m_bd_n;vanilla_01;Normal Mage Body-Armor
-v;armor_body_mage_special;v_m_bd_s;vanilla_02;Special Mage Body-Armor
-v;armor_hgb_mage_normal;v_m_hgb_n;vanilla_03;Normal Mage Helmets / Gloves / Boots
-v;armor_hgb_mage_special;v_m_hgb_s;vanilla_04;Special Mage Helmets / Gloves / Boots
+v;armor_body_mage_normal;v_m_bd_n;v_armor_01;Normal Mage Body-Armor
+v;armor_body_mage_special;v_m_bd_s;v_armor_02;Special Mage Body-Armor
+v;armor_hgb_mage_normal;v_m_hgb_n;v_armor_03;Normal Mage Helmets / Gloves / Boots
+v;armor_hgb_mage_special;v_m_hgb_s;v_armor_04;Special Mage Helmets / Gloves / Boots
 ;;;;
 ;;;;
-v;weapon_axe_fighter_normal;v_f_ax_n;vanilla_01;Normal One-Handed Axes
-v;weapon_axe_fighter_special;v_f_ax_s;vanilla_02;Special One-Handed Axes
-v;weapon_axe2h_fighter_normal;v_f_ax2h_n;vanilla_03;Normal Two-Handed Axes
-v;weapon_axe2h_fighter_special;v_f_ax2h_s;vanilla_04;Special Two-Handed Axes
-v;weapon_misc_fighter_all;v_f_cdhss;vanilla_01;Misc 1H Fighter Weapons
-v;weapon_misc2h_fighter_all;v_f_cdhss2h;vanilla_02;Misc 2H Fighter Weapons
+v;weapon_axe_fighter_normal;v_f_ax_n;v_weapon_01;Normal One-Handed Axes
+v;weapon_axe_fighter_special;v_f_ax_s;v_weapon_02;Special One-Handed Axes
+v;weapon_axe2h_fighter_normal;v_f_ax2h_n;v_weapon_03;Normal Two-Handed Axes
+v;weapon_axe2h_fighter_special;v_f_ax2h_s;v_weapon_04;Special Two-Handed Axes
+v;weapon_misc_fighter_all;v_f_cdhss;v_weapon_01;Misc 1H Fighter Weapons
+v;weapon_misc2h_fighter_all;v_f_cdhss2h;v_weapon_02;Misc 2H Fighter Weapons
+v;weapon_mace_fighter_normal;v_f_mc_n;v_weapon_03;Normal Maces
+v;weapon_mace_fighter_special;v_f_mc_s;v_weapon_04;Special Maces
+v;weapon_sword_fighter_normal;v_f_sd_n;v_weapon_01;Normal One-Handed Swords
+v;weapon_sword_fighter_special;v_f_sd_s;v_weapon_02;Special One-Handed Swords
+v;weapon_sword2h_fighter_normal;v_f_sd2h_n;v_weapon_03;Normal Two-Handed Swords
+v;weapon_sword2h_fighter_special;v_f_sd2h_s;v_weapon_04;Special Two-Handed Swords
+v;weapon_shortsword_fighter_all;v_f_ss;v_weapon_01;Short Swords
+;;;;
+v;weapon_bow_ranger_normal;v_r_bw_n;v_weapon_02;Normal Bows
+v;weapon_bow_ranger_special;v_r_bw_s;v_weapon_03;Special Bows
+v;weapon_misc_ranger_all;v_r_cm;v_weapon_04;Crossbows and Miniguns
+;;;;
+v;weapon_staff_mage_normal;v_m_st_n;v_weapon_01;Normal Mage Staves
+v;weapon_staff_mage_special;v_m_st_s;v_weapon_02;Special Mage Staves
 ;;;;
 ;;;;
 ;;;;
