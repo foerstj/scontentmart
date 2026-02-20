@@ -1,0 +1,11 @@
+// Merchants
+{% for merchant in data %}
+
+[t:template,n:base_scm_merchant_{{ merchant['merchant_template'] }}]
+{
+	specializes = base_scm_merchant_{{ merchant['base_template'] }};
+	common:screen_name = "{{ merchant['name'] }}";
+}
+[t:template,n:base_scm_{{ merchant['content_template'] }}_contents_base] { specializes = base_scm_merchant_{{ merchant['merchant_template'] }}; }
+[t:template,n:scm_merchant_{{ merchant['merchant_template'] }}] { specializes = base_scm_{{ merchant['content_template'] }}_contents; }
+{% endfor %}

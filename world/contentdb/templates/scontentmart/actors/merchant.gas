@@ -1,3 +1,5 @@
+// Merchants
+
 [t:template,n:base_scm_merchant_armor_body_fighter_normal]
 {
 	specializes = base_scm_merchant_vanilla_01;
@@ -78,7 +80,6 @@
 [t:template,n:base_scm_v_f_sh_s_contents_base] { specializes = base_scm_merchant_armor_shield_fighter_special; }
 [t:template,n:scm_merchant_armor_shield_fighter_special] { specializes = base_scm_v_f_sh_s_contents; }
 
-
 [t:template,n:base_scm_merchant_armor_body_ranger_normal]
 {
 	specializes = base_scm_merchant_vanilla_03;
@@ -94,7 +95,6 @@
 }
 [t:template,n:base_scm_v_r_amr_s_contents_base] { specializes = base_scm_merchant_armor_armor_ranger_special; }
 [t:template,n:scm_merchant_armor_armor_ranger_special] { specializes = base_scm_v_r_amr_s_contents; }
-
 
 [t:template,n:base_scm_merchant_armor_body_mage_normal]
 {

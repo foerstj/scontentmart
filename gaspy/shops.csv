@@ -1,0 +1,19 @@
+merchant_template;content_template;base_template;name
+armor_body_fighter_normal;v_f_bd_n;vanilla_01;Normal Fighter Body-Armor
+armor_body_fighter_special;v_f_bd_s;vanilla_02;Special Fighter Body-Armor
+armor_helm_fighter_normal;v_f_he_n;vanilla_03;Normal Fighter Helmets
+armor_helm_fighter_special;v_f_he_s;vanilla_04;Special Fighter Helmets
+armor_gloves_fighter_normal;v_f_gl_n;vanilla_01;Normal Fighter Gloves
+armor_gloves_fighter_special;v_f_gl_s;vanilla_02;Special Fighter Gloves
+armor_boots_fighter_normal;v_f_bo_n;vanilla_03;Normal Fighter Boots
+armor_boots_fighter_special;v_f_bo_s;vanilla_04;Special Fighter Boots
+armor_shield_fighter_normal;v_f_sh_n;vanilla_01;Normal Fighter Shields
+armor_shield_fighter_special;v_f_sh_s;vanilla_02;Special Fighter Shields
+
+armor_body_ranger_normal;v_r_bd_n;vanilla_03;Normal Ranger Body-Armor
+armor_armor_ranger_special;v_r_amr_s;vanilla_04;Special Ranger Armors
+
+armor_body_mage_normal;v_m_bd_n;vanilla_01;Normal Mage Body-Armor
+armor_body_mage_special;v_m_bd_s;vanilla_02;Special Mage Body-Armor
+armor_hgb_mage_normal;v_m_hgb_n;vanilla_03;Normal Mage Helmets / Gloves / Boots
+armor_hgb_mage_special;v_m_hgb_s;vanilla_04;Special Mage Helmets / Gloves / Boots
