@@ -1,11 +1,13 @@
 // Merchants
-{% for merchant in data %}
+{% for merchant in data if merchant['v'] == v %}
+{% set merchant_template = 'scm_' + ('dsx_' if v == 'loa' else '') + 'merchant_' + merchant['merchant_template'] %}
+{% set content_template = 'base_scm_' + merchant['content_template'] + '_contents' %}
 
-[t:template,n:base_scm_merchant_{{ merchant['merchant_template'] }}]
+[t:template,n:base_{{ merchant_template }}]
 {
 	specializes = base_scm_merchant_{{ merchant['base_template'] }};
 	common:screen_name = "{{ merchant['name'] }}";
 }
-[t:template,n:base_scm_{{ merchant['content_template'] }}_contents_base] { specializes = base_scm_merchant_{{ merchant['merchant_template'] }}; }
-[t:template,n:scm_merchant_{{ merchant['merchant_template'] }}] { specializes = base_scm_{{ merchant['content_template'] }}_contents; }
+[t:template,n:{{ content_template }}_base] { specializes = base_{{ merchant_template }}; }
+[t:template,n:{{ merchant_template }}] { specializes = {{ content_template }}; }
 {% endfor %}

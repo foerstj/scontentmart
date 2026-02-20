@@ -1,3 +1,5 @@
+// Merchants
+
 [t:template,n:base_scm_dsx_merchant_sets]
 {
 	specializes = base_scm_merchant_loa;
@@ -5,7 +7,6 @@
 }
 [t:template,n:base_scm_loa_any_sets_contents_base] { specializes = base_scm_dsx_merchant_sets; }
 [t:template,n:scm_dsx_merchant_sets] { specializes = base_scm_loa_any_sets_contents; }
-
 
 [t:template,n:base_scm_dsx_merchant_armor_body_fighter_all]
 {
@@ -31,7 +32,6 @@
 [t:template,n:base_scm_loa_f_sh_contents_base] { specializes = base_scm_dsx_merchant_armor_shield_fighter_all; }
 [t:template,n:scm_dsx_merchant_armor_shield_fighter_all] { specializes = base_scm_loa_f_sh_contents; }
 
-
 [t:template,n:base_scm_dsx_merchant_armor_body_ranger_all]
 {
 	specializes = base_scm_merchant_loa;
@@ -55,7 +55,6 @@
 }
 [t:template,n:base_scm_loa_r_sh_contents_base] { specializes = base_scm_dsx_merchant_armor_shield_ranger_all; }
 [t:template,n:scm_dsx_merchant_armor_shield_ranger_all] { specializes = base_scm_loa_r_sh_contents; }
-
 
 [t:template,n:base_scm_dsx_merchant_armor_body_mage_all]
 {
