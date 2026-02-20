@@ -19,13 +19,25 @@ v;armor_hgb_mage_normal;v_m_hgb_n;vanilla_03;Normal Mage Helmets / Gloves / Boot
 v;armor_hgb_mage_special;v_m_hgb_s;vanilla_04;Special Mage Helmets / Gloves / Boots
 ;;;;
 ;;;;
+v;weapon_axe_fighter_normal;v_f_ax_n;vanilla_01;Normal One-Handed Axes
+v;weapon_axe_fighter_special;v_f_ax_s;vanilla_02;Special One-Handed Axes
+v;weapon_axe2h_fighter_normal;v_f_ax2h_n;vanilla_03;Normal Two-Handed Axes
+v;weapon_axe2h_fighter_special;v_f_ax2h_s;vanilla_04;Special Two-Handed Axes
+v;weapon_misc_fighter_all;v_f_cdhss;vanilla_01;Misc 1H Fighter Weapons
+v;weapon_misc2h_fighter_all;v_f_cdhss2h;vanilla_02;Misc 2H Fighter Weapons
+;;;;
+;;;;
+;;;;
 loa;sets;loa_any_sets;loa;LoA Sets
+;;;;
 loa;armor_body_fighter_all;loa_f_bd;loa;LoA Fighter Armor
 loa;armor_hgb_fighter_all;loa_f_hgb;loa;LoA Fighter Helmets / Gloves / Boots
 loa;armor_shield_fighter_all;loa_f_sh;loa;LoA Fighter Shields
+;;;;
 loa;armor_body_ranger_all;loa_r_bd;loa;LoA Ranger Armor
 loa;armor_hgb_ranger_all;loa_r_hgb;loa;LoA Ranger Helmets / Gloves / Boots
 loa;armor_shield_ranger_all;loa_r_sh;loa;LoA Ranger Shields
+;;;;
 loa;armor_body_mage_all;loa_m_bd;loa;LoA Mage Armor
 loa;armor_hgb_mage_all;loa_m_hgb;loa;LoA Mage Helmets / Gloves / Boots
 loa;armor_shield_mage_all;loa_m_sh;loa;LoA Mage Shields

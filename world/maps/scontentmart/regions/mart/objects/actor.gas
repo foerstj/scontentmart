@@ -49,6 +49,94 @@
 	  p position = 1.90978,9.53674e-007,-0.603929,0x116cdc5c;
 	}
 }
+[t:scm_merchant_weapon_axe_fighter_special,n:0x0010003a]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+			es_weapon_hand = ax_ra_g_c_1h2b_fin;
+		}
+	}
+	[placement]
+	{
+	  q orientation = 0,0.92388,0,0.382683;
+	  p position = -1.72791,0,1.62313,0x6528bedf;
+	}
+}
+[t:scm_merchant_weapon_misc_fighter_all,n:0x0010003d]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+			es_weapon_hand = scythe_g_1h_avg;
+		}
+	}
+	[placement]
+	{
+	  q orientation = 0,0.382683,0,0.92388;
+	  p position = -1.0156,0,-0.095644,0x6528bedf;
+	}
+}
+[t:scm_merchant_weapon_misc2h_fighter_all,n:0x0010003e]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+			es_weapon_hand = hm_g_c_2h2m_fun;
+		}
+	}
+	[placement]
+	{
+	  q orientation = 0,0.382683,0,0.92388;
+	  p position = -1.7174,0,0.615297,0x6528bedf;
+	}
+}
+[t:scm_merchant_weapon_axe_fighter_normal,n:0x00100039]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+			es_weapon_hand = ax_g_c_1h1b_avg;
+		}
+	}
+	[placement]
+	{
+	  q orientation = 0,0.92388,0,-0.382684;
+	  p position = -1.00766,-3.5,-0.129985,0xc55c476e;
+	}
+}
 [t:scm_merchant_armor_body_fighter_normal,n:0x00100003]
 {
 	[conversation]
@@ -335,6 +423,48 @@
 	{
 	  q orientation = 0,-0.382683,0,0.92388;
 	  p position = -0.60563,0,0.568921,0xd3cf1258;
+	}
+}
+[t:scm_merchant_weapon_axe2h_fighter_normal,n:0x0010003b]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+			es_weapon_hand = ax_g_c_2h1b_avg;
+		}
+	}
+	[placement]
+	{
+	  p position = 1.82429,0,0.600563,0xd3cf1258;
+	}
+}
+[t:scm_merchant_weapon_axe2h_fighter_special,n:0x0010003c]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+			es_weapon_hand = ax_un_g_c_2h2b_str;
+		}
+	}
+	[placement]
+	{
+	  p position = 0.99368,0,0.594619,0xd3cf1258;
 	}
 }
 [t:scm_merchant_armor_hgb_mage_normal,n:0x00100008]

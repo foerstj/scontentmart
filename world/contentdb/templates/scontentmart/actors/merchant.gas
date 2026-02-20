@@ -127,3 +127,51 @@
 }
 [t:template,n:base_scm_v_m_hgb_s_contents_base] { specializes = base_scm_merchant_armor_hgb_mage_special; }
 [t:template,n:scm_merchant_armor_hgb_mage_special] { specializes = base_scm_v_m_hgb_s_contents; }
+
+[t:template,n:base_scm_merchant_weapon_axe_fighter_normal]
+{
+	specializes = base_scm_merchant_vanilla_01;
+	common:screen_name = "Normal One-Handed Axes";
+}
+[t:template,n:base_scm_v_f_ax_n_contents_base] { specializes = base_scm_merchant_weapon_axe_fighter_normal; }
+[t:template,n:scm_merchant_weapon_axe_fighter_normal] { specializes = base_scm_v_f_ax_n_contents; }
+
+[t:template,n:base_scm_merchant_weapon_axe_fighter_special]
+{
+	specializes = base_scm_merchant_vanilla_02;
+	common:screen_name = "Special One-Handed Axes";
+}
+[t:template,n:base_scm_v_f_ax_s_contents_base] { specializes = base_scm_merchant_weapon_axe_fighter_special; }
+[t:template,n:scm_merchant_weapon_axe_fighter_special] { specializes = base_scm_v_f_ax_s_contents; }
+
+[t:template,n:base_scm_merchant_weapon_axe2h_fighter_normal]
+{
+	specializes = base_scm_merchant_vanilla_03;
+	common:screen_name = "Normal Two-Handed Axes";
+}
+[t:template,n:base_scm_v_f_ax2h_n_contents_base] { specializes = base_scm_merchant_weapon_axe2h_fighter_normal; }
+[t:template,n:scm_merchant_weapon_axe2h_fighter_normal] { specializes = base_scm_v_f_ax2h_n_contents; }
+
+[t:template,n:base_scm_merchant_weapon_axe2h_fighter_special]
+{
+	specializes = base_scm_merchant_vanilla_04;
+	common:screen_name = "Special Two-Handed Axes";
+}
+[t:template,n:base_scm_v_f_ax2h_s_contents_base] { specializes = base_scm_merchant_weapon_axe2h_fighter_special; }
+[t:template,n:scm_merchant_weapon_axe2h_fighter_special] { specializes = base_scm_v_f_ax2h_s_contents; }
+
+[t:template,n:base_scm_merchant_weapon_misc_fighter_all]
+{
+	specializes = base_scm_merchant_vanilla_01;
+	common:screen_name = "Misc 1H Fighter Weapons";
+}
+[t:template,n:base_scm_v_f_cdhss_contents_base] { specializes = base_scm_merchant_weapon_misc_fighter_all; }
+[t:template,n:scm_merchant_weapon_misc_fighter_all] { specializes = base_scm_v_f_cdhss_contents; }
+
+[t:template,n:base_scm_merchant_weapon_misc2h_fighter_all]
+{
+	specializes = base_scm_merchant_vanilla_02;
+	common:screen_name = "Misc 2H Fighter Weapons";
+}
+[t:template,n:base_scm_v_f_cdhss2h_contents_base] { specializes = base_scm_merchant_weapon_misc2h_fighter_all; }
+[t:template,n:scm_merchant_weapon_misc2h_fighter_all] { specializes = base_scm_v_f_cdhss2h_contents; }
