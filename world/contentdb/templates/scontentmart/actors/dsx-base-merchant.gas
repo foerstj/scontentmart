@@ -375,6 +375,8 @@
 	}
 	[mind]
 	{
+		jat_fidget = world\ai\jobs\common\job_fidget.skrit;
+
 		jat_talk = world\ai\jobs\minibits\generic-talk-skrits\job_talk_npc.skrit;
 	}
 	[respawn_shrine]
@@ -383,6 +385,10 @@
 	[store]
 	{
 		item_markup = 2;
+		[item_restock]
+		{
+			spell_orb_poultry = 1;
+		}
 	}
 }
 

@@ -1,5 +1,9 @@
 [t:sign_glb_generalstore_01,n:0x00100037]
 {
+	[aspect]
+	{
+	  f scale_multiplier = 0.75;
+	}
 	[common]
 	{
 		screen_name = "General Equipment";
@@ -11,6 +15,10 @@
 }
 [t:sign_glb_blacksmith_03,n:0x00100035]
 {
+	[aspect]
+	{
+	  f scale_multiplier = 0.75;
+	}
 	[common]
 	{
 		screen_name = "Fighter Equipment";
@@ -22,6 +30,10 @@
 }
 [t:sign_glb_magicshop_01,n:0x00100038]
 {
+	[aspect]
+	{
+	  f scale_multiplier = 0.75;
+	}
 	[common]
 	{
 		screen_name = "Mage Equipment";
@@ -33,6 +45,10 @@
 }
 [t:sign_glb_blacksmith_03,n:0x00100036]
 {
+	[aspect]
+	{
+	  f scale_multiplier = 0.75;
+	}
 	[common]
 	{
 		screen_name = "Ranger Equipment";

@@ -33,7 +33,7 @@
 	[placement]
 	{
 	  q orientation = 0,0.92388,0,0.382684;
-	  p position = -0.108338,0,2.80528,0x116cdc5c;
+	  p position = -2.96329,0,0.972095,0x116cdc5c;
 	}
 }
 [t:scm_merchant_rest,n:0x00100034]
@@ -48,7 +48,7 @@
 	[placement]
 	{
 	  q orientation = 0,0.707107,0,0.707107;
-	  p position = 1.90978,9.53674e-007,-0.603929,0x116cdc5c;
+	  p position = 1.03634,0,-0.0261412,0x116cdc5c;
 	}
 }
 [t:scm_dsx_merchant_sets_mp,n:0x00100053]
@@ -72,22 +72,8 @@
 	}
 	[placement]
 	{
-	  q orientation = 0,0.707107,0,0.707107;
-	  p position = -0.658682,0,1.51526,0x116cdc5c;
-	}
-}
-[t:scm_merchant_bonus,n:0x00100055]
-{
-	[conversation]
-	{
-		[conversations]
-		{
-			* = shop;
-		}
-	}
-	[placement]
-	{
-	  p position = 1.33689,-1.90735e-006,-1.69467,0xf4a5f508;
+	  q orientation = 0,0.382684,0,0.92388;
+	  p position = -2.86127,0,-0.905248,0x116cdc5c;
 	}
 }
 [t:scm_merchant_weapon_mace_fighter_special,n:0x00100040]
@@ -728,6 +714,14 @@
 	  p position = 0.155282,0,1.06726,0xc871b0ab;
 	}
 }
+[t:scm_demo_target,n:0x00100058]
+{
+	[placement]
+	{
+	  q orientation = 0,5.36442e-007,0,1;
+	  p position = 1.97296,1,0.870434,0xd1099dcf;
+	}
+}
 [t:scm_merchant_armor_hgb_mage_normal,n:0x00100008]
 {
 	[conversation]
@@ -919,6 +913,14 @@
 	[placement]
 	{
 	  p position = -0.488251,0,-2.29024,0xe3c8a80a;
+	}
+}
+[t:scm_demo_target,n:0x00100057]
+{
+	[placement]
+	{
+	  q orientation = 0,-0.707106,0,0.707107;
+	  p position = -0.573824,1,1.51366,0x73d1ac26;
 	}
 }
 [t:scm_merchant_armor_body_ranger_normal,n:0x00100005]
@@ -1151,6 +1153,21 @@
 	  p position = -1.51822,1,0.521469,0xd6ca9119;
 	}
 }
+[t:scm_merchant_bonus,n:0x00100055]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[placement]
+	{
+	  q orientation = 0,0.923879,0,-0.382684;
+	  p position = -1.76181,0,-0.441884,0x408ae20a;
+	}
+}
 [t:scm_dsx_merchant_bonus,n:0x00100056]
 {
 	[conversation]
@@ -1163,7 +1180,7 @@
 	[placement]
 	{
 	  q orientation = 0,-0.382683,0,0.92388;
-	  p position = -0.488574,-3.5,-0.384081,0x1581eaa9;
+	  p position = -1.68629,1,0.724604,0x683eab31;
 	}
 }
 [t:scm_dsx_merchant_excluded,n:0x00100054]
