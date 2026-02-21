@@ -271,3 +271,27 @@
 }
 [t:template,n:base_scm_v_m_st_s_contents_base] { specializes = base_scm_merchant_weapon_staff_mage_special; }
 [t:template,n:scm_merchant_weapon_staff_mage_special] { specializes = base_scm_v_m_st_s_contents; }
+
+[t:template,n:base_scm_merchant_rest]
+{
+	specializes = base_scm_merchant_owen;
+	common:screen_name = "Other Stuff";
+}
+[t:template,n:base_scm_v_any_contents_base] { specializes = base_scm_merchant_rest; }
+[t:template,n:scm_merchant_rest] { specializes = base_scm_v_any_contents; }
+
+[t:template,n:base_scm_merchant_excluded]
+{
+	specializes = base_scm_merchant_bodrus;
+	common:screen_name = "Forbidden Stuff";
+}
+[t:template,n:base_scm_v_excluded_contents_base] { specializes = base_scm_merchant_excluded; }
+[t:template,n:scm_merchant_excluded] { specializes = base_scm_v_excluded_contents; }
+
+[t:template,n:base_scm_merchant_bonus]
+{
+	specializes = base_scm_merchant_norick;
+	common:screen_name = "Colonel Norick";
+}
+[t:template,n:base_scm_v_bonus_contents_base] { specializes = base_scm_merchant_bonus; }
+[t:template,n:scm_merchant_bonus] { specializes = base_scm_v_bonus_contents; }

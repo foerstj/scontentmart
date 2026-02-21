@@ -1,12 +1,20 @@
 // Merchants
 
-[t:template,n:base_scm_dsx_merchant_sets]
+[t:template,n:base_scm_dsx_merchant_sets_sp]
 {
 	specializes = base_scm_merchant_loa;
-	common:screen_name = "LoA Sets";
+	common:screen_name = "LoA Campaign Sets";
 }
-[t:template,n:base_scm_loa_any_sets_contents_base] { specializes = base_scm_dsx_merchant_sets; }
-[t:template,n:scm_dsx_merchant_sets] { specializes = base_scm_loa_any_sets_contents; }
+[t:template,n:base_scm_loa_any_sets_sp_contents_base] { specializes = base_scm_dsx_merchant_sets_sp; }
+[t:template,n:scm_dsx_merchant_sets_sp] { specializes = base_scm_loa_any_sets_sp_contents; }
+
+[t:template,n:base_scm_dsx_merchant_sets_mp]
+{
+	specializes = base_scm_merchant_loa;
+	common:screen_name = "LoA MP-Only Sets";
+}
+[t:template,n:base_scm_loa_any_sets_mp_contents_base] { specializes = base_scm_dsx_merchant_sets_mp; }
+[t:template,n:scm_dsx_merchant_sets_mp] { specializes = base_scm_loa_any_sets_mp_contents; }
 
 [t:template,n:base_scm_dsx_merchant_armor_body_fighter_all]
 {
@@ -127,3 +135,19 @@
 }
 [t:template,n:base_scm_loa_m_st_contents_base] { specializes = base_scm_dsx_merchant_weapon_staff_mage_all; }
 [t:template,n:scm_dsx_merchant_weapon_staff_mage_all] { specializes = base_scm_loa_m_st_contents; }
+
+[t:template,n:base_scm_dsx_merchant_excluded]
+{
+	specializes = base_scm_merchant_neener;
+	common:screen_name = "Forbidden Stuff";
+}
+[t:template,n:base_scm_loa_excluded_contents_base] { specializes = base_scm_dsx_merchant_excluded; }
+[t:template,n:scm_dsx_merchant_excluded] { specializes = base_scm_loa_excluded_contents; }
+
+[t:template,n:base_scm_dsx_merchant_bonus]
+{
+	specializes = base_scm_merchant_disco_krug;
+	common:screen_name = "Disco Krug";
+}
+[t:template,n:base_scm_loa_bonus_contents_base] { specializes = base_scm_dsx_merchant_bonus; }
+[t:template,n:scm_dsx_merchant_bonus] { specializes = base_scm_loa_bonus_contents; }

@@ -12,7 +12,7 @@
 	  p position = 0,0,-3.88034,0x5102cd08;
 	}
 }
-[t:scm_dsx_merchant_sets,n:0x00100014]
+[t:scm_dsx_merchant_sets_sp,n:0x00100014]
 {
 	[conversation]
 	{
@@ -26,15 +26,17 @@
 		[equipment]
 		{
 			es_chest = bd_br_f_g_c_avg_dsx_set_arhok;
+			es_shield_hand = sh_w_m_g_c_t_m_avg_dsx_set_arhok;
+			es_weapon_hand = sd_g_c_sd_1h_avg_dsx_set_arhok;
 		}
 	}
 	[placement]
 	{
-	  q orientation = 0,0.707107,0,0.707107;
-	  p position = -0.183595,0,1.93197,0x116cdc5c;
+	  q orientation = 0,0.92388,0,0.382684;
+	  p position = -0.108338,0,2.80528,0x116cdc5c;
 	}
 }
-[t:scm_merchant_armor_rest,n:0x00100034]
+[t:scm_merchant_rest,n:0x00100034]
 {
 	[conversation]
 	{
@@ -47,6 +49,45 @@
 	{
 	  q orientation = 0,0.707107,0,0.707107;
 	  p position = 1.90978,9.53674e-007,-0.603929,0x116cdc5c;
+	}
+}
+[t:scm_dsx_merchant_sets_mp,n:0x00100053]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[inventory]
+	{
+		[equipment]
+		{
+			es_chest = bd_pl_r_g_c_avg_flywing_dsx_set_jeffron;
+			es_feet = bo_bo_sc_r_g_c_avg_flywing_dsx_set_jeffron;
+			es_forearms = gl_ga_sc_r_g_c_avg_flywing_dsx_set_jeffron;
+			es_head = he_op_pl_r_flywing_crown_dsx_set_jeffron;
+		}
+	}
+	[placement]
+	{
+	  q orientation = 0,0.707107,0,0.707107;
+	  p position = -0.658682,0,1.51526,0x116cdc5c;
+	}
+}
+[t:scm_merchant_bonus,n:0x00100055]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[placement]
+	{
+	  p position = 1.33689,-1.90735e-006,-1.69467,0xf4a5f508;
 	}
 }
 [t:scm_merchant_weapon_mace_fighter_special,n:0x00100040]
@@ -1110,6 +1151,36 @@
 	  p position = -1.51822,1,0.521469,0xd6ca9119;
 	}
 }
+[t:scm_dsx_merchant_bonus,n:0x00100056]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[placement]
+	{
+	  q orientation = 0,-0.382683,0,0.92388;
+	  p position = -0.488574,-3.5,-0.384081,0x1581eaa9;
+	}
+}
+[t:scm_dsx_merchant_excluded,n:0x00100054]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[placement]
+	{
+	  q orientation = 0,1,0,-1.66939e-007;
+	  p position = -0.522334,1,1.75316,0xabac6563;
+	}
+}
 [t:scm_merchant_excluded,n:0x00100011]
 {
 	[conversation]
@@ -1122,7 +1193,14 @@
 	[placement]
 	{
 	  q orientation = 0,-1,0,-1.76431e-007;
-	  p position = -1.62859,-3.5,-0.989203,0x0f1db0f2;
+	  p position = -1.54984,-3.5,-0.991692,0x0f1db0f2;
+	}
+}
+[t:scm_demo_target,n:0x00100052]
+{
+	[placement]
+	{
+	  p position = -1.94582,1,0.812311,0xfeef06a7;
 	}
 }
 [t:scm_dsx_merchant_armor_shield_mage_all,n:0x0010001c]
@@ -1144,12 +1222,5 @@
 	[placement]
 	{
 	  p position = 1.65401,0,-0.00205898,0x2a8fde2d;
-	}
-}
-[t:scm_demo_target,n:0x00100052]
-{
-	[placement]
-	{
-	  p position = -1.94582,1,0.812311,0xfeef06a7;
 	}
 }

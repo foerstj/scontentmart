@@ -1,3 +1,66 @@
+[t:template,n:base_scm_v_any_contents]
+{
+	specializes = base_scm_v_any_contents_base;
+	[inventory]
+	{
+		[store_pcontent]
+		{
+			full_ratio = 0;
+			[all*]
+			{
+				il_main = #bo_bo_le_light;
+				il_main = #he_ca_le_avg:base;
+				il_main = #he_ra_ca_le_avg:base/+brilliant;
+				il_main = #he_threestorms;
+				il_main = #pickaxe;
+				il_main = #fire_poker;
+				il_main = #meat_bone;
+				il_main = #hoe;
+				il_main = #pitchfork;
+				il_main = #pitchfork_dull;
+				il_main = #rake;
+				il_main = #shovel;
+			}
+		}
+	}
+}
+[t:template,n:base_scm_v_bonus_contents]
+{
+	specializes = base_scm_v_bonus_contents_base;
+	[inventory]
+	{
+		[store_pcontent]
+		{
+			full_ratio = 0;
+			[all*]
+			{
+				il_main = #chicken_gun;
+			}
+		}
+	}
+}
+[t:template,n:base_scm_v_excluded_contents]
+{
+	specializes = base_scm_v_excluded_contents_base;
+	[inventory]
+	{
+		[store_pcontent]
+		{
+			full_ratio = 0;
+			[all*]
+			{
+				il_main = #tongs;
+				il_main = #rock_krug;
+				il_main = #temp_mc_g_c_f_1h_avg;
+				il_main = #blacksmith_hammer;
+				il_main = #torch_small;
+				il_main = #st_un_merik;
+				il_main = #st_un_reaper;
+				il_main = #test_rock_krug;
+			}
+		}
+	}
+}
 [t:template,n:base_scm_v_f_ax2h_n_contents]
 {
 	specializes = base_scm_v_f_ax2h_n_contents_base;
@@ -1750,80 +1813,6 @@
 				il_main = #minigun_flamethrower;
 				il_main = #minigun_grenade_launcher;
 				il_main = #minigun_lightning;
-			}
-		}
-	}
-}
-[t:template,n:base_scm_x_any_contents]
-{
-	specializes = base_scm_x_any_contents_base;
-	[inventory]
-	{
-		[store_pcontent]
-		{
-			full_ratio = 0;
-			[all*]
-			{
-				il_main = #bo_bo_le_light;
-				il_main = #he_ca_le_avg:base;
-				il_main = #he_ra_ca_le_avg:base/+brilliant;
-				il_main = #he_ra_ca_le_avg_pimp/+brilliant;
-				il_main = #he_threestorms;
-				il_main = #pickaxe;
-				il_main = #fire_poker;
-				il_main = #meat_bone;
-				il_main = #chicken_gun;
-				il_main = #hoe;
-				il_main = #pitchfork;
-				il_main = #pitchfork_dull;
-				il_main = #rake;
-				il_main = #shovel;
-			}
-		}
-	}
-}
-[t:template,n:base_scm_x_excluded_contents]
-{
-	specializes = base_scm_x_excluded_contents_base;
-	[inventory]
-	{
-		[store_pcontent]
-		{
-			full_ratio = 0;
-			[all*]
-			{
-				il_main = #tongs;
-				il_main = #bd_pl_f_g_c_death_knight;
-				il_main = #sh_un_m_o_r_m_turtle_02_dsx;
-				il_main = #sh_un_m_o_r_m_turtle_01_dsx;
-				il_main = #sh_un_m_o_r_m_turtle_dsx;
-				il_main = #sh_un_m_o_k_m_dermal_dsx;
-				il_main = #sh_w_f_g_c_t_s_avg_deathknight_monster;
-				il_main = #bw_dsx_reynards_gift;
-				il_main = #dsx_rock_goblin;
-				il_main = #bw_dsx_shadjump_2_avg;
-				il_main = #bw_dsx_shadjump_4_avg;
-				il_main = #dg_g_c_dsx_kaj_mag;
-				il_main = #dg_g_c_dsx_sjumper_three;
-				il_main = #dg_g_c_dsx_sjumper_five;
-				il_main = #mc_dsx_cicatrix_skeleton;
-				il_main = #dsx_minigun_gas_monster;
-				il_main = #minigun_magic_missles:base;
-				il_main = #st_un_dsx_angk_guardian;
-				il_main = #st_g_c_dsx_stars:base;
-				il_main = #2w_st_g_c_dsx_stars:base;
-				il_main = #3w_st_g_c_dsx_stars:base;
-				il_main = #st_g_c_dsx_pcane:base;
-				il_main = #sd_g_c_dsx_kat_1h_shadowjumper_NIS_ONLY:base;
-				il_main = #sd_g_c_dsx_kat_1h_shadowjumper;
-				il_main = #sd_d_c_dsx_skl_1h_mag;
-				il_main = #rock_krug;
-				il_main = #temp_mc_g_c_f_1h_avg;
-				il_main = #blacksmith_hammer;
-				il_main = #torch_small;
-				il_main = #st_un_merik;
-				il_main = #st_un_reaper;
-				il_main = #test_rock_krug;
 			}
 		}
 	}

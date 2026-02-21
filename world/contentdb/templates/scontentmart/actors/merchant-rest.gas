@@ -1,7 +1,0 @@
-[t:template,n:base_scm_merchant_armor_rest]
-{
-	specializes = base_scm_merchant_owen;
-	common:screen_name = "Other Stuff";
-}
-[t:template,n:base_scm_x_any_contents_base] { specializes = base_scm_merchant_armor_rest; }
-[t:template,n:scm_merchant_armor_rest] { specializes = base_scm_x_any_contents; }

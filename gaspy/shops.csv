@@ -41,8 +41,14 @@ v;weapon_staff_mage_normal;v_m_st_n;v_weapon_01;Normal Mage Staves
 v;weapon_staff_mage_special;v_m_st_s;v_weapon_02;Special Mage Staves
 ;;;;
 ;;;;
+v;rest;v_any;owen;Other Stuff
+v;excluded;v_excluded;bodrus;Forbidden Stuff
+v;bonus;v_bonus;norick;Colonel Norick
 ;;;;
-loa;sets;loa_any_sets;loa;LoA Sets
+;;;;
+;;;;
+loa;sets_sp;loa_any_sets_sp;loa;LoA Campaign Sets
+loa;sets_mp;loa_any_sets_mp;loa;LoA MP-Only Sets
 ;;;;
 loa;armor_body_fighter_all;loa_f_bd;loa_armor;LoA Fighter Armor
 loa;armor_hgb_fighter_all;loa_f_hgb;loa_armor;LoA Fighter Helmets / Gloves / Boots
@@ -65,3 +71,7 @@ loa;weapon_bow_ranger_all;loa_r_bw;loa_weapon;LoA Bows
 loa;weapon_misc_ranger_all;loa_r_cm;loa_weapon_2h;LoA Crossbows and Miniguns
 ;;;;
 loa;weapon_staff_mage_all;loa_m_st;loa_weapon;LoA Mage Staves
+;;;;
+;;;;
+loa;excluded;loa_excluded;neener;Forbidden Stuff
+loa;bonus;loa_bonus;disco_krug;Disco Krug
