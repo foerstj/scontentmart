@@ -299,7 +299,7 @@
 	  p position = -1.04923,0,0.806862,0xc871b0ab;
 	}
 }
-[t:scm_demo_target,n:0x00100058]
+[t:target_attackable,n:0x00100058]
 {
 	[placement]
 	{
@@ -813,7 +813,7 @@
 	  p position = 1.74317,0,-0.473648,0xe3c8a80a;
 	}
 }
-[t:scm_demo_target,n:0x00100057]
+[t:target_attackable,n:0x00100057]
 {
 	[placement]
 	{
@@ -1048,7 +1048,7 @@
 	  p position = 0.499874,0,1.54608,0x4b575453;
 	}
 }
-[t:scm_demo_target,n:0x00100051]
+[t:target_attackable,n:0x00100051]
 {
 	[placement]
 	{
@@ -1116,7 +1116,7 @@
 	  p position = -0.0103159,-3.5,-0.965578,0x0f1db0f2;
 	}
 }
-[t:scm_demo_target,n:0x00100052]
+[t:target_attackable,n:0x00100052]
 {
 	[placement]
 	{

@@ -1,4 +1,4 @@
-[t:template,n:scm_demo_target]
+[t:template,n:target_attackable]
 {
 	specializes = actor_evil;
 
