@@ -1102,6 +1102,14 @@
 	  p position = 0.198755,-3.5,-1.15157,0x6c7ccb5b;
 	}
 }
+[t:scm_demo_target,n:0x00100051]
+{
+	[placement]
+	{
+	  q orientation = 0,5.36442e-007,0,1;
+	  p position = -1.51822,1,0.521469,0xd6ca9119;
+	}
+}
 [t:scm_merchant_excluded,n:0x00100011]
 {
 	[conversation]
@@ -1136,5 +1144,12 @@
 	[placement]
 	{
 	  p position = 1.65401,0,-0.00205898,0x2a8fde2d;
+	}
+}
+[t:scm_demo_target,n:0x00100052]
+{
+	[placement]
+	{
+	  p position = -1.94582,1,0.812311,0xfeef06a7;
 	}
 }

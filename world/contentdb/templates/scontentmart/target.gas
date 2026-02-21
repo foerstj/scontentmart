@@ -1,0 +1,30 @@
+[t:template,n:scm_demo_target]
+{
+	specializes = actor_evil;
+
+	[aspect]
+	{
+		model = m_i_glb_target-01;
+		material = wood;
+
+		is_invincible = true;
+		max_life = 1;
+		life = 1;
+	}
+	[common]
+	{
+		screen_name = "Target";
+	}
+	[mind]
+	{
+		actor_may_attack 						= false;
+
+		jat_flee_from_object					= jat_none;
+		jat_guard         						= jat_none;
+		jat_move          						= jat_none;
+		jat_patrol         						= jat_none;
+		jat_face								= jat_none;
+
+		movement_orders							= mo_hold;
+	}
+}
