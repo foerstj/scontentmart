@@ -13,21 +13,6 @@
 	  p position = -1.97743,0,0.0407896,0x8dbb5d7b;
 	}
 }
-[t:sign_glb_blacksmith_03,n:0x00100035]
-{
-	[aspect]
-	{
-	  f scale_multiplier = 0.75;
-	}
-	[common]
-	{
-		screen_name = "Fighter Equipment";
-	}
-	[placement]
-	{
-	  p position = -1.99082,0,-0.00957203,0x553a6db2;
-	}
-}
 [t:sign_glb_magicshop_01,n:0x00100038]
 {
 	[aspect]
@@ -40,7 +25,8 @@
 	}
 	[placement]
 	{
-	  p position = -1.9962,-9.53674e-007,-0.0494785,0x738f4aad;
+	  q orientation = 0,-6.49566e-008,0,1;
+	  p position = -1.98112,0,0.0921435,0x553a6db2;
 	}
 }
 [t:sign_glb_blacksmith_03,n:0x00100036]
@@ -56,5 +42,21 @@
 	[placement]
 	{
 	  p position = 1.97802,0,-0.0173798,0x6ef7859f;
+	}
+}
+[t:sign_glb_blacksmith_03,n:0x00100035]
+{
+	[aspect]
+	{
+	  f scale_multiplier = 0.75;
+	}
+	[common]
+	{
+		screen_name = "Fighter Equipment";
+	}
+	[placement]
+	{
+	  q orientation = 0,6.46033e-009,0,1;
+	  p position = 1.95337,0,0.053144,0x37202039;
 	}
 }
