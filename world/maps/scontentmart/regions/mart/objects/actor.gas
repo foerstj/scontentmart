@@ -1164,8 +1164,8 @@
 	}
 	[placement]
 	{
-	  q orientation = 0,0.923879,0,-0.382684;
-	  p position = -1.76181,0,-0.441884,0x408ae20a;
+	  q orientation = 0,-0.382683,0,0.92388;
+	  p position = -0.917533,1,0.910118,0xde007c6c;
 	}
 }
 [t:scm_dsx_merchant_bonus,n:0x00100056]
@@ -1180,22 +1180,7 @@
 	[placement]
 	{
 	  q orientation = 0,-0.382683,0,0.92388;
-	  p position = -1.68629,1,0.724604,0x683eab31;
-	}
-}
-[t:scm_dsx_merchant_excluded,n:0x00100054]
-{
-	[conversation]
-	{
-		[conversations]
-		{
-			* = shop;
-		}
-	}
-	[placement]
-	{
-	  q orientation = 0,1,0,-1.66939e-007;
-	  p position = -0.522334,1,1.75316,0xabac6563;
+	  p position = -0.698656,1,0.391479,0x0f50d23b;
 	}
 }
 [t:scm_merchant_excluded,n:0x00100011]
@@ -1209,8 +1194,23 @@
 	}
 	[placement]
 	{
-	  q orientation = 0,-1,0,-1.76431e-007;
-	  p position = -1.54984,-3.5,-0.991692,0x0f1db0f2;
+	  q orientation = 0,0.923879,0,0.382684;
+	  p position = -1.49326,-3.5,-0.987247,0x0f1db0f2;
+	}
+}
+[t:scm_dsx_merchant_excluded,n:0x00100054]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[placement]
+	{
+	  q orientation = 0,0.923879,0,-0.382684;
+	  p position = -0.0103159,-3.5,-0.965578,0x0f1db0f2;
 	}
 }
 [t:scm_demo_target,n:0x00100052]
