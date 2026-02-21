@@ -3,10 +3,10 @@
 	[t:start_group,n:default]
 	{
 	  b default = true;
-		description = "This is the default group.";
+		description = "A Mart with Static Content.";
 	  b dev_only = false;
 	  i id = 0;
-		screen_name = "";
+		screen_name = "SContentMart";
 		[start_position]
 		{
 		  i id = 1;
@@ -17,6 +17,90 @@
 			  f distance = 20.000000;
 			  f orbit = 0.000000;
 				position = 0.000000,0.000000,0.000000,0x5102CD08;
+			}
+		}
+		[start_position]
+		{
+		  i id = 2;
+			position = -0.978447,0.000000,-0.938381,0x5102CD08;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = -0.978447,0.000000,-0.938381,0x5102CD08;
+			}
+		}
+		[start_position]
+		{
+		  i id = 3;
+			position = 0.964076,0.000000,-1.016841,0x5102CD08;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = 0.964076,0.000000,-1.016841,0x5102CD08;
+			}
+		}
+		[start_position]
+		{
+		  i id = 4;
+			position = -1.998338,0.000000,-0.022859,0x5102CD08;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = -1.998338,0.000000,-0.022859,0x5102CD08;
+			}
+		}
+		[start_position]
+		{
+		  i id = 5;
+			position = 2.030251,0.000000,-0.054290,0x5102CD08;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = 2.030251,0.000000,-0.054290,0x5102CD08;
+			}
+		}
+		[start_position]
+		{
+		  i id = 6;
+			position = -0.897558,0.000000,1.043963,0x5102CD08;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = -0.897558,0.000000,1.043963,0x5102CD08;
+			}
+		}
+		[start_position]
+		{
+		  i id = 7;
+			position = 1.073032,0.000000,1.001845,0x5102CD08;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = 1.073032,0.000000,1.001845,0x5102CD08;
+			}
+		}
+		[start_position]
+		{
+		  i id = 8;
+			position = -0.027071,0.000000,1.996903,0x5102CD08;
+			[camera]
+			{
+			  f azimuth = 0.500000;
+			  f distance = 20.000000;
+			  f orbit = 0.000000;
+				position = -0.027071,0.000000,1.996903,0x5102CD08;
 			}
 		}
 		[world_levels]

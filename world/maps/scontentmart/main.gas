@@ -2,6 +2,7 @@
 {
 	description = "Static Content Mart";
   b dev_only = false;
+	multiplayer_only = true;
 	screen_name = "SContentMart";
 	timeofday = 7h0m;
   b use_node_mesh_index = true;
