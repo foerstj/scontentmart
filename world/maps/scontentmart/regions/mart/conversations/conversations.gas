@@ -3,7 +3,43 @@
 	[text*]
 	{
 		choice = shop;
-		screen_text = "Shop?";
+		screen_text = "Have a look at my wares!";
+	  f scroll_rate = 10.000000;
+	}
+}
+[shop_basics]
+{
+	[text*]
+	{
+		choice = shop;
+		screen_text = "Welcome to SContentMart! We sell everything! Have a look around and buy what you like :)";
+	  f scroll_rate = 10.000000;
+	}
+}
+[shop_excluded]
+{
+	[text*]
+	{
+		choice = shop;
+		screen_text = "They don't want you to have these items!!!";
+	  f scroll_rate = 10.000000;
+	}
+}
+[shop_loa_bonus]
+{
+	[text*]
+	{
+		choice = shop;
+		screen_text = "Here, why don't you take these things with you - I got my own hat,  this one's a spare. Pretty funky, ain't it? As for the poultry - well what can I say?";
+	  f scroll_rate = 10.000000;
+	}
+}
+[shop_v_bonus]
+{
+	[text*]
+	{
+		choice = shop;
+		screen_text = "The Krug are attacking! I couldn't hold them back...";
 	  f scroll_rate = 10.000000;
 	}
 }

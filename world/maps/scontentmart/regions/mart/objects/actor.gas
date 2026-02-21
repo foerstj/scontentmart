@@ -4,7 +4,7 @@
 	{
 		[conversations]
 		{
-			* = shop;
+			* = shop_basics;
 		}
 	}
 	[placement]
@@ -1062,7 +1062,7 @@
 	{
 		[conversations]
 		{
-			* = shop;
+			* = shop_v_bonus;
 		}
 	}
 	[placement]
@@ -1077,7 +1077,7 @@
 	{
 		[conversations]
 		{
-			* = shop;
+			* = shop_loa_bonus;
 		}
 	}
 	[placement]
@@ -1092,7 +1092,7 @@
 	{
 		[conversations]
 		{
-			* = shop;
+			* = shop_excluded;
 		}
 	}
 	[placement]
@@ -1107,7 +1107,7 @@
 	{
 		[conversations]
 		{
-			* = shop;
+			* = shop_excluded;
 		}
 	}
 	[placement]
