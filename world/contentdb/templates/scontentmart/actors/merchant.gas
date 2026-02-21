@@ -146,7 +146,7 @@
 
 [t:template,n:base_scm_merchant_weapon_axe2h_fighter_normal]
 {
-	specializes = base_scm_merchant_v_weapon_03;
+	specializes = base_scm_merchant_v_weapon_2h_03;
 	common:screen_name = "Normal Two-Handed Axes";
 }
 [t:template,n:base_scm_v_f_ax2h_n_contents_base] { specializes = base_scm_merchant_weapon_axe2h_fighter_normal; }
@@ -154,7 +154,7 @@
 
 [t:template,n:base_scm_merchant_weapon_axe2h_fighter_special]
 {
-	specializes = base_scm_merchant_v_weapon_04;
+	specializes = base_scm_merchant_v_weapon_2h_04;
 	common:screen_name = "Special Two-Handed Axes";
 }
 [t:template,n:base_scm_v_f_ax2h_s_contents_base] { specializes = base_scm_merchant_weapon_axe2h_fighter_special; }
@@ -170,7 +170,7 @@
 
 [t:template,n:base_scm_merchant_weapon_misc2h_fighter_all]
 {
-	specializes = base_scm_merchant_v_weapon_02;
+	specializes = base_scm_merchant_v_weapon_2h_02;
 	common:screen_name = "Misc 2H Fighter Weapons";
 }
 [t:template,n:base_scm_v_f_cdhss2h_contents_base] { specializes = base_scm_merchant_weapon_misc2h_fighter_all; }
@@ -210,7 +210,7 @@
 
 [t:template,n:base_scm_merchant_weapon_sword2h_fighter_normal]
 {
-	specializes = base_scm_merchant_v_weapon_03;
+	specializes = base_scm_merchant_v_weapon_2h_03;
 	common:screen_name = "Normal Two-Handed Swords";
 }
 [t:template,n:base_scm_v_f_sd2h_n_contents_base] { specializes = base_scm_merchant_weapon_sword2h_fighter_normal; }
@@ -218,7 +218,7 @@
 
 [t:template,n:base_scm_merchant_weapon_sword2h_fighter_special]
 {
-	specializes = base_scm_merchant_v_weapon_04;
+	specializes = base_scm_merchant_v_weapon_2h_04;
 	common:screen_name = "Special Two-Handed Swords";
 }
 [t:template,n:base_scm_v_f_sd2h_s_contents_base] { specializes = base_scm_merchant_weapon_sword2h_fighter_special; }
@@ -250,7 +250,7 @@
 
 [t:template,n:base_scm_merchant_weapon_misc_ranger_all]
 {
-	specializes = base_scm_merchant_v_weapon_04;
+	specializes = base_scm_merchant_v_weapon_2h_04;
 	common:screen_name = "Crossbows and Miniguns";
 }
 [t:template,n:base_scm_v_r_cm_contents_base] { specializes = base_scm_merchant_weapon_misc_ranger_all; }

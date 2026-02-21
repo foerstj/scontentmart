@@ -29,9 +29,8 @@
 	}
 	[inventory]
 	{
-		[equipment]
-		{
-		}
+		[equipment] {}
+		[pcontent] {}
 		[store_pcontent]
 		{
 			full_ratio = 0;
@@ -133,9 +132,8 @@
 	}
 	[inventory]
 	{
-		[equipment]
-		{
-		}
+		[equipment] {}
+		[pcontent] {}
 		[store_pcontent]
 		{
 			full_ratio = 0;
@@ -195,6 +193,173 @@
 [t:template,n:base_scm_merchant_v_weapon_04]
 {
 	specializes = base_scm_merchant_v_weapon;
+	actor:portrait_icon = b_gui_ig_i_ic_c_nong;
+	[aspect]
+	{
+		[textures]
+		{
+			0 = b_c_gah_fb_skin_18;
+			1 = b_c_pos_a1_008;
+		}
+	}
+}
+[t:template,n:base_scm_merchant_v_weapon_2h]
+{
+	specializes = base_scm_merchant_v_weapon;
+	[body]
+	{
+		armor_version = gah_fb;
+		avg_move_velocity = 4.500000;
+		initial_chore = chore_fidget;
+		[bone_translator]
+		{
+			body_anterior = bip01_head;
+			body_mid = bip01_spine2;
+			body_posterior = bip01_pelvis;
+			kill_bone = bip01_spine2;
+			shield_bone = shield_grip;
+			weapon_bone = weapon_grip;
+		}
+		[chore_dictionary]
+		{
+			chore_prefix = a_c_gah_fb_fs;
+			[chore_attack]
+			{
+				chore_stances = 0,1,2,3,4,5,6,7,8;
+				skrit = select_attack;
+				[anim_files]
+				{
+					0mid = at;
+					high = at-02;
+					loww = at-03;
+					extr = at-04;
+					qffg = dff;
+				}
+		 	  	[anim_durations]
+				{
+					fs0 = 1.250;
+					fs1 = 0.830;
+					fs2 = 0.830;
+					fs3 = 1.250;
+					fs4 = 1.250;
+					fs5 = 1.250;
+					fs6 = 1.000;
+					fs7 = 0.125;
+					fs8 = 1.000;
+				}
+			}
+			[chore_default]
+			{
+				chore_stances = 0,1,2,3,4,5,6,7,8;
+				skrit = simple_loop;
+				[anim_files] { 00=dff; }
+			}
+			[chore_die]
+			{
+				chore_stances = 0,1,2,3,4,5,6,7,8;
+				skrit = select_transition;
+				[anim_files] { 00=di; }
+			}
+			[chore_fidget]
+			{
+				chore_stances = 0,1,2,3,4,5,6,7,8;
+				skrit = select_fidget;
+				[anim_files]
+				{
+					00 = dff;
+					01 = dff-02;
+				}
+			}
+			[chore_magic]
+			{
+				chore_stances = 0,5;
+				skrit = select_attack;
+				[anim_files]
+				{
+					00 = mg;
+					01 = mg-02;
+				}
+			}
+			[chore_misc]
+			{
+				chore_stances = ignore;
+				skrit = select_transition;
+				[anim_files]
+				{
+					drnk = a_c_gah_fb_fs1_dk;
+					gtup = a_c_gah_fb_fs0_up;
+					look = a_c_gah_fb_fs0_dsf;
+					wyme = a_c_gah_fb_fs0_dsf-02;
+					frtd = a_c_gah_fb_fs0_dsf-03;
+					talk = a_c_gah_fb_fs0_dsf-04;
+					bed1 = a_c_gah_fb_fs0_dsf-05;
+					bed2 = a_c_gah_fb_fs0_dsf-06;
+					bed3 = a_c_gah_fb_fs0_dsf-07;
+					mrik = a_c_gah_fb_fs0_dsf-08;
+					sit1 = a_c_gah_fb_fs0_dsf-09;
+					sit2 = a_c_gah_fb_fs0_dsf-10;
+					bed4 = a_c_gah_fb_fs0_dsf-11;
+					bed5 = a_c_gah_fb_fs0_dsf-12;
+					froz = a_c_gah_fb_fs0_dsf-16;
+					andi = a_c_gah_fb_fs0_dsf-17;
+					lsn2 = a_c_gah_fb_fs0_dsf-18;
+					knee = a_c_gah_fb_fs1_dsf-03;
+					lstn = a_c_gah_fb_fs1_dsf-04;
+					lblg = a_c_gah_fb_fs2_dsf-02;
+					hoe1 = a_c_gah_fb_fs5_dsf-02;
+				}
+			}
+			[chore_walk]
+			{
+				chore_stances = 0,1,2,3,4,5,6,7,8;
+				skrit = select_walk;
+				[anim_files] { 05=rl; }
+			}
+		}
+	}
+}
+[t:template,n:base_scm_merchant_v_weapon_2h_01]
+{
+	specializes = base_scm_merchant_v_weapon_2h;
+	actor:portrait_icon = b_gui_ig_i_ic_c_banthorne;
+	[aspect]
+	{
+		[textures]
+		{
+			0 = b_c_gah_fb_skin_27;
+			1 = b_c_pos_a1_008;
+		}
+	}
+}
+[t:template,n:base_scm_merchant_v_weapon_2h_02]
+{
+	specializes = base_scm_merchant_v_weapon_2h;
+	actor:portrait_icon = b_gui_ig_i_ic_c_john;
+	[aspect]
+	{
+		[textures]
+		{
+			0 = b_c_gah_fb_skin_11;
+			1 = b_c_pos_a1_008;
+		}
+	}
+}
+[t:template,n:base_scm_merchant_v_weapon_2h_03]
+{
+	specializes = base_scm_merchant_v_weapon_2h;
+	actor:portrait_icon = b_gui_ig_i_ic_c_lukal;
+	[aspect]
+	{
+		[textures]
+		{
+			0 = b_c_gah_fb_skin_21;
+			1 = b_c_pos_a1_008;
+		}
+	}
+}
+[t:template,n:base_scm_merchant_v_weapon_2h_04]
+{
+	specializes = base_scm_merchant_v_weapon_2h;
 	actor:portrait_icon = b_gui_ig_i_ic_c_nong;
 	[aspect]
 	{
