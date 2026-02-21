@@ -6,70 +6,67 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #bd_br_f_g_c_avg_dsx_set_arhok;
-					il_main = #sh_w_m_g_c_t_m_avg_dsx_set_arhok;
-					il_main = #bd_le_m_g_c_avg_dsx_set_illicor;
-					il_main = #bd_le_m_g_c_avg_dsx_set_kajj;
-					il_main = #gl_gl_sc_r_g_c_avg_dsx_set_kajj;
-					il_main = #he_fl_pl_m_dsx_set_kajj;
-					il_main = #sh_w_m_g_c_t_m_avg_ward_blood_dsx_set_inventor;
-					il_main = #ring_dsx_set_clockwork;
-					il_main = #bd_le_m_g_c_avg_ceramic_dsx_set_chadek;
-					il_main = #bo_bo_sc_m_g_c_avg_ceramic_dsx_set_chadek;
-					il_main = #sh_w_m_g_c_t_m_avg_ceramic_dsx_set_chadek;
-					il_main = #he_vi_pl_m_ceramic_headdress_dsx_set_chadek;
-					il_main = #bd_le_f_g_c_avg_hvmech_dsx_set_kaltenbach;
-					il_main = #sh_w_f_g_c_t_m_avg_clockface_dsx_set_kaltenbach;
-					il_main = #gl_ga_sc_f_g_c_avg_geared_dsx_set_kaltenbach;
-					il_main = #he_ca_pl_f_alloy_dsx_set_rune;
-					il_main = #sh_w_f_g_c_t_m_avg_gearwork_dsx_set_rune;
-					il_main = #bd_pl_f_g_c_avg_alloy_dsx_set_rune;
-					il_main = #bd_le_m_g_c_avg_spider_framed_dsx_set_adela;
-					il_main = #bd_pl_r_g_c_avg_flywing_dsx_set_jeffron;
-					il_main = #he_op_pl_r_flywing_crown_dsx_set_jeffron;
-					il_main = #sh_w_r_g_c_t_m_avg_wall_flywing_dsx_set_jeffrom;
-					il_main = #gl_ga_sc_r_g_c_avg_flywing_dsx_set_jeffron;
-					il_main = #bo_bo_sc_r_g_c_avg_flywing_dsx_set_jeffron;
-					il_main = #bd_br_r_g_c_avg_hvrubber_dsx_set_utraean_archer;
-					il_main = #he_vi_pl_r_rubber_visor_dsx_set_utraean_archer;
-					il_main = #bo_bo_sc_r_g_c_avg_rubber_dsx_set_utraean_archer;
-					il_main = #he_op_pl_f_bone_crown_dsx_set_zaurask;
-					il_main = #bd_le_m_g_c_avg_crmech_dsx_set_xulphae;
-					il_main = #bd_br_m_g_c_avg_chitter_dsx_set_kmethekt;
-					il_main = #bo_bo_sc_f_g_c_avg_alloy_dsx_set_utraean_guard;
-					il_main = #sh_w_f_g_c_t_l_avg_dsx_set_utraean_guard;
-					il_main = #bd_pl_f_g_c_avg_utraean_dsx_set_utraean_guard;
-					il_main = #sh_w_r_g_c_t_m_avg_fan_beaded_dsx_set_hassat;
-					il_main = #bo_sh_sc_r_g_c_avg_bug_dsx_set_jerkal;
-					il_main = #he_vi_pl_r_leaf_visor_dsx_set_jerkal;
-					il_main = #gl_gl_sc_r_g_c_avg_shell_dsx_set_jerkal;
-					il_main = #bw_g_c_s_s_r_avg_dsx_set_arhok;
-					il_main = #sd_g_c_sd_1h_avg_dsx_set_arhok;
-					il_main = #st_g_c_dsx_set_illicor;
-					il_main = #dg_g_c_dsx_set_kajj;
-					il_main = #bw_g_c_dsx_fir_avg_dsx_set_inventor;
-					il_main = #cw_dsx_set_clockwork;
-					il_main = #st_dsx_set_clockwork;
-					il_main = #bw_g_c_dsx_spd_avg_dsx_set_guiseppi;
-					il_main = #sd_g_c_dsx_clk_1h_avg_dsx_set_kaltenbach;
-					il_main = #sd_g_c_dsx_ser_1h_avg_dsx_set_rune;
-					il_main = #st_g_c_dsx_hst_avg_dsx_set_adela;
-					il_main = #sd_g_c_dsx_skl_1h_mag_dsx_set_cicatrix;
-					il_main = #cb_g_c_dsx_rbr_avg_dsx_set_utraean_archer;
-					il_main = #bw_g_c_dsx_qll_avg_dsx_set_utraean_archer;
-					il_main = #ax_g_c_dsx_bon_avg_dsx_set_zaurask;
-					il_main = #cw_g_c_dsx_bon_avg_dsx_set_zaurask;
-					il_main = #st_g_c_dsx_hst_avg_dsx_set_xulphae;
-					il_main = #st_g_c_dsx_hst_avg_dsx_set_kmethekt;
-					il_main = #sd_g_c_dsx_kat_1h_avg_dsx_set_utraean_guard;
-					il_main = #bw_g_c_dsx_hst_avg_dsx_set_utraean_guard;
-					il_main = #dg_g_c_dsx_hassat_avg_dsx_set_hassat;
-					il_main = #bw_g_c_dsx_jwl_avg_dsx_set_hassat;
-				}
+				il_main = #bd_br_f_g_c_avg_dsx_set_arhok;
+				il_main = #sh_w_m_g_c_t_m_avg_dsx_set_arhok;
+				il_main = #bd_le_m_g_c_avg_dsx_set_illicor;
+				il_main = #bd_le_m_g_c_avg_dsx_set_kajj;
+				il_main = #gl_gl_sc_r_g_c_avg_dsx_set_kajj;
+				il_main = #he_fl_pl_m_dsx_set_kajj;
+				il_main = #sh_w_m_g_c_t_m_avg_ward_blood_dsx_set_inventor;
+				il_main = #ring_dsx_set_clockwork;
+				il_main = #bd_le_m_g_c_avg_ceramic_dsx_set_chadek;
+				il_main = #bo_bo_sc_m_g_c_avg_ceramic_dsx_set_chadek;
+				il_main = #sh_w_m_g_c_t_m_avg_ceramic_dsx_set_chadek;
+				il_main = #he_vi_pl_m_ceramic_headdress_dsx_set_chadek;
+				il_main = #bd_le_f_g_c_avg_hvmech_dsx_set_kaltenbach;
+				il_main = #sh_w_f_g_c_t_m_avg_clockface_dsx_set_kaltenbach;
+				il_main = #gl_ga_sc_f_g_c_avg_geared_dsx_set_kaltenbach;
+				il_main = #he_ca_pl_f_alloy_dsx_set_rune;
+				il_main = #sh_w_f_g_c_t_m_avg_gearwork_dsx_set_rune;
+				il_main = #bd_pl_f_g_c_avg_alloy_dsx_set_rune;
+				il_main = #bd_le_m_g_c_avg_spider_framed_dsx_set_adela;
+				il_main = #bd_pl_r_g_c_avg_flywing_dsx_set_jeffron;
+				il_main = #he_op_pl_r_flywing_crown_dsx_set_jeffron;
+				il_main = #sh_w_r_g_c_t_m_avg_wall_flywing_dsx_set_jeffrom;
+				il_main = #gl_ga_sc_r_g_c_avg_flywing_dsx_set_jeffron;
+				il_main = #bo_bo_sc_r_g_c_avg_flywing_dsx_set_jeffron;
+				il_main = #bd_br_r_g_c_avg_hvrubber_dsx_set_utraean_archer;
+				il_main = #he_vi_pl_r_rubber_visor_dsx_set_utraean_archer;
+				il_main = #bo_bo_sc_r_g_c_avg_rubber_dsx_set_utraean_archer;
+				il_main = #he_op_pl_f_bone_crown_dsx_set_zaurask;
+				il_main = #bd_le_m_g_c_avg_crmech_dsx_set_xulphae;
+				il_main = #bd_br_m_g_c_avg_chitter_dsx_set_kmethekt;
+				il_main = #bo_bo_sc_f_g_c_avg_alloy_dsx_set_utraean_guard;
+				il_main = #sh_w_f_g_c_t_l_avg_dsx_set_utraean_guard;
+				il_main = #bd_pl_f_g_c_avg_utraean_dsx_set_utraean_guard;
+				il_main = #sh_w_r_g_c_t_m_avg_fan_beaded_dsx_set_hassat;
+				il_main = #bo_sh_sc_r_g_c_avg_bug_dsx_set_jerkal;
+				il_main = #he_vi_pl_r_leaf_visor_dsx_set_jerkal;
+				il_main = #gl_gl_sc_r_g_c_avg_shell_dsx_set_jerkal;
+				il_main = #bw_g_c_s_s_r_avg_dsx_set_arhok;
+				il_main = #sd_g_c_sd_1h_avg_dsx_set_arhok;
+				il_main = #st_g_c_dsx_set_illicor;
+				il_main = #dg_g_c_dsx_set_kajj;
+				il_main = #bw_g_c_dsx_fir_avg_dsx_set_inventor;
+				il_main = #cw_dsx_set_clockwork;
+				il_main = #st_dsx_set_clockwork;
+				il_main = #bw_g_c_dsx_spd_avg_dsx_set_guiseppi;
+				il_main = #sd_g_c_dsx_clk_1h_avg_dsx_set_kaltenbach;
+				il_main = #sd_g_c_dsx_ser_1h_avg_dsx_set_rune;
+				il_main = #st_g_c_dsx_hst_avg_dsx_set_adela;
+				il_main = #sd_g_c_dsx_skl_1h_mag_dsx_set_cicatrix;
+				il_main = #cb_g_c_dsx_rbr_avg_dsx_set_utraean_archer;
+				il_main = #bw_g_c_dsx_qll_avg_dsx_set_utraean_archer;
+				il_main = #ax_g_c_dsx_bon_avg_dsx_set_zaurask;
+				il_main = #cw_g_c_dsx_bon_avg_dsx_set_zaurask;
+				il_main = #st_g_c_dsx_hst_avg_dsx_set_xulphae;
+				il_main = #st_g_c_dsx_hst_avg_dsx_set_kmethekt;
+				il_main = #sd_g_c_dsx_kat_1h_avg_dsx_set_utraean_guard;
+				il_main = #bw_g_c_dsx_hst_avg_dsx_set_utraean_guard;
+				il_main = #dg_g_c_dsx_hassat_avg_dsx_set_hassat;
+				il_main = #bw_g_c_dsx_jwl_avg_dsx_set_hassat;
 			}
 		}
 	}
@@ -82,41 +79,38 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #ax_g_c_dsx_chp_avg:base;
-					il_main = #ax_g_c_dsx_clv_avg:base;
-					il_main = #ax_g_c_dsx_slt_avg:base;
-					il_main = #ax_g_c_dsx_moo_avg:base;
-					il_main = #ax_g_c_dsx_bon_avg:base;
-					il_main = #cb_g_c_dsx_cry_avg:base;
-					il_main = #cb_g_c_dsx_ltn_avg:base;
-					il_main = #cb_g_c_dsx_tet_avg:base;
-					il_main = #cb_g_c_dsx_rbr_avg:base;
-					il_main = #cb_g_c_dsx_crm_avg:base;
-					il_main = #dg_g_c_dsx_clw_avg:base;
-					il_main = #dg_g_c_dsx_sai_avg:base;
-					il_main = #dg_g_c_dsx_hassat_avg:base;
-					il_main = #dg_g_c_dsx_sb_avg:base;
-					il_main = #dg_g_c_dsx_crys_avg:base;
-					il_main = #dg_g_c_dsx_zst_avg:base;
-					il_main = #hm_g_c_dsx_clk_avg:base;
-					il_main = #hm_g_c_dsx_mlt_avg:base;
-					il_main = #hm_g_c_dsx_cry_avg:base;
-					il_main = #mc_g_c_dsx_smr_avg:base;
-					il_main = #mc_g_c_dsx_zau_avg:base;
-					il_main = #mc_g_c_dsx_tub_avg:base;
-					il_main = #mc_g_c_dsx_flm_avg:base;
-					il_main = #sd_g_c_dsx_chr_1h_avg:base;
-					il_main = #sd_g_c_dsx_clk_1h_avg:base;
-					il_main = #sd_g_c_dsx_kat_1h_avg:base;
-					il_main = #sd_g_c_dsx_zkt_1h_avg:base;
-					il_main = #sd_g_c_dsx_ser_1h_avg:base;
-					il_main = #sd_g_c_dsx_slc_2h_avg:base;
-					il_main = #sd_g_c_dsx_snk_1h_avg:base;
-				}
+				il_main = #ax_g_c_dsx_chp_avg:base;
+				il_main = #ax_g_c_dsx_clv_avg:base;
+				il_main = #ax_g_c_dsx_slt_avg:base;
+				il_main = #ax_g_c_dsx_moo_avg:base;
+				il_main = #ax_g_c_dsx_bon_avg:base;
+				il_main = #cb_g_c_dsx_cry_avg:base;
+				il_main = #cb_g_c_dsx_ltn_avg:base;
+				il_main = #cb_g_c_dsx_tet_avg:base;
+				il_main = #cb_g_c_dsx_rbr_avg:base;
+				il_main = #cb_g_c_dsx_crm_avg:base;
+				il_main = #dg_g_c_dsx_clw_avg:base;
+				il_main = #dg_g_c_dsx_sai_avg:base;
+				il_main = #dg_g_c_dsx_hassat_avg:base;
+				il_main = #dg_g_c_dsx_sb_avg:base;
+				il_main = #dg_g_c_dsx_crys_avg:base;
+				il_main = #dg_g_c_dsx_zst_avg:base;
+				il_main = #hm_g_c_dsx_clk_avg:base;
+				il_main = #hm_g_c_dsx_mlt_avg:base;
+				il_main = #hm_g_c_dsx_cry_avg:base;
+				il_main = #mc_g_c_dsx_smr_avg:base;
+				il_main = #mc_g_c_dsx_zau_avg:base;
+				il_main = #mc_g_c_dsx_tub_avg:base;
+				il_main = #mc_g_c_dsx_flm_avg:base;
+				il_main = #sd_g_c_dsx_chr_1h_avg:base;
+				il_main = #sd_g_c_dsx_clk_1h_avg:base;
+				il_main = #sd_g_c_dsx_kat_1h_avg:base;
+				il_main = #sd_g_c_dsx_zkt_1h_avg:base;
+				il_main = #sd_g_c_dsx_ser_1h_avg:base;
+				il_main = #sd_g_c_dsx_slc_2h_avg:base;
+				il_main = #sd_g_c_dsx_snk_1h_avg:base;
 			}
 		}
 	}
@@ -129,31 +123,28 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #ax_g_c_dsx_chp_avg_najj:base;
-					il_main = #ax_d_c_1h1b_avg_dsx;
-					il_main = #ax_g_c_1h2b_low_dsx;
-					il_main = #cb_un_1h_troll_dsx_scrub;
-					il_main = #cb_un_2h_troll_dsx_forest;
-					il_main = #cb_un_dsx_2h_troll;
-					il_main = #hm_g_c_dsx_goblin_blackguard;
-					il_main = #ss_g_c_bl_1h_fun_zaur_dsx;
-					il_main = #ss_g_c_bl_1h_fun_noss_dsx;
-					il_main = #ss_g_c_bl_1h_fun_04_dsx;
-					il_main = #ss_g_c_bl_1h_fun_05_dsx;
-					il_main = #ss_g_c_bl_1h_fun_03_dsx;
-					il_main = #ss_g_c_bl_1h_fun_01_dsx;
-					il_main = #ss_g_c_bl_1h_fun_02_dsx;
-					il_main = #ss_g_c_bl_1h_fun_dsx;
-					il_main = #sd_g_c_sd_1h_avg_dsx;
-					il_main = #sd_d_c_dsx_skl_1h_mag_player;
-					il_main = #2w_sd_d_c_dsx_skl_1h_mag_player;
-					il_main = #3w_sd_d_c_dsx_skl_1h_mag_player;
-					il_main = #sd_g_c_dsx_goblin_guard;
-				}
+				il_main = #ax_g_c_dsx_chp_avg_najj:base;
+				il_main = #ax_d_c_1h1b_avg_dsx;
+				il_main = #ax_g_c_1h2b_low_dsx;
+				il_main = #cb_un_1h_troll_dsx_scrub;
+				il_main = #cb_un_2h_troll_dsx_forest;
+				il_main = #cb_un_dsx_2h_troll;
+				il_main = #hm_g_c_dsx_goblin_blackguard;
+				il_main = #ss_g_c_bl_1h_fun_zaur_dsx;
+				il_main = #ss_g_c_bl_1h_fun_noss_dsx;
+				il_main = #ss_g_c_bl_1h_fun_04_dsx;
+				il_main = #ss_g_c_bl_1h_fun_05_dsx;
+				il_main = #ss_g_c_bl_1h_fun_03_dsx;
+				il_main = #ss_g_c_bl_1h_fun_01_dsx;
+				il_main = #ss_g_c_bl_1h_fun_02_dsx;
+				il_main = #ss_g_c_bl_1h_fun_dsx;
+				il_main = #sd_g_c_sd_1h_avg_dsx;
+				il_main = #sd_d_c_dsx_skl_1h_mag_player;
+				il_main = #2w_sd_d_c_dsx_skl_1h_mag_player;
+				il_main = #3w_sd_d_c_dsx_skl_1h_mag_player;
+				il_main = #sd_g_c_dsx_goblin_guard;
 			}
 		}
 	}
@@ -166,28 +157,25 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #hm_g_c_dsx_warmlt_avg:base;
-					il_main = #ax_d_d_dsx_goblin_mutant;
-					il_main = #st_g_c_dsx_mn_avg:base;
-					il_main = #st_g_c_dsx_smn_avg:base;
-					il_main = #ax_g_c_dsx_ptr_avg:base;
-					il_main = #ax_g_c_dsx_psc_avg:base;
-					il_main = #ax_g_c_dsx_pfk_avg:base;
-					il_main = #ax_g_c_dsx_png_avg:base;
-					il_main = #ax_g_c_dsx_pzc_avg:base;
-					il_main = #ax_g_c_dsx_pbd_avg:base;
-					il_main = #ax_g_c_dsx_pcl_avg:base;
-					il_main = #st_g_c_bl_1h_fun_nossirom_dsx;
-					il_main = #st_un_toreck_dsx;
-					il_main = #st_un_dsx_angk;
-					il_main = #2w_st_un_dsx_angk;
-					il_main = #3w_st_un_dsx_angk;
-					il_main = #st_un_seck_mage_dsx;
-				}
+				il_main = #hm_g_c_dsx_warmlt_avg:base;
+				il_main = #ax_d_d_dsx_goblin_mutant;
+				il_main = #st_g_c_dsx_mn_avg:base;
+				il_main = #st_g_c_dsx_smn_avg:base;
+				il_main = #ax_g_c_dsx_ptr_avg:base;
+				il_main = #ax_g_c_dsx_psc_avg:base;
+				il_main = #ax_g_c_dsx_pfk_avg:base;
+				il_main = #ax_g_c_dsx_png_avg:base;
+				il_main = #ax_g_c_dsx_pzc_avg:base;
+				il_main = #ax_g_c_dsx_pbd_avg:base;
+				il_main = #ax_g_c_dsx_pcl_avg:base;
+				il_main = #st_g_c_bl_1h_fun_nossirom_dsx;
+				il_main = #st_un_toreck_dsx;
+				il_main = #st_un_dsx_angk;
+				il_main = #2w_st_un_dsx_angk;
+				il_main = #3w_st_un_dsx_angk;
+				il_main = #st_un_seck_mage_dsx;
 			}
 		}
 	}
@@ -200,28 +188,25 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #bd_ch_f_g_c_avg_hassat_dsx:base;
-					il_main = #bd_le_f_g_c_avg_zaurask_dsx:base;
-					il_main = #bd_ba_f_g_c_avg_hassat_dsx:base;
-					il_main = #bd_le_f_g_c_avg_hassat_dsx:base;
-					il_main = #bd_ba_f_g_c_avg_zpad_dsx:base;
-					il_main = #bd_pl_f_g_c_avg_alloy_dsx:base;
-					il_main = #bd_le_f_g_c_avg_zcured_dsx:base;
-					il_main = #bd_pl_f_g_c_avg_utraean_dsx:base;
-					il_main = #bd_le_f_g_c_avg_dragon_dsx:base;
-					il_main = #bd_le_f_g_c_avg_nemean_dsx:base;
-					il_main = #bd_sc_f_g_c_avg_dragon_dsx:base;
-					il_main = #bd_bp_f_g_c_avg_alloy_dsx:base;
-					il_main = #bd_sl_f_g_c_avg_nemean_dsx:base;
-					il_main = #bd_pl_f_g_c_avg_alloy2_dsx:base;
-					il_main = #bd_pl_f_g_c_avg_dragon_dsx:base;
-					il_main = #bd_bp_f_g_c_avg_utraean_dsx:base;
-					il_main = #bd_bp_f_g_c_avg_alloy2_dsx:base;
-				}
+				il_main = #bd_ch_f_g_c_avg_hassat_dsx:base;
+				il_main = #bd_le_f_g_c_avg_zaurask_dsx:base;
+				il_main = #bd_ba_f_g_c_avg_hassat_dsx:base;
+				il_main = #bd_le_f_g_c_avg_hassat_dsx:base;
+				il_main = #bd_ba_f_g_c_avg_zpad_dsx:base;
+				il_main = #bd_pl_f_g_c_avg_alloy_dsx:base;
+				il_main = #bd_le_f_g_c_avg_zcured_dsx:base;
+				il_main = #bd_pl_f_g_c_avg_utraean_dsx:base;
+				il_main = #bd_le_f_g_c_avg_dragon_dsx:base;
+				il_main = #bd_le_f_g_c_avg_nemean_dsx:base;
+				il_main = #bd_sc_f_g_c_avg_dragon_dsx:base;
+				il_main = #bd_bp_f_g_c_avg_alloy_dsx:base;
+				il_main = #bd_sl_f_g_c_avg_nemean_dsx:base;
+				il_main = #bd_pl_f_g_c_avg_alloy2_dsx:base;
+				il_main = #bd_pl_f_g_c_avg_dragon_dsx:base;
+				il_main = #bd_bp_f_g_c_avg_utraean_dsx:base;
+				il_main = #bd_bp_f_g_c_avg_alloy2_dsx:base;
 			}
 		}
 	}
@@ -234,20 +219,17 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #bo_bo_sc_f_g_c_avg_alloy_dsx:base;
-					il_main = #bo_bo_sc_f_g_c_avg_alloy2_dsx:base;
-					il_main = #gl_ga_sc_f_g_c_avg_alloy_dsx:base;
-					il_main = #gl_ga_sc_f_g_c_avg_alloy2_dsx:base;
-					il_main = #he_op_pl_f_ofkhar_dsx;
-					il_main = #2w_he_op_pl_f_ofkhar_dsx;
-					il_main = #3w_he_op_pl_f_ofkhar_dsx;
-					il_main = #he_ca_pl_f_alloy_dsx:base;
-					il_main = #he_op_pl_f_allow_crown_dsx:base;
-				}
+				il_main = #bo_bo_sc_f_g_c_avg_alloy_dsx:base;
+				il_main = #bo_bo_sc_f_g_c_avg_alloy2_dsx:base;
+				il_main = #gl_ga_sc_f_g_c_avg_alloy_dsx:base;
+				il_main = #gl_ga_sc_f_g_c_avg_alloy2_dsx:base;
+				il_main = #he_op_pl_f_ofkhar_dsx;
+				il_main = #2w_he_op_pl_f_ofkhar_dsx;
+				il_main = #3w_he_op_pl_f_ofkhar_dsx;
+				il_main = #he_ca_pl_f_alloy_dsx:base;
+				il_main = #he_op_pl_f_allow_crown_dsx:base;
 			}
 		}
 	}
@@ -260,17 +242,14 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #sh_w_f_g_c_t_s_avg_deathknight_player;
-					il_main = #2w_sh_w_f_g_c_t_s_avg_deathknight_player;
-					il_main = #3w_sh_w_f_g_c_t_s_avg_deathknight_player;
-					il_main = #sh_w_f_g_c_t_s_avg_hide_hassat_dsx:base;
-					il_main = #sh_w_f_g_c_t_m_avg_hide_skelldra_dsx:base;
-					il_main = #sh_w_f_g_c_t_l_avg_hide_kraken_dsx:base;
-				}
+				il_main = #sh_w_f_g_c_t_s_avg_deathknight_player;
+				il_main = #2w_sh_w_f_g_c_t_s_avg_deathknight_player;
+				il_main = #3w_sh_w_f_g_c_t_s_avg_deathknight_player;
+				il_main = #sh_w_f_g_c_t_s_avg_hide_hassat_dsx:base;
+				il_main = #sh_w_f_g_c_t_m_avg_hide_skelldra_dsx:base;
+				il_main = #sh_w_f_g_c_t_l_avg_hide_kraken_dsx:base;
 			}
 		}
 	}
@@ -283,36 +262,33 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #bd_le_m_g_c_avg_woven_dsx:base;
-					il_main = #bd_le_m_g_c_avg_spider_dsx:base;
-					il_main = #bd_le_m_g_c_avg_crmech_dsx:base;
-					il_main = #bd_le_m_g_c_avg_ltmech_dsx:base;
-					il_main = #bd_le_m_g_c_avg_beaded_dsx:base;
-					il_main = #bd_le_m_g_c_avg_woven_reinforced_dsx:base;
-					il_main = #bd_le_m_g_c_avg_ceramic_dsx:base;
-					il_main = #bd_le_m_g_c_avg_mech_dsx:base;
-					il_main = #bd_le_m_g_c_avg_magesilk_dsx:base;
-					il_main = #bd_le_m_g_c_avg_recon_dsx:base;
-					il_main = #bd_le_m_g_c_avg_beaded2_dsx:base;
-					il_main = #bd_le_m_g_c_avg_spider_framed_dsx:base;
-					il_main = #bd_le_m_g_c_avg_hvmech_dsx:base;
-					il_main = #bd_pl_m_g_c_avg_hvelectric_dsx:base;
-					il_main = #bd_br_m_g_c_avg_recon_dsx:base;
-					il_main = #bd_le_m_g_c_avg_ceramic2_dsx:base;
-					il_main = #bd_pl_m_g_c_avg_recon_dsx:base;
-					il_main = #bd_bp_m_g_c_avg_recon_dsx:base;
-					il_main = #bd_ro_m_g_c_avg_woven_dsx:base;
-					il_main = #bd_ro_m_g_c_avg_spider_dsx:base;
-					il_main = #bd_ro_m_g_c_avg_rubber_dsx:base;
-					il_main = #bd_ro_m_g_c_avg_leaf_dsx:base;
-					il_main = #bd_ro_m_g_c_avg_cebead_dsx:base;
-					il_main = #bd_ro_m_g_c_avg_elbead_dsx:base;
-					il_main = #bd_ro_m_g_c_avg_hewoven_dsx:base;
-				}
+				il_main = #bd_le_m_g_c_avg_woven_dsx:base;
+				il_main = #bd_le_m_g_c_avg_spider_dsx:base;
+				il_main = #bd_le_m_g_c_avg_crmech_dsx:base;
+				il_main = #bd_le_m_g_c_avg_ltmech_dsx:base;
+				il_main = #bd_le_m_g_c_avg_beaded_dsx:base;
+				il_main = #bd_le_m_g_c_avg_woven_reinforced_dsx:base;
+				il_main = #bd_le_m_g_c_avg_ceramic_dsx:base;
+				il_main = #bd_le_m_g_c_avg_mech_dsx:base;
+				il_main = #bd_le_m_g_c_avg_magesilk_dsx:base;
+				il_main = #bd_le_m_g_c_avg_recon_dsx:base;
+				il_main = #bd_le_m_g_c_avg_beaded2_dsx:base;
+				il_main = #bd_le_m_g_c_avg_spider_framed_dsx:base;
+				il_main = #bd_le_m_g_c_avg_hvmech_dsx:base;
+				il_main = #bd_pl_m_g_c_avg_hvelectric_dsx:base;
+				il_main = #bd_br_m_g_c_avg_recon_dsx:base;
+				il_main = #bd_le_m_g_c_avg_ceramic2_dsx:base;
+				il_main = #bd_pl_m_g_c_avg_recon_dsx:base;
+				il_main = #bd_bp_m_g_c_avg_recon_dsx:base;
+				il_main = #bd_ro_m_g_c_avg_woven_dsx:base;
+				il_main = #bd_ro_m_g_c_avg_spider_dsx:base;
+				il_main = #bd_ro_m_g_c_avg_rubber_dsx:base;
+				il_main = #bd_ro_m_g_c_avg_leaf_dsx:base;
+				il_main = #bd_ro_m_g_c_avg_cebead_dsx:base;
+				il_main = #bd_ro_m_g_c_avg_elbead_dsx:base;
+				il_main = #bd_ro_m_g_c_avg_hewoven_dsx:base;
 			}
 		}
 	}
@@ -325,42 +301,39 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #bo_sh_sc_m_g_c_avg_woven_dsx:base;
-					il_main = #bo_bo_sc_m_g_c_avg_beaded_dsx:base;
-					il_main = #bo_bo_sc_m_g_c_avg_geared_dsx:base;
-					il_main = #bo_bo_sc_m_g_c_avg_ceramic_dsx:base;
-					il_main = #bo_bo_sc_m_g_c_avg_beaded2_dsx:base;
-					il_main = #bo_sh_sc_m_g_c_avg_woven2_dsx:base;
-					il_main = #bo_bo_sc_m_g_c_avg_ceramic2_dsx:base;
-					il_main = #bo_bo_sc_m_g_c_avg_geared2_dsx:base;
-					il_main = #gl_gl_sc_m_g_c_avg_woven_dsx:base;
-					il_main = #gl_ga_sc_m_g_c_avg_beaded_dsx:base;
-					il_main = #gl_ga_sc_m_g_c_avg_geared_dsx:base;
-					il_main = #gl_ga_sc_m_g_c_avg_beaded2_dsx:base;
-					il_main = #gl_ga_sc_m_g_c_avg_electric_dsx:base;
-					il_main = #gl_gl_sc_m_g_c_avg_woven2_dsx:base;
-					il_main = #gl_ga_sc_m_g_c_avg_electric2_dsx:base;
-					il_main = #he_op_pl_m_bone_crown_dsx:base;
-					il_main = #he_vi_pl_m_woven_headband_dsx:base;
-					il_main = #he_vi_pl_m_beaded_headband_dsx:base;
-					il_main = #he_fl_pl_m_woven_wrap_dsx:base;
-					il_main = #he_fl_pl_m_beaded_wrap_dsx:base;
-					il_main = #he_vi_pl_m_woven_headdress_dsx:base;
-					il_main = #he_op_pl_m_bone_headdress_dsx:base;
-					il_main = #he_vi_pl_m_ceramic_headband_dsx:base;
-					il_main = #he_vi_pl_m_beaded_headdress_dsx:base;
-					il_main = #he_vi_pl_m_spider_visor_dsx:base;
-					il_main = #he_ca_pl_m_spider_dsx:base;
-					il_main = #he_vi_pl_m_ceramic_headdress_dsx:base;
-					il_main = #he_op_pl_m_geared_crown_dsx:base;
-					il_main = #he_vi_pl_m_beaded_headband2_dsx:base;
-					il_main = #he_vi_pl_m_spider_visor2_dsx:base;
-					il_main = #he_vi_pl_m_ceramic_headdress2_dsx:base;
-				}
+				il_main = #bo_sh_sc_m_g_c_avg_woven_dsx:base;
+				il_main = #bo_bo_sc_m_g_c_avg_beaded_dsx:base;
+				il_main = #bo_bo_sc_m_g_c_avg_geared_dsx:base;
+				il_main = #bo_bo_sc_m_g_c_avg_ceramic_dsx:base;
+				il_main = #bo_bo_sc_m_g_c_avg_beaded2_dsx:base;
+				il_main = #bo_sh_sc_m_g_c_avg_woven2_dsx:base;
+				il_main = #bo_bo_sc_m_g_c_avg_ceramic2_dsx:base;
+				il_main = #bo_bo_sc_m_g_c_avg_geared2_dsx:base;
+				il_main = #gl_gl_sc_m_g_c_avg_woven_dsx:base;
+				il_main = #gl_ga_sc_m_g_c_avg_beaded_dsx:base;
+				il_main = #gl_ga_sc_m_g_c_avg_geared_dsx:base;
+				il_main = #gl_ga_sc_m_g_c_avg_beaded2_dsx:base;
+				il_main = #gl_ga_sc_m_g_c_avg_electric_dsx:base;
+				il_main = #gl_gl_sc_m_g_c_avg_woven2_dsx:base;
+				il_main = #gl_ga_sc_m_g_c_avg_electric2_dsx:base;
+				il_main = #he_op_pl_m_bone_crown_dsx:base;
+				il_main = #he_vi_pl_m_woven_headband_dsx:base;
+				il_main = #he_vi_pl_m_beaded_headband_dsx:base;
+				il_main = #he_fl_pl_m_woven_wrap_dsx:base;
+				il_main = #he_fl_pl_m_beaded_wrap_dsx:base;
+				il_main = #he_vi_pl_m_woven_headdress_dsx:base;
+				il_main = #he_op_pl_m_bone_headdress_dsx:base;
+				il_main = #he_vi_pl_m_ceramic_headband_dsx:base;
+				il_main = #he_vi_pl_m_beaded_headdress_dsx:base;
+				il_main = #he_vi_pl_m_spider_visor_dsx:base;
+				il_main = #he_ca_pl_m_spider_dsx:base;
+				il_main = #he_vi_pl_m_ceramic_headdress_dsx:base;
+				il_main = #he_op_pl_m_geared_crown_dsx:base;
+				il_main = #he_vi_pl_m_beaded_headband2_dsx:base;
+				il_main = #he_vi_pl_m_spider_visor2_dsx:base;
+				il_main = #he_vi_pl_m_ceramic_headdress2_dsx:base;
 			}
 		}
 	}
@@ -373,28 +346,25 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #sh_w_m_g_c_t_m_avg_bamboo_dsx:base;
-					il_main = #sh_w_m_g_c_t_m_avg_wicker_dsx:base;
-					il_main = #sh_w_m_g_c_t_m_avg_gearwork_dsx:base;
-					il_main = #sh_w_m_g_c_t_m_avg_ward_blood_dsx:base;
-					il_main = #sh_w_m_g_c_t_m_avg_mushroom_dsx:base;
-					il_main = #sh_w_m_g_c_t_m_avg_ward_rainbow_dsx:base;
-					il_main = #sh_w_m_g_c_t_m_avg_ward_sky_dsx:base;
-					il_main = #sh_ra_w_g_c_t_m_fin_mirror_dsx:base/+brilliant;
-					il_main = #sh_w_m_g_c_t_m_avg_tortoise_dsx:base;
-					il_main = #sh_w_m_g_c_t_m_avg_ceramic_dsx:base;
-					il_main = #sh_w_m_g_c_t_m_avg_clockface_dsx:base;
-					il_main = #sh_w_m_g_c_t_m_avg_spider_dsx:base;
-					il_main = #sh_w_m_g_c_t_m_avg_ward_sun_dsx:base;
-					il_main = #sh_w_m_g_c_t_m_avg_ward_blood2_dsx:base;
-					il_main = #sh_w_m_g_c_t_m_avg_ward_sky2_dsx:base;
-					il_main = #sh_w_m_g_c_t_m_avg_ward_stars_dsx:base;
-					il_main = #sh_w_m_g_c_t_m_avg_ward_sun2_dsx:base;
-				}
+				il_main = #sh_w_m_g_c_t_m_avg_bamboo_dsx:base;
+				il_main = #sh_w_m_g_c_t_m_avg_wicker_dsx:base;
+				il_main = #sh_w_m_g_c_t_m_avg_gearwork_dsx:base;
+				il_main = #sh_w_m_g_c_t_m_avg_ward_blood_dsx:base;
+				il_main = #sh_w_m_g_c_t_m_avg_mushroom_dsx:base;
+				il_main = #sh_w_m_g_c_t_m_avg_ward_rainbow_dsx:base;
+				il_main = #sh_w_m_g_c_t_m_avg_ward_sky_dsx:base;
+				il_main = #sh_ra_w_g_c_t_m_fin_mirror_dsx:base/+brilliant;
+				il_main = #sh_w_m_g_c_t_m_avg_tortoise_dsx:base;
+				il_main = #sh_w_m_g_c_t_m_avg_ceramic_dsx:base;
+				il_main = #sh_w_m_g_c_t_m_avg_clockface_dsx:base;
+				il_main = #sh_w_m_g_c_t_m_avg_spider_dsx:base;
+				il_main = #sh_w_m_g_c_t_m_avg_ward_sun_dsx:base;
+				il_main = #sh_w_m_g_c_t_m_avg_ward_blood2_dsx:base;
+				il_main = #sh_w_m_g_c_t_m_avg_ward_sky2_dsx:base;
+				il_main = #sh_w_m_g_c_t_m_avg_ward_stars_dsx:base;
+				il_main = #sh_w_m_g_c_t_m_avg_ward_sun2_dsx:base;
 			}
 		}
 	}
@@ -407,16 +377,13 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #st_g_c_dsx_cry_avg:base;
-					il_main = #st_g_c_dsx_jad_avg:base;
-					il_main = #st_g_c_dsx_ltn_avg:base;
-					il_main = #st_g_c_dsx_hst_avg:base;
-					il_main = #st_g_c_dsx_bar_avg:base;
-				}
+				il_main = #st_g_c_dsx_cry_avg:base;
+				il_main = #st_g_c_dsx_jad_avg:base;
+				il_main = #st_g_c_dsx_ltn_avg:base;
+				il_main = #st_g_c_dsx_hst_avg:base;
+				il_main = #st_g_c_dsx_bar_avg:base;
 			}
 		}
 	}
@@ -429,31 +396,28 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #bd_br_r_g_c_avg_culeaf_dsx:base;
-					il_main = #bd_br_r_g_c_avg_rubber_dsx:base;
-					il_main = #bd_br_r_g_c_avg_hassat_dsx:base;
-					il_main = #bd_br_r_g_c_avg_bark_dsx:base;
-					il_main = #bd_br_r_g_c_avg_flywing_dsx:base;
-					il_main = #bd_br_r_g_c_avg_laleaf_dsx:base;
-					il_main = #bd_br_r_g_c_avg_zaurask_dsx:base;
-					il_main = #bd_br_r_g_c_avg_thessic_dsx:base;
-					il_main = #bd_br_r_g_c_avg_bug_dsx:base;
-					il_main = #bd_br_r_g_c_avg_knleaf_dsx:base;
-					il_main = #bd_br_r_g_c_avg_releaf_dsx:base;
-					il_main = #bd_br_r_g_c_avg_artbug_dsx:base;
-					il_main = #bd_br_r_g_c_avg_hvrubber_dsx:base;
-					il_main = #bd_br_r_g_c_avg_chitter_dsx:base;
-					il_main = #bd_pl_r_g_c_avg_flywing_dsx:base;
-					il_main = #bd_le_r_g_c_avg_arbor_dsx:base;
-					il_main = #bd_sc_r_g_c_avg_exo_dsx:base;
-					il_main = #bd_ch_r_g_c_avg_arbor_dsx:base;
-					il_main = #bd_ba_r_g_c_avg_midnight_dsx:base;
-					il_main = #bd_bp_r_g_c_avg_arbor_dsx:base;
-				}
+				il_main = #bd_br_r_g_c_avg_culeaf_dsx:base;
+				il_main = #bd_br_r_g_c_avg_rubber_dsx:base;
+				il_main = #bd_br_r_g_c_avg_hassat_dsx:base;
+				il_main = #bd_br_r_g_c_avg_bark_dsx:base;
+				il_main = #bd_br_r_g_c_avg_flywing_dsx:base;
+				il_main = #bd_br_r_g_c_avg_laleaf_dsx:base;
+				il_main = #bd_br_r_g_c_avg_zaurask_dsx:base;
+				il_main = #bd_br_r_g_c_avg_thessic_dsx:base;
+				il_main = #bd_br_r_g_c_avg_bug_dsx:base;
+				il_main = #bd_br_r_g_c_avg_knleaf_dsx:base;
+				il_main = #bd_br_r_g_c_avg_releaf_dsx:base;
+				il_main = #bd_br_r_g_c_avg_artbug_dsx:base;
+				il_main = #bd_br_r_g_c_avg_hvrubber_dsx:base;
+				il_main = #bd_br_r_g_c_avg_chitter_dsx:base;
+				il_main = #bd_pl_r_g_c_avg_flywing_dsx:base;
+				il_main = #bd_le_r_g_c_avg_arbor_dsx:base;
+				il_main = #bd_sc_r_g_c_avg_exo_dsx:base;
+				il_main = #bd_ch_r_g_c_avg_arbor_dsx:base;
+				il_main = #bd_ba_r_g_c_avg_midnight_dsx:base;
+				il_main = #bd_bp_r_g_c_avg_arbor_dsx:base;
 			}
 		}
 	}
@@ -466,34 +430,31 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #bw_dsx_cicatrix_skeleton;
-					il_main = #bw_dsx_zau_2_d;
-					il_main = #bw_dsx_zau_2_c;
-					il_main = #bw_un_droog_avg_dsx;
-					il_main = #bw_dsx_hassat_01;
-					il_main = #bw_dsx_hassat_02;
-					il_main = #bw_dsx_hassat_03;
-					il_main = #bw_dsx_zaurask_2_b;
-					il_main = #bw_dsx_zau_2_b;
-					il_main = #bw_g_c_s_s_r_avg_dsx;
-					il_main = #bw_dsx_zau_2;
-					il_main = #bw_dsx_zau_2_a;
-					il_main = #bw_dsx_rune_caster;
-					il_main = #bw_dsx_hassat;
-					il_main = #bw_g_c_dsx_nat_avg:base;
-					il_main = #bw_g_c_dsx_cry_avg:base;
-					il_main = #bw_g_c_dsx_fir_avg:base;
-					il_main = #bw_g_c_dsx_hst_avg:base;
-					il_main = #bw_g_c_dsx_jwl_avg:base;
-					il_main = #bw_g_c_dsx_ltn_avg:base;
-					il_main = #bw_g_c_dsx_qll_avg:base;
-					il_main = #bw_g_c_dsx_shd_avg:base;
-					il_main = #bw_g_c_dsx_spd_avg:base;
-				}
+				il_main = #bw_dsx_cicatrix_skeleton;
+				il_main = #bw_dsx_zau_2_d;
+				il_main = #bw_dsx_zau_2_c;
+				il_main = #bw_un_droog_avg_dsx;
+				il_main = #bw_dsx_hassat_01;
+				il_main = #bw_dsx_hassat_02;
+				il_main = #bw_dsx_hassat_03;
+				il_main = #bw_dsx_zaurask_2_b;
+				il_main = #bw_dsx_zau_2_b;
+				il_main = #bw_g_c_s_s_r_avg_dsx;
+				il_main = #bw_dsx_zau_2;
+				il_main = #bw_dsx_zau_2_a;
+				il_main = #bw_dsx_rune_caster;
+				il_main = #bw_dsx_hassat;
+				il_main = #bw_g_c_dsx_nat_avg:base;
+				il_main = #bw_g_c_dsx_cry_avg:base;
+				il_main = #bw_g_c_dsx_fir_avg:base;
+				il_main = #bw_g_c_dsx_hst_avg:base;
+				il_main = #bw_g_c_dsx_jwl_avg:base;
+				il_main = #bw_g_c_dsx_ltn_avg:base;
+				il_main = #bw_g_c_dsx_qll_avg:base;
+				il_main = #bw_g_c_dsx_shd_avg:base;
+				il_main = #bw_g_c_dsx_spd_avg:base;
 			}
 		}
 	}
@@ -506,21 +467,18 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #dsx_minigun_dragon;
-					il_main = #dsx_minigun_flamethrower;
-					il_main = #dsx_minigun_flamethrower2;
-					il_main = #dsx_minigun_grenade_launcher;
-					il_main = #dsx_gobbot_grenade_launcher;
-					il_main = #dsx_minigun_lightning;
-					il_main = #minigun_napalm;
-					il_main = #minigun_gas;
-					il_main = #cw_g_c_dsx_bon_avg:base;
-					il_main = #cw_g_c_dsx_clk_avg:base;
-				}
+				il_main = #dsx_minigun_dragon;
+				il_main = #dsx_minigun_flamethrower;
+				il_main = #dsx_minigun_flamethrower2;
+				il_main = #dsx_minigun_grenade_launcher;
+				il_main = #dsx_gobbot_grenade_launcher;
+				il_main = #dsx_minigun_lightning;
+				il_main = #minigun_napalm;
+				il_main = #minigun_gas;
+				il_main = #cw_g_c_dsx_bon_avg:base;
+				il_main = #cw_g_c_dsx_clk_avg:base;
 			}
 		}
 	}
@@ -533,37 +491,34 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #bo_sh_sc_r_g_c_avg_rubber_dsx:base;
-					il_main = #bo_bo_sc_r_g_c_avg_flywing_dsx:base;
-					il_main = #bo_sh_sc_r_g_c_avg_bug_dsx:base;
-					il_main = #bo_bo_sc_r_g_c_avg_rubber_dsx:base;
-					il_main = #bo_sh_sc_r_g_c_avg_flywing_dsx:base;
-					il_main = #bo_sh_sc_r_g_c_avg_bug2_dsx:base;
-					il_main = #bo_sh_sc_r_g_c_avg_rubber2_dsx:base;
-					il_main = #bo_sh_sc_r_g_c_avg_flywing2_dsx:base;
-					il_main = #gl_gl_sc_r_g_c_avg_leaf_dsx:base;
-					il_main = #gl_ra_ga_m_ba_f_g_c_fin_starfield_dsx:base/+brilliant;
-					il_main = #gl_gl_sc_r_g_c_avg_flywing_dsx:base;
-					il_main = #gl_gl_sc_r_g_c_avg_shell_dsx:base;
-					il_main = #gl_gl_sc_r_g_c_avg_rubber_dsx:base;
-					il_main = #gl_ga_sc_r_g_c_avg_flywing_dsx:base;
-					il_main = #gl_gl_sc_r_g_c_avg_shell2_dsx:base;
-					il_main = #gl_gl_sc_r_g_c_avg_rubber2_dsx:base;
-					il_main = #gl_gl_sc_r_g_c_avg_leaf2_dsx:base;
-					il_main = #he_vi_pl_r_leaf_visor_dsx:base;
-					il_main = #he_vi_pl_r_zaurask_headdress_dsx:base;
-					il_main = #he_vi_pl_r_flywing_visor_dsx:base;
-					il_main = #he_vi_pl_r_rubber_visor_dsx:base;
-					il_main = #he_op_pl_r_flywing_crown_dsx:base;
-					il_main = #he_op_pl_r_zaurask_crown_dsx:base;
-					il_main = #he_vi_pl_r_flywing_visor2_dsx:base;
-					il_main = #he_vi_pl_r_rubber_visor2_dsx:base;
-					il_main = #he_op_pl_r_flywing_crown2_dsx:base;
-				}
+				il_main = #bo_sh_sc_r_g_c_avg_rubber_dsx:base;
+				il_main = #bo_bo_sc_r_g_c_avg_flywing_dsx:base;
+				il_main = #bo_sh_sc_r_g_c_avg_bug_dsx:base;
+				il_main = #bo_bo_sc_r_g_c_avg_rubber_dsx:base;
+				il_main = #bo_sh_sc_r_g_c_avg_flywing_dsx:base;
+				il_main = #bo_sh_sc_r_g_c_avg_bug2_dsx:base;
+				il_main = #bo_sh_sc_r_g_c_avg_rubber2_dsx:base;
+				il_main = #bo_sh_sc_r_g_c_avg_flywing2_dsx:base;
+				il_main = #gl_gl_sc_r_g_c_avg_leaf_dsx:base;
+				il_main = #gl_ra_ga_m_ba_f_g_c_fin_starfield_dsx:base/+brilliant;
+				il_main = #gl_gl_sc_r_g_c_avg_flywing_dsx:base;
+				il_main = #gl_gl_sc_r_g_c_avg_shell_dsx:base;
+				il_main = #gl_gl_sc_r_g_c_avg_rubber_dsx:base;
+				il_main = #gl_ga_sc_r_g_c_avg_flywing_dsx:base;
+				il_main = #gl_gl_sc_r_g_c_avg_shell2_dsx:base;
+				il_main = #gl_gl_sc_r_g_c_avg_rubber2_dsx:base;
+				il_main = #gl_gl_sc_r_g_c_avg_leaf2_dsx:base;
+				il_main = #he_vi_pl_r_leaf_visor_dsx:base;
+				il_main = #he_vi_pl_r_zaurask_headdress_dsx:base;
+				il_main = #he_vi_pl_r_flywing_visor_dsx:base;
+				il_main = #he_vi_pl_r_rubber_visor_dsx:base;
+				il_main = #he_op_pl_r_flywing_crown_dsx:base;
+				il_main = #he_op_pl_r_zaurask_crown_dsx:base;
+				il_main = #he_vi_pl_r_flywing_visor2_dsx:base;
+				il_main = #he_vi_pl_r_rubber_visor2_dsx:base;
+				il_main = #he_op_pl_r_flywing_crown2_dsx:base;
 			}
 		}
 	}
@@ -576,24 +531,21 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #sh_w_r_g_c_t_m_avg_tangled_bucker_dsx:base;
-					il_main = #sh_w_r_g_c_t_m_avg_barrier_flywing_dsx:base;
-					il_main = #sh_w_r_g_c_t_m_avg_bug_dsx:base;
-					il_main = #sh_w_r_g_c_t_m_avg_wall_bark_dsx:base;
-					il_main = #sh_w_r_g_c_t_m_avg_barrier_leaf_dsx:base;
-					il_main = #sh_w_r_g_c_t_m_avg_wall_flywing_dsx:base;
-					il_main = #sh_w_r_g_c_t_m_avg_bug2_dsx:base;
-					il_main = #sh_w_g_c_t_m_avg_tangled_bucker2_dsx:base;
-					il_main = #sh_w_r_g_c_t_m_avg_fan_woven_dsx:base;
-					il_main = #sh_w_r_g_c_t_m_avg_fan_beaded_dsx:base;
-					il_main = #sh_w_r_g_c_t_m_avg_fan_spider_dsx:base;
-					il_main = #sh_w_r_g_c_t_m_avg_fan_feathered_dsx:base;
-					il_main = #sh_w_r_g_c_t_m_avg_fan_beaded2_dsx:base;
-				}
+				il_main = #sh_w_r_g_c_t_m_avg_tangled_bucker_dsx:base;
+				il_main = #sh_w_r_g_c_t_m_avg_barrier_flywing_dsx:base;
+				il_main = #sh_w_r_g_c_t_m_avg_bug_dsx:base;
+				il_main = #sh_w_r_g_c_t_m_avg_wall_bark_dsx:base;
+				il_main = #sh_w_r_g_c_t_m_avg_barrier_leaf_dsx:base;
+				il_main = #sh_w_r_g_c_t_m_avg_wall_flywing_dsx:base;
+				il_main = #sh_w_r_g_c_t_m_avg_bug2_dsx:base;
+				il_main = #sh_w_g_c_t_m_avg_tangled_bucker2_dsx:base;
+				il_main = #sh_w_r_g_c_t_m_avg_fan_woven_dsx:base;
+				il_main = #sh_w_r_g_c_t_m_avg_fan_beaded_dsx:base;
+				il_main = #sh_w_r_g_c_t_m_avg_fan_spider_dsx:base;
+				il_main = #sh_w_r_g_c_t_m_avg_fan_feathered_dsx:base;
+				il_main = #sh_w_r_g_c_t_m_avg_fan_beaded2_dsx:base;
 			}
 		}
 	}

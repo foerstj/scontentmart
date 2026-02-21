@@ -8,17 +8,14 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					{% for item in data if item['SCM Shop'] == shop %}
-					{% set variants = [':'+v for v in item['Variants'].split(', ')] if item['Variants'] else [''] %}
-					{% for variant in variants %}
-					il_main = #{{ item['Template'] }}{{ variant }}{% if item['Rarity'] == 'rare' %}/+brilliant{% endif %};
-					{% endfor %}
-					{% endfor %}
-				}
+				{% for item in data if item['SCM Shop'] == shop %}
+				{% set variants = [':'+v for v in item['Variants'].split(', ')] if item['Variants'] else [''] %}
+				{% for variant in variants %}
+				il_main = #{{ item['Template'] }}{{ variant }}{% if item['Rarity'] == 'rare' %}/+brilliant{% endif %};
+				{% endfor %}
+				{% endfor %}
 			}
 		}
 	}

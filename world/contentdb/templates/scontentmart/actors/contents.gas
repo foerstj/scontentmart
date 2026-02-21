@@ -6,44 +6,41 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #ax_carnage:base;
-					il_main = #ax_d_c_2h1b_avg:base;
-					il_main = #ax_d_c_2h2b_avg:base;
-					il_main = #ax_d_d_2h1b_avg:base;
-					il_main = #ax_d_d_2h2b_avg:base;
-					il_main = #ax_d_o_2h1b_avg:base;
-					il_main = #ax_d_o_2h2b_avg:base;
-					il_main = #ax_g_c_2h1b_avg:base;
-					il_main = #ax_g_c_2h1b_avg:c_fin;
-					il_main = #ax_g_c_2h1b_avg:c_mag;
-					il_main = #ax_g_c_2h1b_avg:c_str;
-					il_main = #ax_g_c_2h1b_avg:o_avg;
-					il_main = #ax_g_c_2h1b_avg:o_fin;
-					il_main = #ax_g_c_2h1b_avg:o_mag;
-					il_main = #ax_g_c_2h1b_avg:o_str;
-					il_main = #ax_g_c_2h1b_fun;
-					il_main = #ax_g_c_2h1b_low;
-					il_main = #ax_g_c_2h2b_avg:base;
-					il_main = #ax_g_c_2h2b_avg:c_fin;
-					il_main = #ax_g_c_2h2b_avg:c_mag;
-					il_main = #ax_g_c_2h2b_avg:c_str;
-					il_main = #ax_g_c_2h2b_avg:o_avg;
-					il_main = #ax_g_c_2h2b_avg:o_fin;
-					il_main = #ax_g_c_2h2b_avg:o_mag;
-					il_main = #ax_g_c_2h2b_avg:o_str;
-					il_main = #ax_g_c_2h2b_fun;
-					il_main = #ax_g_c_2h2b_low;
-					il_main = #ax_g_d_2h1b_avg;
-					il_main = #ax_g_d_2h2b_avg;
-					il_main = #ax_g_o_2h1b_fun;
-					il_main = #ax_g_o_2h1b_low;
-					il_main = #ax_g_o_2h2b_fun;
-					il_main = #ax_g_o_2h2b_low;
-				}
+				il_main = #ax_carnage:base;
+				il_main = #ax_d_c_2h1b_avg:base;
+				il_main = #ax_d_c_2h2b_avg:base;
+				il_main = #ax_d_d_2h1b_avg:base;
+				il_main = #ax_d_d_2h2b_avg:base;
+				il_main = #ax_d_o_2h1b_avg:base;
+				il_main = #ax_d_o_2h2b_avg:base;
+				il_main = #ax_g_c_2h1b_avg:base;
+				il_main = #ax_g_c_2h1b_avg:c_fin;
+				il_main = #ax_g_c_2h1b_avg:c_mag;
+				il_main = #ax_g_c_2h1b_avg:c_str;
+				il_main = #ax_g_c_2h1b_avg:o_avg;
+				il_main = #ax_g_c_2h1b_avg:o_fin;
+				il_main = #ax_g_c_2h1b_avg:o_mag;
+				il_main = #ax_g_c_2h1b_avg:o_str;
+				il_main = #ax_g_c_2h1b_fun;
+				il_main = #ax_g_c_2h1b_low;
+				il_main = #ax_g_c_2h2b_avg:base;
+				il_main = #ax_g_c_2h2b_avg:c_fin;
+				il_main = #ax_g_c_2h2b_avg:c_mag;
+				il_main = #ax_g_c_2h2b_avg:c_str;
+				il_main = #ax_g_c_2h2b_avg:o_avg;
+				il_main = #ax_g_c_2h2b_avg:o_fin;
+				il_main = #ax_g_c_2h2b_avg:o_mag;
+				il_main = #ax_g_c_2h2b_avg:o_str;
+				il_main = #ax_g_c_2h2b_fun;
+				il_main = #ax_g_c_2h2b_low;
+				il_main = #ax_g_d_2h1b_avg;
+				il_main = #ax_g_d_2h2b_avg;
+				il_main = #ax_g_o_2h1b_fun;
+				il_main = #ax_g_o_2h1b_low;
+				il_main = #ax_g_o_2h2b_fun;
+				il_main = #ax_g_o_2h2b_low;
 			}
 		}
 	}
@@ -56,23 +53,20 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #ax_ra_g_c_2h1b_fin:base/+brilliant;
-					il_main = #ax_ra_g_c_2h1b_fin:c_mag/+brilliant;
-					il_main = #ax_ra_g_c_2h1b_fin:o_fin/+brilliant;
-					il_main = #ax_ra_g_c_2h1b_fin:o_str/+brilliant;
-					il_main = #ax_ra_g_c_2h2b_fin:base/+brilliant;
-					il_main = #ax_ra_g_c_2h2b_fin:c_mag/+brilliant;
-					il_main = #ax_ra_g_c_2h2b_fin:c_str/+brilliant;
-					il_main = #ax_ra_g_c_2h2b_fin:o_avg/+brilliant;
-					il_main = #ax_ra_g_c_2h2b_fin:o_fin/+brilliant;
-					il_main = #ax_ra_g_c_2h2b_fin:o_str/+brilliant;
-					il_main = #ax_un_2h1b_darkblood;
-					il_main = #ax_un_g_c_2h2b_str:base;
-				}
+				il_main = #ax_ra_g_c_2h1b_fin:base/+brilliant;
+				il_main = #ax_ra_g_c_2h1b_fin:c_mag/+brilliant;
+				il_main = #ax_ra_g_c_2h1b_fin:o_fin/+brilliant;
+				il_main = #ax_ra_g_c_2h1b_fin:o_str/+brilliant;
+				il_main = #ax_ra_g_c_2h2b_fin:base/+brilliant;
+				il_main = #ax_ra_g_c_2h2b_fin:c_mag/+brilliant;
+				il_main = #ax_ra_g_c_2h2b_fin:c_str/+brilliant;
+				il_main = #ax_ra_g_c_2h2b_fin:o_avg/+brilliant;
+				il_main = #ax_ra_g_c_2h2b_fin:o_fin/+brilliant;
+				il_main = #ax_ra_g_c_2h2b_fin:o_str/+brilliant;
+				il_main = #ax_un_2h1b_darkblood;
+				il_main = #ax_un_g_c_2h2b_str:base;
 			}
 		}
 	}
@@ -85,38 +79,35 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #ax_d_c_1h1b_avg:base;
-					il_main = #ax_d_d_1h1b_avg;
-					il_main = #ax_d_o_1h1b_avg:base;
-					il_main = #ax_g_c_1h1b_avg:base;
-					il_main = #ax_g_c_1h1b_avg:c_fin;
-					il_main = #ax_g_c_1h1b_avg:c_mag;
-					il_main = #ax_g_c_1h1b_avg:c_str;
-					il_main = #ax_g_c_1h1b_avg:o_avg;
-					il_main = #ax_g_c_1h1b_avg:o_fin;
-					il_main = #ax_g_c_1h1b_avg:o_mag;
-					il_main = #ax_g_c_1h1b_avg:o_str;
-					il_main = #ax_g_c_1h1b_fun;
-					il_main = #ax_g_c_1h1b_low;
-					il_main = #ax_g_c_1h2b_avg:base;
-					il_main = #ax_g_c_1h2b_avg:c_fin;
-					il_main = #ax_g_c_1h2b_avg:c_mag;
-					il_main = #ax_g_c_1h2b_avg:c_str;
-					il_main = #ax_g_c_1h2b_avg:o_avg;
-					il_main = #ax_g_c_1h2b_avg:o_fin;
-					il_main = #ax_g_c_1h2b_avg:o_mag;
-					il_main = #ax_g_c_1h2b_avg:o_str;
-					il_main = #ax_g_c_1h2b_fun;
-					il_main = #ax_g_c_1h2b_low;
-					il_main = #ax_g_d_1h1b_avg;
-					il_main = #ax_g_o_1h1b_fun;
-					il_main = #ax_g_o_1h2b_fun;
-					il_main = #ax_g_o_1h2b_low;
-				}
+				il_main = #ax_d_c_1h1b_avg:base;
+				il_main = #ax_d_d_1h1b_avg;
+				il_main = #ax_d_o_1h1b_avg:base;
+				il_main = #ax_g_c_1h1b_avg:base;
+				il_main = #ax_g_c_1h1b_avg:c_fin;
+				il_main = #ax_g_c_1h1b_avg:c_mag;
+				il_main = #ax_g_c_1h1b_avg:c_str;
+				il_main = #ax_g_c_1h1b_avg:o_avg;
+				il_main = #ax_g_c_1h1b_avg:o_fin;
+				il_main = #ax_g_c_1h1b_avg:o_mag;
+				il_main = #ax_g_c_1h1b_avg:o_str;
+				il_main = #ax_g_c_1h1b_fun;
+				il_main = #ax_g_c_1h1b_low;
+				il_main = #ax_g_c_1h2b_avg:base;
+				il_main = #ax_g_c_1h2b_avg:c_fin;
+				il_main = #ax_g_c_1h2b_avg:c_mag;
+				il_main = #ax_g_c_1h2b_avg:c_str;
+				il_main = #ax_g_c_1h2b_avg:o_avg;
+				il_main = #ax_g_c_1h2b_avg:o_fin;
+				il_main = #ax_g_c_1h2b_avg:o_mag;
+				il_main = #ax_g_c_1h2b_avg:o_str;
+				il_main = #ax_g_c_1h2b_fun;
+				il_main = #ax_g_c_1h2b_low;
+				il_main = #ax_g_d_1h1b_avg;
+				il_main = #ax_g_o_1h1b_fun;
+				il_main = #ax_g_o_1h2b_fun;
+				il_main = #ax_g_o_1h2b_low;
 			}
 		}
 	}
@@ -129,23 +120,20 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #ax_g_o_1h1b_low;
-					il_main = #ax_ra_g_c_1h1b_fin:base/+brilliant;
-					il_main = #ax_ra_g_c_1h1b_fin:o_fin/+brilliant;
-					il_main = #ax_ra_g_c_1h1b_fin:o_mag/+brilliant;
-					il_main = #ax_ra_g_c_1h1b_fin:o_str/+brilliant;
-					il_main = #ax_ra_g_c_1h2b_fin:base/+brilliant;
-					il_main = #ax_ra_g_c_1h2b_fin:c_mag/+brilliant;
-					il_main = #ax_ra_g_c_1h2b_fin:c_str/+brilliant;
-					il_main = #ax_ra_g_c_1h2b_fin:o_fin/+brilliant;
-					il_main = #ax_ra_g_c_1h2b_fin:o_str/+brilliant;
-					il_main = #ax_un_g_c_1h1b_str:base;
-					il_main = #ax_un_g_c_1h2b_str:base;
-				}
+				il_main = #ax_g_o_1h1b_low;
+				il_main = #ax_ra_g_c_1h1b_fin:base/+brilliant;
+				il_main = #ax_ra_g_c_1h1b_fin:o_fin/+brilliant;
+				il_main = #ax_ra_g_c_1h1b_fin:o_mag/+brilliant;
+				il_main = #ax_ra_g_c_1h1b_fin:o_str/+brilliant;
+				il_main = #ax_ra_g_c_1h2b_fin:base/+brilliant;
+				il_main = #ax_ra_g_c_1h2b_fin:c_mag/+brilliant;
+				il_main = #ax_ra_g_c_1h2b_fin:c_str/+brilliant;
+				il_main = #ax_ra_g_c_1h2b_fin:o_fin/+brilliant;
+				il_main = #ax_ra_g_c_1h2b_fin:o_str/+brilliant;
+				il_main = #ax_un_g_c_1h1b_str:base;
+				il_main = #ax_un_g_c_1h2b_str:base;
 			}
 		}
 	}
@@ -158,64 +146,61 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #bd_ch_f_g_c_avg:base;
-					il_main = #bd_ch_f_g_c_avg:c_fin;
-					il_main = #bd_ch_f_g_c_avg:c_str;
-					il_main = #bd_ch_f_g_c_avg:o_fin;
-					il_main = #bd_ch_f_g_c_fun:base;
-					il_main = #bd_ch_f_g_c_low:base;
-					il_main = #bd_sc_f_g_c_avg:base;
-					il_main = #bd_sc_f_g_c_avg:c_str;
-					il_main = #bd_sc_f_g_c_avg:o_fin;
-					il_main = #bd_sc_f_g_c_avg:o_mag;
-					il_main = #bd_sc_f_g_c_avg:o_str;
-					il_main = #bd_sc_f_g_c_fun:base;
-					il_main = #bd_sc_f_g_o_low:base;
-					il_main = #bd_bl_f_g_c_avg:base;
-					il_main = #bd_bl_f_g_c_avg:c_str;
-					il_main = #bd_bl_f_g_c_avg:o_fin;
-					il_main = #bd_bl_f_g_c_fun;
-					il_main = #bd_bl_f_g_c_low;
-					il_main = #bd_le_f_g_c_avg:base;
-					il_main = #bd_le_f_g_c_avg:c_fin;
-					il_main = #bd_le_f_g_c_avg:o_fin;
-					il_main = #bd_le_f_g_c_fun;
-					il_main = #bd_le_f_g_c_low;
-					il_main = #bd_sl_f_g_c_avg:base;
-					il_main = #bd_sl_f_g_c_avg:c_str;
-					il_main = #bd_sl_f_g_c_avg:o_fin;
-					il_main = #bd_sl_f_g_c_fun;
-					il_main = #bd_ba_f_g_c_avg:base;
-					il_main = #bd_ba_f_g_c_avg:o_fin;
-					il_main = #bd_ba_f_g_c_avg:o_mag;
-					il_main = #bd_ba_f_g_c_avg:o_str;
-					il_main = #bd_ba_f_g_c_fun:base;
-					il_main = #bd_ba_f_g_c_low;
-					il_main = #bd_bp_f_g_c_avg:base;
-					il_main = #bd_bp_f_g_c_avg:c_fin;
-					il_main = #bd_bp_f_g_c_avg:c_str;
-					il_main = #bd_bp_f_g_c_avg:o_mag;
-					il_main = #bd_bp_f_g_c_avg:o_str;
-					il_main = #bd_bp_f_g_c_fun;
-					il_main = #bd_br_f_g_c_avg:base;
-					il_main = #bd_br_f_g_c_avg:c_str;
-					il_main = #bd_br_f_g_c_avg:o_fin;
-					il_main = #bd_br_f_g_c_low;
-					il_main = #bd_fp_f_g_c_avg:base;
-					il_main = #bd_fp_f_g_c_avg:c_str;
-					il_main = #bd_fp_f_g_c_avg:o_fin;
-					il_main = #bd_fp_f_g_c_avg:o_mag;
-					il_main = #bd_fp_f_g_c_avg:o_str;
-					il_main = #bd_fp_f_g_c_fun;
-					il_main = #bd_pl_f_g_c_avg:base;
-					il_main = #bd_pl_f_g_c_avg:c_fin;
-					il_main = #bd_pl_f_g_c_fun;
-					il_main = #bd_pl_f_g_c_low;
-				}
+				il_main = #bd_ch_f_g_c_avg:base;
+				il_main = #bd_ch_f_g_c_avg:c_fin;
+				il_main = #bd_ch_f_g_c_avg:c_str;
+				il_main = #bd_ch_f_g_c_avg:o_fin;
+				il_main = #bd_ch_f_g_c_fun:base;
+				il_main = #bd_ch_f_g_c_low:base;
+				il_main = #bd_sc_f_g_c_avg:base;
+				il_main = #bd_sc_f_g_c_avg:c_str;
+				il_main = #bd_sc_f_g_c_avg:o_fin;
+				il_main = #bd_sc_f_g_c_avg:o_mag;
+				il_main = #bd_sc_f_g_c_avg:o_str;
+				il_main = #bd_sc_f_g_c_fun:base;
+				il_main = #bd_sc_f_g_o_low:base;
+				il_main = #bd_bl_f_g_c_avg:base;
+				il_main = #bd_bl_f_g_c_avg:c_str;
+				il_main = #bd_bl_f_g_c_avg:o_fin;
+				il_main = #bd_bl_f_g_c_fun;
+				il_main = #bd_bl_f_g_c_low;
+				il_main = #bd_le_f_g_c_avg:base;
+				il_main = #bd_le_f_g_c_avg:c_fin;
+				il_main = #bd_le_f_g_c_avg:o_fin;
+				il_main = #bd_le_f_g_c_fun;
+				il_main = #bd_le_f_g_c_low;
+				il_main = #bd_sl_f_g_c_avg:base;
+				il_main = #bd_sl_f_g_c_avg:c_str;
+				il_main = #bd_sl_f_g_c_avg:o_fin;
+				il_main = #bd_sl_f_g_c_fun;
+				il_main = #bd_ba_f_g_c_avg:base;
+				il_main = #bd_ba_f_g_c_avg:o_fin;
+				il_main = #bd_ba_f_g_c_avg:o_mag;
+				il_main = #bd_ba_f_g_c_avg:o_str;
+				il_main = #bd_ba_f_g_c_fun:base;
+				il_main = #bd_ba_f_g_c_low;
+				il_main = #bd_bp_f_g_c_avg:base;
+				il_main = #bd_bp_f_g_c_avg:c_fin;
+				il_main = #bd_bp_f_g_c_avg:c_str;
+				il_main = #bd_bp_f_g_c_avg:o_mag;
+				il_main = #bd_bp_f_g_c_avg:o_str;
+				il_main = #bd_bp_f_g_c_fun;
+				il_main = #bd_br_f_g_c_avg:base;
+				il_main = #bd_br_f_g_c_avg:c_str;
+				il_main = #bd_br_f_g_c_avg:o_fin;
+				il_main = #bd_br_f_g_c_low;
+				il_main = #bd_fp_f_g_c_avg:base;
+				il_main = #bd_fp_f_g_c_avg:c_str;
+				il_main = #bd_fp_f_g_c_avg:o_fin;
+				il_main = #bd_fp_f_g_c_avg:o_mag;
+				il_main = #bd_fp_f_g_c_avg:o_str;
+				il_main = #bd_fp_f_g_c_fun;
+				il_main = #bd_pl_f_g_c_avg:base;
+				il_main = #bd_pl_f_g_c_avg:c_fin;
+				il_main = #bd_pl_f_g_c_fun;
+				il_main = #bd_pl_f_g_c_low;
 			}
 		}
 	}
@@ -228,37 +213,34 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #bd_ra_sc_f_g_o_mag:base/+brilliant;
-					il_main = #bd_un_sc_f_dragon:base;
-					il_main = #bd_ra_bl_f_g_c_str:base/+brilliant;
-					il_main = #bd_ra_bl_f_g_c_str:o_fin/+brilliant;
-					il_main = #bd_ra_le_f_g_c_fin:base/+brilliant;
-					il_main = #bd_un_bl_f_g_c_blood:base;
-					il_main = #bd_un_le_f_pad_avg:base;
-					il_main = #bd_un_sl_f_barbarian:base;
-					il_main = #bd_ra_ba_f_g_o_fin:base/+brilliant;
-					il_main = #bd_ra_ba_f_g_o_fin:o_mag/+brilliant;
-					il_main = #bd_ra_bp_f_g_c_fin:base/+brilliant;
-					il_main = #bd_ra_bp_f_g_c_fin:c_str/+brilliant;
-					il_main = #bd_ra_br_f_g_c_str:base/+brilliant;
-					il_main = #bd_ra_fp_f_g_o_fin:base/+brilliant;
-					il_main = #bd_ra_fp_f_g_o_fin:o_str/+brilliant;
-					il_main = #bd_un_ba_f_g_skeleton_captain:base;
-					il_main = #bd_un_br_f_bone:base;
-					il_main = #bd_un_br_f_copper:base;
-					il_main = #bd_un_br_f_d_c_str:base;
-					il_main = #bd_un_br_f_spider:base;
-					il_main = #bd_un_fp_f_g_c_mag:base;
-					il_main = #bd_un_fp_f_g_c_mag:o_mag;
-					il_main = #bd_un_pl_f_crystal:base;
-					il_main = #bd_un_pl_f_g_c_avg:base;
-					il_main = #bd_un_pl_f_g_c_avg:c_fin;
-					il_main = #bd_un_pl_f_g_c_fun:base;
-				}
+				il_main = #bd_ra_sc_f_g_o_mag:base/+brilliant;
+				il_main = #bd_un_sc_f_dragon:base;
+				il_main = #bd_ra_bl_f_g_c_str:base/+brilliant;
+				il_main = #bd_ra_bl_f_g_c_str:o_fin/+brilliant;
+				il_main = #bd_ra_le_f_g_c_fin:base/+brilliant;
+				il_main = #bd_un_bl_f_g_c_blood:base;
+				il_main = #bd_un_le_f_pad_avg:base;
+				il_main = #bd_un_sl_f_barbarian:base;
+				il_main = #bd_ra_ba_f_g_o_fin:base/+brilliant;
+				il_main = #bd_ra_ba_f_g_o_fin:o_mag/+brilliant;
+				il_main = #bd_ra_bp_f_g_c_fin:base/+brilliant;
+				il_main = #bd_ra_bp_f_g_c_fin:c_str/+brilliant;
+				il_main = #bd_ra_br_f_g_c_str:base/+brilliant;
+				il_main = #bd_ra_fp_f_g_o_fin:base/+brilliant;
+				il_main = #bd_ra_fp_f_g_o_fin:o_str/+brilliant;
+				il_main = #bd_un_ba_f_g_skeleton_captain:base;
+				il_main = #bd_un_br_f_bone:base;
+				il_main = #bd_un_br_f_copper:base;
+				il_main = #bd_un_br_f_d_c_str:base;
+				il_main = #bd_un_br_f_spider:base;
+				il_main = #bd_un_fp_f_g_c_mag:base;
+				il_main = #bd_un_fp_f_g_c_mag:o_mag;
+				il_main = #bd_un_pl_f_crystal:base;
+				il_main = #bd_un_pl_f_g_c_avg:base;
+				il_main = #bd_un_pl_f_g_c_avg:c_fin;
+				il_main = #bd_un_pl_f_g_c_fun:base;
 			}
 		}
 	}
@@ -271,75 +253,72 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #bo_bo_br_f_g_c_avg:base;
-					il_main = #bo_bo_br_f_g_c_avg:c_fin;
-					il_main = #bo_bo_br_f_g_c_avg:c_mag;
-					il_main = #bo_bo_br_f_g_c_avg:c_str;
-					il_main = #bo_bo_br_f_g_c_avg:o_avg;
-					il_main = #bo_bo_br_f_g_c_avg:o_fin;
-					il_main = #bo_bo_br_f_g_c_avg:o_mag;
-					il_main = #bo_bo_br_f_g_c_avg:o_str;
-					il_main = #bo_bo_ch_f_g_c_avg:base;
-					il_main = #bo_bo_ch_f_g_c_avg:c_fin;
-					il_main = #bo_bo_ch_f_g_c_avg:c_mag;
-					il_main = #bo_bo_ch_f_g_c_avg:c_str;
-					il_main = #bo_bo_ch_f_g_c_avg:o_avg;
-					il_main = #bo_bo_ch_f_g_c_avg:o_fin;
-					il_main = #bo_bo_ch_f_g_c_avg:o_mag;
-					il_main = #bo_bo_ch_f_g_c_avg:o_str;
-					il_main = #bo_bo_le_f_g_c_avg:base;
-					il_main = #bo_bo_le_f_g_c_avg:c_fin;
-					il_main = #bo_bo_le_f_g_c_avg:c_mag;
-					il_main = #bo_bo_le_f_g_c_avg:c_str;
-					il_main = #bo_bo_le_f_g_c_avg:o_avg;
-					il_main = #bo_bo_le_f_g_c_avg:o_fin;
-					il_main = #bo_bo_le_f_g_c_avg:o_mag;
-					il_main = #bo_bo_le_f_g_c_avg:o_str;
-					il_main = #bo_bo_sc_f_g_c_avg:base;
-					il_main = #bo_bo_sc_f_g_c_avg:c_fin;
-					il_main = #bo_bo_sc_f_g_c_avg:c_mag;
-					il_main = #bo_bo_sc_f_g_c_avg:c_str;
-					il_main = #bo_bo_sc_f_g_c_avg:o_avg;
-					il_main = #bo_bo_sc_f_g_c_avg:o_fin;
-					il_main = #bo_bo_sc_f_g_c_avg:o_mag;
-					il_main = #bo_bo_sc_f_g_c_avg:o_str;
-					il_main = #bo_bo_sl_f_g_c_avg:base;
-					il_main = #bo_bo_sl_f_g_c_avg:c_fin;
-					il_main = #bo_bo_sl_f_g_c_avg:c_mag;
-					il_main = #bo_bo_sl_f_g_c_avg:c_str;
-					il_main = #bo_bo_sl_f_g_c_avg:o_avg;
-					il_main = #bo_bo_sl_f_g_c_avg:o_fin;
-					il_main = #bo_bo_sl_f_g_c_avg:o_mag;
-					il_main = #bo_bo_sl_f_g_c_avg:o_str;
-					il_main = #bo_gr_ba_f_g_c_avg:base;
-					il_main = #bo_gr_ba_f_g_c_avg:c_fin;
-					il_main = #bo_gr_ba_f_g_c_avg:c_mag;
-					il_main = #bo_gr_ba_f_g_c_avg:c_str;
-					il_main = #bo_gr_ba_f_g_c_avg:o_avg;
-					il_main = #bo_gr_ba_f_g_c_avg:o_fin;
-					il_main = #bo_gr_ba_f_g_c_avg:o_mag;
-					il_main = #bo_gr_ba_f_g_c_avg:o_str;
-					il_main = #bo_gr_bl_f_g_c_avg:base;
-					il_main = #bo_gr_bl_f_g_c_avg:c_fin;
-					il_main = #bo_gr_bl_f_g_c_avg:c_mag;
-					il_main = #bo_gr_bl_f_g_c_avg:c_str;
-					il_main = #bo_gr_bl_f_g_c_avg:o_avg;
-					il_main = #bo_gr_bl_f_g_c_avg:o_fin;
-					il_main = #bo_gr_bl_f_g_c_avg:o_mag;
-					il_main = #bo_gr_bl_f_g_c_avg:o_str;
-					il_main = #bo_gr_fp_f_g_c_avg:base;
-					il_main = #bo_gr_fp_f_g_c_avg:c_fin;
-					il_main = #bo_gr_fp_f_g_c_avg:c_mag;
-					il_main = #bo_gr_fp_f_g_c_avg:c_str;
-					il_main = #bo_gr_fp_f_g_c_avg:o_avg;
-					il_main = #bo_gr_fp_f_g_c_avg:o_fin;
-					il_main = #bo_gr_fp_f_g_c_avg:o_mag;
-					il_main = #bo_gr_fp_f_g_c_avg:o_str;
-				}
+				il_main = #bo_bo_br_f_g_c_avg:base;
+				il_main = #bo_bo_br_f_g_c_avg:c_fin;
+				il_main = #bo_bo_br_f_g_c_avg:c_mag;
+				il_main = #bo_bo_br_f_g_c_avg:c_str;
+				il_main = #bo_bo_br_f_g_c_avg:o_avg;
+				il_main = #bo_bo_br_f_g_c_avg:o_fin;
+				il_main = #bo_bo_br_f_g_c_avg:o_mag;
+				il_main = #bo_bo_br_f_g_c_avg:o_str;
+				il_main = #bo_bo_ch_f_g_c_avg:base;
+				il_main = #bo_bo_ch_f_g_c_avg:c_fin;
+				il_main = #bo_bo_ch_f_g_c_avg:c_mag;
+				il_main = #bo_bo_ch_f_g_c_avg:c_str;
+				il_main = #bo_bo_ch_f_g_c_avg:o_avg;
+				il_main = #bo_bo_ch_f_g_c_avg:o_fin;
+				il_main = #bo_bo_ch_f_g_c_avg:o_mag;
+				il_main = #bo_bo_ch_f_g_c_avg:o_str;
+				il_main = #bo_bo_le_f_g_c_avg:base;
+				il_main = #bo_bo_le_f_g_c_avg:c_fin;
+				il_main = #bo_bo_le_f_g_c_avg:c_mag;
+				il_main = #bo_bo_le_f_g_c_avg:c_str;
+				il_main = #bo_bo_le_f_g_c_avg:o_avg;
+				il_main = #bo_bo_le_f_g_c_avg:o_fin;
+				il_main = #bo_bo_le_f_g_c_avg:o_mag;
+				il_main = #bo_bo_le_f_g_c_avg:o_str;
+				il_main = #bo_bo_sc_f_g_c_avg:base;
+				il_main = #bo_bo_sc_f_g_c_avg:c_fin;
+				il_main = #bo_bo_sc_f_g_c_avg:c_mag;
+				il_main = #bo_bo_sc_f_g_c_avg:c_str;
+				il_main = #bo_bo_sc_f_g_c_avg:o_avg;
+				il_main = #bo_bo_sc_f_g_c_avg:o_fin;
+				il_main = #bo_bo_sc_f_g_c_avg:o_mag;
+				il_main = #bo_bo_sc_f_g_c_avg:o_str;
+				il_main = #bo_bo_sl_f_g_c_avg:base;
+				il_main = #bo_bo_sl_f_g_c_avg:c_fin;
+				il_main = #bo_bo_sl_f_g_c_avg:c_mag;
+				il_main = #bo_bo_sl_f_g_c_avg:c_str;
+				il_main = #bo_bo_sl_f_g_c_avg:o_avg;
+				il_main = #bo_bo_sl_f_g_c_avg:o_fin;
+				il_main = #bo_bo_sl_f_g_c_avg:o_mag;
+				il_main = #bo_bo_sl_f_g_c_avg:o_str;
+				il_main = #bo_gr_ba_f_g_c_avg:base;
+				il_main = #bo_gr_ba_f_g_c_avg:c_fin;
+				il_main = #bo_gr_ba_f_g_c_avg:c_mag;
+				il_main = #bo_gr_ba_f_g_c_avg:c_str;
+				il_main = #bo_gr_ba_f_g_c_avg:o_avg;
+				il_main = #bo_gr_ba_f_g_c_avg:o_fin;
+				il_main = #bo_gr_ba_f_g_c_avg:o_mag;
+				il_main = #bo_gr_ba_f_g_c_avg:o_str;
+				il_main = #bo_gr_bl_f_g_c_avg:base;
+				il_main = #bo_gr_bl_f_g_c_avg:c_fin;
+				il_main = #bo_gr_bl_f_g_c_avg:c_mag;
+				il_main = #bo_gr_bl_f_g_c_avg:c_str;
+				il_main = #bo_gr_bl_f_g_c_avg:o_avg;
+				il_main = #bo_gr_bl_f_g_c_avg:o_fin;
+				il_main = #bo_gr_bl_f_g_c_avg:o_mag;
+				il_main = #bo_gr_bl_f_g_c_avg:o_str;
+				il_main = #bo_gr_fp_f_g_c_avg:base;
+				il_main = #bo_gr_fp_f_g_c_avg:c_fin;
+				il_main = #bo_gr_fp_f_g_c_avg:c_mag;
+				il_main = #bo_gr_fp_f_g_c_avg:c_str;
+				il_main = #bo_gr_fp_f_g_c_avg:o_avg;
+				il_main = #bo_gr_fp_f_g_c_avg:o_fin;
+				il_main = #bo_gr_fp_f_g_c_avg:o_mag;
+				il_main = #bo_gr_fp_f_g_c_avg:o_str;
 			}
 		}
 	}
@@ -352,44 +331,41 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #bo_bo_le_f_g_c_healthy;
-					il_main = #bo_ra_bo_br_f_g_c_fin:base/+brilliant;
-					il_main = #bo_ra_bo_br_f_g_c_fin:c_mag/+brilliant;
-					il_main = #bo_ra_bo_br_f_g_c_fin:o_fin/+brilliant;
-					il_main = #bo_ra_bo_ch_f_g_c_fin:base/+brilliant;
-					il_main = #bo_ra_bo_ch_f_g_c_fin:c_mag/+brilliant;
-					il_main = #bo_ra_bo_ch_f_g_c_fin:o_fin/+brilliant;
-					il_main = #bo_ra_bo_ch_f_g_c_fin:o_str/+brilliant;
-					il_main = #bo_ra_bo_le_f_g_c_fin:base/+brilliant;
-					il_main = #bo_ra_bo_le_f_g_c_fin:o_fin/+brilliant;
-					il_main = #bo_ra_bo_sc_f_g_c_fin:base/+brilliant;
-					il_main = #bo_ra_bo_sc_f_g_c_fin:o_fin/+brilliant;
-					il_main = #bo_ra_bo_sc_f_g_c_fin:o_mag/+brilliant;
-					il_main = #bo_ra_bo_sl_f_g_c_fin:base/+brilliant;
-					il_main = #bo_ra_bo_sl_f_g_c_fin:o_fin/+brilliant;
-					il_main = #bo_ra_bo_sl_f_g_c_fin:o_str/+brilliant;
-					il_main = #bo_ra_gr_ba_f_g_c_fin:base/+brilliant;
-					il_main = #bo_ra_gr_ba_f_g_c_fin:o_fin/+brilliant;
-					il_main = #bo_ra_gr_ba_f_g_c_fin:o_mag/+brilliant;
-					il_main = #bo_ra_gr_bl_f_g_c_fin:base/+brilliant;
-					il_main = #bo_ra_gr_bl_f_g_c_fin:c_mag/+brilliant;
-					il_main = #bo_ra_gr_bl_f_g_c_fin:o_fin/+brilliant;
-					il_main = #bo_ra_gr_bl_f_g_c_fin:o_str/+brilliant;
-					il_main = #bo_ra_gr_fp_f_g_c_fin:base/+brilliant;
-					il_main = #bo_ra_gr_fp_f_g_c_fin:c_str/+brilliant;
-					il_main = #bo_ra_gr_fp_f_g_c_fin:o_fin/+brilliant;
-					il_main = #bo_ra_gr_fp_f_g_c_fin:o_str/+brilliant;
-					il_main = #bo_un_bo_br_f_bone:base;
-					il_main = #bo_un_bo_br_f_spider:base;
-					il_main = #bo_un_bo_pl_f_crytstal:base;
-					il_main = #bo_un_bo_ro_m_molten:base;
-					il_main = #bo_un_bo_sc_f_dragon:base;
-					il_main = #bo_un_bo_sl_f_barbarian:base;
-				}
+				il_main = #bo_bo_le_f_g_c_healthy;
+				il_main = #bo_ra_bo_br_f_g_c_fin:base/+brilliant;
+				il_main = #bo_ra_bo_br_f_g_c_fin:c_mag/+brilliant;
+				il_main = #bo_ra_bo_br_f_g_c_fin:o_fin/+brilliant;
+				il_main = #bo_ra_bo_ch_f_g_c_fin:base/+brilliant;
+				il_main = #bo_ra_bo_ch_f_g_c_fin:c_mag/+brilliant;
+				il_main = #bo_ra_bo_ch_f_g_c_fin:o_fin/+brilliant;
+				il_main = #bo_ra_bo_ch_f_g_c_fin:o_str/+brilliant;
+				il_main = #bo_ra_bo_le_f_g_c_fin:base/+brilliant;
+				il_main = #bo_ra_bo_le_f_g_c_fin:o_fin/+brilliant;
+				il_main = #bo_ra_bo_sc_f_g_c_fin:base/+brilliant;
+				il_main = #bo_ra_bo_sc_f_g_c_fin:o_fin/+brilliant;
+				il_main = #bo_ra_bo_sc_f_g_c_fin:o_mag/+brilliant;
+				il_main = #bo_ra_bo_sl_f_g_c_fin:base/+brilliant;
+				il_main = #bo_ra_bo_sl_f_g_c_fin:o_fin/+brilliant;
+				il_main = #bo_ra_bo_sl_f_g_c_fin:o_str/+brilliant;
+				il_main = #bo_ra_gr_ba_f_g_c_fin:base/+brilliant;
+				il_main = #bo_ra_gr_ba_f_g_c_fin:o_fin/+brilliant;
+				il_main = #bo_ra_gr_ba_f_g_c_fin:o_mag/+brilliant;
+				il_main = #bo_ra_gr_bl_f_g_c_fin:base/+brilliant;
+				il_main = #bo_ra_gr_bl_f_g_c_fin:c_mag/+brilliant;
+				il_main = #bo_ra_gr_bl_f_g_c_fin:o_fin/+brilliant;
+				il_main = #bo_ra_gr_bl_f_g_c_fin:o_str/+brilliant;
+				il_main = #bo_ra_gr_fp_f_g_c_fin:base/+brilliant;
+				il_main = #bo_ra_gr_fp_f_g_c_fin:c_str/+brilliant;
+				il_main = #bo_ra_gr_fp_f_g_c_fin:o_fin/+brilliant;
+				il_main = #bo_ra_gr_fp_f_g_c_fin:o_str/+brilliant;
+				il_main = #bo_un_bo_br_f_bone:base;
+				il_main = #bo_un_bo_br_f_spider:base;
+				il_main = #bo_un_bo_pl_f_crytstal:base;
+				il_main = #bo_un_bo_ro_m_molten:base;
+				il_main = #bo_un_bo_sc_f_dragon:base;
+				il_main = #bo_un_bo_sl_f_barbarian:base;
 			}
 		}
 	}
@@ -402,50 +378,47 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #scythe_g_1h_avg:base;
-					il_main = #scythe_g_1h_fun;
-					il_main = #scythe_g_1h_mag:base;
-					il_main = #cb_g_c_r_1h_avg:base;
-					il_main = #cb_g_c_r_1h_avg:c_fin;
-					il_main = #cb_g_c_r_1h_avg:o_avg;
-					il_main = #cb_g_c_r_1h_avg:o_fin;
-					il_main = #cb_g_c_r_1h_fun;
-					il_main = #cb_g_c_r_1h_low;
-					il_main = #cb_g_d_r_1h_avg;
-					il_main = #cb_g_d_r_1h_fun;
-					il_main = #cb_g_d_r_1h_low;
-					il_main = #cb_un_1h_swanny;
-					il_main = #cb_un_2h_cyclops;
-					il_main = #cb_un_2h_horrid;
-					il_main = #cb_un_2h_troll;
-					il_main = #cb_un_2h_troll_forest;
-					il_main = #cb_un_2h_troll_rock;
-					il_main = #cb_un_2h_troll_swamp;
-					il_main = #dg_g_c_1h_avg:c_fin;
-					il_main = #dg_g_c_1h_avg:c_mag;
-					il_main = #dg_g_c_1h_avg:c_str;
-					il_main = #dg_g_c_1h_fun;
-					il_main = #dg_g_c_1h_low;
-					il_main = #dg_g_d_1h_fun;
-					il_main = #hm_g_c_1h1m_avg:base;
-					il_main = #hm_g_c_1h1m_avg:c_fin;
-					il_main = #hm_g_c_1h1m_avg:c_mag;
-					il_main = #hm_g_c_1h1m_avg:c_str;
-					il_main = #hm_g_c_1h1m_avg:o_avg;
-					il_main = #hm_g_c_1h1m_avg:o_fin;
-					il_main = #hm_g_c_1h1m_avg:o_mag;
-					il_main = #hm_g_c_1h1m_avg:o_str;
-					il_main = #hm_g_c_1h1m_fun;
-					il_main = #hm_g_c_1h1m_low;
-					il_main = #hm_ra_g_c_1h1m_fin:base/+brilliant;
-					il_main = #hm_ra_g_c_1h1m_fin:c_mag/+brilliant;
-					il_main = #hm_ra_g_c_1h1m_fin:c_str/+brilliant;
-					il_main = #hm_ra_g_c_1h1m_fin:o_mag/+brilliant;
-				}
+				il_main = #scythe_g_1h_avg:base;
+				il_main = #scythe_g_1h_fun;
+				il_main = #scythe_g_1h_mag:base;
+				il_main = #cb_g_c_r_1h_avg:base;
+				il_main = #cb_g_c_r_1h_avg:c_fin;
+				il_main = #cb_g_c_r_1h_avg:o_avg;
+				il_main = #cb_g_c_r_1h_avg:o_fin;
+				il_main = #cb_g_c_r_1h_fun;
+				il_main = #cb_g_c_r_1h_low;
+				il_main = #cb_g_d_r_1h_avg;
+				il_main = #cb_g_d_r_1h_fun;
+				il_main = #cb_g_d_r_1h_low;
+				il_main = #cb_un_1h_swanny;
+				il_main = #cb_un_2h_cyclops;
+				il_main = #cb_un_2h_horrid;
+				il_main = #cb_un_2h_troll;
+				il_main = #cb_un_2h_troll_forest;
+				il_main = #cb_un_2h_troll_rock;
+				il_main = #cb_un_2h_troll_swamp;
+				il_main = #dg_g_c_1h_avg:c_fin;
+				il_main = #dg_g_c_1h_avg:c_mag;
+				il_main = #dg_g_c_1h_avg:c_str;
+				il_main = #dg_g_c_1h_fun;
+				il_main = #dg_g_c_1h_low;
+				il_main = #dg_g_d_1h_fun;
+				il_main = #hm_g_c_1h1m_avg:base;
+				il_main = #hm_g_c_1h1m_avg:c_fin;
+				il_main = #hm_g_c_1h1m_avg:c_mag;
+				il_main = #hm_g_c_1h1m_avg:c_str;
+				il_main = #hm_g_c_1h1m_avg:o_avg;
+				il_main = #hm_g_c_1h1m_avg:o_fin;
+				il_main = #hm_g_c_1h1m_avg:o_mag;
+				il_main = #hm_g_c_1h1m_avg:o_str;
+				il_main = #hm_g_c_1h1m_fun;
+				il_main = #hm_g_c_1h1m_low;
+				il_main = #hm_ra_g_c_1h1m_fin:base/+brilliant;
+				il_main = #hm_ra_g_c_1h1m_fin:c_mag/+brilliant;
+				il_main = #hm_ra_g_c_1h1m_fin:c_str/+brilliant;
+				il_main = #hm_ra_g_c_1h1m_fin:o_mag/+brilliant;
 			}
 		}
 	}
@@ -458,38 +431,35 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #hm_g_c_2h1m_avg:base;
-					il_main = #hm_g_c_2h1m_avg:c_fin;
-					il_main = #hm_g_c_2h1m_avg:c_mag;
-					il_main = #hm_g_c_2h1m_avg:c_str;
-					il_main = #hm_g_c_2h1m_avg:o_avg;
-					il_main = #hm_g_c_2h1m_avg:o_fin;
-					il_main = #hm_g_c_2h1m_avg:o_mag;
-					il_main = #hm_g_c_2h1m_avg:o_str;
-					il_main = #hm_g_c_2h1m_fun;
-					il_main = #hm_g_c_2h1m_low;
-					il_main = #hm_g_c_2h2m_avg:base;
-					il_main = #hm_g_c_2h2m_avg:c_fin;
-					il_main = #hm_g_c_2h2m_avg:c_mag;
-					il_main = #hm_g_c_2h2m_avg:c_str;
-					il_main = #hm_g_c_2h2m_avg:o_mag;
-					il_main = #hm_g_c_2h2m_avg:o_str;
-					il_main = #hm_g_c_2h2m_fun;
-					il_main = #hm_ra_g_c_2h1m_fin:base/+brilliant;
-					il_main = #hm_ra_g_c_2h1m_fin:c_mag/+brilliant;
-					il_main = #hm_ra_g_c_2h1m_fin:c_str/+brilliant;
-					il_main = #hm_ra_g_c_2h1m_fin:o_str/+brilliant;
-					il_main = #hm_ra_g_c_2h2m_fin:base/+brilliant;
-					il_main = #hm_ra_g_c_2h2m_fin:c_mag/+brilliant;
-					il_main = #hm_ra_g_c_2h2m_fin:o_str/+brilliant;
-					il_main = #st_un_seck_gom;
-					il_main = #st_un_seck_mage;
-					il_main = #st_un_toreck;
-				}
+				il_main = #hm_g_c_2h1m_avg:base;
+				il_main = #hm_g_c_2h1m_avg:c_fin;
+				il_main = #hm_g_c_2h1m_avg:c_mag;
+				il_main = #hm_g_c_2h1m_avg:c_str;
+				il_main = #hm_g_c_2h1m_avg:o_avg;
+				il_main = #hm_g_c_2h1m_avg:o_fin;
+				il_main = #hm_g_c_2h1m_avg:o_mag;
+				il_main = #hm_g_c_2h1m_avg:o_str;
+				il_main = #hm_g_c_2h1m_fun;
+				il_main = #hm_g_c_2h1m_low;
+				il_main = #hm_g_c_2h2m_avg:base;
+				il_main = #hm_g_c_2h2m_avg:c_fin;
+				il_main = #hm_g_c_2h2m_avg:c_mag;
+				il_main = #hm_g_c_2h2m_avg:c_str;
+				il_main = #hm_g_c_2h2m_avg:o_mag;
+				il_main = #hm_g_c_2h2m_avg:o_str;
+				il_main = #hm_g_c_2h2m_fun;
+				il_main = #hm_ra_g_c_2h1m_fin:base/+brilliant;
+				il_main = #hm_ra_g_c_2h1m_fin:c_mag/+brilliant;
+				il_main = #hm_ra_g_c_2h1m_fin:c_str/+brilliant;
+				il_main = #hm_ra_g_c_2h1m_fin:o_str/+brilliant;
+				il_main = #hm_ra_g_c_2h2m_fin:base/+brilliant;
+				il_main = #hm_ra_g_c_2h2m_fin:c_mag/+brilliant;
+				il_main = #hm_ra_g_c_2h2m_fin:o_str/+brilliant;
+				il_main = #st_un_seck_gom;
+				il_main = #st_un_seck_mage;
+				il_main = #st_un_toreck;
 			}
 		}
 	}
@@ -502,99 +472,96 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #gl_ga_ba_f_g_c_avg:base;
-					il_main = #gl_ga_ba_f_g_c_avg:c_fin;
-					il_main = #gl_ga_ba_f_g_c_avg:c_mag;
-					il_main = #gl_ga_ba_f_g_c_avg:c_str;
-					il_main = #gl_ga_ba_f_g_c_avg:o_avg;
-					il_main = #gl_ga_ba_f_g_c_avg:o_fin;
-					il_main = #gl_ga_ba_f_g_c_avg:o_mag;
-					il_main = #gl_ga_ba_f_g_c_avg:o_str;
-					il_main = #gl_ga_bl_f_g_c_avg:base;
-					il_main = #gl_ga_bl_f_g_c_avg:c_fin;
-					il_main = #gl_ga_bl_f_g_c_avg:c_mag;
-					il_main = #gl_ga_bl_f_g_c_avg:c_str;
-					il_main = #gl_ga_bl_f_g_c_avg:o_avg;
-					il_main = #gl_ga_bl_f_g_c_avg:o_fin;
-					il_main = #gl_ga_bl_f_g_c_avg:o_mag;
-					il_main = #gl_ga_bl_f_g_c_avg:o_str;
-					il_main = #gl_ga_br_f_g_c_avg:base;
-					il_main = #gl_ga_br_f_g_c_avg:c_fin;
-					il_main = #gl_ga_br_f_g_c_avg:c_mag;
-					il_main = #gl_ga_br_f_g_c_avg:c_str;
-					il_main = #gl_ga_br_f_g_c_avg:o_avg;
-					il_main = #gl_ga_br_f_g_c_avg:o_fin;
-					il_main = #gl_ga_br_f_g_c_avg:o_mag;
-					il_main = #gl_ga_br_f_g_c_avg:o_str;
-					il_main = #gl_ga_fp_f_g_c_avg:base;
-					il_main = #gl_ga_fp_f_g_c_avg:c_fin;
-					il_main = #gl_ga_fp_f_g_c_avg:c_mag;
-					il_main = #gl_ga_fp_f_g_c_avg:c_str;
-					il_main = #gl_ga_fp_f_g_c_avg:o_avg;
-					il_main = #gl_ga_fp_f_g_c_avg:o_fin;
-					il_main = #gl_ga_fp_f_g_c_avg:o_mag;
-					il_main = #gl_ga_fp_f_g_c_avg:o_str;
-					il_main = #gl_ga_sc_f_g_c_avg:base;
-					il_main = #gl_ga_sc_f_g_c_avg:c_fin;
-					il_main = #gl_ga_sc_f_g_c_avg:c_mag;
-					il_main = #gl_ga_sc_f_g_c_avg:c_str;
-					il_main = #gl_ga_sc_f_g_c_avg:o_avg;
-					il_main = #gl_ga_sc_f_g_c_avg:o_fin;
-					il_main = #gl_ga_sc_f_g_c_avg:o_mag;
-					il_main = #gl_ga_sc_f_g_c_avg:o_str;
-					il_main = #gl_gl_bl_f_g_c_avg:base;
-					il_main = #gl_gl_bl_f_g_c_avg:c_fin;
-					il_main = #gl_gl_bl_f_g_c_avg:c_mag;
-					il_main = #gl_gl_bl_f_g_c_avg:c_str;
-					il_main = #gl_gl_bl_f_g_c_avg:o_avg;
-					il_main = #gl_gl_bl_f_g_c_avg:o_fin;
-					il_main = #gl_gl_bl_f_g_c_avg:o_mag;
-					il_main = #gl_gl_bl_f_g_c_avg:o_str;
-					il_main = #gl_gl_br_f_g_c_avg:base;
-					il_main = #gl_gl_br_f_g_c_avg:c_fin;
-					il_main = #gl_gl_br_f_g_c_avg:c_mag;
-					il_main = #gl_gl_br_f_g_c_avg:c_str;
-					il_main = #gl_gl_br_f_g_c_avg:o_avg;
-					il_main = #gl_gl_br_f_g_c_avg:o_fin;
-					il_main = #gl_gl_br_f_g_c_avg:o_mag;
-					il_main = #gl_gl_br_f_g_c_avg:o_str;
-					il_main = #gl_gl_ch_f_g_c_avg:base;
-					il_main = #gl_gl_ch_f_g_c_avg:c_fin;
-					il_main = #gl_gl_ch_f_g_c_avg:c_mag;
-					il_main = #gl_gl_ch_f_g_c_avg:c_str;
-					il_main = #gl_gl_ch_f_g_c_avg:o_avg;
-					il_main = #gl_gl_ch_f_g_c_avg:o_fin;
-					il_main = #gl_gl_ch_f_g_c_avg:o_mag;
-					il_main = #gl_gl_ch_f_g_c_avg:o_str;
-					il_main = #gl_gl_le_f_g_c_avg:base;
-					il_main = #gl_gl_le_f_g_c_avg:c_fin;
-					il_main = #gl_gl_le_f_g_c_avg:c_mag;
-					il_main = #gl_gl_le_f_g_c_avg:c_str;
-					il_main = #gl_gl_le_f_g_c_avg:o_avg;
-					il_main = #gl_gl_le_f_g_c_avg:o_fin;
-					il_main = #gl_gl_le_f_g_c_avg:o_mag;
-					il_main = #gl_gl_le_f_g_c_avg:o_str;
-					il_main = #gl_gl_sc_f_g_c_avg:base;
-					il_main = #gl_gl_sc_f_g_c_avg:c_fin;
-					il_main = #gl_gl_sc_f_g_c_avg:c_mag;
-					il_main = #gl_gl_sc_f_g_c_avg:c_str;
-					il_main = #gl_gl_sc_f_g_c_avg:o_avg;
-					il_main = #gl_gl_sc_f_g_c_avg:o_fin;
-					il_main = #gl_gl_sc_f_g_c_avg:o_mag;
-					il_main = #gl_gl_sc_f_g_c_avg:o_str;
-					il_main = #gl_gl_sl_f_g_c_avg:base;
-					il_main = #gl_gl_sl_f_g_c_avg:c_fin;
-					il_main = #gl_gl_sl_f_g_c_avg:c_mag;
-					il_main = #gl_gl_sl_f_g_c_avg:c_str;
-					il_main = #gl_gl_sl_f_g_c_avg:o_avg;
-					il_main = #gl_gl_sl_f_g_c_avg:o_fin;
-					il_main = #gl_gl_sl_f_g_c_avg:o_mag;
-					il_main = #gl_gl_sl_f_g_c_avg:o_str;
-				}
+				il_main = #gl_ga_ba_f_g_c_avg:base;
+				il_main = #gl_ga_ba_f_g_c_avg:c_fin;
+				il_main = #gl_ga_ba_f_g_c_avg:c_mag;
+				il_main = #gl_ga_ba_f_g_c_avg:c_str;
+				il_main = #gl_ga_ba_f_g_c_avg:o_avg;
+				il_main = #gl_ga_ba_f_g_c_avg:o_fin;
+				il_main = #gl_ga_ba_f_g_c_avg:o_mag;
+				il_main = #gl_ga_ba_f_g_c_avg:o_str;
+				il_main = #gl_ga_bl_f_g_c_avg:base;
+				il_main = #gl_ga_bl_f_g_c_avg:c_fin;
+				il_main = #gl_ga_bl_f_g_c_avg:c_mag;
+				il_main = #gl_ga_bl_f_g_c_avg:c_str;
+				il_main = #gl_ga_bl_f_g_c_avg:o_avg;
+				il_main = #gl_ga_bl_f_g_c_avg:o_fin;
+				il_main = #gl_ga_bl_f_g_c_avg:o_mag;
+				il_main = #gl_ga_bl_f_g_c_avg:o_str;
+				il_main = #gl_ga_br_f_g_c_avg:base;
+				il_main = #gl_ga_br_f_g_c_avg:c_fin;
+				il_main = #gl_ga_br_f_g_c_avg:c_mag;
+				il_main = #gl_ga_br_f_g_c_avg:c_str;
+				il_main = #gl_ga_br_f_g_c_avg:o_avg;
+				il_main = #gl_ga_br_f_g_c_avg:o_fin;
+				il_main = #gl_ga_br_f_g_c_avg:o_mag;
+				il_main = #gl_ga_br_f_g_c_avg:o_str;
+				il_main = #gl_ga_fp_f_g_c_avg:base;
+				il_main = #gl_ga_fp_f_g_c_avg:c_fin;
+				il_main = #gl_ga_fp_f_g_c_avg:c_mag;
+				il_main = #gl_ga_fp_f_g_c_avg:c_str;
+				il_main = #gl_ga_fp_f_g_c_avg:o_avg;
+				il_main = #gl_ga_fp_f_g_c_avg:o_fin;
+				il_main = #gl_ga_fp_f_g_c_avg:o_mag;
+				il_main = #gl_ga_fp_f_g_c_avg:o_str;
+				il_main = #gl_ga_sc_f_g_c_avg:base;
+				il_main = #gl_ga_sc_f_g_c_avg:c_fin;
+				il_main = #gl_ga_sc_f_g_c_avg:c_mag;
+				il_main = #gl_ga_sc_f_g_c_avg:c_str;
+				il_main = #gl_ga_sc_f_g_c_avg:o_avg;
+				il_main = #gl_ga_sc_f_g_c_avg:o_fin;
+				il_main = #gl_ga_sc_f_g_c_avg:o_mag;
+				il_main = #gl_ga_sc_f_g_c_avg:o_str;
+				il_main = #gl_gl_bl_f_g_c_avg:base;
+				il_main = #gl_gl_bl_f_g_c_avg:c_fin;
+				il_main = #gl_gl_bl_f_g_c_avg:c_mag;
+				il_main = #gl_gl_bl_f_g_c_avg:c_str;
+				il_main = #gl_gl_bl_f_g_c_avg:o_avg;
+				il_main = #gl_gl_bl_f_g_c_avg:o_fin;
+				il_main = #gl_gl_bl_f_g_c_avg:o_mag;
+				il_main = #gl_gl_bl_f_g_c_avg:o_str;
+				il_main = #gl_gl_br_f_g_c_avg:base;
+				il_main = #gl_gl_br_f_g_c_avg:c_fin;
+				il_main = #gl_gl_br_f_g_c_avg:c_mag;
+				il_main = #gl_gl_br_f_g_c_avg:c_str;
+				il_main = #gl_gl_br_f_g_c_avg:o_avg;
+				il_main = #gl_gl_br_f_g_c_avg:o_fin;
+				il_main = #gl_gl_br_f_g_c_avg:o_mag;
+				il_main = #gl_gl_br_f_g_c_avg:o_str;
+				il_main = #gl_gl_ch_f_g_c_avg:base;
+				il_main = #gl_gl_ch_f_g_c_avg:c_fin;
+				il_main = #gl_gl_ch_f_g_c_avg:c_mag;
+				il_main = #gl_gl_ch_f_g_c_avg:c_str;
+				il_main = #gl_gl_ch_f_g_c_avg:o_avg;
+				il_main = #gl_gl_ch_f_g_c_avg:o_fin;
+				il_main = #gl_gl_ch_f_g_c_avg:o_mag;
+				il_main = #gl_gl_ch_f_g_c_avg:o_str;
+				il_main = #gl_gl_le_f_g_c_avg:base;
+				il_main = #gl_gl_le_f_g_c_avg:c_fin;
+				il_main = #gl_gl_le_f_g_c_avg:c_mag;
+				il_main = #gl_gl_le_f_g_c_avg:c_str;
+				il_main = #gl_gl_le_f_g_c_avg:o_avg;
+				il_main = #gl_gl_le_f_g_c_avg:o_fin;
+				il_main = #gl_gl_le_f_g_c_avg:o_mag;
+				il_main = #gl_gl_le_f_g_c_avg:o_str;
+				il_main = #gl_gl_sc_f_g_c_avg:base;
+				il_main = #gl_gl_sc_f_g_c_avg:c_fin;
+				il_main = #gl_gl_sc_f_g_c_avg:c_mag;
+				il_main = #gl_gl_sc_f_g_c_avg:c_str;
+				il_main = #gl_gl_sc_f_g_c_avg:o_avg;
+				il_main = #gl_gl_sc_f_g_c_avg:o_fin;
+				il_main = #gl_gl_sc_f_g_c_avg:o_mag;
+				il_main = #gl_gl_sc_f_g_c_avg:o_str;
+				il_main = #gl_gl_sl_f_g_c_avg:base;
+				il_main = #gl_gl_sl_f_g_c_avg:c_fin;
+				il_main = #gl_gl_sl_f_g_c_avg:c_mag;
+				il_main = #gl_gl_sl_f_g_c_avg:c_str;
+				il_main = #gl_gl_sl_f_g_c_avg:o_avg;
+				il_main = #gl_gl_sl_f_g_c_avg:o_fin;
+				il_main = #gl_gl_sl_f_g_c_avg:o_mag;
+				il_main = #gl_gl_sl_f_g_c_avg:o_str;
 			}
 		}
 	}
@@ -607,50 +574,47 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #gl_ra_ga_ba_f_g_c_fin:base/+brilliant;
-					il_main = #gl_ra_ga_ba_f_g_c_fin:c_mag/+brilliant;
-					il_main = #gl_ra_ga_ba_f_g_c_fin:c_str/+brilliant;
-					il_main = #gl_ra_ga_ba_f_g_c_fin:o_fin/+brilliant;
-					il_main = #gl_ra_ga_ba_f_g_c_fin:o_str/+brilliant;
-					il_main = #gl_ra_ga_bl_f_g_c_fin:base/+brilliant;
-					il_main = #gl_ra_ga_bl_f_g_c_fin:o_fin/+brilliant;
-					il_main = #gl_ra_ga_br_f_g_c_fin:base/+brilliant;
-					il_main = #gl_ra_ga_br_f_g_c_fin:o_fin/+brilliant;
-					il_main = #gl_ra_ga_br_f_g_c_fin:o_mag/+brilliant;
-					il_main = #gl_ra_ga_fp_f_g_o_avg:base/+brilliant;
-					il_main = #gl_ra_ga_fp_f_g_o_avg:c_fin/+brilliant;
-					il_main = #gl_ra_ga_fp_f_g_o_avg:c_str/+brilliant;
-					il_main = #gl_ra_ga_fp_f_g_o_avg:o_fin/+brilliant;
-					il_main = #gl_ra_ga_fp_f_g_o_avg:o_str/+brilliant;
-					il_main = #gl_ra_ga_sc_f_g_c_fin:base/+brilliant;
-					il_main = #gl_ra_ga_sc_f_g_c_fin:o_fin/+brilliant;
-					il_main = #gl_ra_gl_bl_f_g_c_fin:base/+brilliant;
-					il_main = #gl_ra_gl_bl_f_g_c_fin:o_fin/+brilliant;
-					il_main = #gl_ra_gl_br_f_g_c_fin:base/+brilliant;
-					il_main = #gl_ra_gl_br_f_g_c_fin:o_fin/+brilliant;
-					il_main = #gl_ra_gl_br_f_g_c_fin:o_mag/+brilliant;
-					il_main = #gl_ra_gl_br_f_g_c_fin:o_str/+brilliant;
-					il_main = #gl_ra_gl_ch_f_g_c_fin:base/+brilliant;
-					il_main = #gl_ra_gl_ch_f_g_c_fin:c_mag/+brilliant;
-					il_main = #gl_ra_gl_ch_f_g_c_fin:c_str/+brilliant;
-					il_main = #gl_ra_gl_ch_f_g_c_fin:o_fin/+brilliant;
-					il_main = #gl_ra_gl_ch_f_g_c_fin:o_str/+brilliant;
-					il_main = #gl_ra_gl_le_f_g_c_fin:base/+brilliant;
-					il_main = #gl_ra_gl_le_f_g_c_fin:o_fin/+brilliant;
-					il_main = #gl_ra_gl_sc_f_g_c_fin:base/+brilliant;
-					il_main = #gl_ra_gl_sc_f_g_c_fin:o_fin/+brilliant;
-					il_main = #gl_ra_gl_sc_f_g_c_fin:o_str/+brilliant;
-					il_main = #gl_ra_gl_sl_f_g_c_fin:base/+brilliant;
-					il_main = #gl_ra_gl_sl_f_g_c_fin:o_fin/+brilliant;
-					il_main = #gl_un_gl_br_f_spider:base;
-					il_main = #gl_un_gl_pl_f_crystal:base;
-					il_main = #gl_un_gl_ro_m_molten:base;
-					il_main = #gl_un_gl_sc_f_dragon:base;
-				}
+				il_main = #gl_ra_ga_ba_f_g_c_fin:base/+brilliant;
+				il_main = #gl_ra_ga_ba_f_g_c_fin:c_mag/+brilliant;
+				il_main = #gl_ra_ga_ba_f_g_c_fin:c_str/+brilliant;
+				il_main = #gl_ra_ga_ba_f_g_c_fin:o_fin/+brilliant;
+				il_main = #gl_ra_ga_ba_f_g_c_fin:o_str/+brilliant;
+				il_main = #gl_ra_ga_bl_f_g_c_fin:base/+brilliant;
+				il_main = #gl_ra_ga_bl_f_g_c_fin:o_fin/+brilliant;
+				il_main = #gl_ra_ga_br_f_g_c_fin:base/+brilliant;
+				il_main = #gl_ra_ga_br_f_g_c_fin:o_fin/+brilliant;
+				il_main = #gl_ra_ga_br_f_g_c_fin:o_mag/+brilliant;
+				il_main = #gl_ra_ga_fp_f_g_o_avg:base/+brilliant;
+				il_main = #gl_ra_ga_fp_f_g_o_avg:c_fin/+brilliant;
+				il_main = #gl_ra_ga_fp_f_g_o_avg:c_str/+brilliant;
+				il_main = #gl_ra_ga_fp_f_g_o_avg:o_fin/+brilliant;
+				il_main = #gl_ra_ga_fp_f_g_o_avg:o_str/+brilliant;
+				il_main = #gl_ra_ga_sc_f_g_c_fin:base/+brilliant;
+				il_main = #gl_ra_ga_sc_f_g_c_fin:o_fin/+brilliant;
+				il_main = #gl_ra_gl_bl_f_g_c_fin:base/+brilliant;
+				il_main = #gl_ra_gl_bl_f_g_c_fin:o_fin/+brilliant;
+				il_main = #gl_ra_gl_br_f_g_c_fin:base/+brilliant;
+				il_main = #gl_ra_gl_br_f_g_c_fin:o_fin/+brilliant;
+				il_main = #gl_ra_gl_br_f_g_c_fin:o_mag/+brilliant;
+				il_main = #gl_ra_gl_br_f_g_c_fin:o_str/+brilliant;
+				il_main = #gl_ra_gl_ch_f_g_c_fin:base/+brilliant;
+				il_main = #gl_ra_gl_ch_f_g_c_fin:c_mag/+brilliant;
+				il_main = #gl_ra_gl_ch_f_g_c_fin:c_str/+brilliant;
+				il_main = #gl_ra_gl_ch_f_g_c_fin:o_fin/+brilliant;
+				il_main = #gl_ra_gl_ch_f_g_c_fin:o_str/+brilliant;
+				il_main = #gl_ra_gl_le_f_g_c_fin:base/+brilliant;
+				il_main = #gl_ra_gl_le_f_g_c_fin:o_fin/+brilliant;
+				il_main = #gl_ra_gl_sc_f_g_c_fin:base/+brilliant;
+				il_main = #gl_ra_gl_sc_f_g_c_fin:o_fin/+brilliant;
+				il_main = #gl_ra_gl_sc_f_g_c_fin:o_str/+brilliant;
+				il_main = #gl_ra_gl_sl_f_g_c_fin:base/+brilliant;
+				il_main = #gl_ra_gl_sl_f_g_c_fin:o_fin/+brilliant;
+				il_main = #gl_un_gl_br_f_spider:base;
+				il_main = #gl_un_gl_pl_f_crystal:base;
+				il_main = #gl_un_gl_ro_m_molten:base;
+				il_main = #gl_un_gl_sc_f_dragon:base;
 			}
 		}
 	}
@@ -663,51 +627,48 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #he_ca_pl_avg:base;
-					il_main = #he_ca_pl_blue:base;
-					il_main = #he_ca_pl_blue_02:base;
-					il_main = #he_ca_pl_cap:base;
-					il_main = #he_ca_pl_cap_brown:base;
-					il_main = #he_ca_pl_dome:base;
-					il_main = #he_ca_pl_fin:base;
-					il_main = #he_ca_pl_mag:base;
-					il_main = #he_ca_pl_ornage:base;
-					il_main = #he_ca_sl_avg:base;
-					il_main = #he_fu_bronze:base;
-					il_main = #he_fu_bronze_02:base;
-					il_main = #he_fu_pl_desert:base;
-					il_main = #he_fu_pl_grate:base;
-					il_main = #he_fu_pl_horn_avg:base;
-					il_main = #he_fu_pl_horn_fin:base;
-					il_main = #he_fu_pl_horn_fin_02:base;
-					il_main = #he_fu_pl_horn_fin_03:base;
-					il_main = #he_fu_pl_horn_mag:base;
-					il_main = #he_fu_pl_horn_mag_02:base;
-					il_main = #he_fu_pl_knight:base;
-					il_main = #he_fu_pl_knight_02:base;
-					il_main = #he_fu_pl_knight_fin:base;
-					il_main = #he_fu_pl_knight_fin_02:base;
-					il_main = #he_fu_pl_knight_str:base;
-					il_main = #he_fu_pl_knight_str_02:base;
-					il_main = #he_fu_pl_smallwings:base;
-					il_main = #he_fu_pl_smallwings_02:base;
-					il_main = #he_fu_pl_spike:base;
-					il_main = #he_fu_pl_str:base;
-					il_main = #he_op_bigwings:base;
-					il_main = #he_op_bigwings_02:base;
-					il_main = #he_op_pl_avg:base;
-					il_main = #he_op_pl_cone:base;
-					il_main = #he_op_pl_eyes:base;
-					il_main = #he_op_pl_roman:base;
-					il_main = #he_op_pl_roman_02:base;
-					il_main = #he_op_pl_santa:base;
-					il_main = #he_op_pl_santa_02:base;
-					il_main = #he_vi_pl_knight:base;
-				}
+				il_main = #he_ca_pl_avg:base;
+				il_main = #he_ca_pl_blue:base;
+				il_main = #he_ca_pl_blue_02:base;
+				il_main = #he_ca_pl_cap:base;
+				il_main = #he_ca_pl_cap_brown:base;
+				il_main = #he_ca_pl_dome:base;
+				il_main = #he_ca_pl_fin:base;
+				il_main = #he_ca_pl_mag:base;
+				il_main = #he_ca_pl_ornage:base;
+				il_main = #he_ca_sl_avg:base;
+				il_main = #he_fu_bronze:base;
+				il_main = #he_fu_bronze_02:base;
+				il_main = #he_fu_pl_desert:base;
+				il_main = #he_fu_pl_grate:base;
+				il_main = #he_fu_pl_horn_avg:base;
+				il_main = #he_fu_pl_horn_fin:base;
+				il_main = #he_fu_pl_horn_fin_02:base;
+				il_main = #he_fu_pl_horn_fin_03:base;
+				il_main = #he_fu_pl_horn_mag:base;
+				il_main = #he_fu_pl_horn_mag_02:base;
+				il_main = #he_fu_pl_knight:base;
+				il_main = #he_fu_pl_knight_02:base;
+				il_main = #he_fu_pl_knight_fin:base;
+				il_main = #he_fu_pl_knight_fin_02:base;
+				il_main = #he_fu_pl_knight_str:base;
+				il_main = #he_fu_pl_knight_str_02:base;
+				il_main = #he_fu_pl_smallwings:base;
+				il_main = #he_fu_pl_smallwings_02:base;
+				il_main = #he_fu_pl_spike:base;
+				il_main = #he_fu_pl_str:base;
+				il_main = #he_op_bigwings:base;
+				il_main = #he_op_bigwings_02:base;
+				il_main = #he_op_pl_avg:base;
+				il_main = #he_op_pl_cone:base;
+				il_main = #he_op_pl_eyes:base;
+				il_main = #he_op_pl_roman:base;
+				il_main = #he_op_pl_roman_02:base;
+				il_main = #he_op_pl_santa:base;
+				il_main = #he_op_pl_santa_02:base;
+				il_main = #he_vi_pl_knight:base;
 			}
 		}
 	}
@@ -720,49 +681,46 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #he_fu_pl_knight_fin_03:base;
-					il_main = #he_fu_pl_smallwings_kavaren:base;
-					il_main = #he_ra_ca_pl_avg:base/+brilliant;
-					il_main = #he_ra_ca_pl_cap:base/+brilliant;
-					il_main = #he_ra_ca_pl_dome:base/+brilliant;
-					il_main = #he_ra_ca_sl_avg:base/+brilliant;
-					il_main = #he_ra_fu_pl_desert:base/+brilliant;
-					il_main = #he_ra_fu_pl_horn_fin:base/+brilliant;
-					il_main = #he_ra_fu_pl_horn_mag:base/+brilliant;
-					il_main = #he_ra_fu_pl_knight:base/+brilliant;
-					il_main = #he_ra_fu_pl_knight_fin:base/+brilliant;
-					il_main = #he_ra_fu_pl_knight_fin_02:base/+brilliant;
-					il_main = #he_ra_fu_pl_knight_str:base/+brilliant;
-					il_main = #he_ra_fu_pl_spike:base/+brilliant;
-					il_main = #he_ra_fu_pl_str:base/+brilliant;
-					il_main = #he_ra_op_bigwings:base/+brilliant;
-					il_main = #he_ra_op_pl_avg:base/+brilliant;
-					il_main = #he_ra_op_pl_cone:base/+brilliant;
-					il_main = #he_ra_op_pl_roman:base/+brilliant;
-					il_main = #he_ra_un_fu_pl_skull:base;
-					il_main = #he_ra_vi_pl_knight:base/+brilliant;
-					il_main = #he_un_ca_barbarian:base;
-					il_main = #he_un_ca_cowskull:base;
-					il_main = #he_un_ca_brim:base;
-					il_main = #he_un_ca_moon:base;
-					il_main = #he_un_ca_pl_guard_archer:base;
-					il_main = #he_un_ca_tallcrown:base;
-					il_main = #he_un_fu_crystal:base;
-					il_main = #he_un_fu_eyebrows:base;
-					il_main = #he_un_fu_pl_fish:base;
-					il_main = #he_un_fu_pl_fish_02:base;
-					il_main = #he_un_fu_pl_skull:base;
-					il_main = #he_un_mask_bone:base;
-					il_main = #he_un_op_pl_guard_captain:base;
-					il_main = #he_un_op_pl_guard_fighter:base;
-					il_main = #he_un_spider:base;
-					il_main = #he_un_vi_dragon:base;
-					il_main = #he_un_vi_moto:base;
-				}
+				il_main = #he_fu_pl_knight_fin_03:base;
+				il_main = #he_fu_pl_smallwings_kavaren:base;
+				il_main = #he_ra_ca_pl_avg:base/+brilliant;
+				il_main = #he_ra_ca_pl_cap:base/+brilliant;
+				il_main = #he_ra_ca_pl_dome:base/+brilliant;
+				il_main = #he_ra_ca_sl_avg:base/+brilliant;
+				il_main = #he_ra_fu_pl_desert:base/+brilliant;
+				il_main = #he_ra_fu_pl_horn_fin:base/+brilliant;
+				il_main = #he_ra_fu_pl_horn_mag:base/+brilliant;
+				il_main = #he_ra_fu_pl_knight:base/+brilliant;
+				il_main = #he_ra_fu_pl_knight_fin:base/+brilliant;
+				il_main = #he_ra_fu_pl_knight_fin_02:base/+brilliant;
+				il_main = #he_ra_fu_pl_knight_str:base/+brilliant;
+				il_main = #he_ra_fu_pl_spike:base/+brilliant;
+				il_main = #he_ra_fu_pl_str:base/+brilliant;
+				il_main = #he_ra_op_bigwings:base/+brilliant;
+				il_main = #he_ra_op_pl_avg:base/+brilliant;
+				il_main = #he_ra_op_pl_cone:base/+brilliant;
+				il_main = #he_ra_op_pl_roman:base/+brilliant;
+				il_main = #he_ra_un_fu_pl_skull:base;
+				il_main = #he_ra_vi_pl_knight:base/+brilliant;
+				il_main = #he_un_ca_barbarian:base;
+				il_main = #he_un_ca_cowskull:base;
+				il_main = #he_un_ca_brim:base;
+				il_main = #he_un_ca_moon:base;
+				il_main = #he_un_ca_pl_guard_archer:base;
+				il_main = #he_un_ca_tallcrown:base;
+				il_main = #he_un_fu_crystal:base;
+				il_main = #he_un_fu_eyebrows:base;
+				il_main = #he_un_fu_pl_fish:base;
+				il_main = #he_un_fu_pl_fish_02:base;
+				il_main = #he_un_fu_pl_skull:base;
+				il_main = #he_un_mask_bone:base;
+				il_main = #he_un_op_pl_guard_captain:base;
+				il_main = #he_un_op_pl_guard_fighter:base;
+				il_main = #he_un_spider:base;
+				il_main = #he_un_vi_dragon:base;
+				il_main = #he_un_vi_moto:base;
 			}
 		}
 	}
@@ -775,58 +733,55 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #mc_d_c_f_1h_str:base;
-					il_main = #mc_d_c_s_1h_mag:base;
-					il_main = #mc_g_c_f_1h_avg:base;
-					il_main = #mc_g_c_f_1h_avg:c_fin;
-					il_main = #mc_g_c_f_1h_avg:c_mag;
-					il_main = #mc_g_c_f_1h_avg:c_str;
-					il_main = #mc_g_c_f_1h_avg:o_avg;
-					il_main = #mc_g_c_f_1h_avg:o_fin;
-					il_main = #mc_g_c_f_1h_avg:o_mag;
-					il_main = #mc_g_c_f_1h_avg:o_str;
-					il_main = #mc_g_c_f_1h_fun;
-					il_main = #mc_g_c_f_1h_low;
-					il_main = #mc_g_c_m_1h_avg:base;
-					il_main = #mc_g_c_m_1h_avg:c_fin;
-					il_main = #mc_g_c_m_1h_avg:c_mag;
-					il_main = #mc_g_c_m_1h_avg:c_str;
-					il_main = #mc_g_c_m_1h_avg:o_avg;
-					il_main = #mc_g_c_m_1h_avg:o_fin;
-					il_main = #mc_g_c_m_1h_avg:o_mag;
-					il_main = #mc_g_c_m_1h_avg:o_str;
-					il_main = #mc_g_c_m_1h_fun;
-					il_main = #mc_g_c_m_1h_low;
-					il_main = #mc_g_c_s_1h_avg:base;
-					il_main = #mc_g_c_s_1h_avg:c_fin;
-					il_main = #mc_g_c_s_1h_avg:c_mag;
-					il_main = #mc_g_c_s_1h_avg:c_str;
-					il_main = #mc_g_c_s_1h_avg:o_avg;
-					il_main = #mc_g_c_s_1h_avg:o_fin;
-					il_main = #mc_g_c_s_1h_avg:o_mag;
-					il_main = #mc_g_c_s_1h_avg:o_str;
-					il_main = #mc_g_c_s_1h_fun;
-					il_main = #mc_g_c_s_1h_low;
-					il_main = #mc_sc_g_c_f_1h_fin:base;
-					il_main = #mc_sc_g_c_m_1h_fin:base;
-					il_main = #mc_sc_g_c_m_1h_str:base;
-					il_main = #mc_sc_g_c_s_1h_fin:base;
-					il_main = #mc_sc_g_o_f_1h_fin:base;
-					il_main = #mc_sc_g_o_m_1h_avg:base;
-					il_main = #mc_sc_g_o_m_1h_fin:base;
-					il_main = #mc_sc_g_o_m_1h_str:base;
-					il_main = #mc_sc_un_bells:base;
-					il_main = #mc_sc_un_dolphin:base;
-					il_main = #mc_sc_un_egypt:base;
-					il_main = #mc_sc_un_hand:base;
-					il_main = #mc_sc_un_horns:base;
-					il_main = #mc_sc_un_jester:base;
-					il_main = #mc_sc_un_spider:base;
-				}
+				il_main = #mc_d_c_f_1h_str:base;
+				il_main = #mc_d_c_s_1h_mag:base;
+				il_main = #mc_g_c_f_1h_avg:base;
+				il_main = #mc_g_c_f_1h_avg:c_fin;
+				il_main = #mc_g_c_f_1h_avg:c_mag;
+				il_main = #mc_g_c_f_1h_avg:c_str;
+				il_main = #mc_g_c_f_1h_avg:o_avg;
+				il_main = #mc_g_c_f_1h_avg:o_fin;
+				il_main = #mc_g_c_f_1h_avg:o_mag;
+				il_main = #mc_g_c_f_1h_avg:o_str;
+				il_main = #mc_g_c_f_1h_fun;
+				il_main = #mc_g_c_f_1h_low;
+				il_main = #mc_g_c_m_1h_avg:base;
+				il_main = #mc_g_c_m_1h_avg:c_fin;
+				il_main = #mc_g_c_m_1h_avg:c_mag;
+				il_main = #mc_g_c_m_1h_avg:c_str;
+				il_main = #mc_g_c_m_1h_avg:o_avg;
+				il_main = #mc_g_c_m_1h_avg:o_fin;
+				il_main = #mc_g_c_m_1h_avg:o_mag;
+				il_main = #mc_g_c_m_1h_avg:o_str;
+				il_main = #mc_g_c_m_1h_fun;
+				il_main = #mc_g_c_m_1h_low;
+				il_main = #mc_g_c_s_1h_avg:base;
+				il_main = #mc_g_c_s_1h_avg:c_fin;
+				il_main = #mc_g_c_s_1h_avg:c_mag;
+				il_main = #mc_g_c_s_1h_avg:c_str;
+				il_main = #mc_g_c_s_1h_avg:o_avg;
+				il_main = #mc_g_c_s_1h_avg:o_fin;
+				il_main = #mc_g_c_s_1h_avg:o_mag;
+				il_main = #mc_g_c_s_1h_avg:o_str;
+				il_main = #mc_g_c_s_1h_fun;
+				il_main = #mc_g_c_s_1h_low;
+				il_main = #mc_sc_g_c_f_1h_fin:base;
+				il_main = #mc_sc_g_c_m_1h_fin:base;
+				il_main = #mc_sc_g_c_m_1h_str:base;
+				il_main = #mc_sc_g_c_s_1h_fin:base;
+				il_main = #mc_sc_g_o_f_1h_fin:base;
+				il_main = #mc_sc_g_o_m_1h_avg:base;
+				il_main = #mc_sc_g_o_m_1h_fin:base;
+				il_main = #mc_sc_g_o_m_1h_str:base;
+				il_main = #mc_sc_un_bells:base;
+				il_main = #mc_sc_un_dolphin:base;
+				il_main = #mc_sc_un_egypt:base;
+				il_main = #mc_sc_un_hand:base;
+				il_main = #mc_sc_un_horns:base;
+				il_main = #mc_sc_un_jester:base;
+				il_main = #mc_sc_un_spider:base;
 			}
 		}
 	}
@@ -839,29 +794,26 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #mc_ra_g_c_f_1h_fin:base/+brilliant;
-					il_main = #mc_ra_g_c_f_1h_fin:c_mag/+brilliant;
-					il_main = #mc_ra_g_c_f_1h_fin:c_str/+brilliant;
-					il_main = #mc_ra_g_c_f_1h_fin:o_avg/+brilliant;
-					il_main = #mc_ra_g_c_f_1h_fin:o_fin/+brilliant;
-					il_main = #mc_ra_g_c_f_1h_fin:o_mag/+brilliant;
-					il_main = #mc_ra_g_c_m_1h_fin:base/+brilliant;
-					il_main = #mc_ra_g_c_m_1h_fin:c_mag/+brilliant;
-					il_main = #mc_ra_g_c_m_1h_fin:c_str/+brilliant;
-					il_main = #mc_ra_g_c_m_1h_fin:o_avg/+brilliant;
-					il_main = #mc_ra_g_c_m_1h_fin:o_fin/+brilliant;
-					il_main = #mc_ra_g_c_m_1h_fin:o_str/+brilliant;
-					il_main = #mc_ra_g_c_s_1h_fin:base/+brilliant;
-					il_main = #mc_ra_g_c_s_1h_fin:c_str/+brilliant;
-					il_main = #mc_ra_g_c_s_1h_fin:o_avg/+brilliant;
-					il_main = #mc_ra_g_c_s_1h_fin:o_fin/+brilliant;
-					il_main = #mc_ra_g_c_s_1h_fin:o_mag/+brilliant;
-					il_main = #mc_ra_g_c_s_1h_fin:o_str/+brilliant;
-				}
+				il_main = #mc_ra_g_c_f_1h_fin:base/+brilliant;
+				il_main = #mc_ra_g_c_f_1h_fin:c_mag/+brilliant;
+				il_main = #mc_ra_g_c_f_1h_fin:c_str/+brilliant;
+				il_main = #mc_ra_g_c_f_1h_fin:o_avg/+brilliant;
+				il_main = #mc_ra_g_c_f_1h_fin:o_fin/+brilliant;
+				il_main = #mc_ra_g_c_f_1h_fin:o_mag/+brilliant;
+				il_main = #mc_ra_g_c_m_1h_fin:base/+brilliant;
+				il_main = #mc_ra_g_c_m_1h_fin:c_mag/+brilliant;
+				il_main = #mc_ra_g_c_m_1h_fin:c_str/+brilliant;
+				il_main = #mc_ra_g_c_m_1h_fin:o_avg/+brilliant;
+				il_main = #mc_ra_g_c_m_1h_fin:o_fin/+brilliant;
+				il_main = #mc_ra_g_c_m_1h_fin:o_str/+brilliant;
+				il_main = #mc_ra_g_c_s_1h_fin:base/+brilliant;
+				il_main = #mc_ra_g_c_s_1h_fin:c_str/+brilliant;
+				il_main = #mc_ra_g_c_s_1h_fin:o_avg/+brilliant;
+				il_main = #mc_ra_g_c_s_1h_fin:o_fin/+brilliant;
+				il_main = #mc_ra_g_c_s_1h_fin:o_mag/+brilliant;
+				il_main = #mc_ra_g_c_s_1h_fin:o_str/+brilliant;
 			}
 		}
 	}
@@ -874,28 +826,25 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #sd_g_c_sd_2h_avg:base;
-					il_main = #sd_g_c_sd_2h_avg:c_fin;
-					il_main = #sd_g_c_sd_2h_avg:c_mag;
-					il_main = #sd_g_c_sd_2h_avg:c_str;
-					il_main = #sd_g_c_sd_2h_avg:o_avg;
-					il_main = #sd_g_c_sd_2h_fun;
-					il_main = #sd_g_c_sd_2h_fun_trog:base;
-					il_main = #sd_g_c_sd_2h_low;
-					il_main = #sd_g_c_st_2h_avg:base;
-					il_main = #sd_g_c_st_2h_avg:c_fin;
-					il_main = #sd_g_c_st_2h_avg:c_mag;
-					il_main = #sd_g_c_st_2h_avg:c_str;
-					il_main = #sd_g_c_st_2h_avg:o_avg;
-					il_main = #sd_g_c_st_2h_avg:o_fin;
-					il_main = #sd_g_c_st_2h_avg:o_mag;
-					il_main = #sd_g_c_st_2h_avg:o_str;
-					il_main = #sd_g_c_st_2h_fun;
-				}
+				il_main = #sd_g_c_sd_2h_avg:base;
+				il_main = #sd_g_c_sd_2h_avg:c_fin;
+				il_main = #sd_g_c_sd_2h_avg:c_mag;
+				il_main = #sd_g_c_sd_2h_avg:c_str;
+				il_main = #sd_g_c_sd_2h_avg:o_avg;
+				il_main = #sd_g_c_sd_2h_fun;
+				il_main = #sd_g_c_sd_2h_fun_trog:base;
+				il_main = #sd_g_c_sd_2h_low;
+				il_main = #sd_g_c_st_2h_avg:base;
+				il_main = #sd_g_c_st_2h_avg:c_fin;
+				il_main = #sd_g_c_st_2h_avg:c_mag;
+				il_main = #sd_g_c_st_2h_avg:c_str;
+				il_main = #sd_g_c_st_2h_avg:o_avg;
+				il_main = #sd_g_c_st_2h_avg:o_fin;
+				il_main = #sd_g_c_st_2h_avg:o_mag;
+				il_main = #sd_g_c_st_2h_avg:o_str;
+				il_main = #sd_g_c_st_2h_fun;
 			}
 		}
 	}
@@ -908,26 +857,23 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #sd_ra_g_c_sd_2h_fin:base/+brilliant;
-					il_main = #sd_ra_g_c_sd_2h_fin:c_mag/+brilliant;
-					il_main = #sd_ra_g_c_sd_2h_fin:o_fin/+brilliant;
-					il_main = #sd_ra_g_o_st_2h_avg:base/+brilliant;
-					il_main = #sd_ra_g_o_st_2h_avg:c_fin/+brilliant;
-					il_main = #sd_ra_g_o_st_2h_avg:c_mag/+brilliant;
-					il_main = #sd_ra_g_o_st_2h_avg:o_str/+brilliant;
-					il_main = #sd_un_big_2h_d_barbed:base;
-					il_main = #sd_un_big_2h_d_serrated:base;
-					il_main = #sd_un_big_2h_g_eye:base;
-					il_main = #sd_un_big_2h_g_fork:base;
-					il_main = #sd_un_big_2h_g_split:base;
-					il_main = #sd_un_g_2h_angle:base;
-					il_main = #sd_un_g_2h_ribbon:base;
-					il_main = #sd_un_g_2h_zap:base;
-				}
+				il_main = #sd_ra_g_c_sd_2h_fin:base/+brilliant;
+				il_main = #sd_ra_g_c_sd_2h_fin:c_mag/+brilliant;
+				il_main = #sd_ra_g_c_sd_2h_fin:o_fin/+brilliant;
+				il_main = #sd_ra_g_o_st_2h_avg:base/+brilliant;
+				il_main = #sd_ra_g_o_st_2h_avg:c_fin/+brilliant;
+				il_main = #sd_ra_g_o_st_2h_avg:c_mag/+brilliant;
+				il_main = #sd_ra_g_o_st_2h_avg:o_str/+brilliant;
+				il_main = #sd_un_big_2h_d_barbed:base;
+				il_main = #sd_un_big_2h_d_serrated:base;
+				il_main = #sd_un_big_2h_g_eye:base;
+				il_main = #sd_un_big_2h_g_fork:base;
+				il_main = #sd_un_big_2h_g_split:base;
+				il_main = #sd_un_g_2h_angle:base;
+				il_main = #sd_un_g_2h_ribbon:base;
+				il_main = #sd_un_g_2h_zap:base;
 			}
 		}
 	}
@@ -940,40 +886,37 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #sd_g_c_bl_1h_avg:base;
-					il_main = #sd_g_c_bl_1h_avg:c_fin;
-					il_main = #sd_g_c_bl_1h_avg:o_avg;
-					il_main = #sd_g_c_bl_1h_avg:o_fin;
-					il_main = #sd_g_c_bl_1h_low;
-					il_main = #sd_g_c_fa_1h_avg:c_fin;
-					il_main = #sd_g_c_fa_1h_avg:c_mag;
-					il_main = #sd_g_c_fa_1h_avg:c_str;
-					il_main = #sd_g_c_gl_1h_avg:base;
-					il_main = #sd_g_c_gl_1h_avg:o_avg;
-					il_main = #sd_g_c_gl_1h_avg:o_fin;
-					il_main = #sd_g_c_gl_1h_low;
-					il_main = #sd_g_c_sc_1h_avg:c_fin;
-					il_main = #sd_g_c_sc_1h_avg:c_mag;
-					il_main = #sd_g_c_sc_1h_avg:c_str;
-					il_main = #sd_g_c_sd_1h_avg:base;
-					il_main = #sd_g_c_sd_1h_avg:c_fin;
-					il_main = #sd_g_c_sd_1h_avg:c_mag;
-					il_main = #sd_g_c_sd_1h_avg:c_str;
-					il_main = #sd_g_c_sd_1h_avg:o_avg;
-					il_main = #sd_g_c_sd_1h_fun;
-					il_main = #sd_g_c_st_1h_avg:base;
-					il_main = #sd_g_c_st_1h_avg:c_fin;
-					il_main = #sd_g_c_st_1h_avg:c_mag;
-					il_main = #sd_g_c_st_1h_avg:c_str;
-					il_main = #sd_g_c_st_1h_avg:o_avg;
-					il_main = #sd_g_c_st_1h_avg:o_fin;
-					il_main = #sd_g_c_st_1h_avg:o_mag;
-					il_main = #sd_g_c_st_1h_avg:o_str;
-				}
+				il_main = #sd_g_c_bl_1h_avg:base;
+				il_main = #sd_g_c_bl_1h_avg:c_fin;
+				il_main = #sd_g_c_bl_1h_avg:o_avg;
+				il_main = #sd_g_c_bl_1h_avg:o_fin;
+				il_main = #sd_g_c_bl_1h_low;
+				il_main = #sd_g_c_fa_1h_avg:c_fin;
+				il_main = #sd_g_c_fa_1h_avg:c_mag;
+				il_main = #sd_g_c_fa_1h_avg:c_str;
+				il_main = #sd_g_c_gl_1h_avg:base;
+				il_main = #sd_g_c_gl_1h_avg:o_avg;
+				il_main = #sd_g_c_gl_1h_avg:o_fin;
+				il_main = #sd_g_c_gl_1h_low;
+				il_main = #sd_g_c_sc_1h_avg:c_fin;
+				il_main = #sd_g_c_sc_1h_avg:c_mag;
+				il_main = #sd_g_c_sc_1h_avg:c_str;
+				il_main = #sd_g_c_sd_1h_avg:base;
+				il_main = #sd_g_c_sd_1h_avg:c_fin;
+				il_main = #sd_g_c_sd_1h_avg:c_mag;
+				il_main = #sd_g_c_sd_1h_avg:c_str;
+				il_main = #sd_g_c_sd_1h_avg:o_avg;
+				il_main = #sd_g_c_sd_1h_fun;
+				il_main = #sd_g_c_st_1h_avg:base;
+				il_main = #sd_g_c_st_1h_avg:c_fin;
+				il_main = #sd_g_c_st_1h_avg:c_mag;
+				il_main = #sd_g_c_st_1h_avg:c_str;
+				il_main = #sd_g_c_st_1h_avg:o_avg;
+				il_main = #sd_g_c_st_1h_avg:o_fin;
+				il_main = #sd_g_c_st_1h_avg:o_mag;
+				il_main = #sd_g_c_st_1h_avg:o_str;
 			}
 		}
 	}
@@ -986,45 +929,42 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #sd_ra_g_c_bl_1h_fin:base/+brilliant;
-					il_main = #sd_ra_g_c_fa_1h_fin:base/+brilliant;
-					il_main = #sd_ra_g_c_fa_1h_fin:c_mag/+brilliant;
-					il_main = #sd_ra_g_c_fa_1h_fin:c_str/+brilliant;
-					il_main = #sd_ra_g_c_sc_1h_fin:base/+brilliant;
-					il_main = #sd_ra_g_c_sc_1h_fin:c_mag/+brilliant;
-					il_main = #sd_ra_g_c_sc_1h_fin:c_str/+brilliant;
-					il_main = #sd_ra_g_o_bl_1h_avg:base/+brilliant;
-					il_main = #sd_ra_g_o_gl_1h_avg:base/+brilliant;
-					il_main = #sd_ra_g_o_sd_1h_avg:base/+brilliant;
-					il_main = #sd_ra_g_o_sd_1h_avg:c_fin/+brilliant;
-					il_main = #sd_ra_g_o_sd_1h_avg:c_mag/+brilliant;
-					il_main = #sd_ra_g_o_sd_1h_avg:c_str/+brilliant;
-					il_main = #sd_ra_g_o_sd_1h_avg:o_fin/+brilliant;
-					il_main = #sd_ra_g_o_sd_1h_avg:o_mag/+brilliant;
-					il_main = #sd_ra_g_o_sd_1h_avg:o_str/+brilliant;
-					il_main = #sd_ra_g_o_st_1h_fin:base/+brilliant;
-					il_main = #sd_ra_g_o_st_1h_fin:c_str/+brilliant;
-					il_main = #sd_ra_g_o_st_1h_fin:o_str/+brilliant;
-					il_main = #sd_un_big_1h_d_jagged:base;
-					il_main = #sd_un_big_1h_d_square:base;
-					il_main = #sd_un_big_1h_g_breaker:base;
-					il_main = #sd_un_big_1h_g_cleaver:base;
-					il_main = #sd_un_big_1h_g_flame:base;
-					il_main = #sd_un_big_1h_g_ornate:base;
-					il_main = #sd_un_droog_1h_avg;
-					il_main = #sd_un_g_1h_angle:base;
-					il_main = #sd_un_g_1h_phoenix:base;
-					il_main = #sd_un_g_1h_twirl:base;
-					il_main = #sd_un_g_1h_wing:base;
-					il_main = #sd_un_g_c_sd_1h_mag:base;
-					il_main = #sd_un_ice_avg;
-					il_main = #sd_un_seck_1h_avg;
-					il_main = #sd_un_seck_1h_fin;
-				}
+				il_main = #sd_ra_g_c_bl_1h_fin:base/+brilliant;
+				il_main = #sd_ra_g_c_fa_1h_fin:base/+brilliant;
+				il_main = #sd_ra_g_c_fa_1h_fin:c_mag/+brilliant;
+				il_main = #sd_ra_g_c_fa_1h_fin:c_str/+brilliant;
+				il_main = #sd_ra_g_c_sc_1h_fin:base/+brilliant;
+				il_main = #sd_ra_g_c_sc_1h_fin:c_mag/+brilliant;
+				il_main = #sd_ra_g_c_sc_1h_fin:c_str/+brilliant;
+				il_main = #sd_ra_g_o_bl_1h_avg:base/+brilliant;
+				il_main = #sd_ra_g_o_gl_1h_avg:base/+brilliant;
+				il_main = #sd_ra_g_o_sd_1h_avg:base/+brilliant;
+				il_main = #sd_ra_g_o_sd_1h_avg:c_fin/+brilliant;
+				il_main = #sd_ra_g_o_sd_1h_avg:c_mag/+brilliant;
+				il_main = #sd_ra_g_o_sd_1h_avg:c_str/+brilliant;
+				il_main = #sd_ra_g_o_sd_1h_avg:o_fin/+brilliant;
+				il_main = #sd_ra_g_o_sd_1h_avg:o_mag/+brilliant;
+				il_main = #sd_ra_g_o_sd_1h_avg:o_str/+brilliant;
+				il_main = #sd_ra_g_o_st_1h_fin:base/+brilliant;
+				il_main = #sd_ra_g_o_st_1h_fin:c_str/+brilliant;
+				il_main = #sd_ra_g_o_st_1h_fin:o_str/+brilliant;
+				il_main = #sd_un_big_1h_d_jagged:base;
+				il_main = #sd_un_big_1h_d_square:base;
+				il_main = #sd_un_big_1h_g_breaker:base;
+				il_main = #sd_un_big_1h_g_cleaver:base;
+				il_main = #sd_un_big_1h_g_flame:base;
+				il_main = #sd_un_big_1h_g_ornate:base;
+				il_main = #sd_un_droog_1h_avg;
+				il_main = #sd_un_g_1h_angle:base;
+				il_main = #sd_un_g_1h_phoenix:base;
+				il_main = #sd_un_g_1h_twirl:base;
+				il_main = #sd_un_g_1h_wing:base;
+				il_main = #sd_un_g_c_sd_1h_mag:base;
+				il_main = #sd_un_ice_avg;
+				il_main = #sd_un_seck_1h_avg;
+				il_main = #sd_un_seck_1h_fin;
 			}
 		}
 	}
@@ -1037,57 +977,54 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #sh_m_g_c_r_s_avg:c_mag;
-					il_main = #sh_m_g_c_r_s_avg:c_str;
-					il_main = #sh_m_g_c_r_s_avg:o_avg;
-					il_main = #sh_m_g_c_r_s_avg:o_fin;
-					il_main = #sh_m_g_c_r_s_avg:o_mag;
-					il_main = #sh_m_g_c_r_s_avg:o_str;
-					il_main = #sh_m_g_c_r_s_low;
-					il_main = #sh_u_g_c_r_m_avg;
-					il_main = #sh_u_g_c_r_s_avg;
-					il_main = #sh_w_g_c_h_m_avg:base;
-					il_main = #sh_w_g_c_h_m_avg:c_mag;
-					il_main = #sh_w_g_c_h_m_avg:c_str;
-					il_main = #sh_w_g_c_h_m_avg:o_avg;
-					il_main = #sh_w_g_c_h_m_avg:o_mag;
-					il_main = #sh_w_g_c_h_m_avg:o_str;
-					il_main = #sh_w_g_c_k_l_avg:base;
-					il_main = #sh_w_g_c_k_l_avg:c_fin;
-					il_main = #sh_w_g_c_k_l_avg:c_str;
-					il_main = #sh_w_g_c_k_l_avg:o_avg;
-					il_main = #sh_w_g_c_k_l_avg:o_str;
-					il_main = #sh_w_g_c_k_m_avg:base;
-					il_main = #sh_w_g_c_k_m_avg:c_fin;
-					il_main = #sh_w_g_c_k_m_avg:c_mag;
-					il_main = #sh_w_g_c_k_m_avg:c_str;
-					il_main = #sh_w_g_c_k_m_avg:o_avg;
-					il_main = #sh_w_g_c_k_m_avg:o_mag;
-					il_main = #sh_w_g_c_k_m_avg:o_str;
-					il_main = #sh_w_g_c_r_m_avg:base;
-					il_main = #sh_w_g_c_r_m_avg:c_mag;
-					il_main = #sh_w_g_c_r_m_avg:c_str;
-					il_main = #sh_w_g_c_r_m_avg:o_avg;
-					il_main = #sh_w_g_c_r_m_avg:o_fin;
-					il_main = #sh_w_g_c_r_m_avg:o_mag;
-					il_main = #sh_w_g_c_r_m_avg:o_str;
-					il_main = #sh_w_g_c_r_m_fun;
-					il_main = #sh_w_g_c_r_s_avg:c_fin;
-					il_main = #sh_w_g_c_r_s_avg:c_mag;
-					il_main = #sh_w_g_c_r_s_avg:c_str;
-					il_main = #sh_w_g_c_r_s_avg:o_avg;
-					il_main = #sh_w_g_c_r_s_avg:o_fin;
-					il_main = #sh_w_g_c_r_s_avg:o_mag;
-					il_main = #sh_w_g_c_r_s_avg:o_str;
-					il_main = #sh_w_g_c_r_s_elm:base;
-					il_main = #sh_w_g_c_r_s_fun;
-					il_main = #sh_w_g_c_s_m_fun;
-					il_main = #sh_z_g_c_r_m_avg;
-				}
+				il_main = #sh_m_g_c_r_s_avg:c_mag;
+				il_main = #sh_m_g_c_r_s_avg:c_str;
+				il_main = #sh_m_g_c_r_s_avg:o_avg;
+				il_main = #sh_m_g_c_r_s_avg:o_fin;
+				il_main = #sh_m_g_c_r_s_avg:o_mag;
+				il_main = #sh_m_g_c_r_s_avg:o_str;
+				il_main = #sh_m_g_c_r_s_low;
+				il_main = #sh_u_g_c_r_m_avg;
+				il_main = #sh_u_g_c_r_s_avg;
+				il_main = #sh_w_g_c_h_m_avg:base;
+				il_main = #sh_w_g_c_h_m_avg:c_mag;
+				il_main = #sh_w_g_c_h_m_avg:c_str;
+				il_main = #sh_w_g_c_h_m_avg:o_avg;
+				il_main = #sh_w_g_c_h_m_avg:o_mag;
+				il_main = #sh_w_g_c_h_m_avg:o_str;
+				il_main = #sh_w_g_c_k_l_avg:base;
+				il_main = #sh_w_g_c_k_l_avg:c_fin;
+				il_main = #sh_w_g_c_k_l_avg:c_str;
+				il_main = #sh_w_g_c_k_l_avg:o_avg;
+				il_main = #sh_w_g_c_k_l_avg:o_str;
+				il_main = #sh_w_g_c_k_m_avg:base;
+				il_main = #sh_w_g_c_k_m_avg:c_fin;
+				il_main = #sh_w_g_c_k_m_avg:c_mag;
+				il_main = #sh_w_g_c_k_m_avg:c_str;
+				il_main = #sh_w_g_c_k_m_avg:o_avg;
+				il_main = #sh_w_g_c_k_m_avg:o_mag;
+				il_main = #sh_w_g_c_k_m_avg:o_str;
+				il_main = #sh_w_g_c_r_m_avg:base;
+				il_main = #sh_w_g_c_r_m_avg:c_mag;
+				il_main = #sh_w_g_c_r_m_avg:c_str;
+				il_main = #sh_w_g_c_r_m_avg:o_avg;
+				il_main = #sh_w_g_c_r_m_avg:o_fin;
+				il_main = #sh_w_g_c_r_m_avg:o_mag;
+				il_main = #sh_w_g_c_r_m_avg:o_str;
+				il_main = #sh_w_g_c_r_m_fun;
+				il_main = #sh_w_g_c_r_s_avg:c_fin;
+				il_main = #sh_w_g_c_r_s_avg:c_mag;
+				il_main = #sh_w_g_c_r_s_avg:c_str;
+				il_main = #sh_w_g_c_r_s_avg:o_avg;
+				il_main = #sh_w_g_c_r_s_avg:o_fin;
+				il_main = #sh_w_g_c_r_s_avg:o_mag;
+				il_main = #sh_w_g_c_r_s_avg:o_str;
+				il_main = #sh_w_g_c_r_s_elm:base;
+				il_main = #sh_w_g_c_r_s_fun;
+				il_main = #sh_w_g_c_s_m_fun;
+				il_main = #sh_z_g_c_r_m_avg;
 			}
 		}
 	}
@@ -1100,76 +1037,73 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #sh_ra_m_c_h_s_practice:base/+brilliant;
-					il_main = #sh_ra_m_c_k_m_practice:base/+brilliant;
-					il_main = #sh_ra_m_c_r_l_stamp:base/+brilliant;
-					il_main = #sh_ra_m_c_r_m_decrepit:base/+brilliant;
-					il_main = #sh_ra_m_c_r_m_rivet:base/+brilliant;
-					il_main = #sh_ra_m_c_r_m_serrated:base/+brilliant;
-					il_main = #sh_ra_m_c_r_m_strapped:base/+brilliant;
-					il_main = #sh_ra_m_c_r_m_wreath:base/+brilliant;
-					il_main = #sh_ra_m_g_o_r_s_fin:o_str/+brilliant;
-					il_main = #sh_ra_m_o_h_s_spine:base/+brilliant;
-					il_main = #sh_ra_m_o_r_m_cinder:base/+brilliant;
-					il_main = #sh_ra_m_o_r_m_disc:base/+brilliant;
-					il_main = #sh_ra_m_o_r_m_frost:base/+brilliant;
-					il_main = #sh_ra_m_o_r_m_quad:base/+brilliant;
-					il_main = #sh_ra_m_o_r_m_shell:base/+brilliant;
-					il_main = #sh_ra_m_o_r_s_etched:base/+brilliant;
-					il_main = #sh_ra_w_c_c_m_strike:base/+brilliant;
-					il_main = #sh_ra_w_c_k_m_braced:base/+brilliant;
-					il_main = #sh_ra_w_c_k_s_pelt:base/+brilliant;
-					il_main = #sh_ra_w_g_c_h_m_fin:base/+brilliant;
-					il_main = #sh_ra_w_g_c_h_m_fin:c_str/+brilliant;
-					il_main = #sh_ra_w_g_c_h_m_fin:o_fin/+brilliant;
-					il_main = #sh_ra_w_g_c_k_l_fin:base/+brilliant;
-					il_main = #sh_ra_w_g_c_k_l_fin:c_str/+brilliant;
-					il_main = #sh_ra_w_g_c_k_l_fin:o_fin/+brilliant;
-					il_main = #sh_ra_w_g_c_k_l_fin:o_str/+brilliant;
-					il_main = #sh_ra_w_g_c_k_m_fin:base/+brilliant;
-					il_main = #sh_ra_w_g_c_k_m_fin:c_mag/+brilliant;
-					il_main = #sh_ra_w_g_c_k_m_fin:c_str/+brilliant;
-					il_main = #sh_ra_w_g_c_k_m_fin:o_mag/+brilliant;
-					il_main = #sh_ra_w_g_c_k_m_fin:o_str/+brilliant;
-					il_main = #sh_ra_w_g_c_r_m_fin:base/+brilliant;
-					il_main = #sh_ra_w_g_c_r_m_fin:o_fin/+brilliant;
-					il_main = #sh_ra_w_g_c_r_m_fin:o_mag/+brilliant;
-					il_main = #sh_ra_w_g_c_r_m_fin:o_str/+brilliant;
-					il_main = #sh_ra_w_g_c_r_s_fin:base/+brilliant;
-					il_main = #sh_ra_w_g_c_r_s_fin:o_fin/+brilliant;
-					il_main = #sh_ra_w_g_o_k_m_fin:base/+brilliant;
-					il_main = #sh_ra_w_g_o_t_l_avg:base/+brilliant;
-					il_main = #sh_ra_w_g_o_t_l_avg:c_fin/+brilliant;
-					il_main = #sh_ra_w_g_o_t_l_avg:c_mag/+brilliant;
-					il_main = #sh_ra_w_g_o_t_l_avg:c_str/+brilliant;
-					il_main = #sh_ra_w_g_o_t_l_avg:o_fin/+brilliant;
-					il_main = #sh_ra_w_g_o_t_l_avg:o_str/+brilliant;
-					il_main = #sh_ra_w_o_k_m_haze:base/+brilliant;
-					il_main = #sh_u_g_c_k_l_avg:base;
-					il_main = #sh_un_kite_ice:base;
-					il_main = #sh_un_m_c_h_m_mold:base;
-					il_main = #sh_un_m_o_c_m_parade:base;
-					il_main = #sh_un_m_o_c_m_vesicle:base;
-					il_main = #sh_un_m_o_h_s_horn:base;
-					il_main = #sh_un_m_o_h_s_ram:base;
-					il_main = #sh_un_m_o_k_m_dermal:base;
-					il_main = #sh_un_m_o_k_m_guardian:base;
-					il_main = #sh_un_m_o_k_m_maw:base;
-					il_main = #sh_un_m_o_k_m_sumbioum:base;
-					il_main = #sh_un_m_o_r_m_aurora:base;
-					il_main = #sh_un_m_o_r_m_canker:base;
-					il_main = #sh_un_m_o_r_m_chitin:base;
-					il_main = #sh_un_m_o_r_m_fury:base;
-					il_main = #sh_un_m_o_r_m_spirit:base;
-					il_main = #sh_un_m_o_r_m_turtle:base;
-					il_main = #sh_un_w_o_h_m_beast:base;
-					il_main = #sh_un_w_o_k_m_crown:base;
-					il_main = #sh_w_g_c_r_s_krohar:base;
-				}
+				il_main = #sh_ra_m_c_h_s_practice:base/+brilliant;
+				il_main = #sh_ra_m_c_k_m_practice:base/+brilliant;
+				il_main = #sh_ra_m_c_r_l_stamp:base/+brilliant;
+				il_main = #sh_ra_m_c_r_m_decrepit:base/+brilliant;
+				il_main = #sh_ra_m_c_r_m_rivet:base/+brilliant;
+				il_main = #sh_ra_m_c_r_m_serrated:base/+brilliant;
+				il_main = #sh_ra_m_c_r_m_strapped:base/+brilliant;
+				il_main = #sh_ra_m_c_r_m_wreath:base/+brilliant;
+				il_main = #sh_ra_m_g_o_r_s_fin:o_str/+brilliant;
+				il_main = #sh_ra_m_o_h_s_spine:base/+brilliant;
+				il_main = #sh_ra_m_o_r_m_cinder:base/+brilliant;
+				il_main = #sh_ra_m_o_r_m_disc:base/+brilliant;
+				il_main = #sh_ra_m_o_r_m_frost:base/+brilliant;
+				il_main = #sh_ra_m_o_r_m_quad:base/+brilliant;
+				il_main = #sh_ra_m_o_r_m_shell:base/+brilliant;
+				il_main = #sh_ra_m_o_r_s_etched:base/+brilliant;
+				il_main = #sh_ra_w_c_c_m_strike:base/+brilliant;
+				il_main = #sh_ra_w_c_k_m_braced:base/+brilliant;
+				il_main = #sh_ra_w_c_k_s_pelt:base/+brilliant;
+				il_main = #sh_ra_w_g_c_h_m_fin:base/+brilliant;
+				il_main = #sh_ra_w_g_c_h_m_fin:c_str/+brilliant;
+				il_main = #sh_ra_w_g_c_h_m_fin:o_fin/+brilliant;
+				il_main = #sh_ra_w_g_c_k_l_fin:base/+brilliant;
+				il_main = #sh_ra_w_g_c_k_l_fin:c_str/+brilliant;
+				il_main = #sh_ra_w_g_c_k_l_fin:o_fin/+brilliant;
+				il_main = #sh_ra_w_g_c_k_l_fin:o_str/+brilliant;
+				il_main = #sh_ra_w_g_c_k_m_fin:base/+brilliant;
+				il_main = #sh_ra_w_g_c_k_m_fin:c_mag/+brilliant;
+				il_main = #sh_ra_w_g_c_k_m_fin:c_str/+brilliant;
+				il_main = #sh_ra_w_g_c_k_m_fin:o_mag/+brilliant;
+				il_main = #sh_ra_w_g_c_k_m_fin:o_str/+brilliant;
+				il_main = #sh_ra_w_g_c_r_m_fin:base/+brilliant;
+				il_main = #sh_ra_w_g_c_r_m_fin:o_fin/+brilliant;
+				il_main = #sh_ra_w_g_c_r_m_fin:o_mag/+brilliant;
+				il_main = #sh_ra_w_g_c_r_m_fin:o_str/+brilliant;
+				il_main = #sh_ra_w_g_c_r_s_fin:base/+brilliant;
+				il_main = #sh_ra_w_g_c_r_s_fin:o_fin/+brilliant;
+				il_main = #sh_ra_w_g_o_k_m_fin:base/+brilliant;
+				il_main = #sh_ra_w_g_o_t_l_avg:base/+brilliant;
+				il_main = #sh_ra_w_g_o_t_l_avg:c_fin/+brilliant;
+				il_main = #sh_ra_w_g_o_t_l_avg:c_mag/+brilliant;
+				il_main = #sh_ra_w_g_o_t_l_avg:c_str/+brilliant;
+				il_main = #sh_ra_w_g_o_t_l_avg:o_fin/+brilliant;
+				il_main = #sh_ra_w_g_o_t_l_avg:o_str/+brilliant;
+				il_main = #sh_ra_w_o_k_m_haze:base/+brilliant;
+				il_main = #sh_u_g_c_k_l_avg:base;
+				il_main = #sh_un_kite_ice:base;
+				il_main = #sh_un_m_c_h_m_mold:base;
+				il_main = #sh_un_m_o_c_m_parade:base;
+				il_main = #sh_un_m_o_c_m_vesicle:base;
+				il_main = #sh_un_m_o_h_s_horn:base;
+				il_main = #sh_un_m_o_h_s_ram:base;
+				il_main = #sh_un_m_o_k_m_dermal:base;
+				il_main = #sh_un_m_o_k_m_guardian:base;
+				il_main = #sh_un_m_o_k_m_maw:base;
+				il_main = #sh_un_m_o_k_m_sumbioum:base;
+				il_main = #sh_un_m_o_r_m_aurora:base;
+				il_main = #sh_un_m_o_r_m_canker:base;
+				il_main = #sh_un_m_o_r_m_chitin:base;
+				il_main = #sh_un_m_o_r_m_fury:base;
+				il_main = #sh_un_m_o_r_m_spirit:base;
+				il_main = #sh_un_m_o_r_m_turtle:base;
+				il_main = #sh_un_w_o_h_m_beast:base;
+				il_main = #sh_un_w_o_k_m_crown:base;
+				il_main = #sh_w_g_c_r_s_krohar:base;
 			}
 		}
 	}
@@ -1182,38 +1116,35 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #ss_g_c_bl_1h_avg:base;
-					il_main = #ss_g_c_bl_1h_avg:o_avg;
-					il_main = #ss_g_c_bl_1h_fun;
-					il_main = #ss_g_c_gl_1h_avg:base;
-					il_main = #ss_g_c_gl_1h_avg:c_fin;
-					il_main = #ss_g_c_gl_1h_fun;
-					il_main = #ss_g_c_gl_1h_low;
-					il_main = #ss_g_c_sd_1h_avg:base;
-					il_main = #ss_g_c_sd_1h_avg:c_fin;
-					il_main = #ss_g_c_sd_1h_avg:c_mag;
-					il_main = #ss_g_c_sd_1h_avg:c_str;
-					il_main = #ss_g_c_sd_1h_avg:o_avg;
-					il_main = #ss_g_c_sd_1h_avg:o_fin;
-					il_main = #ss_g_c_st_1h_avg:base;
-					il_main = #ss_g_c_st_1h_avg:c_fin;
-					il_main = #ss_g_c_st_1h_avg:o_avg;
-					il_main = #ss_g_c_st_1h_avg:o_fin;
-					il_main = #ss_g_c_st_1h_fun;
-					il_main = #ss_ra_g_c_gl_1h_fin:base/+brilliant;
-					il_main = #ss_ra_g_c_st_1h_fin:base/+brilliant;
-					il_main = #ss_ra_g_c_st_1h_fin:o_avg/+brilliant;
-					il_main = #ss_ra_g_c_st_1h_fin:o_fin/+brilliant;
-					il_main = #ss_ra_g_o_sd_1h_avg:base/+brilliant;
-					il_main = #ss_ra_g_o_sd_1h_avg:c_fin/+brilliant;
-					il_main = #ss_ra_g_o_sd_1h_avg:c_mag/+brilliant;
-					il_main = #ss_ra_g_o_sd_1h_avg:o_fin/+brilliant;
-					il_main = #ss_un_gl_rusk;
-				}
+				il_main = #ss_g_c_bl_1h_avg:base;
+				il_main = #ss_g_c_bl_1h_avg:o_avg;
+				il_main = #ss_g_c_bl_1h_fun;
+				il_main = #ss_g_c_gl_1h_avg:base;
+				il_main = #ss_g_c_gl_1h_avg:c_fin;
+				il_main = #ss_g_c_gl_1h_fun;
+				il_main = #ss_g_c_gl_1h_low;
+				il_main = #ss_g_c_sd_1h_avg:base;
+				il_main = #ss_g_c_sd_1h_avg:c_fin;
+				il_main = #ss_g_c_sd_1h_avg:c_mag;
+				il_main = #ss_g_c_sd_1h_avg:c_str;
+				il_main = #ss_g_c_sd_1h_avg:o_avg;
+				il_main = #ss_g_c_sd_1h_avg:o_fin;
+				il_main = #ss_g_c_st_1h_avg:base;
+				il_main = #ss_g_c_st_1h_avg:c_fin;
+				il_main = #ss_g_c_st_1h_avg:o_avg;
+				il_main = #ss_g_c_st_1h_avg:o_fin;
+				il_main = #ss_g_c_st_1h_fun;
+				il_main = #ss_ra_g_c_gl_1h_fin:base/+brilliant;
+				il_main = #ss_ra_g_c_st_1h_fin:base/+brilliant;
+				il_main = #ss_ra_g_c_st_1h_fin:o_avg/+brilliant;
+				il_main = #ss_ra_g_c_st_1h_fin:o_fin/+brilliant;
+				il_main = #ss_ra_g_o_sd_1h_avg:base/+brilliant;
+				il_main = #ss_ra_g_o_sd_1h_avg:c_fin/+brilliant;
+				il_main = #ss_ra_g_o_sd_1h_avg:c_mag/+brilliant;
+				il_main = #ss_ra_g_o_sd_1h_avg:o_fin/+brilliant;
+				il_main = #ss_un_gl_rusk;
 			}
 		}
 	}
@@ -1226,87 +1157,84 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #bd_ch_m_g_c_avg:base;
-					il_main = #bd_ch_m_g_c_avg:c_fin;
-					il_main = #bd_ch_m_g_c_avg:c_mag;
-					il_main = #bd_ch_m_g_c_avg:c_str;
-					il_main = #bd_ch_m_g_c_avg:o_avg;
-					il_main = #bd_ch_m_g_c_avg:o_fin;
-					il_main = #bd_ch_m_g_c_avg:o_mag;
-					il_main = #bd_ch_m_g_c_avg:o_str;
-					il_main = #bd_sc_m_g_c_avg:base;
-					il_main = #bd_sc_m_g_c_avg:c_fin;
-					il_main = #bd_sc_m_g_c_avg:c_mag;
-					il_main = #bd_sc_m_g_c_avg:o_fin;
-					il_main = #bd_ro_m_d_c_003:base;
-					il_main = #bd_ro_m_d_c_004:base;
-					il_main = #bd_ro_m_d_c_009:base;
-					il_main = #bd_ro_m_d_c_041:base;
-					il_main = #bd_ro_m_d_c_043:base;
-					il_main = #bd_ro_m_d_c_077:base;
-					il_main = #bd_ro_m_g_c_001:base;
-					il_main = #bd_ro_m_g_c_002:base;
-					il_main = #bd_ro_m_g_c_005:base;
-					il_main = #bd_ro_m_g_c_005a:base;
-					il_main = #bd_ro_m_g_c_008:base;
-					il_main = #bd_ro_m_g_c_012:base;
-					il_main = #bd_ro_m_g_c_014:base;
-					il_main = #bd_ro_m_g_c_015:base;
-					il_main = #bd_ro_m_g_c_018:base;
-					il_main = #bd_ro_m_g_c_020:base;
-					il_main = #bd_ro_m_g_c_021:base;
-					il_main = #bd_ro_m_g_c_022:base;
-					il_main = #bd_ro_m_g_c_023:base;
-					il_main = #bd_ro_m_g_c_024:base;
-					il_main = #bd_ro_m_g_c_026:base;
-					il_main = #bd_ro_m_g_c_029:base;
-					il_main = #bd_ro_m_g_c_031:base;
-					il_main = #bd_ro_m_g_c_034:base;
-					il_main = #bd_ro_m_g_c_037:base;
-					il_main = #bd_ro_m_g_c_039:base;
-					il_main = #bd_ro_m_g_c_042:base;
-					il_main = #bd_ro_m_g_c_044:base;
-					il_main = #bd_ro_m_g_c_045:base;
-					il_main = #bd_ro_m_g_c_046:base;
-					il_main = #bd_ro_m_g_c_053:base;
-					il_main = #bd_ro_m_g_c_059:base;
-					il_main = #bd_ro_m_g_c_063:base;
-					il_main = #bd_ro_m_g_c_065:base;
-					il_main = #bd_ro_m_g_c_067:base;
-					il_main = #bd_ro_m_g_c_071:base;
-					il_main = #bd_ro_m_g_c_084:base;
-					il_main = #bd_ro_m_g_c_089:base;
-					il_main = #bd_ro_m_g_c_094:base;
-					il_main = #bd_ro_m_g_c_100:base;
-					il_main = #bd_ro_m_g_c_105:base;
-					il_main = #bd_ro_m_g_c_110:base;
-					il_main = #bd_bl_m_g_c_avg:base;
-					il_main = #bd_bl_m_g_c_avg:c_fin;
-					il_main = #bd_bl_m_g_c_avg:o_fin;
-					il_main = #bd_le_m_g_c_avg:base;
-					il_main = #bd_le_m_g_c_avg:c_str;
-					il_main = #bd_le_m_g_c_avg:o_avg;
-					il_main = #bd_le_m_g_c_avg:o_fin;
-					il_main = #bd_sl_m_g_c_avg:base;
-					il_main = #bd_sl_m_g_c_avg:c_fin;
-					il_main = #bd_sl_m_g_c_avg:c_mag;
-					il_main = #bd_sl_m_g_c_avg:c_str;
-					il_main = #bd_sl_m_g_c_avg:o_avg;
-					il_main = #bd_sl_m_g_c_avg:o_fin;
-					il_main = #bd_sl_m_g_c_avg:o_str;
-					il_main = #bd_sl_m_g_c_fun;
-					il_main = #bd_ba_m_g_c_str:base;
-					il_main = #bd_br_m_g_c_avg:base;
-					il_main = #bd_br_m_g_c_avg:c_mag;
-					il_main = #bd_br_m_g_c_avg:o_fin;
-					il_main = #bd_br_m_g_c_low;
-					il_main = #bd_fp_m_g_o_mag:base;
-					il_main = #bd_pl_m_g_c_str:base;
-				}
+				il_main = #bd_ch_m_g_c_avg:base;
+				il_main = #bd_ch_m_g_c_avg:c_fin;
+				il_main = #bd_ch_m_g_c_avg:c_mag;
+				il_main = #bd_ch_m_g_c_avg:c_str;
+				il_main = #bd_ch_m_g_c_avg:o_avg;
+				il_main = #bd_ch_m_g_c_avg:o_fin;
+				il_main = #bd_ch_m_g_c_avg:o_mag;
+				il_main = #bd_ch_m_g_c_avg:o_str;
+				il_main = #bd_sc_m_g_c_avg:base;
+				il_main = #bd_sc_m_g_c_avg:c_fin;
+				il_main = #bd_sc_m_g_c_avg:c_mag;
+				il_main = #bd_sc_m_g_c_avg:o_fin;
+				il_main = #bd_ro_m_d_c_003:base;
+				il_main = #bd_ro_m_d_c_004:base;
+				il_main = #bd_ro_m_d_c_009:base;
+				il_main = #bd_ro_m_d_c_041:base;
+				il_main = #bd_ro_m_d_c_043:base;
+				il_main = #bd_ro_m_d_c_077:base;
+				il_main = #bd_ro_m_g_c_001:base;
+				il_main = #bd_ro_m_g_c_002:base;
+				il_main = #bd_ro_m_g_c_005:base;
+				il_main = #bd_ro_m_g_c_005a:base;
+				il_main = #bd_ro_m_g_c_008:base;
+				il_main = #bd_ro_m_g_c_012:base;
+				il_main = #bd_ro_m_g_c_014:base;
+				il_main = #bd_ro_m_g_c_015:base;
+				il_main = #bd_ro_m_g_c_018:base;
+				il_main = #bd_ro_m_g_c_020:base;
+				il_main = #bd_ro_m_g_c_021:base;
+				il_main = #bd_ro_m_g_c_022:base;
+				il_main = #bd_ro_m_g_c_023:base;
+				il_main = #bd_ro_m_g_c_024:base;
+				il_main = #bd_ro_m_g_c_026:base;
+				il_main = #bd_ro_m_g_c_029:base;
+				il_main = #bd_ro_m_g_c_031:base;
+				il_main = #bd_ro_m_g_c_034:base;
+				il_main = #bd_ro_m_g_c_037:base;
+				il_main = #bd_ro_m_g_c_039:base;
+				il_main = #bd_ro_m_g_c_042:base;
+				il_main = #bd_ro_m_g_c_044:base;
+				il_main = #bd_ro_m_g_c_045:base;
+				il_main = #bd_ro_m_g_c_046:base;
+				il_main = #bd_ro_m_g_c_053:base;
+				il_main = #bd_ro_m_g_c_059:base;
+				il_main = #bd_ro_m_g_c_063:base;
+				il_main = #bd_ro_m_g_c_065:base;
+				il_main = #bd_ro_m_g_c_067:base;
+				il_main = #bd_ro_m_g_c_071:base;
+				il_main = #bd_ro_m_g_c_084:base;
+				il_main = #bd_ro_m_g_c_089:base;
+				il_main = #bd_ro_m_g_c_094:base;
+				il_main = #bd_ro_m_g_c_100:base;
+				il_main = #bd_ro_m_g_c_105:base;
+				il_main = #bd_ro_m_g_c_110:base;
+				il_main = #bd_bl_m_g_c_avg:base;
+				il_main = #bd_bl_m_g_c_avg:c_fin;
+				il_main = #bd_bl_m_g_c_avg:o_fin;
+				il_main = #bd_le_m_g_c_avg:base;
+				il_main = #bd_le_m_g_c_avg:c_str;
+				il_main = #bd_le_m_g_c_avg:o_avg;
+				il_main = #bd_le_m_g_c_avg:o_fin;
+				il_main = #bd_sl_m_g_c_avg:base;
+				il_main = #bd_sl_m_g_c_avg:c_fin;
+				il_main = #bd_sl_m_g_c_avg:c_mag;
+				il_main = #bd_sl_m_g_c_avg:c_str;
+				il_main = #bd_sl_m_g_c_avg:o_avg;
+				il_main = #bd_sl_m_g_c_avg:o_fin;
+				il_main = #bd_sl_m_g_c_avg:o_str;
+				il_main = #bd_sl_m_g_c_fun;
+				il_main = #bd_ba_m_g_c_str:base;
+				il_main = #bd_br_m_g_c_avg:base;
+				il_main = #bd_br_m_g_c_avg:c_mag;
+				il_main = #bd_br_m_g_c_avg:o_fin;
+				il_main = #bd_br_m_g_c_low;
+				il_main = #bd_fp_m_g_o_mag:base;
+				il_main = #bd_pl_m_g_c_str:base;
 			}
 		}
 	}
@@ -1319,66 +1247,63 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #bd_ra_ch_m_g_c_fin:base/+brilliant;
-					il_main = #bd_ra_ch_m_g_c_fin:o_avg/+brilliant;
-					il_main = #bd_ra_ch_m_g_c_fin:o_fin/+brilliant;
-					il_main = #bd_ra_sc_m_g_c_fin:base/+brilliant;
-					il_main = #bd_ra_sc_m_g_c_fin:c_mag/+brilliant;
-					il_main = #bd_ra_sc_m_g_c_fin:o_fin/+brilliant;
-					il_main = #bd_ra_ro_m_d_c_003:base/+brilliant;
-					il_main = #bd_ra_ro_m_d_c_004:base/+brilliant;
-					il_main = #bd_ra_ro_m_d_c_009:base/+brilliant;
-					il_main = #bd_ra_ro_m_d_c_041:base/+brilliant;
-					il_main = #bd_ra_ro_m_d_c_043:base/+brilliant;
-					il_main = #bd_ra_ro_m_d_c_077:base/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_001:base/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_002:base/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_005:base/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_005a:base/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_008:base/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_012:base/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_014:base/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_015:base/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_018:base/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_020:base/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_021:base/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_023:base/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_024:base/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_026:base/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_029:base/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_031:base/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_034:base/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_037:base/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_039:base/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_042:base/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_045:base/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_046:base/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_053:base/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_059:base/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_065:base/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_071:base/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_084:base/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_089:base/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_094:base/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_100:base/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_105:base/+brilliant;
-					il_main = #bd_ra_ro_m_g_c_110:base/+brilliant;
-					il_main = #bd_ro_un_merik;
-					il_main = #bd_ra_bl_m_g_c_fin:base/+brilliant;
-					il_main = #bd_ra_bl_m_g_c_fin:o_fin/+brilliant;
-					il_main = #bd_ra_le_m_g_o_avg:base/+brilliant;
-					il_main = #bd_ra_sl_m_g_c_avg:base/+brilliant;
-					il_main = #bd_ra_sl_m_g_c_avg:c_fin/+brilliant;
-					il_main = #bd_ra_sl_m_g_c_avg:c_str/+brilliant;
-					il_main = #bd_ra_sl_m_g_c_avg:o_fin/+brilliant;
-					il_main = #bd_ra_sl_m_g_c_avg:o_str/+brilliant;
-					il_main = #bd_ra_br_m_g_o_fin:base/+brilliant;
-					il_main = #bd_ra_br_m_g_o_fin:c_mag/+brilliant;
-				}
+				il_main = #bd_ra_ch_m_g_c_fin:base/+brilliant;
+				il_main = #bd_ra_ch_m_g_c_fin:o_avg/+brilliant;
+				il_main = #bd_ra_ch_m_g_c_fin:o_fin/+brilliant;
+				il_main = #bd_ra_sc_m_g_c_fin:base/+brilliant;
+				il_main = #bd_ra_sc_m_g_c_fin:c_mag/+brilliant;
+				il_main = #bd_ra_sc_m_g_c_fin:o_fin/+brilliant;
+				il_main = #bd_ra_ro_m_d_c_003:base/+brilliant;
+				il_main = #bd_ra_ro_m_d_c_004:base/+brilliant;
+				il_main = #bd_ra_ro_m_d_c_009:base/+brilliant;
+				il_main = #bd_ra_ro_m_d_c_041:base/+brilliant;
+				il_main = #bd_ra_ro_m_d_c_043:base/+brilliant;
+				il_main = #bd_ra_ro_m_d_c_077:base/+brilliant;
+				il_main = #bd_ra_ro_m_g_c_001:base/+brilliant;
+				il_main = #bd_ra_ro_m_g_c_002:base/+brilliant;
+				il_main = #bd_ra_ro_m_g_c_005:base/+brilliant;
+				il_main = #bd_ra_ro_m_g_c_005a:base/+brilliant;
+				il_main = #bd_ra_ro_m_g_c_008:base/+brilliant;
+				il_main = #bd_ra_ro_m_g_c_012:base/+brilliant;
+				il_main = #bd_ra_ro_m_g_c_014:base/+brilliant;
+				il_main = #bd_ra_ro_m_g_c_015:base/+brilliant;
+				il_main = #bd_ra_ro_m_g_c_018:base/+brilliant;
+				il_main = #bd_ra_ro_m_g_c_020:base/+brilliant;
+				il_main = #bd_ra_ro_m_g_c_021:base/+brilliant;
+				il_main = #bd_ra_ro_m_g_c_023:base/+brilliant;
+				il_main = #bd_ra_ro_m_g_c_024:base/+brilliant;
+				il_main = #bd_ra_ro_m_g_c_026:base/+brilliant;
+				il_main = #bd_ra_ro_m_g_c_029:base/+brilliant;
+				il_main = #bd_ra_ro_m_g_c_031:base/+brilliant;
+				il_main = #bd_ra_ro_m_g_c_034:base/+brilliant;
+				il_main = #bd_ra_ro_m_g_c_037:base/+brilliant;
+				il_main = #bd_ra_ro_m_g_c_039:base/+brilliant;
+				il_main = #bd_ra_ro_m_g_c_042:base/+brilliant;
+				il_main = #bd_ra_ro_m_g_c_045:base/+brilliant;
+				il_main = #bd_ra_ro_m_g_c_046:base/+brilliant;
+				il_main = #bd_ra_ro_m_g_c_053:base/+brilliant;
+				il_main = #bd_ra_ro_m_g_c_059:base/+brilliant;
+				il_main = #bd_ra_ro_m_g_c_065:base/+brilliant;
+				il_main = #bd_ra_ro_m_g_c_071:base/+brilliant;
+				il_main = #bd_ra_ro_m_g_c_084:base/+brilliant;
+				il_main = #bd_ra_ro_m_g_c_089:base/+brilliant;
+				il_main = #bd_ra_ro_m_g_c_094:base/+brilliant;
+				il_main = #bd_ra_ro_m_g_c_100:base/+brilliant;
+				il_main = #bd_ra_ro_m_g_c_105:base/+brilliant;
+				il_main = #bd_ra_ro_m_g_c_110:base/+brilliant;
+				il_main = #bd_ro_un_merik;
+				il_main = #bd_ra_bl_m_g_c_fin:base/+brilliant;
+				il_main = #bd_ra_bl_m_g_c_fin:o_fin/+brilliant;
+				il_main = #bd_ra_le_m_g_o_avg:base/+brilliant;
+				il_main = #bd_ra_sl_m_g_c_avg:base/+brilliant;
+				il_main = #bd_ra_sl_m_g_c_avg:c_fin/+brilliant;
+				il_main = #bd_ra_sl_m_g_c_avg:c_str/+brilliant;
+				il_main = #bd_ra_sl_m_g_c_avg:o_fin/+brilliant;
+				il_main = #bd_ra_sl_m_g_c_avg:o_str/+brilliant;
+				il_main = #bd_ra_br_m_g_o_fin:base/+brilliant;
+				il_main = #bd_ra_br_m_g_o_fin:c_mag/+brilliant;
 			}
 		}
 	}
@@ -1391,48 +1316,45 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #he_ca_ro_felt_01:base;
-					il_main = #he_ca_ro_felt_02:base;
-					il_main = #he_ca_ro_felt_03:base;
-					il_main = #he_ca_ro_felt_04:base;
-					il_main = #he_ca_ro_flat_01:base;
-					il_main = #he_ca_ro_flat_02:base;
-					il_main = #he_ca_ro_flat_03:base;
-					il_main = #he_ca_ro_flat_04:base;
-					il_main = #he_ca_ro_gemblue:base;
-					il_main = #he_ca_ro_green:base;
-					il_main = #he_ca_ro_slope_01:base;
-					il_main = #he_ca_ro_slope_02:base;
-					il_main = #he_ca_ro_slope_03:base;
-					il_main = #he_ca_ro_slope_04:base;
-					il_main = #he_ca_ro_thin_01:base;
-					il_main = #he_ca_ro_thin_02:base;
-					il_main = #he_ca_ro_thin_03:base;
-					il_main = #he_ca_ro_thin_04:base;
-					il_main = #he_ca_ro_turban_01:base;
-					il_main = #he_ca_ro_turban_02:base;
-					il_main = #he_ca_ro_turban_03:base;
-					il_main = #he_ca_ro_turban_04:base;
-					il_main = #he_ca_ro_wizard_01:base;
-					il_main = #he_ca_ro_wizard_02:base;
-					il_main = #he_ca_ro_wizard_03:base;
-					il_main = #he_ca_ro_wizard_04:base;
-					il_main = #he_ca_ro_wizard_05:base;
-					il_main = #he_ca_ro_wizard_06:base;
-					il_main = #he_ca_ro_wizard_07:base;
-					il_main = #he_ca_ro_wooly_01:base;
-					il_main = #he_ca_ro_wooly_02:base;
-					il_main = #he_ca_ro_wooly_03:base;
-					il_main = #he_ca_ro_wooly_04:base;
-					il_main = #he_ca_ro_woven_01:base;
-					il_main = #he_ca_ro_woven_02:base;
-					il_main = #he_ca_ro_woven_03:base;
-					il_main = #he_ca_ro_woven_04:base;
-				}
+				il_main = #he_ca_ro_felt_01:base;
+				il_main = #he_ca_ro_felt_02:base;
+				il_main = #he_ca_ro_felt_03:base;
+				il_main = #he_ca_ro_felt_04:base;
+				il_main = #he_ca_ro_flat_01:base;
+				il_main = #he_ca_ro_flat_02:base;
+				il_main = #he_ca_ro_flat_03:base;
+				il_main = #he_ca_ro_flat_04:base;
+				il_main = #he_ca_ro_gemblue:base;
+				il_main = #he_ca_ro_green:base;
+				il_main = #he_ca_ro_slope_01:base;
+				il_main = #he_ca_ro_slope_02:base;
+				il_main = #he_ca_ro_slope_03:base;
+				il_main = #he_ca_ro_slope_04:base;
+				il_main = #he_ca_ro_thin_01:base;
+				il_main = #he_ca_ro_thin_02:base;
+				il_main = #he_ca_ro_thin_03:base;
+				il_main = #he_ca_ro_thin_04:base;
+				il_main = #he_ca_ro_turban_01:base;
+				il_main = #he_ca_ro_turban_02:base;
+				il_main = #he_ca_ro_turban_03:base;
+				il_main = #he_ca_ro_turban_04:base;
+				il_main = #he_ca_ro_wizard_01:base;
+				il_main = #he_ca_ro_wizard_02:base;
+				il_main = #he_ca_ro_wizard_03:base;
+				il_main = #he_ca_ro_wizard_04:base;
+				il_main = #he_ca_ro_wizard_05:base;
+				il_main = #he_ca_ro_wizard_06:base;
+				il_main = #he_ca_ro_wizard_07:base;
+				il_main = #he_ca_ro_wooly_01:base;
+				il_main = #he_ca_ro_wooly_02:base;
+				il_main = #he_ca_ro_wooly_03:base;
+				il_main = #he_ca_ro_wooly_04:base;
+				il_main = #he_ca_ro_woven_01:base;
+				il_main = #he_ca_ro_woven_02:base;
+				il_main = #he_ca_ro_woven_03:base;
+				il_main = #he_ca_ro_woven_04:base;
 			}
 		}
 	}
@@ -1445,23 +1367,20 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #bo_bo_le_f_g_c_satin;
-					il_main = #he_ra_ca_ro_felt_01:base/+brilliant;
-					il_main = #he_ra_ca_ro_flat_02:base/+brilliant;
-					il_main = #he_ra_ca_ro_slope_04:base/+brilliant;
-					il_main = #he_ra_ca_ro_thin_04:base/+brilliant;
-					il_main = #he_ra_ca_ro_wizard_03:base/+brilliant;
-					il_main = #he_ra_ca_ro_wizard_04:base/+brilliant;
-					il_main = #he_ra_ca_ro_wizard_06:base/+brilliant;
-					il_main = #he_ra_ca_ro_wooly_02:base/+brilliant;
-					il_main = #he_ra_ca_ro_wooly_04:base/+brilliant;
-					il_main = #he_ra_ca_ro_woven_03:base/+brilliant;
-					il_main = #he_un_ca_ro_warlock:base;
-				}
+				il_main = #bo_bo_le_f_g_c_satin;
+				il_main = #he_ra_ca_ro_felt_01:base/+brilliant;
+				il_main = #he_ra_ca_ro_flat_02:base/+brilliant;
+				il_main = #he_ra_ca_ro_slope_04:base/+brilliant;
+				il_main = #he_ra_ca_ro_thin_04:base/+brilliant;
+				il_main = #he_ra_ca_ro_wizard_03:base/+brilliant;
+				il_main = #he_ra_ca_ro_wizard_04:base/+brilliant;
+				il_main = #he_ra_ca_ro_wizard_06:base/+brilliant;
+				il_main = #he_ra_ca_ro_wooly_02:base/+brilliant;
+				il_main = #he_ra_ca_ro_wooly_04:base/+brilliant;
+				il_main = #he_ra_ca_ro_woven_03:base/+brilliant;
+				il_main = #he_un_ca_ro_warlock:base;
 			}
 		}
 	}
@@ -1474,48 +1393,45 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #st_g_c_b_avg:base;
-					il_main = #st_g_c_b_avg:c_fin;
-					il_main = #st_g_c_b_avg:c_mag;
-					il_main = #st_g_c_b_avg:c_str;
-					il_main = #st_g_c_b_avg:o_avg;
-					il_main = #st_g_c_b_avg:o_fin;
-					il_main = #st_g_c_b_avg:o_mag;
-					il_main = #st_g_c_b_avg:o_str;
-					il_main = #st_g_c_b_fun;
-					il_main = #st_g_c_b_low;
-					il_main = #st_g_c_r_avg:base;
-					il_main = #st_g_c_r_avg:c_fin;
-					il_main = #st_g_c_r_avg:c_mag;
-					il_main = #st_g_c_r_avg:c_str;
-					il_main = #st_g_c_r_avg:o_avg;
-					il_main = #st_g_c_r_avg:o_fin;
-					il_main = #st_g_c_r_avg:o_mag;
-					il_main = #st_g_c_r_avg:o_str;
-					il_main = #st_g_c_r_fun;
-					il_main = #st_g_c_r_low;
-					il_main = #st_g_c_s_avg:base;
-					il_main = #st_g_c_s_avg:c_fin;
-					il_main = #st_g_c_s_avg:c_mag;
-					il_main = #st_g_c_s_avg:c_str;
-					il_main = #st_g_c_s_avg:o_avg;
-					il_main = #st_g_c_s_avg:o_fin;
-					il_main = #st_g_c_s_avg:o_mag;
-					il_main = #st_g_c_s_avg:o_str;
-					il_main = #st_g_c_s_fun;
-					il_main = #st_g_c_s_low;
-					il_main = #st_g_d_r_avg;
-					il_main = #st_g_o_b_fun;
-					il_main = #st_g_o_b_low;
-					il_main = #st_g_o_r_fun;
-					il_main = #st_g_o_r_low;
-					il_main = #st_g_o_s_fun;
-					il_main = #st_g_o_s_low;
-				}
+				il_main = #st_g_c_b_avg:base;
+				il_main = #st_g_c_b_avg:c_fin;
+				il_main = #st_g_c_b_avg:c_mag;
+				il_main = #st_g_c_b_avg:c_str;
+				il_main = #st_g_c_b_avg:o_avg;
+				il_main = #st_g_c_b_avg:o_fin;
+				il_main = #st_g_c_b_avg:o_mag;
+				il_main = #st_g_c_b_avg:o_str;
+				il_main = #st_g_c_b_fun;
+				il_main = #st_g_c_b_low;
+				il_main = #st_g_c_r_avg:base;
+				il_main = #st_g_c_r_avg:c_fin;
+				il_main = #st_g_c_r_avg:c_mag;
+				il_main = #st_g_c_r_avg:c_str;
+				il_main = #st_g_c_r_avg:o_avg;
+				il_main = #st_g_c_r_avg:o_fin;
+				il_main = #st_g_c_r_avg:o_mag;
+				il_main = #st_g_c_r_avg:o_str;
+				il_main = #st_g_c_r_fun;
+				il_main = #st_g_c_r_low;
+				il_main = #st_g_c_s_avg:base;
+				il_main = #st_g_c_s_avg:c_fin;
+				il_main = #st_g_c_s_avg:c_mag;
+				il_main = #st_g_c_s_avg:c_str;
+				il_main = #st_g_c_s_avg:o_avg;
+				il_main = #st_g_c_s_avg:o_fin;
+				il_main = #st_g_c_s_avg:o_mag;
+				il_main = #st_g_c_s_avg:o_str;
+				il_main = #st_g_c_s_fun;
+				il_main = #st_g_c_s_low;
+				il_main = #st_g_d_r_avg;
+				il_main = #st_g_o_b_fun;
+				il_main = #st_g_o_b_low;
+				il_main = #st_g_o_r_fun;
+				il_main = #st_g_o_r_low;
+				il_main = #st_g_o_s_fun;
+				il_main = #st_g_o_s_low;
 			}
 		}
 	}
@@ -1528,45 +1444,42 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #st_ra_g_c_b_fin:base/+brilliant;
-					il_main = #st_ra_g_c_b_fin:c_mag/+brilliant;
-					il_main = #st_ra_g_c_b_fin:c_str/+brilliant;
-					il_main = #st_ra_g_c_b_fin:o_avg/+brilliant;
-					il_main = #st_ra_g_c_b_fin:o_fin/+brilliant;
-					il_main = #st_ra_g_c_b_fin:o_mag/+brilliant;
-					il_main = #st_ra_g_c_b_fin:o_str/+brilliant;
-					il_main = #st_ra_g_c_s_fin:base/+brilliant;
-					il_main = #st_ra_g_c_s_fin:c_mag/+brilliant;
-					il_main = #st_ra_g_c_s_fin:c_str/+brilliant;
-					il_main = #st_ra_g_c_s_fin:o_avg/+brilliant;
-					il_main = #st_ra_g_c_s_fin:o_fin/+brilliant;
-					il_main = #st_ra_g_c_s_fin:o_mag/+brilliant;
-					il_main = #st_ra_g_c_s_fin:o_str/+brilliant;
-					il_main = #st_ra_g_o_r_avg:base/+brilliant;
-					il_main = #st_ra_g_o_r_avg:c_mag/+brilliant;
-					il_main = #st_ra_g_o_r_avg:c_str/+brilliant;
-					il_main = #st_ra_g_o_r_avg:o_fin/+brilliant;
-					il_main = #st_ra_g_o_r_avg:o_mag/+brilliant;
-					il_main = #st_ra_g_o_r_avg:o_str/+brilliant;
-					il_main = #st_ra_g_o_r_puller:base/+brilliant;
-					il_main = #st_un_axe_str:base;
-					il_main = #st_un_b_glaive:base;
-					il_main = #st_un_b_hook:base;
-					il_main = #st_un_b_wing:base;
-					il_main = #st_un_hand:base;
-					il_main = #st_un_ice_c_d_b_avg:base;
-					il_main = #st_un_mc_s:base;
-					il_main = #st_un_pointy:base;
-					il_main = #st_un_pudgel:base;
-					il_main = #st_un_skull:base;
-					il_main = #st_un_tiger:base;
-					il_main = #st_un_toothpick:base;
-					il_main = #st_un_twirl:base;
-				}
+				il_main = #st_ra_g_c_b_fin:base/+brilliant;
+				il_main = #st_ra_g_c_b_fin:c_mag/+brilliant;
+				il_main = #st_ra_g_c_b_fin:c_str/+brilliant;
+				il_main = #st_ra_g_c_b_fin:o_avg/+brilliant;
+				il_main = #st_ra_g_c_b_fin:o_fin/+brilliant;
+				il_main = #st_ra_g_c_b_fin:o_mag/+brilliant;
+				il_main = #st_ra_g_c_b_fin:o_str/+brilliant;
+				il_main = #st_ra_g_c_s_fin:base/+brilliant;
+				il_main = #st_ra_g_c_s_fin:c_mag/+brilliant;
+				il_main = #st_ra_g_c_s_fin:c_str/+brilliant;
+				il_main = #st_ra_g_c_s_fin:o_avg/+brilliant;
+				il_main = #st_ra_g_c_s_fin:o_fin/+brilliant;
+				il_main = #st_ra_g_c_s_fin:o_mag/+brilliant;
+				il_main = #st_ra_g_c_s_fin:o_str/+brilliant;
+				il_main = #st_ra_g_o_r_avg:base/+brilliant;
+				il_main = #st_ra_g_o_r_avg:c_mag/+brilliant;
+				il_main = #st_ra_g_o_r_avg:c_str/+brilliant;
+				il_main = #st_ra_g_o_r_avg:o_fin/+brilliant;
+				il_main = #st_ra_g_o_r_avg:o_mag/+brilliant;
+				il_main = #st_ra_g_o_r_avg:o_str/+brilliant;
+				il_main = #st_ra_g_o_r_puller:base/+brilliant;
+				il_main = #st_un_axe_str:base;
+				il_main = #st_un_b_glaive:base;
+				il_main = #st_un_b_hook:base;
+				il_main = #st_un_b_wing:base;
+				il_main = #st_un_hand:base;
+				il_main = #st_un_ice_c_d_b_avg:base;
+				il_main = #st_un_mc_s:base;
+				il_main = #st_un_pointy:base;
+				il_main = #st_un_pudgel:base;
+				il_main = #st_un_skull:base;
+				il_main = #st_un_tiger:base;
+				il_main = #st_un_toothpick:base;
+				il_main = #st_un_twirl:base;
 			}
 		}
 	}
@@ -1579,30 +1492,27 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #bd_ra_ch_r_g_o_fin:base/+brilliant;
-					il_main = #bd_ra_ch_r_g_o_fin:c_str/+brilliant;
-					il_main = #bd_ra_ch_r_g_o_fin:o_mag/+brilliant;
-					il_main = #bd_ra_sc_r_g_c_fin:base/+brilliant;
-					il_main = #bd_ra_sc_r_g_c_fin:c_str/+brilliant;
-					il_main = #bd_un_ch_r_green:base;
-					il_main = #bd_un_sc_r_d_o_mag:base;
-					il_main = #bd_ra_bl_r_g_o_fin:base/+brilliant;
-					il_main = #bd_ra_le_r_g_o_fin:base/+brilliant;
-					il_main = #bd_ra_sl_r_g_c_avg:base/+brilliant;
-					il_main = #bd_ra_sl_r_g_c_avg:c_fin/+brilliant;
-					il_main = #bd_ra_sl_r_g_c_avg:c_str/+brilliant;
-					il_main = #bd_un_bl_r_leaf:base;
-					il_main = #bd_ra_br_r_g_c_avg:base/+brilliant;
-					il_main = #bd_ra_br_r_g_c_avg:c_fin/+brilliant;
-					il_main = #bd_ra_fp_r_g_c_avg:base/+brilliant;
-					il_main = #bd_un_br_r_d_o_str:base;
-					il_main = #bo_un_bo_ch_r_green:base;
-					il_main = #gl_un_gl_ch_r_green:base;
-				}
+				il_main = #bd_ra_ch_r_g_o_fin:base/+brilliant;
+				il_main = #bd_ra_ch_r_g_o_fin:c_str/+brilliant;
+				il_main = #bd_ra_ch_r_g_o_fin:o_mag/+brilliant;
+				il_main = #bd_ra_sc_r_g_c_fin:base/+brilliant;
+				il_main = #bd_ra_sc_r_g_c_fin:c_str/+brilliant;
+				il_main = #bd_un_ch_r_green:base;
+				il_main = #bd_un_sc_r_d_o_mag:base;
+				il_main = #bd_ra_bl_r_g_o_fin:base/+brilliant;
+				il_main = #bd_ra_le_r_g_o_fin:base/+brilliant;
+				il_main = #bd_ra_sl_r_g_c_avg:base/+brilliant;
+				il_main = #bd_ra_sl_r_g_c_avg:c_fin/+brilliant;
+				il_main = #bd_ra_sl_r_g_c_avg:c_str/+brilliant;
+				il_main = #bd_un_bl_r_leaf:base;
+				il_main = #bd_ra_br_r_g_c_avg:base/+brilliant;
+				il_main = #bd_ra_br_r_g_c_avg:c_fin/+brilliant;
+				il_main = #bd_ra_fp_r_g_c_avg:base/+brilliant;
+				il_main = #bd_un_br_r_d_o_str:base;
+				il_main = #bo_un_bo_ch_r_green:base;
+				il_main = #gl_un_gl_ch_r_green:base;
 			}
 		}
 	}
@@ -1615,44 +1525,41 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #bd_ch_r_g_c_avg:base;
-					il_main = #bd_ch_r_g_c_avg:c_fin;
-					il_main = #bd_ch_r_g_c_avg:c_mag;
-					il_main = #bd_ch_r_g_c_avg:c_str;
-					il_main = #bd_ch_r_g_c_avg:o_avg;
-					il_main = #bd_ch_r_g_c_avg:o_fin;
-					il_main = #bd_ch_r_g_c_avg:o_mag;
-					il_main = #bd_ch_r_g_c_avg:o_str;
-					il_main = #bd_ch_r_g_c_fun:base;
-					il_main = #bd_sc_r_g_c_avg:base;
-					il_main = #bd_sc_r_g_c_avg:c_fin;
-					il_main = #bd_sc_r_g_c_avg:c_str;
-					il_main = #bd_sc_r_g_c_avg:o_fin;
-					il_main = #bd_bl_r_g_c_avg:base;
-					il_main = #bd_bl_r_g_c_avg:o_fin;
-					il_main = #bd_le_r_g_c_avg:base;
-					il_main = #bd_le_r_g_c_avg:o_fin;
-					il_main = #bd_le_r_g_c_low;
-					il_main = #bd_sl_r_g_c_avg:base;
-					il_main = #bd_sl_r_g_c_avg:c_fin;
-					il_main = #bd_sl_r_g_c_avg:c_mag;
-					il_main = #bd_sl_r_g_c_avg:c_str;
-					il_main = #bd_sl_r_g_c_avg:o_avg;
-					il_main = #bd_sl_r_g_c_avg:o_fin;
-					il_main = #bd_sl_r_g_c_avg:o_mag;
-					il_main = #bd_sl_r_g_c_avg:o_str;
-					il_main = #bd_ba_r_g_o_fin:base;
-					il_main = #bd_br_r_g_c_avg:base;
-					il_main = #bd_br_r_g_c_avg:c_fin;
-					il_main = #bd_br_r_g_c_avg:o_mag;
-					il_main = #bd_fp_r_g_c_avg:base;
-					il_main = #bd_pl_r_g_c_fin:base;
-					il_main = #bd_pl_r_g_c_fin:o_str;
-				}
+				il_main = #bd_ch_r_g_c_avg:base;
+				il_main = #bd_ch_r_g_c_avg:c_fin;
+				il_main = #bd_ch_r_g_c_avg:c_mag;
+				il_main = #bd_ch_r_g_c_avg:c_str;
+				il_main = #bd_ch_r_g_c_avg:o_avg;
+				il_main = #bd_ch_r_g_c_avg:o_fin;
+				il_main = #bd_ch_r_g_c_avg:o_mag;
+				il_main = #bd_ch_r_g_c_avg:o_str;
+				il_main = #bd_ch_r_g_c_fun:base;
+				il_main = #bd_sc_r_g_c_avg:base;
+				il_main = #bd_sc_r_g_c_avg:c_fin;
+				il_main = #bd_sc_r_g_c_avg:c_str;
+				il_main = #bd_sc_r_g_c_avg:o_fin;
+				il_main = #bd_bl_r_g_c_avg:base;
+				il_main = #bd_bl_r_g_c_avg:o_fin;
+				il_main = #bd_le_r_g_c_avg:base;
+				il_main = #bd_le_r_g_c_avg:o_fin;
+				il_main = #bd_le_r_g_c_low;
+				il_main = #bd_sl_r_g_c_avg:base;
+				il_main = #bd_sl_r_g_c_avg:c_fin;
+				il_main = #bd_sl_r_g_c_avg:c_mag;
+				il_main = #bd_sl_r_g_c_avg:c_str;
+				il_main = #bd_sl_r_g_c_avg:o_avg;
+				il_main = #bd_sl_r_g_c_avg:o_fin;
+				il_main = #bd_sl_r_g_c_avg:o_mag;
+				il_main = #bd_sl_r_g_c_avg:o_str;
+				il_main = #bd_ba_r_g_o_fin:base;
+				il_main = #bd_br_r_g_c_avg:base;
+				il_main = #bd_br_r_g_c_avg:c_fin;
+				il_main = #bd_br_r_g_c_avg:o_mag;
+				il_main = #bd_fp_r_g_c_avg:base;
+				il_main = #bd_pl_r_g_c_fin:base;
+				il_main = #bd_pl_r_g_c_fin:o_str;
 			}
 		}
 	}
@@ -1665,82 +1572,79 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #bw_g_c_c_l_4_avg:base;
-					il_main = #bw_g_c_c_l_4_avg:c_fin;
-					il_main = #bw_g_c_c_l_4_avg:c_mag;
-					il_main = #bw_g_c_c_l_4_avg:c_str;
-					il_main = #bw_g_c_c_l_4_avg:o_fin;
-					il_main = #bw_g_c_c_l_4_avg:o_mag;
-					il_main = #bw_g_c_c_l_4_avg:o_str;
-					il_main = #bw_g_c_c_l_r_avg:base;
-					il_main = #bw_g_c_c_l_r_avg:c_mag;
-					il_main = #bw_g_c_c_l_r_avg:c_str;
-					il_main = #bw_g_c_c_l_r_avg:o_avg;
-					il_main = #bw_g_c_c_l_r_avg:o_fin;
-					il_main = #bw_g_c_c_l_r_avg:o_mag;
-					il_main = #bw_g_c_c_l_r_avg:o_str;
-					il_main = #bw_g_c_c_m_4_avg:base;
-					il_main = #bw_g_c_c_m_4_avg:c_fin;
-					il_main = #bw_g_c_c_m_4_avg:c_mag;
-					il_main = #bw_g_c_c_m_4_avg:c_str;
-					il_main = #bw_g_c_c_m_4_avg:o_avg;
-					il_main = #bw_g_c_c_m_4_avg:o_fin;
-					il_main = #bw_g_c_c_m_4_avg:o_mag;
-					il_main = #bw_g_c_c_m_4_avg:o_str;
-					il_main = #bw_g_c_c_m_4_fun;
-					il_main = #bw_g_c_c_m_4_low;
-					il_main = #bw_g_c_c_m_r_avg:base;
-					il_main = #bw_g_c_c_m_r_avg:c_fin;
-					il_main = #bw_g_c_c_m_r_avg:c_mag;
-					il_main = #bw_g_c_c_m_r_avg:c_str;
-					il_main = #bw_g_c_c_m_r_avg:o_avg;
-					il_main = #bw_g_c_c_m_r_avg:o_mag;
-					il_main = #bw_g_c_c_m_r_avg:o_str;
-					il_main = #bw_g_c_c_m_r_fun;
-					il_main = #bw_g_c_c_m_r_low;
-					il_main = #bw_g_c_c_s_4_avg:base;
-					il_main = #bw_g_c_c_s_4_avg:o_avg;
-					il_main = #bw_g_c_s_l_c_avg:base;
-					il_main = #bw_g_c_s_l_c_avg:c_fin;
-					il_main = #bw_g_c_s_l_c_avg:c_mag;
-					il_main = #bw_g_c_s_l_c_avg:c_str;
-					il_main = #bw_g_c_s_l_c_avg:o_avg;
-					il_main = #bw_g_c_s_l_c_avg:o_mag;
-					il_main = #bw_g_c_s_l_c_fun;
-					il_main = #bw_g_c_s_l_c_low;
-					il_main = #bw_g_c_s_m_c_avg:base;
-					il_main = #bw_g_c_s_m_c_avg:c_fin;
-					il_main = #bw_g_c_s_m_c_avg:c_mag;
-					il_main = #bw_g_c_s_m_c_avg:c_str;
-					il_main = #bw_g_c_s_m_c_avg:o_avg;
-					il_main = #bw_g_c_s_m_c_avg:o_mag;
-					il_main = #bw_g_c_s_m_c_fun;
-					il_main = #bw_g_c_s_m_c_low;
-					il_main = #bw_g_c_s_m_r_avg:base;
-					il_main = #bw_g_c_s_m_r_avg:c_fin;
-					il_main = #bw_g_c_s_m_r_avg:c_mag;
-					il_main = #bw_g_c_s_m_r_avg:c_str;
-					il_main = #bw_g_c_s_m_r_avg:o_avg;
-					il_main = #bw_g_c_s_s_c_avg:base;
-					il_main = #bw_g_c_s_s_c_avg:c_fin;
-					il_main = #bw_g_c_s_s_c_avg:c_str;
-					il_main = #bw_g_c_s_s_c_avg:o_avg;
-					il_main = #bw_g_c_s_s_c_avg:o_fin;
-					il_main = #bw_g_c_s_s_c_avg:o_mag;
-					il_main = #bw_g_c_s_s_c_avg:o_str;
-					il_main = #bw_g_c_s_s_r_avg:base;
-					il_main = #bw_g_c_s_s_r_avg:c_mag;
-					il_main = #bw_g_c_s_s_r_avg:o_avg;
-					il_main = #bw_g_d_s_l_c_avg;
-					il_main = #bw_g_d_s_s_c_avg;
-					il_main = #bw_g_o_c_m_4_fun;
-					il_main = #bw_g_o_c_m_4_low;
-					il_main = #bw_g_o_c_s_4_fun;
-				}
+				il_main = #bw_g_c_c_l_4_avg:base;
+				il_main = #bw_g_c_c_l_4_avg:c_fin;
+				il_main = #bw_g_c_c_l_4_avg:c_mag;
+				il_main = #bw_g_c_c_l_4_avg:c_str;
+				il_main = #bw_g_c_c_l_4_avg:o_fin;
+				il_main = #bw_g_c_c_l_4_avg:o_mag;
+				il_main = #bw_g_c_c_l_4_avg:o_str;
+				il_main = #bw_g_c_c_l_r_avg:base;
+				il_main = #bw_g_c_c_l_r_avg:c_mag;
+				il_main = #bw_g_c_c_l_r_avg:c_str;
+				il_main = #bw_g_c_c_l_r_avg:o_avg;
+				il_main = #bw_g_c_c_l_r_avg:o_fin;
+				il_main = #bw_g_c_c_l_r_avg:o_mag;
+				il_main = #bw_g_c_c_l_r_avg:o_str;
+				il_main = #bw_g_c_c_m_4_avg:base;
+				il_main = #bw_g_c_c_m_4_avg:c_fin;
+				il_main = #bw_g_c_c_m_4_avg:c_mag;
+				il_main = #bw_g_c_c_m_4_avg:c_str;
+				il_main = #bw_g_c_c_m_4_avg:o_avg;
+				il_main = #bw_g_c_c_m_4_avg:o_fin;
+				il_main = #bw_g_c_c_m_4_avg:o_mag;
+				il_main = #bw_g_c_c_m_4_avg:o_str;
+				il_main = #bw_g_c_c_m_4_fun;
+				il_main = #bw_g_c_c_m_4_low;
+				il_main = #bw_g_c_c_m_r_avg:base;
+				il_main = #bw_g_c_c_m_r_avg:c_fin;
+				il_main = #bw_g_c_c_m_r_avg:c_mag;
+				il_main = #bw_g_c_c_m_r_avg:c_str;
+				il_main = #bw_g_c_c_m_r_avg:o_avg;
+				il_main = #bw_g_c_c_m_r_avg:o_mag;
+				il_main = #bw_g_c_c_m_r_avg:o_str;
+				il_main = #bw_g_c_c_m_r_fun;
+				il_main = #bw_g_c_c_m_r_low;
+				il_main = #bw_g_c_c_s_4_avg:base;
+				il_main = #bw_g_c_c_s_4_avg:o_avg;
+				il_main = #bw_g_c_s_l_c_avg:base;
+				il_main = #bw_g_c_s_l_c_avg:c_fin;
+				il_main = #bw_g_c_s_l_c_avg:c_mag;
+				il_main = #bw_g_c_s_l_c_avg:c_str;
+				il_main = #bw_g_c_s_l_c_avg:o_avg;
+				il_main = #bw_g_c_s_l_c_avg:o_mag;
+				il_main = #bw_g_c_s_l_c_fun;
+				il_main = #bw_g_c_s_l_c_low;
+				il_main = #bw_g_c_s_m_c_avg:base;
+				il_main = #bw_g_c_s_m_c_avg:c_fin;
+				il_main = #bw_g_c_s_m_c_avg:c_mag;
+				il_main = #bw_g_c_s_m_c_avg:c_str;
+				il_main = #bw_g_c_s_m_c_avg:o_avg;
+				il_main = #bw_g_c_s_m_c_avg:o_mag;
+				il_main = #bw_g_c_s_m_c_fun;
+				il_main = #bw_g_c_s_m_c_low;
+				il_main = #bw_g_c_s_m_r_avg:base;
+				il_main = #bw_g_c_s_m_r_avg:c_fin;
+				il_main = #bw_g_c_s_m_r_avg:c_mag;
+				il_main = #bw_g_c_s_m_r_avg:c_str;
+				il_main = #bw_g_c_s_m_r_avg:o_avg;
+				il_main = #bw_g_c_s_s_c_avg:base;
+				il_main = #bw_g_c_s_s_c_avg:c_fin;
+				il_main = #bw_g_c_s_s_c_avg:c_str;
+				il_main = #bw_g_c_s_s_c_avg:o_avg;
+				il_main = #bw_g_c_s_s_c_avg:o_fin;
+				il_main = #bw_g_c_s_s_c_avg:o_mag;
+				il_main = #bw_g_c_s_s_c_avg:o_str;
+				il_main = #bw_g_c_s_s_r_avg:base;
+				il_main = #bw_g_c_s_s_r_avg:c_mag;
+				il_main = #bw_g_c_s_s_r_avg:o_avg;
+				il_main = #bw_g_d_s_l_c_avg;
+				il_main = #bw_g_d_s_s_c_avg;
+				il_main = #bw_g_o_c_m_4_fun;
+				il_main = #bw_g_o_c_m_4_low;
+				il_main = #bw_g_o_c_s_4_fun;
 			}
 		}
 	}
@@ -1753,62 +1657,59 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #bw_ra_g_c_c_l_4_avg:base/+brilliant;
-					il_main = #bw_ra_g_c_c_l_4_avg:c_fin/+brilliant;
-					il_main = #bw_ra_g_c_c_l_4_avg:c_mag/+brilliant;
-					il_main = #bw_ra_g_c_c_l_4_avg:o_fin/+brilliant;
-					il_main = #bw_ra_g_c_c_l_r_avg:base/+brilliant;
-					il_main = #bw_ra_g_c_c_l_r_avg:c_mag/+brilliant;
-					il_main = #bw_ra_g_c_c_l_r_avg:c_str/+brilliant;
-					il_main = #bw_ra_g_c_c_l_r_avg:o_avg/+brilliant;
-					il_main = #bw_ra_g_c_c_l_r_avg:o_fin/+brilliant;
-					il_main = #bw_ra_g_c_c_l_r_avg:o_mag/+brilliant;
-					il_main = #bw_ra_g_c_c_l_r_avg:o_str/+brilliant;
-					il_main = #bw_ra_g_c_c_m_4_fin:base/+brilliant;
-					il_main = #bw_ra_g_c_c_m_4_fin:c_mag/+brilliant;
-					il_main = #bw_ra_g_c_c_m_4_fin:c_str/+brilliant;
-					il_main = #bw_ra_g_c_c_m_4_fin:o_avg/+brilliant;
-					il_main = #bw_ra_g_c_c_m_r_avg:base/+brilliant;
-					il_main = #bw_ra_g_c_c_m_r_avg:c_fin/+brilliant;
-					il_main = #bw_ra_g_c_c_m_r_avg:c_mag/+brilliant;
-					il_main = #bw_ra_g_c_c_m_r_avg:c_str/+brilliant;
-					il_main = #bw_ra_g_c_c_m_r_avg:o_avg/+brilliant;
-					il_main = #bw_ra_g_c_c_m_r_avg:o_mag/+brilliant;
-					il_main = #bw_ra_g_c_c_m_r_avg:o_str/+brilliant;
-					il_main = #bw_ra_g_c_c_s_4_avg:base/+brilliant;
-					il_main = #bw_ra_g_c_c_s_4_avg:o_mag/+brilliant;
-					il_main = #bw_ra_g_c_c_s_4_avg:o_str/+brilliant;
-					il_main = #bw_ra_g_c_s_l_c_avg:base/+brilliant;
-					il_main = #bw_ra_g_c_s_l_c_avg:o_avg/+brilliant;
-					il_main = #bw_ra_g_c_s_m_c_fin:base/+brilliant;
-					il_main = #bw_ra_g_c_s_m_c_fin:c_str/+brilliant;
-					il_main = #bw_ra_g_c_s_m_c_fin:o_avg/+brilliant;
-					il_main = #bw_ra_g_c_s_m_c_fin:o_fin/+brilliant;
-					il_main = #bw_ra_g_c_s_m_c_fin:o_mag/+brilliant;
-					il_main = #bw_ra_g_c_s_m_r_fin:base/+brilliant;
-					il_main = #bw_ra_g_c_s_m_r_fin:c_mag/+brilliant;
-					il_main = #bw_ra_g_c_s_m_r_fin:o_mag/+brilliant;
-					il_main = #bw_ra_g_c_s_m_r_fin:o_str/+brilliant;
-					il_main = #bw_ra_g_c_s_s_c_fin:base/+brilliant;
-					il_main = #bw_ra_g_c_s_s_c_fin:o_avg/+brilliant;
-					il_main = #bw_ra_g_c_s_s_c_fin:o_fin/+brilliant;
-					il_main = #bw_ra_g_c_s_s_c_fin:o_mag/+brilliant;
-					il_main = #bw_ra_g_c_s_s_c_fin:o_str/+brilliant;
-					il_main = #bw_ra_g_c_s_s_c_stopper:base/+brilliant;
-					il_main = #bw_ra_g_o_s_s_r_avg:base/+brilliant;
-					il_main = #bw_ra_g_o_s_s_r_avg:c_mag/+brilliant;
-					il_main = #bw_ra_g_o_s_s_r_avg:o_fin/+brilliant;
-					il_main = #bw_ra_g_o_s_s_r_avg:o_str/+brilliant;
-					il_main = #bw_un_droog_avg;
-					il_main = #bw_un_ice_c_m_s_r_avg;
-					il_main = #bw_un_seck_avg;
-					il_main = #bw_un_seck_fin;
-					il_main = #bw_un_seck_str;
-				}
+				il_main = #bw_ra_g_c_c_l_4_avg:base/+brilliant;
+				il_main = #bw_ra_g_c_c_l_4_avg:c_fin/+brilliant;
+				il_main = #bw_ra_g_c_c_l_4_avg:c_mag/+brilliant;
+				il_main = #bw_ra_g_c_c_l_4_avg:o_fin/+brilliant;
+				il_main = #bw_ra_g_c_c_l_r_avg:base/+brilliant;
+				il_main = #bw_ra_g_c_c_l_r_avg:c_mag/+brilliant;
+				il_main = #bw_ra_g_c_c_l_r_avg:c_str/+brilliant;
+				il_main = #bw_ra_g_c_c_l_r_avg:o_avg/+brilliant;
+				il_main = #bw_ra_g_c_c_l_r_avg:o_fin/+brilliant;
+				il_main = #bw_ra_g_c_c_l_r_avg:o_mag/+brilliant;
+				il_main = #bw_ra_g_c_c_l_r_avg:o_str/+brilliant;
+				il_main = #bw_ra_g_c_c_m_4_fin:base/+brilliant;
+				il_main = #bw_ra_g_c_c_m_4_fin:c_mag/+brilliant;
+				il_main = #bw_ra_g_c_c_m_4_fin:c_str/+brilliant;
+				il_main = #bw_ra_g_c_c_m_4_fin:o_avg/+brilliant;
+				il_main = #bw_ra_g_c_c_m_r_avg:base/+brilliant;
+				il_main = #bw_ra_g_c_c_m_r_avg:c_fin/+brilliant;
+				il_main = #bw_ra_g_c_c_m_r_avg:c_mag/+brilliant;
+				il_main = #bw_ra_g_c_c_m_r_avg:c_str/+brilliant;
+				il_main = #bw_ra_g_c_c_m_r_avg:o_avg/+brilliant;
+				il_main = #bw_ra_g_c_c_m_r_avg:o_mag/+brilliant;
+				il_main = #bw_ra_g_c_c_m_r_avg:o_str/+brilliant;
+				il_main = #bw_ra_g_c_c_s_4_avg:base/+brilliant;
+				il_main = #bw_ra_g_c_c_s_4_avg:o_mag/+brilliant;
+				il_main = #bw_ra_g_c_c_s_4_avg:o_str/+brilliant;
+				il_main = #bw_ra_g_c_s_l_c_avg:base/+brilliant;
+				il_main = #bw_ra_g_c_s_l_c_avg:o_avg/+brilliant;
+				il_main = #bw_ra_g_c_s_m_c_fin:base/+brilliant;
+				il_main = #bw_ra_g_c_s_m_c_fin:c_str/+brilliant;
+				il_main = #bw_ra_g_c_s_m_c_fin:o_avg/+brilliant;
+				il_main = #bw_ra_g_c_s_m_c_fin:o_fin/+brilliant;
+				il_main = #bw_ra_g_c_s_m_c_fin:o_mag/+brilliant;
+				il_main = #bw_ra_g_c_s_m_r_fin:base/+brilliant;
+				il_main = #bw_ra_g_c_s_m_r_fin:c_mag/+brilliant;
+				il_main = #bw_ra_g_c_s_m_r_fin:o_mag/+brilliant;
+				il_main = #bw_ra_g_c_s_m_r_fin:o_str/+brilliant;
+				il_main = #bw_ra_g_c_s_s_c_fin:base/+brilliant;
+				il_main = #bw_ra_g_c_s_s_c_fin:o_avg/+brilliant;
+				il_main = #bw_ra_g_c_s_s_c_fin:o_fin/+brilliant;
+				il_main = #bw_ra_g_c_s_s_c_fin:o_mag/+brilliant;
+				il_main = #bw_ra_g_c_s_s_c_fin:o_str/+brilliant;
+				il_main = #bw_ra_g_c_s_s_c_stopper:base/+brilliant;
+				il_main = #bw_ra_g_o_s_s_r_avg:base/+brilliant;
+				il_main = #bw_ra_g_o_s_s_r_avg:c_mag/+brilliant;
+				il_main = #bw_ra_g_o_s_s_r_avg:o_fin/+brilliant;
+				il_main = #bw_ra_g_o_s_s_r_avg:o_str/+brilliant;
+				il_main = #bw_un_droog_avg;
+				il_main = #bw_un_ice_c_m_s_r_avg;
+				il_main = #bw_un_seck_avg;
+				il_main = #bw_un_seck_fin;
+				il_main = #bw_un_seck_str;
 			}
 		}
 	}
@@ -1821,37 +1722,34 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #cw_g_c_l_p_avg:base;
-					il_main = #cw_g_c_l_p_avg:c_fin;
-					il_main = #cw_g_c_l_p_avg:c_mag;
-					il_main = #cw_g_c_l_p_avg:c_str;
-					il_main = #cw_g_c_l_p_avg:o_avg;
-					il_main = #cw_g_c_l_p_avg:o_fin;
-					il_main = #cw_g_c_l_p_avg:o_mag;
-					il_main = #cw_g_c_l_p_avg:o_str;
-					il_main = #cw_g_c_m_p_avg:base;
-					il_main = #cw_g_c_m_p_avg:c_fin;
-					il_main = #cw_g_c_m_p_avg:c_mag;
-					il_main = #cw_g_c_m_p_avg:c_str;
-					il_main = #cw_g_c_m_p_avg:o_avg;
-					il_main = #cw_g_c_m_p_avg:o_fin;
-					il_main = #cw_g_c_m_p_avg:o_mag;
-					il_main = #cw_g_c_m_p_avg:o_str;
-					il_main = #cw_ra_g_c_l_p_fin:base/+brilliant;
-					il_main = #cw_ra_g_c_l_p_fin:c_mag/+brilliant;
-					il_main = #cw_ra_g_c_l_p_fin:c_str/+brilliant;
-					il_main = #cw_ra_g_c_l_p_fin:o_avg/+brilliant;
-					il_main = #cw_ra_g_c_l_p_fin:o_str/+brilliant;
-					il_main = #cw_ra_g_o_m_p_mag:base/+brilliant;
-					il_main = #minigun_dragon;
-					il_main = #minigun_flamethrower;
-					il_main = #minigun_grenade_launcher;
-					il_main = #minigun_lightning;
-				}
+				il_main = #cw_g_c_l_p_avg:base;
+				il_main = #cw_g_c_l_p_avg:c_fin;
+				il_main = #cw_g_c_l_p_avg:c_mag;
+				il_main = #cw_g_c_l_p_avg:c_str;
+				il_main = #cw_g_c_l_p_avg:o_avg;
+				il_main = #cw_g_c_l_p_avg:o_fin;
+				il_main = #cw_g_c_l_p_avg:o_mag;
+				il_main = #cw_g_c_l_p_avg:o_str;
+				il_main = #cw_g_c_m_p_avg:base;
+				il_main = #cw_g_c_m_p_avg:c_fin;
+				il_main = #cw_g_c_m_p_avg:c_mag;
+				il_main = #cw_g_c_m_p_avg:c_str;
+				il_main = #cw_g_c_m_p_avg:o_avg;
+				il_main = #cw_g_c_m_p_avg:o_fin;
+				il_main = #cw_g_c_m_p_avg:o_mag;
+				il_main = #cw_g_c_m_p_avg:o_str;
+				il_main = #cw_ra_g_c_l_p_fin:base/+brilliant;
+				il_main = #cw_ra_g_c_l_p_fin:c_mag/+brilliant;
+				il_main = #cw_ra_g_c_l_p_fin:c_str/+brilliant;
+				il_main = #cw_ra_g_c_l_p_fin:o_avg/+brilliant;
+				il_main = #cw_ra_g_c_l_p_fin:o_str/+brilliant;
+				il_main = #cw_ra_g_o_m_p_mag:base/+brilliant;
+				il_main = #minigun_dragon;
+				il_main = #minigun_flamethrower;
+				il_main = #minigun_grenade_launcher;
+				il_main = #minigun_lightning;
 			}
 		}
 	}
@@ -1864,25 +1762,22 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #bo_bo_le_light;
-					il_main = #he_ca_le_avg:base;
-					il_main = #he_ra_ca_le_avg:base/+brilliant;
-					il_main = #he_ra_ca_le_avg_pimp/+brilliant;
-					il_main = #he_threestorms;
-					il_main = #pickaxe;
-					il_main = #fire_poker;
-					il_main = #meat_bone;
-					il_main = #chicken_gun;
-					il_main = #hoe;
-					il_main = #pitchfork;
-					il_main = #pitchfork_dull;
-					il_main = #rake;
-					il_main = #shovel;
-				}
+				il_main = #bo_bo_le_light;
+				il_main = #he_ca_le_avg:base;
+				il_main = #he_ra_ca_le_avg:base/+brilliant;
+				il_main = #he_ra_ca_le_avg_pimp/+brilliant;
+				il_main = #he_threestorms;
+				il_main = #pickaxe;
+				il_main = #fire_poker;
+				il_main = #meat_bone;
+				il_main = #chicken_gun;
+				il_main = #hoe;
+				il_main = #pitchfork;
+				il_main = #pitchfork_dull;
+				il_main = #rake;
+				il_main = #shovel;
 			}
 		}
 	}
@@ -1895,43 +1790,40 @@
 		[store_pcontent]
 		{
 			full_ratio = 0;
-			[armor]
+			[all*]
 			{
-				[all*]
-				{
-					il_main = #tongs;
-					il_main = #bd_pl_f_g_c_death_knight;
-					il_main = #sh_un_m_o_r_m_turtle_02_dsx;
-					il_main = #sh_un_m_o_r_m_turtle_01_dsx;
-					il_main = #sh_un_m_o_r_m_turtle_dsx;
-					il_main = #sh_un_m_o_k_m_dermal_dsx;
-					il_main = #sh_w_f_g_c_t_s_avg_deathknight_monster;
-					il_main = #bw_dsx_reynards_gift;
-					il_main = #dsx_rock_goblin;
-					il_main = #bw_dsx_shadjump_2_avg;
-					il_main = #bw_dsx_shadjump_4_avg;
-					il_main = #dg_g_c_dsx_kaj_mag;
-					il_main = #dg_g_c_dsx_sjumper_three;
-					il_main = #dg_g_c_dsx_sjumper_five;
-					il_main = #mc_dsx_cicatrix_skeleton;
-					il_main = #dsx_minigun_gas_monster;
-					il_main = #minigun_magic_missles:base;
-					il_main = #st_un_dsx_angk_guardian;
-					il_main = #st_g_c_dsx_stars:base;
-					il_main = #2w_st_g_c_dsx_stars:base;
-					il_main = #3w_st_g_c_dsx_stars:base;
-					il_main = #st_g_c_dsx_pcane:base;
-					il_main = #sd_g_c_dsx_kat_1h_shadowjumper_NIS_ONLY:base;
-					il_main = #sd_g_c_dsx_kat_1h_shadowjumper;
-					il_main = #sd_d_c_dsx_skl_1h_mag;
-					il_main = #rock_krug;
-					il_main = #temp_mc_g_c_f_1h_avg;
-					il_main = #blacksmith_hammer;
-					il_main = #torch_small;
-					il_main = #st_un_merik;
-					il_main = #st_un_reaper;
-					il_main = #test_rock_krug;
-				}
+				il_main = #tongs;
+				il_main = #bd_pl_f_g_c_death_knight;
+				il_main = #sh_un_m_o_r_m_turtle_02_dsx;
+				il_main = #sh_un_m_o_r_m_turtle_01_dsx;
+				il_main = #sh_un_m_o_r_m_turtle_dsx;
+				il_main = #sh_un_m_o_k_m_dermal_dsx;
+				il_main = #sh_w_f_g_c_t_s_avg_deathknight_monster;
+				il_main = #bw_dsx_reynards_gift;
+				il_main = #dsx_rock_goblin;
+				il_main = #bw_dsx_shadjump_2_avg;
+				il_main = #bw_dsx_shadjump_4_avg;
+				il_main = #dg_g_c_dsx_kaj_mag;
+				il_main = #dg_g_c_dsx_sjumper_three;
+				il_main = #dg_g_c_dsx_sjumper_five;
+				il_main = #mc_dsx_cicatrix_skeleton;
+				il_main = #dsx_minigun_gas_monster;
+				il_main = #minigun_magic_missles:base;
+				il_main = #st_un_dsx_angk_guardian;
+				il_main = #st_g_c_dsx_stars:base;
+				il_main = #2w_st_g_c_dsx_stars:base;
+				il_main = #3w_st_g_c_dsx_stars:base;
+				il_main = #st_g_c_dsx_pcane:base;
+				il_main = #sd_g_c_dsx_kat_1h_shadowjumper_NIS_ONLY:base;
+				il_main = #sd_g_c_dsx_kat_1h_shadowjumper;
+				il_main = #sd_d_c_dsx_skl_1h_mag;
+				il_main = #rock_krug;
+				il_main = #temp_mc_g_c_f_1h_avg;
+				il_main = #blacksmith_hammer;
+				il_main = #torch_small;
+				il_main = #st_un_merik;
+				il_main = #st_un_reaper;
+				il_main = #test_rock_krug;
 			}
 		}
 	}
