@@ -149,7 +149,6 @@
 					il_main = #ss_g_c_bl_1h_fun_02_dsx;
 					il_main = #ss_g_c_bl_1h_fun_dsx;
 					il_main = #sd_g_c_sd_1h_avg_dsx;
-					il_main = #sd_d_c_dsx_skl_1h_mag;
 					il_main = #sd_d_c_dsx_skl_1h_mag_player;
 					il_main = #2w_sd_d_c_dsx_skl_1h_mag_player;
 					il_main = #3w_sd_d_c_dsx_skl_1h_mag_player;
@@ -412,13 +411,11 @@
 			{
 				[all*]
 				{
-					il_main = #st_un_dsx_angk_guardian;
 					il_main = #st_g_c_dsx_cry_avg:base;
 					il_main = #st_g_c_dsx_jad_avg:base;
 					il_main = #st_g_c_dsx_ltn_avg:base;
 					il_main = #st_g_c_dsx_hst_avg:base;
 					il_main = #st_g_c_dsx_bar_avg:base;
-					il_main = #st_g_c_dsx_pcane:base;
 				}
 			}
 		}

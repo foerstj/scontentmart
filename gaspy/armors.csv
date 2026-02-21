@@ -725,7 +725,7 @@ cw_g_c_dsx_bon_avg;Bone Crossbow;Ranger;loa_r_cm;LoA;weapon;;;;cw;;;;multi;b_gui
 cw_g_c_dsx_clk_avg;Clockwork Crossbow;Ranger;loa_r_cm;LoA;weapon;;;;cw;;;;multi;b_gui_ig_i_w_csb_301;base
 st_g_c_bl_1h_fun_nossirom_dsx;Nosirrom's Staff;Fighter;loa_f_2h;LoA;weapon;;excluded;;st;;;;str;b_gui_ig_i_w_stf_010;
 st_un_toreck_dsx;Sickle Staff;Fighter;loa_f_2h;LoA;weapon;;excluded;;st;unique;;;str;b_gui_ig_i_w_stf_010;
-st_un_dsx_angk_guardian;Scythe of Angk;Mage;loa_m_st;LoA;weapon;;excluded;;st;unique;;;;b_gui_ig_i_w_stf_319;
+st_un_dsx_angk_guardian;Scythe of Angk;Mage;x_excluded;LoA;weapon;;excluded;;st;unique;;;;b_gui_ig_i_w_stf_319;
 st_un_dsx_angk;Scythe of Angk;Fighter;loa_f_2h;LoA;weapon;;excluded;;st;unique;;;str;b_gui_ig_i_w_stf_319;
 2w_st_un_dsx_angk;Super Scythe of Angk;Fighter;loa_f_2h;LoA;weapon;Veteran;excluded;;st;unique;;;str;b_gui_ig_i_w_stf_319;
 3w_st_un_dsx_angk;Supreme Scythe of Angk;Fighter;loa_f_2h;LoA;weapon;Elite;excluded;;st;unique;;;str;b_gui_ig_i_w_stf_319;
@@ -738,7 +738,7 @@ st_g_c_dsx_jad_avg;Jade Staff;Mage;loa_m_st;LoA;weapon;;;;st;;;;int;b_gui_ig_i_w
 st_g_c_dsx_ltn_avg;Utraean Gemstaff;Mage;loa_m_st;LoA;weapon;;;;st;;;;int;b_gui_ig_i_w_stf_303;base
 st_g_c_dsx_hst_avg;Hassat Staff;Mage;loa_m_st;LoA;weapon;;;;st;;;;int;b_gui_ig_i_w_stf_310;base
 st_g_c_dsx_bar_avg;Clockwork Rod;Mage;loa_m_st;LoA;weapon;;;;st;;;;int;b_gui_ig_i_w_stf_300;base
-st_g_c_dsx_pcane;Cane;Mage;loa_m_st;LoA;weapon;;excluded;;st;;;;int;b_gui_ig_i_w_stf_300;base
+st_g_c_dsx_pcane;Cane;Mage;x_excluded;LoA;weapon;;excluded;;st;;;;int;b_gui_ig_i_w_stf_300;base
 sd_g_c_dsx_kat_1h_shadowjumper_NIS_ONLY;Shadowjumper's Lightning BLade;Fighter;x_excluded;;weapon;;excluded;;sd;;;;str;b_gui_ig_i_w_swd_302;base
 sd_g_c_dsx_kat_1h_shadowjumper;;Fighter;x_excluded;LoA;weapon;;excluded;;sd;;;;;;
 ss_g_c_bl_1h_fun_zaur_dsx;Tempered Blade;Fighter;loa_f_1h_s;LoA;weapon;;excluded;;ss;;;;str;b_gui_ig_i_w_swd_006;
@@ -750,7 +750,7 @@ ss_g_c_bl_1h_fun_01_dsx;Tempered Blade;Fighter;loa_f_1h_s;LoA;weapon;;excluded;;
 ss_g_c_bl_1h_fun_02_dsx;Tempered Blade;Fighter;loa_f_1h_s;LoA;weapon;;excluded;;ss;;;;str;b_gui_ig_i_w_swd_006;
 ss_g_c_bl_1h_fun_dsx;Zaurask Dull Blade;Fighter;loa_f_1h_s;LoA;weapon;;excluded;;ss;;;;str;b_gui_ig_i_w_swd_006;
 sd_g_c_sd_1h_avg_dsx;Skeleton's Long Sword;Fighter;loa_f_1h_s;LoA;weapon;;excluded;;sd;;;;str;b_gui_ig_i_w_swd_017;
-sd_d_c_dsx_skl_1h_mag;Death Knight Sickle Sword;Fighter;loa_f_1h_s;LoA;weapon;;excluded;;sd;;;;;b_gui_ig_i_w_swd_313;
+sd_d_c_dsx_skl_1h_mag;Death Knight Sickle Sword;Fighter;x_excluded;LoA;weapon;;excluded;;sd;;;;;b_gui_ig_i_w_swd_313;
 sd_d_c_dsx_skl_1h_mag_player;Death Knight Sickle Sword;Fighter;loa_f_1h_s;LoA;weapon;;excluded;;sd;;;;str;b_gui_ig_i_w_swd_313;
 2w_sd_d_c_dsx_skl_1h_mag_player;Super Death Knight Sickle Sword;Fighter;loa_f_1h_s;LoA;weapon;Veteran;excluded;;sd;;;;str;b_gui_ig_i_w_swd_313;
 3w_sd_d_c_dsx_skl_1h_mag_player;Supreme Death Knight Sickle Sword;Fighter;loa_f_1h_s;LoA;weapon;Elite;excluded;;sd;;;;str;b_gui_ig_i_w_swd_313;

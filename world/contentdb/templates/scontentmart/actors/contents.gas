@@ -1915,11 +1915,14 @@
 					il_main = #mc_dsx_cicatrix_skeleton;
 					il_main = #dsx_minigun_gas_monster;
 					il_main = #minigun_magic_missles:base;
+					il_main = #st_un_dsx_angk_guardian;
 					il_main = #st_g_c_dsx_stars:base;
 					il_main = #2w_st_g_c_dsx_stars:base;
 					il_main = #3w_st_g_c_dsx_stars:base;
+					il_main = #st_g_c_dsx_pcane:base;
 					il_main = #sd_g_c_dsx_kat_1h_shadowjumper_NIS_ONLY:base;
 					il_main = #sd_g_c_dsx_kat_1h_shadowjumper;
+					il_main = #sd_d_c_dsx_skl_1h_mag;
 					il_main = #rock_krug;
 					il_main = #temp_mc_g_c_f_1h_avg;
 					il_main = #blacksmith_hammer;
