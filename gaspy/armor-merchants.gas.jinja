@@ -1,4 +1,4 @@
-{% set shops = {item['SCM Shop'] for item in data} %}
+{% set shops = {item['SCM Shop'] for item in data if (item['SCM Shop'].startswith('loa_')) == (v == 'loa') } %}
 {% for shop in shops | sort if shop %}
 [t:template,n:base_scm_{{ shop }}_contents]
 {
