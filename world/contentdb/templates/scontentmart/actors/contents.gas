@@ -1562,7 +1562,6 @@
 					il_main = #st_un_mc_s:base;
 					il_main = #st_un_pointy:base;
 					il_main = #st_un_pudgel:base;
-					il_main = #st_un_reaper;
 					il_main = #st_un_skull:base;
 					il_main = #st_un_tiger:base;
 					il_main = #st_un_toothpick:base;
@@ -1928,6 +1927,7 @@
 					il_main = #blacksmith_hammer;
 					il_main = #torch_small;
 					il_main = #st_un_merik;
+					il_main = #st_un_reaper;
 					il_main = #test_rock_krug;
 				}
 			}

@@ -739,7 +739,7 @@ st_g_c_dsx_ltn_avg;Utraean Gemstaff;Mage;loa_m_st;LoA;weapon;;;;st;;;;int;b_gui_
 st_g_c_dsx_hst_avg;Hassat Staff;Mage;loa_m_st;LoA;weapon;;;;st;;;;int;b_gui_ig_i_w_stf_310;base
 st_g_c_dsx_bar_avg;Clockwork Rod;Mage;loa_m_st;LoA;weapon;;;;st;;;;int;b_gui_ig_i_w_stf_300;base
 st_g_c_dsx_pcane;Cane;Mage;x_excluded;LoA;weapon;;excluded;;st;;;;int;b_gui_ig_i_w_stf_300;base
-sd_g_c_dsx_kat_1h_shadowjumper_NIS_ONLY;Shadowjumper's Lightning BLade;Fighter;x_excluded;;weapon;;excluded;;sd;;;;str;b_gui_ig_i_w_swd_302;base
+sd_g_c_dsx_kat_1h_shadowjumper_NIS_ONLY;Shadowjumper's Lightning BLade;Fighter;x_excluded;LoA;weapon;;excluded;;sd;;;;str;b_gui_ig_i_w_swd_302;base
 sd_g_c_dsx_kat_1h_shadowjumper;;Fighter;x_excluded;LoA;weapon;;excluded;;sd;;;;;;
 ss_g_c_bl_1h_fun_zaur_dsx;Tempered Blade;Fighter;loa_f_1h_s;LoA;weapon;;excluded;;ss;;;;str;b_gui_ig_i_w_swd_006;
 ss_g_c_bl_1h_fun_noss_dsx;Nosirrom's Blade;Fighter;loa_f_1h_s;LoA;weapon;;excluded;;ss;;;;str;b_gui_ig_i_w_swd_006;
@@ -953,7 +953,7 @@ st_un_mc_s;Mace Staff;Mage;v_m_st_s;;weapon;;;;st;unique;;;int;b_gui_ig_i_w_stf_
 st_un_merik;Merik's Staff;Mage;x_excluded;;weapon;;excluded;;st;unique;;;int;b_gui_ig_i_w_stf_014;
 st_un_pointy;Sharp Staff;Mage;v_m_st_s;;weapon;;;;st;unique;;;int;b_gui_ig_i_w_stf_089;base
 st_un_pudgel;Pudgel Staff;Mage;v_m_st_s;;weapon;;;;st;unique;;;int;b_gui_ig_i_w_stf_079;base
-st_un_reaper;Reaper;Mage;v_m_st_s;;weapon;;excluded;;st;unique;;;;b_gui_ig_i_w_stf_082;
+st_un_reaper;Reaper;Mage;x_excluded;;weapon;;excluded;;st;unique;;;;b_gui_ig_i_w_stf_082;
 st_un_seck_gom;Gom's Staff;Fighter;v_f_cdhss2h;;weapon;;excluded;;st;unique;;;str;b_gui_ig_i_w_stf_077;
 st_un_seck_mage;Seck Mage Staff;Fighter;v_f_cdhss2h;;weapon;;excluded;;st;unique;;;str;b_gui_ig_i_w_stf_076;
 st_un_skull;Skull Staff;Mage;v_m_st_s;;weapon;;;;st;unique;;;int;b_gui_ig_i_w_stf_080;base
