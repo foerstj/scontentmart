@@ -650,8 +650,8 @@ ax_g_c_dsx_bon_avg;Bonegrip Chopper;Fighter;loa_f_1h_n;LoA;weapon;;;;ax;;;;str;b
 bw_dsx_reynards_gift;Reynard's Gift;Ranger;x_excluded;LoA;weapon;;excluded;;bw;;;;dex;b_gui_ig_i_w_bow_050;
 bw_dsx_cicatrix_skeleton;cicatrix skeleton bow;Ranger;loa_r_bw;LoA;weapon;;excluded;;bw;;;;;b_gui_ig_i_w_bow_050;
 dsx_rock_goblin;Rock;Ranger;x_excluded;LoA;weapon;;excluded;;;;;;;;
-bw_dsx_shadjump_2_avg;Fire Bow;Ranger;loa_r_bw;LoA;weapon;;excluded;;bw;;;;multi;b_gui_ig_i_w_bow_301;
-bw_dsx_shadjump_4_avg;SJ 4 Fire Bow;Ranger;loa_r_bw;LoA;weapon;;excluded;;bw;;;;multi;b_gui_ig_i_w_bow_301;
+bw_dsx_shadjump_2_avg;Fire Bow;Ranger;x_excluded;LoA;weapon;;excluded;;bw;;;;multi;b_gui_ig_i_w_bow_301;
+bw_dsx_shadjump_4_avg;SJ 4 Fire Bow;Ranger;x_excluded;LoA;weapon;;excluded;;bw;;;;multi;b_gui_ig_i_w_bow_301;
 bw_dsx_zau_2_d;Zaurask Long Bow;Ranger;loa_r_bw;LoA;weapon;;excluded;;bw;;;;multi;b_gui_ig_i_w_bow_014;
 bw_dsx_zau_2_c;Zaurask Long Bow;Ranger;loa_r_bw;LoA;weapon;;excluded;;bw;;;;multi;b_gui_ig_i_w_bow_014;
 bw_un_droog_avg_dsx;Droog Archer Bow;Ranger;loa_r_bw;LoA;weapon;;excluded;;bw;unique;;;multi;b_gui_ig_i_w_bow_088;

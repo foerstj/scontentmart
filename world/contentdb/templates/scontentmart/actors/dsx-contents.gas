@@ -471,8 +471,6 @@
 				[all*]
 				{
 					il_main = #bw_dsx_cicatrix_skeleton;
-					il_main = #bw_dsx_shadjump_2_avg;
-					il_main = #bw_dsx_shadjump_4_avg;
 					il_main = #bw_dsx_zau_2_d;
 					il_main = #bw_dsx_zau_2_c;
 					il_main = #bw_un_droog_avg_dsx;
