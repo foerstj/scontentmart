@@ -14,6 +14,8 @@ There are separate shops for LoA items. These don't appear when you run the map 
 
 The items in the shops are all basic, unenchanted versions. No magic pcontent prefix or suffix is added. Exception are the rare items, which wouldn't have looked very rare otherwise, so I added the low-level "Brilliant" prefix. Any other magic properties are defined directly in the items themselves.
 The shops for "Special" items contain the rare, unique, and pcontent-excluded items of that category, whereas the shops for "Normal" items contain only the pcontent-available normal items. Shops that aren't called "Normal" or "Special" contain both.
+Each armor and weapon item occurs only once.
+With you on the central start platform is a "Basics" shop that sells potions and backpacks. You can also dump your loot here without polluting the armor and weapon shops.
 
 Installation:
 Put the files in these locations in your DS installation folder:
