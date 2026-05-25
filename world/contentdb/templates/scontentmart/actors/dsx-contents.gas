@@ -57,6 +57,14 @@
 				il_main = #spellbook_dsx_set_cicatrix;
 				il_main = #spellbook_dsx_set_xulphae;
 				il_main = #spellbook_dsx_set_kmethekt;
+				il_main = #amulet_dsx_set_guiseppi;
+				il_main = #amulet_dsx_set_adela;
+				il_main = #amulet_dsx_set_kmethekt;
+				il_main = #ring_dsx_set_guiseppi;
+				il_main = #ring_dsx_set_adela;
+				il_main = #ring_dsx_set_cicatrix;
+				il_main = #ring_dsx_set_xulphae;
+				il_main = #ring_dsx_set_hassat;
 			}
 		}
 	}
@@ -89,6 +97,11 @@
 				il_main = #spellbook_dsx_set_illicor;
 				il_main = #spellbook_dsx_set_inventor;
 				il_main = #spellbook_dsx_set_demlock;
+				il_main = #amulet_dsx_set_illicor;
+				il_main = #amulet_dsx_set_demlock;
+				il_main = #amulet_dsx_set_clockwork;
+				il_main = #ring_dsx_set_illicor;
+				il_main = #ring_dsx_set_demlock;
 			}
 		}
 	}
@@ -143,6 +156,8 @@
 				il_main = #sd_g_c_dsx_kat_1h_shadowjumper;
 				il_main = #sd_d_c_dsx_skl_1h_mag;
 				il_main = #book_glb_magic_umberteen;
+				il_main = #amulet_lhaoc;
+				il_main = #amulet_ilorn;
 			}
 		}
 	}

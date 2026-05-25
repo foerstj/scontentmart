@@ -76,6 +76,21 @@
 	  p position = -2.86127,0,-0.905248,0x116cdc5c;
 	}
 }
+[t:scm_merchant_jewelry,n:0x00100061]
+{
+	[conversation]
+	{
+		[conversations]
+		{
+			* = shop;
+		}
+	}
+	[placement]
+	{
+	  q orientation = 0,0.92388,0,0.382683;
+	  p position = 0.100369,0,2.99286,0x116cdc5c;
+	}
+}
 [t:scm_merchant_armor_hgb_mage_normal,n:0x00100008]
 {
 	[conversation]

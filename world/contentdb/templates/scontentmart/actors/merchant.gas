@@ -280,6 +280,14 @@
 [t:template,n:base_scm_v_m_spellbook_contents_base] { specializes = base_scm_merchant_spellbook; }
 [t:template,n:scm_merchant_spellbook] { specializes = base_scm_v_m_spellbook_contents; }
 
+[t:template,n:base_scm_merchant_jewelry]
+{
+	specializes = base_scm_merchant_v_misc_01;
+	common:screen_name = "Rings & Amulets";
+}
+[t:template,n:base_scm_v_any_jewelry_contents_base] { specializes = base_scm_merchant_jewelry; }
+[t:template,n:scm_merchant_jewelry] { specializes = base_scm_v_any_jewelry_contents; }
+
 [t:template,n:base_scm_merchant_rest]
 {
 	specializes = base_scm_merchant_owen;

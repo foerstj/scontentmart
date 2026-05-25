@@ -24,6 +24,89 @@
 		}
 	}
 }
+[t:template,n:base_scm_v_any_jewelry_contents]
+{
+	specializes = base_scm_v_any_jewelry_contents_base;
+	[inventory]
+	{
+		[store_pcontent]
+		{
+			full_ratio = 0;
+			[all*]
+			{
+				il_main = #amulet_common:b_c_avg;
+				il_main = #amulet_common:b_c_fin;
+				il_main = #amulet_common:b_c_mag;
+				il_main = #amulet_common:b_d_avg;
+				il_main = #amulet_common:b_d_fin;
+				il_main = #amulet_common:b_d_mag;
+				il_main = #amulet_common:b_o_avg;
+				il_main = #amulet_common:b_o_fin;
+				il_main = #amulet_common:g_c_avg;
+				il_main = #amulet_common:g_c_fin;
+				il_main = #amulet_common:g_c_mag;
+				il_main = #amulet_common:g_d_avg;
+				il_main = #amulet_common:g_d_fin;
+				il_main = #amulet_common:g_d_mag;
+				il_main = #amulet_common:g_o_avg;
+				il_main = #amulet_common:g_o_mag;
+				il_main = #amulet_common:s_c_avg;
+				il_main = #amulet_common:s_c_fin;
+				il_main = #amulet_common:s_c_mag;
+				il_main = #amulet_common:s_d_avg;
+				il_main = #amulet_common:s_d_fin;
+				il_main = #amulet_common:s_d_mag;
+				il_main = #amulet_common:s_o_avg;
+				il_main = #amulet_common:s_o_fin;
+				il_main = #amulet_common:s_o_mag;
+				il_main = #amulet_ra_common:b_d_fin;
+				il_main = #amulet_ra_common:b_c_fin;
+				il_main = #amulet_ra_common:b_o_fin;
+				il_main = #amulet_ra_common:s_d_fin;
+				il_main = #amulet_ra_common:s_c_fin;
+				il_main = #amulet_ra_common:s_o_fin;
+				il_main = #amulet_ra_common:g_d_fin;
+				il_main = #amulet_ra_common:g_c_fin;
+				il_main = #ring_common:b_c_avg;
+				il_main = #ring_common:b_c_fin;
+				il_main = #ring_common:b_c_mag;
+				il_main = #ring_common:b_d_avg;
+				il_main = #ring_common:b_d_fin;
+				il_main = #ring_common:b_d_mag;
+				il_main = #ring_common:b_o_avg;
+				il_main = #ring_common:b_o_fin;
+				il_main = #ring_common:b_o_mag;
+				il_main = #ring_common:g_c_avg;
+				il_main = #ring_common:g_c_fin;
+				il_main = #ring_common:g_c_mag;
+				il_main = #ring_common:g_d_avg;
+				il_main = #ring_common:g_d_fin;
+				il_main = #ring_common:g_d_mag;
+				il_main = #ring_common:g_o_avg;
+				il_main = #ring_common:g_o_fin;
+				il_main = #ring_common:g_o_mag;
+				il_main = #ring_common:s_c_avg;
+				il_main = #ring_common:s_c_fin;
+				il_main = #ring_common:s_c_mag;
+				il_main = #ring_common:s_d_avg;
+				il_main = #ring_common:s_d_fin;
+				il_main = #ring_common:s_d_mag;
+				il_main = #ring_common:s_o_avg;
+				il_main = #ring_common:s_o_fin;
+				il_main = #ring_common:s_o_mag;
+				il_main = #ring_ra_common:b_d_fin;
+				il_main = #ring_ra_common:b_c_fin;
+				il_main = #ring_ra_common:b_o_fin;
+				il_main = #ring_ra_common:s_d_fin;
+				il_main = #ring_ra_common:s_c_fin;
+				il_main = #ring_ra_common:s_o_fin;
+				il_main = #ring_ra_common:g_d_fin;
+				il_main = #ring_ra_common:g_c_fin;
+				il_main = #ring_ra_common:g_o_fin;
+			}
+		}
+	}
+}
 [t:template,n:base_scm_v_bonus_contents]
 {
 	specializes = base_scm_v_bonus_contents_base;
@@ -57,6 +140,10 @@
 				il_main = #st_un_merik;
 				il_main = #st_un_reaper;
 				il_main = #test_rock_krug;
+				il_main = #amulet_horseshoe;
+				il_main = #amulet_keeper;
+				il_main = #ring_lloyd;
+				il_main = #ring_utraean;
 			}
 		}
 	}
