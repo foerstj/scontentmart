@@ -1764,7 +1764,7 @@ ring_common;s_d_mag;v_any_jewelry;;;Ring;;;ring;;;;6;7
 ring_common;s_o_avg;v_any_jewelry;;;Ring;;;ring;;;;70;80
 ring_common;s_o_fin;v_any_jewelry;;;Ring;;;ring;;;;80;90
 ring_common;s_o_mag;v_any_jewelry;;;Ring;;;ring;;;;90;100
-ring_lloyd;;v_excluded;;excluded;Lloyd's Ring;;;ring;;;;;
+ring_lloyd;;v_any_jewelry;;excluded;Lloyd's Ring;;;ring;;;;;
 ring_utraean;;v_excluded;;excluded;Signet Ring of the Utraean Protectors;;;ring;;;;;
 ring_ra_common;b_d_fin;v_any_jewelry;;;Ring;;;ring;;;;1;22
 ring_ra_common;b_c_fin;v_any_jewelry;;;Ring;;;ring;;;;62;80
