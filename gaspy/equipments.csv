@@ -42,9 +42,9 @@ bd_sc_f_g_c_avg;o_str;Thick Scale;Fighter;v_f_bd_n;;armor;;;bd;;str
 bd_sc_f_g_c_fun;base;Pitted Scale;Fighter;v_f_bd_n;;armor;;;bd;;str
 bd_sc_f_g_o_low;base;Bulky Scale;Fighter;v_f_bd_n;;armor;;;bd;;str
 bd_sc_m_g_c_avg;base;Thin Scale;Mage;v_m_bd_n;;armor;;;bd;;
-bd_sc_m_g_c_avg;c_fin;Thin Scale;Mage;v_m_bd_n;;armor;;;bd;;
-bd_sc_m_g_c_avg;c_mag;Thin Scale;Mage;v_m_bd_n;;armor;;;bd;;
-bd_sc_m_g_c_avg;o_fin;Thin Scale;Mage;v_m_bd_n;;armor;;;bd;;
+bd_sc_m_g_c_avg;c_fin;Thin Scale;Mage;v_m_bd_n;;armor;;;bd;;str
+bd_sc_m_g_c_avg;c_mag;Thin Scale;Mage;v_m_bd_n;;armor;;;bd;;str
+bd_sc_m_g_c_avg;o_fin;Thin Scale;Mage;v_m_bd_n;;armor;;;bd;;str
 bd_sc_r_g_c_avg;base;Flexible Scale;Ranger;v_r_bd_n;;armor;;;bd;;str
 bd_sc_r_g_c_avg;c_fin;Flexible Scale;Ranger;v_r_bd_n;;armor;;;bd;;str
 bd_sc_r_g_c_avg;c_str;Flexible Scale;Ranger;v_r_bd_n;;armor;;;bd;;str
@@ -144,8 +144,8 @@ bd_bl_m_g_c_avg;o_fin;Waxed Leather;Mage;v_m_bd_n;;armor;;;bd;;
 bd_bl_r_g_c_avg;base;Boiled Leather;Ranger;v_r_bd_n;;armor;;;bd;;str
 bd_bl_r_g_c_avg;o_fin;Boiled Leather;Ranger;v_r_bd_n;;armor;;;bd;;str
 bd_le_f_g_c_avg;base;Thick Leather;Fighter;v_f_bd_n;;armor;;;bd;;
-bd_le_f_g_c_avg;c_fin;Thick Leather;Fighter;v_f_bd_n;;armor;;;bd;;
-bd_le_f_g_c_avg;o_fin;Thick Leather;Fighter;v_f_bd_n;;armor;;;bd;;
+bd_le_f_g_c_avg;c_fin;Thick Leather;Fighter;v_f_bd_n;;armor;;;bd;;str
+bd_le_f_g_c_avg;o_fin;Thick Leather;Fighter;v_f_bd_n;;armor;;;bd;;str
 bd_le_f_g_c_fun;;Crude Leather;Fighter;v_f_bd_n;;armor;;;bd;;
 bd_le_f_g_c_low;;Worn Leather;Fighter;v_f_bd_n;;armor;;;bd;;
 bd_le_m_g_c_avg;base;Mage Leather;Mage;v_m_bd_n;;armor;;;bd;;
@@ -153,7 +153,7 @@ bd_le_m_g_c_avg;c_str;Mage Leather;Mage;v_m_bd_n;;armor;;;bd;;
 bd_le_m_g_c_avg;o_avg;Mage Leather;Mage;v_m_bd_n;;armor;;;bd;;
 bd_le_m_g_c_avg;o_fin;Mage Leather;Mage;v_m_bd_n;;armor;;;bd;;
 bd_le_r_g_c_avg;base;Leather Armor;Ranger;v_r_bd_n;;armor;;;bd;;
-bd_le_r_g_c_avg;o_fin;Leather Armor;Ranger;v_r_bd_n;;armor;;;bd;;
+bd_le_r_g_c_avg;o_fin;Leather Armor;Ranger;v_r_bd_n;;armor;;;bd;;str
 bd_le_r_g_c_low;;Tattered Leather;Ranger;v_r_bd_n;;armor;;;bd;;
 bd_ra_bl_f_g_c_str;base;Rock Pelt;Fighter;v_f_bd_s;;armor;;;bd;rare;str
 bd_ra_bl_f_g_c_str;o_fin;Rock Pelt;Fighter;v_f_bd_s;;armor;;;bd;rare;str
@@ -165,32 +165,32 @@ bd_ra_le_m_g_o_avg;base;Dream Leather;Mage;v_m_bd_s;;armor;;;bd;rare;
 bd_ra_le_r_g_o_fin;base;Noble Leather;Ranger;v_r_amr_s;;armor;;;bd;rare;str
 bd_ra_sl_m_g_c_avg;base;Classic Leather;Mage;v_m_bd_s;;armor;;;bd;rare;
 bd_ra_sl_m_g_c_avg;c_fin;Classic Leather;Mage;v_m_bd_s;;armor;;;bd;rare;
-bd_ra_sl_m_g_c_avg;c_str;Classic Leather;Mage;v_m_bd_s;;armor;;;bd;rare;
+bd_ra_sl_m_g_c_avg;c_str;Classic Leather;Mage;v_m_bd_s;;armor;;;bd;rare;str
 bd_ra_sl_m_g_c_avg;o_fin;Classic Leather;Mage;v_m_bd_s;;armor;;;bd;rare;
-bd_ra_sl_m_g_c_avg;o_str;Classic Leather;Mage;v_m_bd_s;;armor;;;bd;rare;
+bd_ra_sl_m_g_c_avg;o_str;Classic Leather;Mage;v_m_bd_s;;armor;;;bd;rare;str
 bd_ra_sl_r_g_c_avg;base;Marshal Leather;Ranger;v_r_amr_s;;armor;;;bd;rare;
 bd_ra_sl_r_g_c_avg;c_fin;Marshal Leather;Ranger;v_r_amr_s;;armor;;;bd;rare;
-bd_ra_sl_r_g_c_avg;c_str;Marshal Leather;Ranger;v_r_amr_s;;armor;;;bd;rare;
+bd_ra_sl_r_g_c_avg;c_str;Marshal Leather;Ranger;v_r_amr_s;;armor;;;bd;rare;str
 bd_sl_f_g_c_avg;base;Cleated Leather;Fighter;v_f_bd_n;;armor;;;bd;;str
 bd_sl_f_g_c_avg;c_str;Cleated Leather;Fighter;v_f_bd_n;;armor;;;bd;;str
 bd_sl_f_g_c_avg;o_fin;Cleated Leather;Fighter;v_f_bd_n;;armor;;;bd;;str
 bd_sl_f_g_c_fun;;Torn Leather;Fighter;v_f_bd_n;;armor;;;bd;;
 bd_sl_m_g_c_avg;base;Riveted Leather;Mage;v_m_bd_n;;armor;;;bd;;
 bd_sl_m_g_c_avg;c_fin;Riveted Leather;Mage;v_m_bd_n;;armor;;;bd;;
-bd_sl_m_g_c_avg;c_mag;Riveted Leather;Mage;v_m_bd_n;;armor;;;bd;;
-bd_sl_m_g_c_avg;c_str;Riveted Leather;Mage;v_m_bd_n;;armor;;;bd;;
+bd_sl_m_g_c_avg;c_mag;Riveted Leather;Mage;v_m_bd_n;;armor;;;bd;;str
+bd_sl_m_g_c_avg;c_str;Riveted Leather;Mage;v_m_bd_n;;armor;;;bd;;str
 bd_sl_m_g_c_avg;o_avg;Riveted Leather;Mage;v_m_bd_n;;armor;;;bd;;
 bd_sl_m_g_c_avg;o_fin;Riveted Leather;Mage;v_m_bd_n;;armor;;;bd;;
-bd_sl_m_g_c_avg;o_str;Riveted Leather;Mage;v_m_bd_n;;armor;;;bd;;
+bd_sl_m_g_c_avg;o_str;Riveted Leather;Mage;v_m_bd_n;;armor;;;bd;;str
 bd_sl_m_g_c_fun;;Weathered Leather;Mage;v_m_bd_n;;armor;;;bd;;
 bd_sl_r_g_c_avg;base;Studded Leather;Ranger;v_r_bd_n;;armor;;;bd;;
 bd_sl_r_g_c_avg;c_fin;Studded Leather;Ranger;v_r_bd_n;;armor;;;bd;;
-bd_sl_r_g_c_avg;c_mag;Studded Leather;Ranger;v_r_bd_n;;armor;;;bd;;
-bd_sl_r_g_c_avg;c_str;Studded Leather;Ranger;v_r_bd_n;;armor;;;bd;;
-bd_sl_r_g_c_avg;o_avg;Studded Leather;Ranger;v_r_bd_n;;armor;;;bd;;
-bd_sl_r_g_c_avg;o_fin;Studded Leather;Ranger;v_r_bd_n;;armor;;;bd;;
-bd_sl_r_g_c_avg;o_mag;Studded Leather;Ranger;v_r_bd_n;;armor;;;bd;;
-bd_sl_r_g_c_avg;o_str;Studded Leather;Ranger;v_r_bd_n;;armor;;;bd;;
+bd_sl_r_g_c_avg;c_mag;Studded Leather;Ranger;v_r_bd_n;;armor;;;bd;;str
+bd_sl_r_g_c_avg;c_str;Studded Leather;Ranger;v_r_bd_n;;armor;;;bd;;str
+bd_sl_r_g_c_avg;o_avg;Studded Leather;Ranger;v_r_bd_n;;armor;;;bd;;str
+bd_sl_r_g_c_avg;o_fin;Studded Leather;Ranger;v_r_bd_n;;armor;;;bd;;str
+bd_sl_r_g_c_avg;o_mag;Studded Leather;Ranger;v_r_bd_n;;armor;;;bd;;str
+bd_sl_r_g_c_avg;o_str;Studded Leather;Ranger;v_r_bd_n;;armor;;;bd;;str
 bd_un_bl_f_g_c_blood;base;Lord Hovart's Blood Armor;Fighter;v_f_bd_s;;armor;;;bd;unique;str
 bd_un_bl_r_leaf;base;Woodland Leather;Ranger;v_r_amr_s;;armor;;;bd;unique;str
 bd_un_le_f_pad_avg;base;Altan's Leather;Fighter;v_f_bd_s;;armor;excluded;;bd;unique;
@@ -214,8 +214,8 @@ bd_br_f_g_c_avg;c_str;Heavy Brigandine;Fighter;v_f_bd_n;;armor;;;bd;;str
 bd_br_f_g_c_avg;o_fin;Heavy Brigandine;Fighter;v_f_bd_n;;armor;;;bd;;str
 bd_br_f_g_c_low;;Haggard Brigandine;Fighter;v_f_bd_n;;armor;;;bd;;str
 bd_br_m_g_c_avg;base;Thin Brigandine;Mage;v_m_bd_n;;armor;;;bd;;
-bd_br_m_g_c_avg;c_mag;Thin Brigandine;Mage;v_m_bd_n;;armor;;;bd;;
-bd_br_m_g_c_avg;o_fin;Thin Brigandine;Mage;v_m_bd_n;;armor;;;bd;;
+bd_br_m_g_c_avg;c_mag;Thin Brigandine;Mage;v_m_bd_n;;armor;;;bd;;str
+bd_br_m_g_c_avg;o_fin;Thin Brigandine;Mage;v_m_bd_n;;armor;;;bd;;str
 bd_br_m_g_c_low;;Flimsy Brigandine;Mage;v_m_bd_n;;armor;;;bd;;
 bd_br_r_g_c_avg;base;Brigandine Armor;Ranger;v_r_bd_n;;armor;;;bd;;str
 bd_br_r_g_c_avg;c_fin;Brigandine Armor;Ranger;v_r_bd_n;;armor;;;bd;;str
@@ -277,12 +277,12 @@ bo_bo_ch_f_g_c_avg;o_mag;Chain Boots;Fighter;v_f_bo_n;;armor;;;bo;;str
 bo_bo_ch_f_g_c_avg;o_str;Chain Boots;Fighter;v_f_bo_n;;armor;;;bo;;str
 bo_bo_le_f_g_c_avg;base;Leather Boots;Fighter;v_f_bo_n;;armor;;;bo;;
 bo_bo_le_f_g_c_avg;c_fin;Leather Boots;Fighter;v_f_bo_n;;armor;;;bo;;
-bo_bo_le_f_g_c_avg;c_mag;Leather Boots;Fighter;v_f_bo_n;;armor;;;bo;;
-bo_bo_le_f_g_c_avg;c_str;Leather Boots;Fighter;v_f_bo_n;;armor;;;bo;;
-bo_bo_le_f_g_c_avg;o_avg;Leather Boots;Fighter;v_f_bo_n;;armor;;;bo;;
-bo_bo_le_f_g_c_avg;o_fin;Leather Boots;Fighter;v_f_bo_n;;armor;;;bo;;
-bo_bo_le_f_g_c_avg;o_mag;Leather Boots;Fighter;v_f_bo_n;;armor;;;bo;;
-bo_bo_le_f_g_c_avg;o_str;Leather Boots;Fighter;v_f_bo_n;;armor;;;bo;;
+bo_bo_le_f_g_c_avg;c_mag;Leather Boots;Fighter;v_f_bo_n;;armor;;;bo;;str
+bo_bo_le_f_g_c_avg;c_str;Leather Boots;Fighter;v_f_bo_n;;armor;;;bo;;str
+bo_bo_le_f_g_c_avg;o_avg;Leather Boots;Fighter;v_f_bo_n;;armor;;;bo;;str
+bo_bo_le_f_g_c_avg;o_fin;Leather Boots;Fighter;v_f_bo_n;;armor;;;bo;;str
+bo_bo_le_f_g_c_avg;o_mag;Leather Boots;Fighter;v_f_bo_n;;armor;;;bo;;str
+bo_bo_le_f_g_c_avg;o_str;Leather Boots;Fighter;v_f_bo_n;;armor;;;bo;;str
 bo_bo_le_f_g_c_healthy;;Healthy Boots;Fighter;v_f_bo_s;;armor;excluded;;bo;;
 bo_bo_le_f_g_c_satin;;Satin Boots;Mage;v_m_hgb_s;;armor;excluded;;bo;;int
 bo_bo_le_light;;Light Boots;;v_any;;armor;excluded;;bo;;
@@ -334,7 +334,7 @@ bo_ra_bo_ch_f_g_c_fin;c_mag;Kicker Boots;Fighter;v_f_bo_s;;armor;;;bo;rare;str
 bo_ra_bo_ch_f_g_c_fin;o_fin;Kicker Boots;Fighter;v_f_bo_s;;armor;;;bo;rare;str
 bo_ra_bo_ch_f_g_c_fin;o_str;Kicker Boots;Fighter;v_f_bo_s;;armor;;;bo;rare;str
 bo_ra_bo_le_f_g_c_fin;base;Ready Boots;Fighter;v_f_bo_s;;armor;;;bo;rare;
-bo_ra_bo_le_f_g_c_fin;o_fin;Ready Boots;Fighter;v_f_bo_s;;armor;;;bo;rare;
+bo_ra_bo_le_f_g_c_fin;o_fin;Ready Boots;Fighter;v_f_bo_s;;armor;;;bo;rare;str
 bo_ra_bo_sc_f_g_c_fin;base;Blade Boots;Fighter;v_f_bo_s;;armor;;;bo;rare;str
 bo_ra_bo_sc_f_g_c_fin;o_fin;Blade Boots;Fighter;v_f_bo_s;;armor;;;bo;rare;str
 bo_ra_bo_sc_f_g_c_fin;o_mag;Blade Boots;Fighter;v_f_bo_s;;armor;;;bo;rare;str
@@ -424,13 +424,13 @@ gl_gl_ch_f_g_c_avg;o_fin;Chain Gloves;Fighter;v_f_gl_n;;armor;;;gl;;str
 gl_gl_ch_f_g_c_avg;o_mag;Chain Gloves;Fighter;v_f_gl_n;;armor;;;gl;;str
 gl_gl_ch_f_g_c_avg;o_str;Chain Gloves;Fighter;v_f_gl_n;;armor;;;gl;;str
 gl_gl_le_f_g_c_avg;base;Leather Gloves;Fighter;v_f_gl_n;;armor;;;gl;;
-gl_gl_le_f_g_c_avg;c_fin;Leather Gloves;Fighter;v_f_gl_n;;armor;;;gl;;
-gl_gl_le_f_g_c_avg;c_mag;Leather Gloves;Fighter;v_f_gl_n;;armor;;;gl;;
-gl_gl_le_f_g_c_avg;c_str;Leather Gloves;Fighter;v_f_gl_n;;armor;;;gl;;
-gl_gl_le_f_g_c_avg;o_avg;Leather Gloves;Fighter;v_f_gl_n;;armor;;;gl;;
-gl_gl_le_f_g_c_avg;o_fin;Leather Gloves;Fighter;v_f_gl_n;;armor;;;gl;;
-gl_gl_le_f_g_c_avg;o_mag;Leather Gloves;Fighter;v_f_gl_n;;armor;;;gl;;
-gl_gl_le_f_g_c_avg;o_str;Leather Gloves;Fighter;v_f_gl_n;;armor;;;gl;;
+gl_gl_le_f_g_c_avg;c_fin;Leather Gloves;Fighter;v_f_gl_n;;armor;;;gl;;str
+gl_gl_le_f_g_c_avg;c_mag;Leather Gloves;Fighter;v_f_gl_n;;armor;;;gl;;str
+gl_gl_le_f_g_c_avg;c_str;Leather Gloves;Fighter;v_f_gl_n;;armor;;;gl;;str
+gl_gl_le_f_g_c_avg;o_avg;Leather Gloves;Fighter;v_f_gl_n;;armor;;;gl;;str
+gl_gl_le_f_g_c_avg;o_fin;Leather Gloves;Fighter;v_f_gl_n;;armor;;;gl;;str
+gl_gl_le_f_g_c_avg;o_mag;Leather Gloves;Fighter;v_f_gl_n;;armor;;;gl;;str
+gl_gl_le_f_g_c_avg;o_str;Leather Gloves;Fighter;v_f_gl_n;;armor;;;gl;;str
 gl_gl_sc_f_g_c_avg;base;Scale Gloves;Fighter;v_f_gl_n;;armor;;;gl;;str
 gl_gl_sc_f_g_c_avg;c_fin;Scale Gloves;Fighter;v_f_gl_n;;armor;;;gl;;str
 gl_gl_sc_f_g_c_avg;c_mag;Scale Gloves;Fighter;v_f_gl_n;;armor;;;gl;;str
@@ -1213,11 +1213,11 @@ bw_g_c_s_l_c_avg;o_mag;Long Bow;Ranger;v_r_bw_n;;weapon;;;bw;;multi
 bw_g_c_s_l_c_fun;;Battered Long Bow;Ranger;v_r_bw_n;;weapon;;;bw;;
 bw_g_c_s_l_c_low;;Frayed Long Bow;Ranger;v_r_bw_n;;weapon;;;bw;;
 bw_g_c_s_m_c_avg;base;Bow;Ranger;v_r_bw_n;;weapon;;;bw;;dex
-bw_g_c_s_m_c_avg;c_fin;Bow;Ranger;v_r_bw_n;;weapon;;;bw;;dex
-bw_g_c_s_m_c_avg;c_mag;Bow;Ranger;v_r_bw_n;;weapon;;;bw;;dex
-bw_g_c_s_m_c_avg;c_str;Bow;Ranger;v_r_bw_n;;weapon;;;bw;;dex
-bw_g_c_s_m_c_avg;o_avg;Bow;Ranger;v_r_bw_n;;weapon;;;bw;;dex
-bw_g_c_s_m_c_avg;o_mag;Bow;Ranger;v_r_bw_n;;weapon;;;bw;;dex
+bw_g_c_s_m_c_avg;c_fin;Bow;Ranger;v_r_bw_n;;weapon;;;bw;;multi
+bw_g_c_s_m_c_avg;c_mag;Bow;Ranger;v_r_bw_n;;weapon;;;bw;;multi
+bw_g_c_s_m_c_avg;c_str;Bow;Ranger;v_r_bw_n;;weapon;;;bw;;multi
+bw_g_c_s_m_c_avg;o_avg;Bow;Ranger;v_r_bw_n;;weapon;;;bw;;multi
+bw_g_c_s_m_c_avg;o_mag;Bow;Ranger;v_r_bw_n;;weapon;;;bw;;multi
 bw_g_c_s_m_c_fun;;Weathered Bow;Ranger;v_r_bw_n;;weapon;;;bw;;dex
 bw_g_c_s_m_c_low;;Brittle Bow;Ranger;v_r_bw_n;;weapon;;;bw;;
 bw_g_c_s_m_r_avg;base;Recurve Bow;Ranger;v_r_bw_n;;weapon;;;bw;;multi
@@ -1227,14 +1227,14 @@ bw_g_c_s_m_r_avg;c_str;Recurve Bow;Ranger;v_r_bw_n;;weapon;;;bw;;multi
 bw_g_c_s_m_r_avg;o_avg;Recurve Bow;Ranger;v_r_bw_n;;weapon;;;bw;;multi
 bw_g_c_s_s_c_avg;base;Short Bow;Ranger;v_r_bw_n;;weapon;;;bw;;
 bw_g_c_s_s_c_avg;c_fin;Short Bow;Ranger;v_r_bw_n;;weapon;;;bw;;
-bw_g_c_s_s_c_avg;c_str;Short Bow;Ranger;v_r_bw_n;;weapon;;;bw;;
-bw_g_c_s_s_c_avg;o_avg;Short Bow;Ranger;v_r_bw_n;;weapon;;;bw;;
-bw_g_c_s_s_c_avg;o_fin;Short Bow;Ranger;v_r_bw_n;;weapon;;;bw;;
-bw_g_c_s_s_c_avg;o_mag;Short Bow;Ranger;v_r_bw_n;;weapon;;;bw;;
-bw_g_c_s_s_c_avg;o_str;Short Bow;Ranger;v_r_bw_n;;weapon;;;bw;;
+bw_g_c_s_s_c_avg;c_str;Short Bow;Ranger;v_r_bw_n;;weapon;;;bw;;multi
+bw_g_c_s_s_c_avg;o_avg;Short Bow;Ranger;v_r_bw_n;;weapon;;;bw;;dex
+bw_g_c_s_s_c_avg;o_fin;Short Bow;Ranger;v_r_bw_n;;weapon;;;bw;;multi
+bw_g_c_s_s_c_avg;o_mag;Short Bow;Ranger;v_r_bw_n;;weapon;;;bw;;multi
+bw_g_c_s_s_c_avg;o_str;Short Bow;Ranger;v_r_bw_n;;weapon;;;bw;;multi
 bw_g_c_s_s_r_avg;base;Short Recurve;Ranger;v_r_bw_n;;weapon;;;bw;;
-bw_g_c_s_s_r_avg;c_mag;Short Recurve;Ranger;v_r_bw_n;;weapon;;;bw;;
-bw_g_c_s_s_r_avg;o_avg;Short Recurve;Ranger;v_r_bw_n;;weapon;;;bw;;
+bw_g_c_s_s_r_avg;c_mag;Short Recurve;Ranger;v_r_bw_n;;weapon;;;bw;;multi
+bw_g_c_s_s_r_avg;o_avg;Short Recurve;Ranger;v_r_bw_n;;weapon;;;bw;;dex
 bw_g_d_s_l_c_avg;;Peasant Long Bow;Ranger;v_r_bw_n;;weapon;;;bw;;dex
 bw_g_d_s_s_c_avg;;Peasant Short Bow;Ranger;v_r_bw_n;;weapon;;;bw;;
 bw_g_o_c_m_4_fun;;Weakened Battle Bow;Ranger;v_r_bw_n;;weapon;;;bw;;
@@ -1278,9 +1278,9 @@ bw_ra_g_c_s_m_r_fin;o_mag;Puncture Bow;Ranger;v_r_bw_s;;weapon;;;bw;rare;multi
 bw_ra_g_c_s_m_r_fin;o_str;Puncture Bow;Ranger;v_r_bw_s;;weapon;;;bw;rare;multi
 bw_ra_g_c_s_s_c_fin;base;Fatal Bow;Ranger;v_r_bw_s;;weapon;;;bw;rare;dex
 bw_ra_g_c_s_s_c_fin;o_avg;Fatal Bow;Ranger;v_r_bw_s;;weapon;;;bw;rare;dex
-bw_ra_g_c_s_s_c_fin;o_fin;Fatal Bow;Ranger;v_r_bw_s;;weapon;;;bw;rare;dex
-bw_ra_g_c_s_s_c_fin;o_mag;Fatal Bow;Ranger;v_r_bw_s;;weapon;;;bw;rare;dex
-bw_ra_g_c_s_s_c_fin;o_str;Fatal Bow;Ranger;v_r_bw_s;;weapon;;;bw;rare;dex
+bw_ra_g_c_s_s_c_fin;o_fin;Fatal Bow;Ranger;v_r_bw_s;;weapon;;;bw;rare;multi
+bw_ra_g_c_s_s_c_fin;o_mag;Fatal Bow;Ranger;v_r_bw_s;;weapon;;;bw;rare;multi
+bw_ra_g_c_s_s_c_fin;o_str;Fatal Bow;Ranger;v_r_bw_s;;weapon;;;bw;rare;multi
 bw_ra_g_c_s_s_c_stopper;base;Heart Stopper;Ranger;v_r_bw_s;;weapon;excluded;;bw;rare;dex
 bw_ra_g_o_s_s_r_avg;base;Cruel Recurve;Ranger;v_r_bw_s;;weapon;;;bw;rare;multi
 bw_ra_g_o_s_s_r_avg;c_mag;Cruel Recurve;Ranger;v_r_bw_s;;weapon;;;bw;rare;multi
@@ -1309,19 +1309,19 @@ cb_un_2h_troll_forest;;Tree Club;Fighter;v_f_cdhss;;weapon;excluded;;cb;unique;s
 cb_un_2h_troll_rock;;Rocky Club;Fighter;v_f_cdhss;;weapon;excluded;;cb;unique;str
 cb_un_2h_troll_swamp;;Swamp Club;Fighter;v_f_cdhss;;weapon;excluded;;cb;unique;str
 dg_g_c_1h_avg;c_fin;Dagger;Fighter;v_f_cdhss;;weapon;;;dg;;
-dg_g_c_1h_avg;c_mag;Dagger;Fighter;v_f_cdhss;;weapon;;;dg;;
-dg_g_c_1h_avg;c_str;Dagger;Fighter;v_f_cdhss;;weapon;;;dg;;
+dg_g_c_1h_avg;c_mag;Dagger;Fighter;v_f_cdhss;;weapon;;;dg;;str
+dg_g_c_1h_avg;c_str;Dagger;Fighter;v_f_cdhss;;weapon;;;dg;;str
 dg_g_c_1h_fun;;Blunt Dagger;Fighter;v_f_cdhss;;weapon;;;dg;;
 dg_g_c_1h_low;;Rusty Dagger;Fighter;v_f_cdhss;;weapon;;;dg;;
 dg_g_d_1h_fun;;Knife;Fighter;v_f_cdhss;;weapon;excluded;;dg;;
 hm_g_c_1h1m_avg;base;Hammer;Fighter;v_f_cdhss;;weapon;;;hm;;
-hm_g_c_1h1m_avg;c_fin;Hammer;Fighter;v_f_cdhss;;weapon;;;hm;;
-hm_g_c_1h1m_avg;c_mag;Hammer;Fighter;v_f_cdhss;;weapon;;;hm;;
-hm_g_c_1h1m_avg;c_str;Hammer;Fighter;v_f_cdhss;;weapon;;;hm;;
-hm_g_c_1h1m_avg;o_avg;Hammer;Fighter;v_f_cdhss;;weapon;;;hm;;
-hm_g_c_1h1m_avg;o_fin;Hammer;Fighter;v_f_cdhss;;weapon;;;hm;;
-hm_g_c_1h1m_avg;o_mag;Hammer;Fighter;v_f_cdhss;;weapon;;;hm;;
-hm_g_c_1h1m_avg;o_str;Hammer;Fighter;v_f_cdhss;;weapon;;;hm;;
+hm_g_c_1h1m_avg;c_fin;Hammer;Fighter;v_f_cdhss;;weapon;;;hm;;str
+hm_g_c_1h1m_avg;c_mag;Hammer;Fighter;v_f_cdhss;;weapon;;;hm;;str
+hm_g_c_1h1m_avg;c_str;Hammer;Fighter;v_f_cdhss;;weapon;;;hm;;str
+hm_g_c_1h1m_avg;o_avg;Hammer;Fighter;v_f_cdhss;;weapon;;;hm;;str
+hm_g_c_1h1m_avg;o_fin;Hammer;Fighter;v_f_cdhss;;weapon;;;hm;;str
+hm_g_c_1h1m_avg;o_mag;Hammer;Fighter;v_f_cdhss;;weapon;;;hm;;str
+hm_g_c_1h1m_avg;o_str;Hammer;Fighter;v_f_cdhss;;weapon;;;hm;;str
 hm_g_c_1h1m_fun;;Common Hammer;Fighter;v_f_cdhss;;weapon;;;hm;;
 hm_g_c_1h1m_low;;Worn Hammer;Fighter;v_f_cdhss;;weapon;;;hm;;
 hm_g_c_2h1m_avg;base;Mallet;Fighter;v_f_cdhss2h;;weapon;;;hm;;str
@@ -1365,13 +1365,13 @@ mc_g_c_f_1h_avg;o_str;Flanged Mace;Fighter;v_f_mc_n;;weapon;;;mc;;str
 mc_g_c_f_1h_fun;;Worn Flanged Mace;Fighter;v_f_mc_n;;weapon;;;mc;;str
 mc_g_c_f_1h_low;;Bent Flanged Mace;Fighter;v_f_mc_n;;weapon;;;mc;;
 mc_g_c_m_1h_avg;base;Mace;Fighter;v_f_mc_n;;weapon;;;mc;;
-mc_g_c_m_1h_avg;c_fin;Mace;Fighter;v_f_mc_n;;weapon;;;mc;;
-mc_g_c_m_1h_avg;c_mag;Mace;Fighter;v_f_mc_n;;weapon;;;mc;;
-mc_g_c_m_1h_avg;c_str;Mace;Fighter;v_f_mc_n;;weapon;;;mc;;
-mc_g_c_m_1h_avg;o_avg;Mace;Fighter;v_f_mc_n;;weapon;;;mc;;
-mc_g_c_m_1h_avg;o_fin;Mace;Fighter;v_f_mc_n;;weapon;;;mc;;
-mc_g_c_m_1h_avg;o_mag;Mace;Fighter;v_f_mc_n;;weapon;;;mc;;
-mc_g_c_m_1h_avg;o_str;Mace;Fighter;v_f_mc_n;;weapon;;;mc;;
+mc_g_c_m_1h_avg;c_fin;Mace;Fighter;v_f_mc_n;;weapon;;;mc;;str
+mc_g_c_m_1h_avg;c_mag;Mace;Fighter;v_f_mc_n;;weapon;;;mc;;str
+mc_g_c_m_1h_avg;c_str;Mace;Fighter;v_f_mc_n;;weapon;;;mc;;str
+mc_g_c_m_1h_avg;o_avg;Mace;Fighter;v_f_mc_n;;weapon;;;mc;;str
+mc_g_c_m_1h_avg;o_fin;Mace;Fighter;v_f_mc_n;;weapon;;;mc;;str
+mc_g_c_m_1h_avg;o_mag;Mace;Fighter;v_f_mc_n;;weapon;;;mc;;str
+mc_g_c_m_1h_avg;o_str;Mace;Fighter;v_f_mc_n;;weapon;;;mc;;str
 mc_g_c_m_1h_fun;;Dented Mace;Fighter;v_f_mc_n;;weapon;;;mc;;
 mc_g_c_m_1h_low;;Chipped Mace;Fighter;v_f_mc_n;;weapon;;;mc;;
 mc_g_c_s_1h_avg;base;Spiked Mace;Fighter;v_f_mc_n;;weapon;;;mc;;str
@@ -1465,13 +1465,13 @@ st_g_c_b_avg;o_str;Bladed Staff;Mage;v_m_st_n;;weapon;;;st;;int
 st_g_c_b_fun;;Gnarled Staff;Mage;v_m_st_n;;weapon;;;st;;int
 st_g_c_b_low;;Notched Staff;Mage;v_m_st_n;;weapon;;;st;;int
 st_g_c_r_avg;base;Staff;Mage;v_m_st_n;;weapon;;;st;;
-st_g_c_r_avg;c_fin;Staff;Mage;v_m_st_n;;weapon;;;st;;
-st_g_c_r_avg;c_mag;Staff;Mage;v_m_st_n;;weapon;;;st;;
-st_g_c_r_avg;c_str;Staff;Mage;v_m_st_n;;weapon;;;st;;
-st_g_c_r_avg;o_avg;Staff;Mage;v_m_st_n;;weapon;;;st;;
-st_g_c_r_avg;o_fin;Staff;Mage;v_m_st_n;;weapon;;;st;;
-st_g_c_r_avg;o_mag;Staff;Mage;v_m_st_n;;weapon;;;st;;
-st_g_c_r_avg;o_str;Staff;Mage;v_m_st_n;;weapon;;;st;;
+st_g_c_r_avg;c_fin;Staff;Mage;v_m_st_n;;weapon;;;st;;int
+st_g_c_r_avg;c_mag;Staff;Mage;v_m_st_n;;weapon;;;st;;int
+st_g_c_r_avg;c_str;Staff;Mage;v_m_st_n;;weapon;;;st;;int
+st_g_c_r_avg;o_avg;Staff;Mage;v_m_st_n;;weapon;;;st;;int
+st_g_c_r_avg;o_fin;Staff;Mage;v_m_st_n;;weapon;;;st;;int
+st_g_c_r_avg;o_mag;Staff;Mage;v_m_st_n;;weapon;;;st;;int
+st_g_c_r_avg;o_str;Staff;Mage;v_m_st_n;;weapon;;;st;;int
 st_g_c_r_fun;;Crooked Staff;Mage;v_m_st_n;;weapon;;;st;;
 st_g_c_r_low;;Splintered Staff;Mage;v_m_st_n;;weapon;;;st;;
 st_g_c_s_avg;base;Steel Staff;Mage;v_m_st_n;;weapon;;;st;;int
