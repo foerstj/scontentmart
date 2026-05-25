@@ -1687,3 +1687,91 @@ book_glb_magic_24;base;v_m_spellbook;;;Spell Book;Mage;;spellbook;;;int;1;21
 book_glb_magic_25;base;v_m_spellbook;;;Spell Book;Mage;;spellbook;;;int;1;22
 book_glb_magic_26;base;v_m_spellbook;;;Spell Book;Mage;;spellbook;;;int;1;23
 book_glb_magic_27;base;v_m_spellbook;;;Spell Book;Mage;;spellbook;;;int;1;24
+amulet_dsx_set_illicor;;loa_any_sets_sp;;;Illicor's Amulet;Mage;LoA;amulet;illicor;;int;;
+amulet_dsx_set_demlock;;loa_any_sets_sp;;;Demlock's Amulet;Mage;LoA;amulet;demlock;;int;;
+amulet_dsx_set_clockwork;;loa_any_sets_sp;;;Clockwork Amulet;Ranger;LoA;amulet;clockwork;;dex;;
+amulet_dsx_set_guiseppi;;loa_any_sets_mp;;;Guiseppi's Amulet;;LoA;amulet;guiseppi;;;;
+amulet_dsx_set_adela;;loa_any_sets_mp;;;Adela's Amulet;Mage;LoA;amulet;adela;;int;;
+amulet_dsx_set_kmethekt;;loa_any_sets_mp;;;Kmethekt's Amulet;Mage;LoA;amulet;kmethekts;;int;;
+amulet_lhaoc;;loa_excluded;;excluded;The Stone of Lhaoc;;LoA;amulet;;;;;
+amulet_ilorn;;loa_excluded;;excluded;Ilorn's Amulet;;LoA;amulet;;;;;
+amulet_common;b_c_avg;v_any_jewelry;;;Amulet;;;amulet;;;;11;12
+amulet_common;b_c_fin;v_any_jewelry;;;Amulet;;;amulet;;;;12;13
+amulet_common;b_c_mag;v_any_jewelry;;;Amulet;;;amulet;;;;13;14
+amulet_common;b_d_avg;v_any_jewelry;;;Amulet;;;amulet;;;;1;3
+amulet_common;b_d_fin;v_any_jewelry;;;Amulet;;;amulet;;;;3;4
+amulet_common;b_d_mag;v_any_jewelry;;;Amulet;;;amulet;;;;4;5
+amulet_common;b_o_avg;v_any_jewelry;;;Amulet;;;amulet;;;;40;50
+amulet_common;b_o_fin;v_any_jewelry;;;Amulet;;;amulet;;;;50;60
+amulet_common;g_c_avg;v_any_jewelry;;;Amulet;;;amulet;;;;18;20
+amulet_common;g_c_fin;v_any_jewelry;;;Amulet;;;amulet;;;;20;30
+amulet_common;g_c_mag;v_any_jewelry;;;Amulet;;;amulet;;;;30;40
+amulet_common;g_d_avg;v_any_jewelry;;;Amulet;;;amulet;;;;8;9
+amulet_common;g_d_fin;v_any_jewelry;;;Amulet;;;amulet;;;;9;10
+amulet_common;g_d_mag;v_any_jewelry;;;Amulet;;;amulet;;;;10;11
+amulet_common;g_o_avg;v_any_jewelry;;;Amulet;;;amulet;;;;100;120
+amulet_common;g_o_mag;v_any_jewelry;;;Amulet;;;amulet;;;;150;500
+amulet_common;s_c_avg;v_any_jewelry;;;Amulet;;;amulet;;;;14;15
+amulet_common;s_c_fin;v_any_jewelry;;;Amulet;;;amulet;;;;15;16
+amulet_common;s_c_mag;v_any_jewelry;;;Amulet;;;amulet;;;;16;18
+amulet_common;s_d_avg;v_any_jewelry;;;Amulet;;;amulet;;;;5;6
+amulet_common;s_d_fin;v_any_jewelry;;;Amulet;;;amulet;;;;6;7
+amulet_common;s_d_mag;v_any_jewelry;;;Amulet;;;amulet;;;;7;8
+amulet_common;s_o_avg;v_any_jewelry;;;Amulet;;;amulet;;;;70;80
+amulet_common;s_o_fin;v_any_jewelry;;;Amulet;;;amulet;;;;80;90
+amulet_common;s_o_mag;v_any_jewelry;;;Amulet;;;amulet;;;;90;100
+amulet_horseshoe;;v_excluded;;excluded;Goldsniffer's Amulet;;;amulet;;;;;
+amulet_keeper;;v_excluded;;excluded;Elder Wood Amulet;;;amulet;;;;;
+amulet_ra_common;b_d_fin;v_any_jewelry;;;Amulet;;;amulet;;;;1;17
+amulet_ra_common;b_c_fin;v_any_jewelry;;;Amulet;;;amulet;;;;59;79
+amulet_ra_common;b_o_fin;v_any_jewelry;;;Amulet;;;amulet;;;;125;149
+amulet_ra_common;s_d_fin;v_any_jewelry;;;Amulet;;;amulet;;;;18;37
+amulet_ra_common;s_c_fin;v_any_jewelry;;;Amulet;;;amulet;;;;80;100
+amulet_ra_common;s_o_fin;v_any_jewelry;;;Amulet;;;amulet;;;;150;500
+amulet_ra_common;g_d_fin;v_any_jewelry;;;Amulet;;;amulet;;;;38;58
+amulet_ra_common;g_c_fin;v_any_jewelry;;;Amulet;;;amulet;;;;101;124
+ring_dsx_set_illicor;;loa_any_sets_sp;;;Illicor's Ring;Mage;LoA;ring;illicor;;int;;
+ring_dsx_set_demlock;;loa_any_sets_sp;;;Demlock's Ring;Mage;LoA;ring;demlock;;int;;
+ring_dsx_set_guiseppi;;loa_any_sets_mp;;;Guiseppi's Ring;;LoA;ring;guiseppi;;;;
+ring_dsx_set_adela;;loa_any_sets_mp;;;Adela's Ring;Mage;LoA;ring;adela;;int;;
+ring_dsx_set_cicatrix;;loa_any_sets_mp;;;Ring of Cicatrix;Mage;LoA;ring;cicatrix;;int;;
+ring_dsx_set_xulphae;;loa_any_sets_mp;;;Xulphae's Ring;Mage;LoA;ring;xulphae;;int;;
+ring_dsx_set_hassat;;loa_any_sets_mp;;;Ancient Hassat Ring;;LoA;ring;hassat;;multi;;
+ring_common;b_c_avg;v_any_jewelry;;;Ring;;;ring;;;;10;11
+ring_common;b_c_fin;v_any_jewelry;;;Ring;;;ring;;;;11;12
+ring_common;b_c_mag;v_any_jewelry;;;Ring;;;ring;;;;12;13
+ring_common;b_d_avg;v_any_jewelry;;;Ring;;;ring;;;;1;2
+ring_common;b_d_fin;v_any_jewelry;;;Ring;;;ring;;;;2;3
+ring_common;b_d_mag;v_any_jewelry;;;Ring;;;ring;;;;3;4
+ring_common;b_o_avg;v_any_jewelry;;;Ring;;;ring;;;;40;50
+ring_common;b_o_fin;v_any_jewelry;;;Ring;;;ring;;;;50;60
+ring_common;b_o_mag;v_any_jewelry;;;Ring;;;ring;;;;60;70
+ring_common;g_c_avg;v_any_jewelry;;;Ring;;;ring;;;;18;20
+ring_common;g_c_fin;v_any_jewelry;;;Ring;;;ring;;;;20;30
+ring_common;g_c_mag;v_any_jewelry;;;Ring;;;ring;;;;30;40
+ring_common;g_d_avg;v_any_jewelry;;;Ring;;;ring;;;;7;8
+ring_common;g_d_fin;v_any_jewelry;;;Ring;;;ring;;;;8;9
+ring_common;g_d_mag;v_any_jewelry;;;Ring;;;ring;;;;9;10
+ring_common;g_o_avg;v_any_jewelry;;;Ring;;;ring;;;;100;120
+ring_common;g_o_fin;v_any_jewelry;;;Ring;;;ring;;;;120;150
+ring_common;g_o_mag;v_any_jewelry;;;Ring;;;ring;;;;150;500
+ring_common;s_c_avg;v_any_jewelry;;;Ring;;;ring;;;;13;14
+ring_common;s_c_fin;v_any_jewelry;;;Ring;;;ring;;;;14;15
+ring_common;s_c_mag;v_any_jewelry;;;Ring;;;ring;;;;15;18
+ring_common;s_d_avg;v_any_jewelry;;;Ring;;;ring;;;;4;5
+ring_common;s_d_fin;v_any_jewelry;;;Ring;;;ring;;;;5;6
+ring_common;s_d_mag;v_any_jewelry;;;Ring;;;ring;;;;6;7
+ring_common;s_o_avg;v_any_jewelry;;;Ring;;;ring;;;;70;80
+ring_common;s_o_fin;v_any_jewelry;;;Ring;;;ring;;;;80;90
+ring_common;s_o_mag;v_any_jewelry;;;Ring;;;ring;;;;90;100
+ring_lloyd;;v_excluded;;excluded;Lloyd's Ring;;;ring;;;;;
+ring_utraean;;v_excluded;;excluded;Signet Ring of the Utraean Protectors;;;ring;;;;;
+ring_ra_common;b_d_fin;v_any_jewelry;;;Ring;;;ring;;;;1;22
+ring_ra_common;b_c_fin;v_any_jewelry;;;Ring;;;ring;;;;62;80
+ring_ra_common;b_o_fin;v_any_jewelry;;;Ring;;;ring;;;;114;130
+ring_ra_common;s_d_fin;v_any_jewelry;;;Ring;;;ring;;;;23;42
+ring_ra_common;s_c_fin;v_any_jewelry;;;Ring;;;ring;;;;81;97
+ring_ra_common;s_o_fin;v_any_jewelry;;;Ring;;;ring;;;;131;149
+ring_ra_common;g_d_fin;v_any_jewelry;;;Ring;;;ring;;;;43;61
+ring_ra_common;g_c_fin;v_any_jewelry;;;Ring;;;ring;;;;98;114
+ring_ra_common;g_o_fin;v_any_jewelry;;;Ring;;;ring;;;;150;500
