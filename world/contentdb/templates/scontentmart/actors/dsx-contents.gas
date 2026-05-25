@@ -117,6 +117,7 @@
 			[all*]
 			{
 				il_main = #he_ra_ca_le_avg_pimp/+brilliant;
+				il_main = #spell_orb_poultry;
 			}
 		}
 	}
@@ -158,6 +159,91 @@
 				il_main = #book_glb_magic_umberteen;
 				il_main = #amulet_lhaoc;
 				il_main = #amulet_ilorn;
+				il_main = #dsx_mantrap_spell;
+				il_main = #dsx_spell_skrubb_spit_farm;
+				il_main = #dsx_spell_blaster_bomb;
+				il_main = #dsx_spell_frostnid_freeze;
+				il_main = #dsx_spell_hassat_shaman_fireshot;
+				il_main = #dsx_spell_krakbone_lesser_fireshot;
+				il_main = #dsx_spell_booka;
+				il_main = #dsx_spell_hassat_caster_fireshot;
+				il_main = #dsx_spell_hassat_mage_fireshot;
+				il_main = #dsx_spell_hassat_mage_orb;
+				il_main = #dsx_spell_rune_fiend_blast;
+				il_main = #dsx_spell_slithermage_blast;
+				il_main = #dsx_spell_slithermage_blast_2;
+				il_main = #dsx_spell_rune_caster_damage;
+				il_main = #dsx_spell_rune_master_damage;
+				il_main = #dsx_spell_rune_caster_summon;
+				il_main = #dsx_spell_noctiss_sap;
+				il_main = #dsx_spell_noctiss_sap_02;
+				il_main = #dsx_spell_rune_caster_summon_q;
+				il_main = #dsx_spell_moth_dust;
+				il_main = #dsx_spell_ice_moth_dust;
+				il_main = #dsx_spell_mucosa_poison;
+				il_main = #dsx_spell_mucosa_poison_small;
+				il_main = #dsx_spell_dark_bolt;
+				il_main = #dsx_spell_dark_bolt2;
+				il_main = #dsx_spell_dark_heal;
+				il_main = #dsx_spell_mine_worm_spikes;
+				il_main = #dsx_spell_jungle_slinger;
+				il_main = #dsx_spell_jungle_slinger_boss;
+				il_main = #spell_dsx_phrak_dart;
+				il_main = #spell_zepheryl_zap;
+				il_main = #spell_zepheryl_zap_two;
+				il_main = #dsx_spell_giant_spider_acid;
+				il_main = #dsx_spell_phrak_dart;
+				il_main = #dsx_spell_spiked_dweller_spikes;
+				il_main = #dsx_spell_ghost_sap;
+				il_main = #dsx_spell_zaurask_apprentice;
+				il_main = #dsx_spell_zaurask_adept;
+				il_main = #dsx_spell_zaurask_caster;
+				il_main = #spell_zaurask_mage_dsx;
+				il_main = #dsx_spell_possessed_skull_burn;
+				il_main = #dsx_spell_golem_frost_blast;
+				il_main = #dsx_spell_earth_elemental_blast;
+				il_main = #spell_chitterskrag_poison;
+				il_main = #spell_droc;
+				il_main = #spell_rock_beast_blast_dsx;
+				il_main = #spell_eyes_whelnar;
+				il_main = #spell_midge_swirling;
+				il_main = #spell_lost_queen;
+				il_main = #dsx_spell_shard_zap_teal;
+				il_main = #dsx_spell_shard_zap_blue;
+				il_main = #dsx_spell_shard_zap_green;
+				il_main = #dsx_spell_shard_zap_purple;
+				il_main = #dsx_spell_lava_spirit_fire;
+				il_main = #dsx_spell_perforator_minigun;
+				il_main = #dsx_spell_perforator_minigun_1;
+				il_main = #dsx_spell_scorpigun_laser;
+				il_main = #dsx_spell_scorpigun_lcannon;
+				il_main = #dsx_spell_scorpigun_zap_rcannon;
+				il_main = #dsx_spell_rusted_scorpigun_lcannon;
+				il_main = #dsx_spell_rusted_scorpigun_rcannon;
+				il_main = #dsx_spell_automoton_minigun;
+				il_main = #dsx_spell_rusted_automoton_minigun;
+				il_main = #dsx_spell_nosirrom;
+				il_main = #dsx_spell_drake_breath_green;
+				il_main = #dsx_spell_drake_breath_red;
+				il_main = #dsx_spell_drake_breath_black;
+				il_main = #dsx_spell_fury_slam;
+				il_main = #dsx_spell_fury_spin;
+				il_main = #dsx_spell_fury_gas;
+				il_main = #dsx_spell_fury_spit;
+				il_main = #dsx_spell_fury_zap_1;
+				il_main = #dsx_spell_fury_zap_2;
+				il_main = #dsx_spell_fury_zap_3;
+				il_main = #dsx_spell_nosirrom_resurrect;
+				il_main = #dsx_spell_nosirrom_heal;
+				il_main = #dsx_elemental_fire_blast;
+				il_main = #dsx_spell_air_elemental_blast;
+				il_main = #dsx_spell_skatwyrm_gas;
+				il_main = #spell_sj_chain_tornado;
+				il_main = #spell_sj_chain_lightning;
+				il_main = #spell_sj_chubby_rain;
+				il_main = #spell_sj_snowstorm;
+				il_main = #spell_sj_flurry;
+				il_main = #spell_sj_tornado;
 			}
 		}
 	}
@@ -456,6 +542,105 @@
 				il_main = #sh_w_m_g_c_t_m_avg_ward_sky2_dsx:base;
 				il_main = #sh_w_m_g_c_t_m_avg_ward_stars_dsx:base;
 				il_main = #sh_w_m_g_c_t_m_avg_ward_sun2_dsx:base;
+			}
+		}
+	}
+}
+[t:template,n:base_scm_loa_m_spell_cm_contents]
+{
+	specializes = base_scm_loa_m_spell_cm_contents_base;
+	[inventory]
+	{
+		[store_pcontent]
+		{
+			full_ratio = 0;
+			[all*]
+			{
+				il_main = #spell_convertcombat;
+				il_main = #spell_transference;
+				il_main = #spell_hold_crowd;
+				il_main = #spell_haste;
+				il_main = #spell_group_haste;
+				il_main = #spell_zorkons_exploder;
+				il_main = #spell_zorkons_disintegrator;
+				il_main = #spell_zorkons_bonecrusher;
+				il_main = #spell_orb_fire;
+				il_main = #spell_orb_acid;
+				il_main = #spell_orb_energy;
+				il_main = #spell_summon_clone;
+				il_main = #spell_block_stone;
+				il_main = #spell_dimension_gate;
+				il_main = #spell_turncoat;
+				il_main = #spell_summon_dsx_twisted_mucosa;
+				il_main = #spell_summon_dsx_vile_twisted_mucosa;
+				il_main = #spell_summon_dsx_deadly_armor;
+				il_main = #spell_summon_dsx_ursae_demonic;
+				il_main = #spell_summon_dsx_rune_guardian;
+				il_main = #spell_summon_dsx_fleshrender;
+				il_main = #spell_summon_dsx_knight_death;
+				il_main = #spell_summon_dsx_slithermage;
+				il_main = #spell_invisibility_self;
+				il_main = #spell_invisibility_targeted;
+				il_main = #spell_monster_magnet;
+				il_main = #spell_glyph_detonating;
+				il_main = #spell_glyph_flaming;
+				il_main = #spell_glyph_acid;
+				il_main = #spell_share_damage;
+				il_main = #spell_taduzas_tantrum;
+				il_main = #spell_transform_ursae;
+				il_main = #spell_transform_rune_fiend;
+				il_main = #spell_transform_troll_masher;
+				il_main = #spell_transform_mucosa;
+				il_main = #spell_transform_ztrool;
+				il_main = #spell_transform_troll;
+			}
+		}
+	}
+}
+[t:template,n:base_scm_loa_m_spell_nm_contents]
+{
+	specializes = base_scm_loa_m_spell_nm_contents_base;
+	[inventory]
+	{
+		[store_pcontent]
+		{
+			full_ratio = 0;
+			[all*]
+			{
+				il_main = #spell_transmute_healthpotion;
+				il_main = #spell_transmute_manapotion;
+				il_main = #spell_create_healthpotion;
+				il_main = #spell_diminution;
+				il_main = #spell_transmogrification;
+				il_main = #spell_transmuteall;
+				il_main = #spell_sleepy_gas;
+				il_main = #spell_animalrage;
+				il_main = #spell_rangeboost;
+				il_main = #spell_lightofchadek;
+				il_main = #spell_purity;
+				il_main = #spell_orb_lightning;
+				il_main = #spell_orb_ice;
+				il_main = #spell_orb_healing;
+				il_main = #spell_summon_dsx_giant_rat;
+				il_main = #spell_summon_dsx_barkrunner;
+				il_main = #spell_summon_dsx_scrub_howler;
+				il_main = #spell_summon_dsx_bear;
+				il_main = #spell_summon_dsx_zepheryl_dark;
+				il_main = #spell_summon_dsx_chomper;
+				il_main = #spell_summon_dsx_troll_masher;
+				il_main = #spell_summon_dsx_zepheryl;
+				il_main = #spell_respite;
+				il_main = #spell_lifeforce;
+				il_main = #spell_spectral_summoning;
+				il_main = #spell_glyph_zapper;
+				il_main = #spell_glyph_shockwave;
+				il_main = #spell_mindflare;
+				il_main = #spell_transform_bear;
+				il_main = #spell_transform_barkrunner;
+				il_main = #spell_transform_scorpion;
+				il_main = #spell_transform_rock_beast;
+				il_main = #spell_transform_wolf;
+				il_main = #spell_transform_golem;
 			}
 		}
 	}

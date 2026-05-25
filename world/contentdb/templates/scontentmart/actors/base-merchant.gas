@@ -373,13 +373,13 @@
 
 [t:template,n:base_scm_merchant_v_misc]
 {
-	specializes = base_npc_fg_talk;
+	specializes = base_dwarf;
 
 	category_name = "1W_shopkeep";
 	doc = "SCM vanilla misc merchant";
 	[actor]
 	{
-		portrait_icon = b_gui_ig_i_ic_c_ul;
+		portrait_icon = b_gui_ig_i_ic_c_orkin;
 		alignment = aa_neutral;
 	}
 	[aspect]
@@ -389,20 +389,19 @@
 		use_range = 1;
 		[textures]
 		{
-			0 = b_c_gah_fg_skin_16;
+			0 = b_c_gan_df_skin_06;
 			1 = b_c_pos_a1_008;
 		}
 	}
 	[common]
 	{
-		screen_name = "SCM Vanilla Armor Merchant";
+		screen_name = "SCM Vanilla Misc Merchant";
 	}
 	[conversation]
 	{
 	}
 	[inventory]
 	{
-		custom_head = m_c_gah_fg_hlmt_ulora;
 		[equipment] {}
 		[pcontent] {}
 		[store_pcontent]
@@ -425,13 +424,61 @@
 [t:template,n:base_scm_merchant_v_misc_01]
 {
 	specializes = base_scm_merchant_v_misc;
-	actor:portrait_icon = b_gui_ig_i_ic_c_ul;
+	actor:portrait_icon = b_gui_ig_i_ic_c_dornek;
 	[aspect]
 	{
 		[textures]
 		{
-			0 = b_c_gah_fg_skin_16;
+			0 = b_c_gan_df_skin_09;
 			1 = b_c_pos_a1_008;
+		}
+	}
+}
+[t:template,n:base_scm_merchant_v_spell_nm]
+{
+	specializes = base_scm_merchant_v_misc;
+	actor:portrait_icon = b_gui_ig_i_ic_c_orkin;
+	[aspect]
+	{
+		[textures]
+		{
+			0 = b_c_gan_df_skin_06;
+			1 = b_c_pos_a1_008;
+		}
+	}
+	[common]
+	{
+		[template_triggers]
+		{
+			[*]
+			{
+				action* = call_sfx_script( "nature_spell_sparkle" );
+				condition* = receive_world_message("we_entered_world");
+			}
+		}
+	}
+}
+[t:template,n:base_scm_merchant_v_spell_cm]
+{
+	specializes = base_scm_merchant_v_misc;
+	actor:portrait_icon = b_gui_ig_i_ic_c_orkin;
+	[aspect]
+	{
+		[textures]
+		{
+			0 = b_c_gan_df_skin_06;
+			1 = b_c_pos_a1_008;
+		}
+	}
+	[common]
+	{
+		[template_triggers]
+		{
+			[*]
+			{
+				action* = call_sfx_script( "combat_spell_sparkle" );
+				condition* = receive_world_message("we_entered_world");
+			}
 		}
 	}
 }

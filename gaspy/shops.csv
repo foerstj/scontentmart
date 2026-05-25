@@ -42,7 +42,11 @@ v;weapon_staff_mage_special;v_m_st_s;v_weapon_02;Special Mage Staves
 ;;;;
 ;;;;
 v;spellbook;v_m_spellbook;v_misc_01;Spellbooks
+;;;;
 v;jewelry;v_any_jewelry;v_misc_01;Rings & Amulets
+;;;;
+v;spell_nature_magic;v_m_spell_nm;v_spell_nm;Nature Magic Spells
+v;spell_combat_magic;v_m_spell_cm;v_spell_cm;Combat Magic Spells
 ;;;;
 ;;;;
 v;rest;v_any;owen;Other Stuff
@@ -75,6 +79,10 @@ loa;weapon_bow_ranger_all;loa_r_bw;loa_weapon;LoA Bows
 loa;weapon_misc_ranger_all;loa_r_cm;loa_weapon_2h;LoA Crossbows and Miniguns
 ;;;;
 loa;weapon_staff_mage_all;loa_m_st;loa_weapon;LoA Mage Staves
+;;;;
+;;;;
+loa;spell_nature_magic;loa_m_spell_nm;loa_spell_nm;LoA Nature Magic Spells
+loa;spell_combat_magic;loa_m_spell_cm;loa_spell_cm;LoA Combat Magic Spells
 ;;;;
 ;;;;
 loa;excluded;loa_excluded;neener;Forbidden Stuff

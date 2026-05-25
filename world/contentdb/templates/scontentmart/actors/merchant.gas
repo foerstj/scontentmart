@@ -288,6 +288,22 @@
 [t:template,n:base_scm_v_any_jewelry_contents_base] { specializes = base_scm_merchant_jewelry; }
 [t:template,n:scm_merchant_jewelry] { specializes = base_scm_v_any_jewelry_contents; }
 
+[t:template,n:base_scm_merchant_spell_nature_magic]
+{
+	specializes = base_scm_merchant_v_spell_nm;
+	common:screen_name = "Nature Magic Spells";
+}
+[t:template,n:base_scm_v_m_spell_nm_contents_base] { specializes = base_scm_merchant_spell_nature_magic; }
+[t:template,n:scm_merchant_spell_nature_magic] { specializes = base_scm_v_m_spell_nm_contents; }
+
+[t:template,n:base_scm_merchant_spell_combat_magic]
+{
+	specializes = base_scm_merchant_v_spell_cm;
+	common:screen_name = "Combat Magic Spells";
+}
+[t:template,n:base_scm_v_m_spell_cm_contents_base] { specializes = base_scm_merchant_spell_combat_magic; }
+[t:template,n:scm_merchant_spell_combat_magic] { specializes = base_scm_v_m_spell_cm_contents; }
+
 [t:template,n:base_scm_merchant_rest]
 {
 	specializes = base_scm_merchant_owen;
