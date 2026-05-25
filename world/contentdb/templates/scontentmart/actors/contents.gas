@@ -129,7 +129,7 @@
 				il_main = #ax_ra_g_c_2h2b_fin:o_fin/+brilliant;
 				il_main = #ax_ra_g_c_2h2b_fin:o_str/+brilliant;
 				il_main = #ax_un_2h1b_darkblood;
-				il_main = #ax_un_g_c_2h2b_str:base;
+				il_main = #ax_un_g_c_2h2b_str:base/+ofpromise;
 			}
 		}
 	}
@@ -195,8 +195,8 @@
 				il_main = #ax_ra_g_c_1h2b_fin:c_str/+brilliant;
 				il_main = #ax_ra_g_c_1h2b_fin:o_fin/+brilliant;
 				il_main = #ax_ra_g_c_1h2b_fin:o_str/+brilliant;
-				il_main = #ax_un_g_c_1h1b_str:base;
-				il_main = #ax_un_g_c_1h2b_str:base;
+				il_main = #ax_un_g_c_1h1b_str:base/+ofpromise;
+				il_main = #ax_un_g_c_1h2b_str:base/+ofpromise;
 			}
 		}
 	}
@@ -279,13 +279,13 @@
 			[all*]
 			{
 				il_main = #bd_ra_sc_f_g_o_mag:base/+brilliant;
-				il_main = #bd_un_sc_f_dragon:base;
+				il_main = #bd_un_sc_f_dragon:base/+ofpromise;
 				il_main = #bd_ra_bl_f_g_c_str:base/+brilliant;
 				il_main = #bd_ra_bl_f_g_c_str:o_fin/+brilliant;
 				il_main = #bd_ra_le_f_g_c_fin:base/+brilliant;
-				il_main = #bd_un_bl_f_g_c_blood:base;
+				il_main = #bd_un_bl_f_g_c_blood:base/+ofpromise;
 				il_main = #bd_un_le_f_pad_avg:base;
-				il_main = #bd_un_sl_f_barbarian:base;
+				il_main = #bd_un_sl_f_barbarian:base/+ofpromise;
 				il_main = #bd_ra_ba_f_g_o_fin:base/+brilliant;
 				il_main = #bd_ra_ba_f_g_o_fin:o_mag/+brilliant;
 				il_main = #bd_ra_bp_f_g_c_fin:base/+brilliant;
@@ -294,16 +294,16 @@
 				il_main = #bd_ra_fp_f_g_o_fin:base/+brilliant;
 				il_main = #bd_ra_fp_f_g_o_fin:o_str/+brilliant;
 				il_main = #bd_un_ba_f_g_skeleton_captain:base;
-				il_main = #bd_un_br_f_bone:base;
-				il_main = #bd_un_br_f_copper:base;
-				il_main = #bd_un_br_f_d_c_str:base;
-				il_main = #bd_un_br_f_spider:base;
-				il_main = #bd_un_fp_f_g_c_mag:base;
-				il_main = #bd_un_fp_f_g_c_mag:o_mag;
-				il_main = #bd_un_pl_f_crystal:base;
-				il_main = #bd_un_pl_f_g_c_avg:base;
-				il_main = #bd_un_pl_f_g_c_avg:c_fin;
-				il_main = #bd_un_pl_f_g_c_fun:base;
+				il_main = #bd_un_br_f_bone:base/+ofpromise;
+				il_main = #bd_un_br_f_copper:base/+ofpromise;
+				il_main = #bd_un_br_f_d_c_str:base/+ofpromise;
+				il_main = #bd_un_br_f_spider:base/+ofpromise;
+				il_main = #bd_un_fp_f_g_c_mag:base/+ofpromise;
+				il_main = #bd_un_fp_f_g_c_mag:o_mag/+ofpromise;
+				il_main = #bd_un_pl_f_crystal:base/+ofpromise;
+				il_main = #bd_un_pl_f_g_c_avg:base/+ofpromise;
+				il_main = #bd_un_pl_f_g_c_avg:c_fin/+ofpromise;
+				il_main = #bd_un_pl_f_g_c_fun:base/+ofpromise;
 			}
 		}
 	}
@@ -423,12 +423,12 @@
 				il_main = #bo_ra_gr_fp_f_g_c_fin:c_str/+brilliant;
 				il_main = #bo_ra_gr_fp_f_g_c_fin:o_fin/+brilliant;
 				il_main = #bo_ra_gr_fp_f_g_c_fin:o_str/+brilliant;
-				il_main = #bo_un_bo_br_f_bone:base;
-				il_main = #bo_un_bo_br_f_spider:base;
-				il_main = #bo_un_bo_pl_f_crytstal:base;
-				il_main = #bo_un_bo_ro_m_molten:base;
-				il_main = #bo_un_bo_sc_f_dragon:base;
-				il_main = #bo_un_bo_sl_f_barbarian:base;
+				il_main = #bo_un_bo_br_f_bone:base/+ofpromise;
+				il_main = #bo_un_bo_br_f_spider:base/+ofpromise;
+				il_main = #bo_un_bo_pl_f_crytstal:base/+ofpromise;
+				il_main = #bo_un_bo_ro_m_molten:base/+ofpromise;
+				il_main = #bo_un_bo_sc_f_dragon:base/+ofpromise;
+				il_main = #bo_un_bo_sl_f_barbarian:base/+ofpromise;
 			}
 		}
 	}
@@ -674,10 +674,10 @@
 				il_main = #gl_ra_gl_sc_f_g_c_fin:o_str/+brilliant;
 				il_main = #gl_ra_gl_sl_f_g_c_fin:base/+brilliant;
 				il_main = #gl_ra_gl_sl_f_g_c_fin:o_fin/+brilliant;
-				il_main = #gl_un_gl_br_f_spider:base;
-				il_main = #gl_un_gl_pl_f_crystal:base;
-				il_main = #gl_un_gl_ro_m_molten:base;
-				il_main = #gl_un_gl_sc_f_dragon:base;
+				il_main = #gl_un_gl_br_f_spider:base/+ofpromise;
+				il_main = #gl_un_gl_pl_f_crystal:base/+ofpromise;
+				il_main = #gl_un_gl_ro_m_molten:base/+ofpromise;
+				il_main = #gl_un_gl_sc_f_dragon:base/+ofpromise;
 			}
 		}
 	}
@@ -765,25 +765,25 @@
 				il_main = #he_ra_op_pl_avg:base/+brilliant;
 				il_main = #he_ra_op_pl_cone:base/+brilliant;
 				il_main = #he_ra_op_pl_roman:base/+brilliant;
-				il_main = #he_ra_un_fu_pl_skull:base;
+				il_main = #he_ra_un_fu_pl_skull:base/+ofpromise;
 				il_main = #he_ra_vi_pl_knight:base/+brilliant;
-				il_main = #he_un_ca_barbarian:base;
-				il_main = #he_un_ca_cowskull:base;
-				il_main = #he_un_ca_brim:base;
-				il_main = #he_un_ca_moon:base;
+				il_main = #he_un_ca_barbarian:base/+ofpromise;
+				il_main = #he_un_ca_cowskull:base/+ofpromise;
+				il_main = #he_un_ca_brim:base/+ofpromise;
+				il_main = #he_un_ca_moon:base/+ofpromise;
 				il_main = #he_un_ca_pl_guard_archer:base;
-				il_main = #he_un_ca_tallcrown:base;
-				il_main = #he_un_fu_crystal:base;
-				il_main = #he_un_fu_eyebrows:base;
-				il_main = #he_un_fu_pl_fish:base;
-				il_main = #he_un_fu_pl_fish_02:base;
-				il_main = #he_un_fu_pl_skull:base;
-				il_main = #he_un_mask_bone:base;
+				il_main = #he_un_ca_tallcrown:base/+ofpromise;
+				il_main = #he_un_fu_crystal:base/+ofpromise;
+				il_main = #he_un_fu_eyebrows:base/+ofpromise;
+				il_main = #he_un_fu_pl_fish:base/+ofpromise;
+				il_main = #he_un_fu_pl_fish_02:base/+ofpromise;
+				il_main = #he_un_fu_pl_skull:base/+ofpromise;
+				il_main = #he_un_mask_bone:base/+ofpromise;
 				il_main = #he_un_op_pl_guard_captain:base;
 				il_main = #he_un_op_pl_guard_fighter:base;
-				il_main = #he_un_spider:base;
-				il_main = #he_un_vi_dragon:base;
-				il_main = #he_un_vi_moto:base;
+				il_main = #he_un_spider:base/+ofpromise;
+				il_main = #he_un_vi_dragon:base/+ofpromise;
+				il_main = #he_un_vi_moto:base/+ofpromise;
 			}
 		}
 	}
@@ -929,14 +929,14 @@
 				il_main = #sd_ra_g_o_st_2h_avg:c_fin/+brilliant;
 				il_main = #sd_ra_g_o_st_2h_avg:c_mag/+brilliant;
 				il_main = #sd_ra_g_o_st_2h_avg:o_str/+brilliant;
-				il_main = #sd_un_big_2h_d_barbed:base;
-				il_main = #sd_un_big_2h_d_serrated:base;
-				il_main = #sd_un_big_2h_g_eye:base;
-				il_main = #sd_un_big_2h_g_fork:base;
-				il_main = #sd_un_big_2h_g_split:base;
-				il_main = #sd_un_g_2h_angle:base;
-				il_main = #sd_un_g_2h_ribbon:base;
-				il_main = #sd_un_g_2h_zap:base;
+				il_main = #sd_un_big_2h_d_barbed:base/+ofpromise;
+				il_main = #sd_un_big_2h_d_serrated:base/+ofpromise;
+				il_main = #sd_un_big_2h_g_eye:base/+ofpromise;
+				il_main = #sd_un_big_2h_g_fork:base/+ofpromise;
+				il_main = #sd_un_big_2h_g_split:base/+ofpromise;
+				il_main = #sd_un_g_2h_angle:base/+ofpromise;
+				il_main = #sd_un_g_2h_ribbon:base/+ofpromise;
+				il_main = #sd_un_g_2h_zap:base/+ofpromise;
 			}
 		}
 	}
@@ -1013,18 +1013,18 @@
 				il_main = #sd_ra_g_o_st_1h_fin:base/+brilliant;
 				il_main = #sd_ra_g_o_st_1h_fin:c_str/+brilliant;
 				il_main = #sd_ra_g_o_st_1h_fin:o_str/+brilliant;
-				il_main = #sd_un_big_1h_d_jagged:base;
-				il_main = #sd_un_big_1h_d_square:base;
-				il_main = #sd_un_big_1h_g_breaker:base;
-				il_main = #sd_un_big_1h_g_cleaver:base;
-				il_main = #sd_un_big_1h_g_flame:base;
-				il_main = #sd_un_big_1h_g_ornate:base;
+				il_main = #sd_un_big_1h_d_jagged:base/+ofpromise;
+				il_main = #sd_un_big_1h_d_square:base/+ofpromise;
+				il_main = #sd_un_big_1h_g_breaker:base/+ofpromise;
+				il_main = #sd_un_big_1h_g_cleaver:base/+ofpromise;
+				il_main = #sd_un_big_1h_g_flame:base/+ofpromise;
+				il_main = #sd_un_big_1h_g_ornate:base/+ofpromise;
 				il_main = #sd_un_droog_1h_avg;
-				il_main = #sd_un_g_1h_angle:base;
-				il_main = #sd_un_g_1h_phoenix:base;
-				il_main = #sd_un_g_1h_twirl:base;
-				il_main = #sd_un_g_1h_wing:base;
-				il_main = #sd_un_g_c_sd_1h_mag:base;
+				il_main = #sd_un_g_1h_angle:base/+ofpromise;
+				il_main = #sd_un_g_1h_phoenix:base/+ofpromise;
+				il_main = #sd_un_g_1h_twirl:base/+ofpromise;
+				il_main = #sd_un_g_1h_wing:base/+ofpromise;
+				il_main = #sd_un_g_c_sd_1h_mag:base/+ofpromise;
 				il_main = #sd_un_ice_avg;
 				il_main = #sd_un_seck_1h_avg;
 				il_main = #sd_un_seck_1h_fin;
@@ -1148,24 +1148,24 @@
 				il_main = #sh_ra_w_g_o_t_l_avg:o_str/+brilliant;
 				il_main = #sh_ra_w_o_k_m_haze:base/+brilliant;
 				il_main = #sh_u_g_c_k_l_avg:base;
-				il_main = #sh_un_kite_ice:base;
-				il_main = #sh_un_m_c_h_m_mold:base;
-				il_main = #sh_un_m_o_c_m_parade:base;
-				il_main = #sh_un_m_o_c_m_vesicle:base;
-				il_main = #sh_un_m_o_h_s_horn:base;
-				il_main = #sh_un_m_o_h_s_ram:base;
+				il_main = #sh_un_kite_ice:base/+ofpromise;
+				il_main = #sh_un_m_c_h_m_mold:base/+ofpromise;
+				il_main = #sh_un_m_o_c_m_parade:base/+ofpromise;
+				il_main = #sh_un_m_o_c_m_vesicle:base/+ofpromise;
+				il_main = #sh_un_m_o_h_s_horn:base/+ofpromise;
+				il_main = #sh_un_m_o_h_s_ram:base/+ofpromise;
 				il_main = #sh_un_m_o_k_m_dermal:base;
-				il_main = #sh_un_m_o_k_m_guardian:base;
-				il_main = #sh_un_m_o_k_m_maw:base;
-				il_main = #sh_un_m_o_k_m_sumbioum:base;
-				il_main = #sh_un_m_o_r_m_aurora:base;
-				il_main = #sh_un_m_o_r_m_canker:base;
-				il_main = #sh_un_m_o_r_m_chitin:base;
-				il_main = #sh_un_m_o_r_m_fury:base;
-				il_main = #sh_un_m_o_r_m_spirit:base;
-				il_main = #sh_un_m_o_r_m_turtle:base;
-				il_main = #sh_un_w_o_h_m_beast:base;
-				il_main = #sh_un_w_o_k_m_crown:base;
+				il_main = #sh_un_m_o_k_m_guardian:base/+ofpromise;
+				il_main = #sh_un_m_o_k_m_maw:base/+ofpromise;
+				il_main = #sh_un_m_o_k_m_sumbioum:base/+ofpromise;
+				il_main = #sh_un_m_o_r_m_aurora:base/+ofpromise;
+				il_main = #sh_un_m_o_r_m_canker:base/+ofpromise;
+				il_main = #sh_un_m_o_r_m_chitin:base/+ofpromise;
+				il_main = #sh_un_m_o_r_m_fury:base/+ofpromise;
+				il_main = #sh_un_m_o_r_m_spirit:base/+ofpromise;
+				il_main = #sh_un_m_o_r_m_turtle:base/+ofpromise;
+				il_main = #sh_un_w_o_h_m_beast:base/+ofpromise;
+				il_main = #sh_un_w_o_k_m_crown:base/+ofpromise;
 				il_main = #sh_w_g_c_r_s_krohar:base;
 			}
 		}
@@ -1443,7 +1443,7 @@
 				il_main = #he_ra_ca_ro_wooly_02:base/+brilliant;
 				il_main = #he_ra_ca_ro_wooly_04:base/+brilliant;
 				il_main = #he_ra_ca_ro_woven_03:base/+brilliant;
-				il_main = #he_un_ca_ro_warlock:base;
+				il_main = #he_un_ca_ro_warlock:base/+ofpromise;
 			}
 		}
 	}
@@ -1530,19 +1530,19 @@
 				il_main = #st_ra_g_o_r_avg:o_mag/+brilliant;
 				il_main = #st_ra_g_o_r_avg:o_str/+brilliant;
 				il_main = #st_ra_g_o_r_puller:base/+brilliant;
-				il_main = #st_un_axe_str:base;
-				il_main = #st_un_b_glaive:base;
-				il_main = #st_un_b_hook:base;
-				il_main = #st_un_b_wing:base;
-				il_main = #st_un_hand:base;
+				il_main = #st_un_axe_str:base/+ofpromise;
+				il_main = #st_un_b_glaive:base/+ofpromise;
+				il_main = #st_un_b_hook:base/+ofpromise;
+				il_main = #st_un_b_wing:base/+ofpromise;
+				il_main = #st_un_hand:base/+ofpromise;
 				il_main = #st_un_ice_c_d_b_avg:base;
-				il_main = #st_un_mc_s:base;
-				il_main = #st_un_pointy:base;
-				il_main = #st_un_pudgel:base;
-				il_main = #st_un_skull:base;
-				il_main = #st_un_tiger:base;
-				il_main = #st_un_toothpick:base;
-				il_main = #st_un_twirl:base;
+				il_main = #st_un_mc_s:base/+ofpromise;
+				il_main = #st_un_pointy:base/+ofpromise;
+				il_main = #st_un_pudgel:base/+ofpromise;
+				il_main = #st_un_skull:base/+ofpromise;
+				il_main = #st_un_tiger:base/+ofpromise;
+				il_main = #st_un_toothpick:base/+ofpromise;
+				il_main = #st_un_twirl:base/+ofpromise;
 			}
 		}
 	}
@@ -1562,20 +1562,20 @@
 				il_main = #bd_ra_ch_r_g_o_fin:o_mag/+brilliant;
 				il_main = #bd_ra_sc_r_g_c_fin:base/+brilliant;
 				il_main = #bd_ra_sc_r_g_c_fin:c_str/+brilliant;
-				il_main = #bd_un_ch_r_green:base;
-				il_main = #bd_un_sc_r_d_o_mag:base;
+				il_main = #bd_un_ch_r_green:base/+ofpromise;
+				il_main = #bd_un_sc_r_d_o_mag:base/+ofpromise;
 				il_main = #bd_ra_bl_r_g_o_fin:base/+brilliant;
 				il_main = #bd_ra_le_r_g_o_fin:base/+brilliant;
 				il_main = #bd_ra_sl_r_g_c_avg:base/+brilliant;
 				il_main = #bd_ra_sl_r_g_c_avg:c_fin/+brilliant;
 				il_main = #bd_ra_sl_r_g_c_avg:c_str/+brilliant;
-				il_main = #bd_un_bl_r_leaf:base;
+				il_main = #bd_un_bl_r_leaf:base/+ofpromise;
 				il_main = #bd_ra_br_r_g_c_avg:base/+brilliant;
 				il_main = #bd_ra_br_r_g_c_avg:c_fin/+brilliant;
 				il_main = #bd_ra_fp_r_g_c_avg:base/+brilliant;
-				il_main = #bd_un_br_r_d_o_str:base;
-				il_main = #bo_un_bo_ch_r_green:base;
-				il_main = #gl_un_gl_ch_r_green:base;
+				il_main = #bd_un_br_r_d_o_str:base/+ofpromise;
+				il_main = #bo_un_bo_ch_r_green:base/+ofpromise;
+				il_main = #gl_un_gl_ch_r_green:base/+ofpromise;
 			}
 		}
 	}
