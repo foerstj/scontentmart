@@ -11,7 +11,7 @@
 			[all*]
 			{
 				{% for item in data if item['SCM Shop'] == shop %}
-				il_main = #{{ item['Template'] }}{% if item['Variant'] %}:{{ item['Variant'] }}{% endif%}{% if item['Rarity'] == 'rare' %}/+brilliant{% endif %}{% if item['Rarity'] == 'unique' and not item['Excluded'] %}/+ofpromise{% endif %};
+				il_main = #{{ item['Template'] }}{% if item['Variant'] %}:{{ item['Variant'] }}{% endif%}{% if item['Rarity'] == 'rare' %}/+brilliant{% endif %}{% if item['Rarity'] == 'unique' and not item['Excluded'] and (item['ModMax'] | int) > 0 %}/+ofpromise{% endif %};
 				{% endfor %}
 			}
 		}

@@ -283,7 +283,7 @@
 				il_main = #bd_ra_bl_f_g_c_str:base/+brilliant;
 				il_main = #bd_ra_bl_f_g_c_str:o_fin/+brilliant;
 				il_main = #bd_ra_le_f_g_c_fin:base/+brilliant;
-				il_main = #bd_un_bl_f_g_c_blood:base/+ofpromise;
+				il_main = #bd_un_bl_f_g_c_blood:base;
 				il_main = #bd_un_le_f_pad_avg:base;
 				il_main = #bd_un_sl_f_barbarian:base/+ofpromise;
 				il_main = #bd_ra_ba_f_g_o_fin:base/+brilliant;
@@ -301,9 +301,9 @@
 				il_main = #bd_un_fp_f_g_c_mag:base/+ofpromise;
 				il_main = #bd_un_fp_f_g_c_mag:o_mag/+ofpromise;
 				il_main = #bd_un_pl_f_crystal:base/+ofpromise;
-				il_main = #bd_un_pl_f_g_c_avg:base/+ofpromise;
+				il_main = #bd_un_pl_f_g_c_avg:base;
 				il_main = #bd_un_pl_f_g_c_avg:c_fin/+ofpromise;
-				il_main = #bd_un_pl_f_g_c_fun:base/+ofpromise;
+				il_main = #bd_un_pl_f_g_c_fun:base;
 			}
 		}
 	}
