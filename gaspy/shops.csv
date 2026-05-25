@@ -41,6 +41,9 @@ v;weapon_staff_mage_normal;v_m_st_n;v_weapon_01;Normal Mage Staves
 v;weapon_staff_mage_special;v_m_st_s;v_weapon_02;Special Mage Staves
 ;;;;
 ;;;;
+v;spellbook;v_m_spellbook;v_misc_01;Spellbooks
+;;;;
+;;;;
 v;rest;v_any;owen;Other Stuff
 v;excluded;v_excluded;bodrus;Forbidden Stuff
 v;bonus;v_bonus;norick;Colonel Norick

@@ -52,6 +52,11 @@
 				il_main = #bw_g_c_dsx_hst_avg_dsx_set_utraean_guard;
 				il_main = #dg_g_c_dsx_hassat_avg_dsx_set_hassat;
 				il_main = #bw_g_c_dsx_jwl_avg_dsx_set_hassat;
+				il_main = #book_glb_magic_dsx_set_chadek;
+				il_main = #spellbook_dsx_set_adela;
+				il_main = #spellbook_dsx_set_cicatrix;
+				il_main = #spellbook_dsx_set_xulphae;
+				il_main = #spellbook_dsx_set_kmethekt;
 			}
 		}
 	}
@@ -81,6 +86,9 @@
 				il_main = #bw_g_c_dsx_fir_avg_dsx_set_inventor;
 				il_main = #cw_dsx_set_clockwork;
 				il_main = #st_dsx_set_clockwork;
+				il_main = #spellbook_dsx_set_illicor;
+				il_main = #spellbook_dsx_set_inventor;
+				il_main = #spellbook_dsx_set_demlock;
 			}
 		}
 	}
@@ -134,6 +142,7 @@
 				il_main = #sd_g_c_dsx_kat_1h_shadowjumper_NIS_ONLY:base;
 				il_main = #sd_g_c_dsx_kat_1h_shadowjumper;
 				il_main = #sd_d_c_dsx_skl_1h_mag;
+				il_main = #book_glb_magic_umberteen;
 			}
 		}
 	}

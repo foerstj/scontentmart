@@ -1448,6 +1448,45 @@
 		}
 	}
 }
+[t:template,n:base_scm_v_m_spellbook_contents]
+{
+	specializes = base_scm_v_m_spellbook_contents_base;
+	[inventory]
+	{
+		[store_pcontent]
+		{
+			full_ratio = 0;
+			[all*]
+			{
+				il_main = #book_glb_magic_01;
+				il_main = #book_glb_magic_04:base;
+				il_main = #book_glb_magic_05:base;
+				il_main = #book_glb_magic_06:base;
+				il_main = #book_glb_magic_07:base;
+				il_main = #book_glb_magic_08:base;
+				il_main = #book_glb_magic_10:base;
+				il_main = #book_glb_magic_11:base;
+				il_main = #book_glb_magic_12:base;
+				il_main = #book_glb_magic_13:base;
+				il_main = #book_glb_magic_Tas;
+				il_main = #book_glb_magic_14:base;
+				il_main = #book_glb_magic_15:base;
+				il_main = #book_glb_magic_16:base;
+				il_main = #book_glb_magic_17:base;
+				il_main = #book_glb_magic_18:base;
+				il_main = #book_glb_magic_19:base;
+				il_main = #book_glb_magic_20:base;
+				il_main = #book_glb_magic_21:base;
+				il_main = #book_glb_magic_22:base;
+				il_main = #book_glb_magic_23:base;
+				il_main = #book_glb_magic_24:base;
+				il_main = #book_glb_magic_25:base;
+				il_main = #book_glb_magic_26:base;
+				il_main = #book_glb_magic_27:base;
+			}
+		}
+	}
+}
 [t:template,n:base_scm_v_m_st_n_contents]
 {
 	specializes = base_scm_v_m_st_n_contents_base;
